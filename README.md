@@ -1,6 +1,10 @@
 # Dalamud plugin repository
 
-This repository hosts plugin binaries and update definitions for [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher):
+This repository hosts plugin binaries and update definitions for [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher).
+
+## Making a plugin
+
+Please see the [API documentation](https://goaaats.github.io/Dalamud/api/index.html) for information about creating plugins.
 
 ## Publishing/updating your plugin
 
