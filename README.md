@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Dalamud plugin repository
 
-You can use the [editor on GitHub](https://github.com/goaaats/DalamudPlugins/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository hosts plugin binaries and update definitions for [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher):
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publishing/updating your plugin
 
-### Markdown
+Create a pull request with your own subfolder in the plugins directory of this folder. It should be named the "internal" name(name of the DLL) of your plugin and contain a [plugin definition file](https://github.com/goaaats/DalamudPlugins/blob/master/plugins/owofy/owofy.json) with the same name.
+It should also contain a zip called "latest.zip" containing your plugin DLL, dependencies, resources and the plugin definition json ins the same folder as the plugin DLL.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When the AssemblyVersion of the locally installed plugin doesn't match the "AssemblyVersion" field of the plugin definition json pushed to this repository, a redownload of the plugin is forced.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goaaats/DalamudPlugins/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For a sample of this, please see my [sample plugin](https://github.com/goaaats/DalamudPlugins/blob/master/plugins/owofy).
