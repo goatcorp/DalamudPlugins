@@ -1,9 +1,12 @@
 $output = New-Object Collections.Generic.List[object]
+$notInclude = "testPlugin", "XIVCombo";
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
 Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
-    echo $content
+
+    if ($notInclude.Contains($content.InternalName)) { return }
+
     $output.Add($content)
 }
 
