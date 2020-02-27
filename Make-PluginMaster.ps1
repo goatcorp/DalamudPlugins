@@ -5,7 +5,13 @@ Get-ChildItem -Path plugins -File -Recurse -Include *.json |
 Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
-    if ($notInclude.Contains($content.InternalName)) { return }
+    if ($notInclude.Contains($content.InternalName)) { 
+    	$content | add-member -Name "IsHide" -value "True" -MemberType NoteProperty
+    }
+    else
+    {
+    	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
+    }
 
     $output.Add($content)
 }
