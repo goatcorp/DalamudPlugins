@@ -3,7 +3,7 @@ on: [push]
 
 jobs:
   generate:
-    name: Build on Windows
+    name: Regenerate PluginMaster
     runs-on: windows-2019
     steps:
       - uses: actions/checkout@v1
@@ -13,7 +13,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Add changes" -a
+          git commit -m "Regenerate PluginMaster" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
