@@ -10,11 +10,13 @@ jobs:
       - name: Run generator
         run: .\Make-PluginMaster.ps1
       - name: Commit files
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Regenerate PluginMaster" -a
       - name: Push changes
+        continue-on-error: true
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
