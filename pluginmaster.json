@@ -1,5 +1,14 @@
 [
   {
+    "Author": "Haplo064",
+    "Name": "Chat Extender Plugin",
+    "Description": "This plugin adds funcitonality to FFXIV in-game chat.",
+    "InternalName": "ChatExtender.Plugin",
+    "AssemblyVersion": "0.8.0.0",
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
     "Author": "goat",
     "Name": "Discord Rich Presence",
     "Description": "This plugin allows you display your name, job, world and current zone in your discord status.",
