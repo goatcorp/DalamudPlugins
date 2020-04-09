@@ -2,9 +2,9 @@
   {
     "Author": "attick",
     "Name": "Mouseover Action",
-    "Description": "This plugin allows for actions to be used on mouseover targets without a macro.",
+    "Description": "This plugin allows for macro-like use of actions without any macro delay.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "2.0.0.0",
     "ApplicableVersion": "any",
     "IsHide": "False"
   },
