@@ -3,7 +3,6 @@ on: [push]
 
 jobs:
   generate:
-    if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
     name: Regenerate PluginMaster
     runs-on: windows-2019
     steps:
