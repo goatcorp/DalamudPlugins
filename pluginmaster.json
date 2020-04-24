@@ -22,7 +22,7 @@
     "Name": "Mouseover Action",
     "Description": "This plugin allows for macro-like use of actions without any macro delay.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.1.0.2",
+    "AssemblyVersion": "2.1.0.3",
     "ApplicableVersion": "any",
     "IsHide": "False"
   },
@@ -49,7 +49,7 @@
     "Name": "Title Edit",
     "Description": "This plugin allows for the title screen to be changed to any expac's title screen.",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "ApplicableVersion": "any",
     "IsHide": "False"
   },
