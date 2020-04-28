@@ -4,7 +4,8 @@
     "Name": "Chat Extender Plugin",
     "Description": "This plugin adds functionality to FFXIV in-game chat.",
     "InternalName": "ChatExtender",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.2.0",
+    "RepoUrl": "https://github.com/Haplo064/ffxiv-chat-extender/",
     "ApplicableVersion": "any",
     "IsHide": "False"
   },
