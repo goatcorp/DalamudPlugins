@@ -47,6 +47,16 @@
     "IsHide": "False"
   },
   {
+    "Author": "karashiiro",
+    "Name": "NeatNoter",
+    "Description": "A note-taking plugin.",
+    "InternalName": "NeatNoter",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/karashiiro/NeatNoter",
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
     "Author": "meli",
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
