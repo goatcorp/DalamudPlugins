@@ -1,6 +1,16 @@
 [
   {
     "Author": "Haplo064",
+    "Name": "Accurate CountDown Plugin",
+    "Description": "Shows the current countdown time.",
+    "InternalName": "AccurateCountDown",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Haplo064/Europe",
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
+    "Author": "Haplo064",
     "Name": "Chat Extender Plugin",
     "Description": "This plugin adds functionality to FFXIV in-game chat.",
     "InternalName": "ChatExtender",
