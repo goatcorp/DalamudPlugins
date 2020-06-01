@@ -3,7 +3,8 @@
   "Name": "Item Search Plugin",
   "Description": "Search for items. Type /xlitem to open search window.",
   "InternalName": "ItemSearchPlugin",
-  "AssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.2.0.0",
   "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
-  "ApplicableVersion": "any"
+  "ApplicableVersion": "any",
+  "Tags": ["Item", "Search", "Lookup", "Tool", "Try On", "Link", "Fitting Room"]
 }
