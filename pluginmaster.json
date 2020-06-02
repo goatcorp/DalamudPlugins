@@ -56,9 +56,13 @@
     "Name": "FPS Plugin",
     "Description": "Display game FPS. /pfps to open config",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
     "ApplicableVersion": "any",
+    "Tags": [
+      "FPS",
+      "Monitor"
+    ],
     "IsHide": "False"
   },
   {
@@ -131,10 +135,16 @@
   {
     "Author": "karashiiro",
     "Name": "PingPlugin",
-    "Description": "A ping display plugin for Dalamud.",
+    "Description": "A ping display plugin for Dalamud (Does not work with Mudfish FastConnect).",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.4.3.0",
+    "AssemblyVersion": "1.4.3.1",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
+    "Tags": [
+      "ping",
+      "monitor",
+      "utility",
+      "tool"
+    ],
     "ApplicableVersion": "any",
     "IsHide": "False"
   },
