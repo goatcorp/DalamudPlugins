@@ -31,8 +31,12 @@
     "Name": "XIV Combo",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.0.2.6",
+    "AssemblyVersion": "1.0.3.0",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
+    "Tags": [
+      "Combo"
+    ],
     "IsHide": "False"
   }
 ]
