@@ -4,7 +4,7 @@
     "Name": "Accurate CountDown Plugin",
     "Description": "Shows the current countdown time.",
     "InternalName": "AccurateCountDown",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "RepoUrl": "https://github.com/Haplo064/Europe",
     "ApplicableVersion": "any",
     "Tags": [
@@ -70,7 +70,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.4.0.1",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
