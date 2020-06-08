@@ -1,5 +1,5 @@
 $output = New-Object Collections.Generic.List[object]
-$notInclude = "testPlugin", "testPlugin2";
+$notInclude = "testPlugin", "testPlugin2", "xivStats";
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
 Foreach-Object {
