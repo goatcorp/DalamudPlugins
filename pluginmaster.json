@@ -70,7 +70,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.1.1",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -82,6 +82,7 @@
       "Link",
       "Fitting Room"
     ],
+    "DalamudApplicableVersion": ">=4.9.8.3",
     "IsHide": "False"
   },
   {
