@@ -209,6 +209,22 @@
     "IsHide": "False"
   },
   {
+    "Author": "Dark",
+    "Name": "Simple Counter",
+    "Description": "Simple counter with Mob-specific automation to increment a counter on kill",
+    "InternalName": "XIVCounter",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/DarkView/XIVCounter",
+    "Tags": [
+      "counter",
+      "utility",
+      "tool",
+      "automation"
+    ],
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
     "Author": "Emilia",
     "Name": "XIVStats",
     "Description": "Tracks statistics of each class you use, including playtime and commendations received",
