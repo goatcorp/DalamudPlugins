@@ -155,6 +155,21 @@
   },
   {
     "Author": "Haplo064",
+    "Name": "Pixel Perfect Plugin",
+    "Description": "Adds an indicator of your hitbox.",
+    "InternalName": "PixelPerfect",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Hitbox",
+      "Overlay",
+      "Indicator"
+    ],
+    "IsHide": "False"
+  },
+  {
+    "Author": "Haplo064",
     "Name": "SlideCast Plugin",
     "Description": "Adds an indicator of when it's safe to move while casting",
     "InternalName": "SlideCast",
