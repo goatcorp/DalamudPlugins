@@ -188,6 +188,17 @@
     "IsHide": "False"
   },
   {
+    "Author": "Pohky",
+    "Name": "Teleporter",
+    "Description": "Chat Commands for teleporting to Aetherytes. Use /tp for help",
+    "InternalName": "TeleporterPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
     "Author": "attick",
     "Name": "Title Edit",
     "Description": "This plugin allows for the title screen to be changed to any expac's title screen.",
