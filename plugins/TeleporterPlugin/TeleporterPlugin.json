@@ -1,0 +1,10 @@
+{
+  "Author": "Pohky",
+  "Name": "Teleporter",
+  "Description": "Chat Commands for teleporting to Aetherytes (Uses Lumina 2.0). Use /tp for help",
+  "InternalName": "TeleporterPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 1
+}
