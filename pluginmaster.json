@@ -99,13 +99,14 @@
     "Name": "Mouseover Action",
     "Description": "This plugin allows for macro-like use of actions without any macro delay.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.2.1.4",
+    "AssemblyVersion": "2.2.1.5",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
       "Macro"
     ],
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
