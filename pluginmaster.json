@@ -140,8 +140,9 @@
     "Name": "OwO",
     "Description": "This plugin uwu's your chat.",
     "InternalName": "owofy",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
