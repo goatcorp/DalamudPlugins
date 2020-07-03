@@ -106,7 +106,7 @@
     "Name": "Mouseover Action",
     "Description": "This plugin allows for macro-like use of actions without any macro delay.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.2.1.4",
+    "AssemblyVersion": "2.2.1.6",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
@@ -211,8 +211,9 @@
     "Name": "Title Edit",
     "Description": "This plugin allows for the title screen to be changed to any expac's title screen.",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
@@ -220,12 +221,13 @@
     "Name": "XIV Combo",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.0.3.2",
+    "AssemblyVersion": "1.0.3.3",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
       "Combo"
     ],
+    "DalamudApiVersion": 1,
     "IsHide": "False"
   },
   {
