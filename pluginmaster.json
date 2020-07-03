@@ -38,17 +38,22 @@
     "Name": "Character Data Sync",
     "Description": "This plugin allows you to use your character data from your main character on all others.",
     "InternalName": "Dalamud.CharacterSync",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.4.0.0",
     "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
     "Author": "goat",
     "Name": "Discord Rich Presence",
-    "Description": "This plugin allows you display your name, job, world and current zone in your discord status.",
+    "Description": "This plugin allows you to set up chat triggers.",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
     "ApplicableVersion": "any",
+    "Tags": [
+      "Discord"
+    ],
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
@@ -71,7 +76,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.5.2.0",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -83,7 +88,6 @@
       "Link",
       "Fitting Room"
     ],
-    "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": 1,
     "IsHide": "False"
   },
@@ -92,7 +96,7 @@
     "Name": "Market board",
     "Description": "Browse the market board. /pmb to open.",
     "InternalName": "MarketBoardPlugin",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.3.0.0",
     "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
     "ApplicableVersion": "any",
     "IsHide": "False"
@@ -136,8 +140,9 @@
     "Name": "OwO",
     "Description": "This plugin uwu's your chat.",
     "InternalName": "owofy",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
@@ -192,9 +197,9 @@
   {
     "Author": "Pohky",
     "Name": "Teleporter",
-    "Description": "Chat Commands for teleporting to Aetherytes. /tp for help",
+    "Description": "Chat Commands for teleporting to Aetherytes. /tp or /tpt for help",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.4",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
@@ -225,9 +230,9 @@
   {
     "Author": "Dark",
     "Name": "Simple Counter",
-    "Description": "Simple counter with Mob-specific automation to increment a counter on kill",
+    "Description": "Simple counter with Mob-specific automation to increment a counter on kill (not instant)",
     "InternalName": "XIVCounter",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/DarkView/XIVCounter",
     "Tags": [
       "counter",
