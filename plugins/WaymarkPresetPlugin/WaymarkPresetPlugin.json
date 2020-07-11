@@ -1,0 +1,10 @@
+{
+  "Author": "PunishedPineapple",
+  "Name": "Waymark Preset Plugin",
+  "Description": "Import, export, and manage waymark presets.  \"/pwaymark help\" for command listing.",
+  "InternalName": "WaymarkPresetPlugin",
+  "AssemblyVersion": "0.9.0.0",
+  "RepoUrl": "https://github.com/yourName/yourRepo",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 1 
+}
