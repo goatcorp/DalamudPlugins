@@ -76,7 +76,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.2.0",
+    "AssemblyVersion": "1.5.3.0",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -200,7 +200,7 @@
     "Name": "Teleporter",
     "Description": "Chat Commands for teleporting to Aetherytes. /tp or /tpt for help",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.0.0.5",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
@@ -213,6 +213,17 @@
     "InternalName": "TitleEdit",
     "AssemblyVersion": "1.0.1.1",
     "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Waymark Preset Plugin",
+    "Description": "Manage waymark presets.  Use \"/pwaymark help\" for valid commands.",
+    "InternalName": "WaymarkPresetPlugin",
+    "AssemblyVersion": "0.9.0.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
     "IsHide": "False"
   },
   {
