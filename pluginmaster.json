@@ -1,1 +1,314 @@
-poop
+[
+  {
+    "Author": "Haplo064",
+    "Name": "Accurate CountDown",
+    "InternalName": "AccurateCountDown",
+    "Description": "Shows the current countdown time.",
+    "Tags": [
+      "Combat",
+      "Countdown",
+      "Timer",
+      "UI"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/Europe",
+    "AssemblyVersion": "1.0.2.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Chat Extender",
+    "InternalName": "ChatExtender",
+    "Description": "This plugin adds functionality to FFXIV in-game chat.",
+    "Tags": [
+      "Chat",
+      "UI",
+      "Replacement",
+      "Extension",
+      "Tab",
+      "Bubble"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/ffxiv-chat-extender/",
+    "AssemblyVersion": "2.0.2.4",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "goat",
+    "Name": "Character Data Sync",
+    "Description": "This plugin allows you to use your character data from your main character on all others.",
+    "InternalName": "Dalamud.CharacterSync",
+    "AssemblyVersion": "1.4.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "goat",
+    "Name": "Discord Rich Presence",
+    "Description": "This plugin allows you display your name, job, world and current zone in your discord status.",
+    "InternalName": "Dalamud.RichPresence",
+    "AssemblyVersion": "1.2.0.0",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Discord"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Caraxi",
+    "Name": "FPS Plugin",
+    "Description": "Display game FPS. /pfps to open config",
+    "InternalName": "FPSPlugin",
+    "AssemblyVersion": "1.4.0.0",
+    "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "FPS",
+      "Monitor"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Caraxi",
+    "Name": "Item Search Plugin",
+    "Description": "Search for items. Type /xlitem to open search window.",
+    "InternalName": "ItemSearchPlugin",
+    "AssemblyVersion": "1.5.3.0",
+    "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Item",
+      "Search",
+      "Lookup",
+      "Tool",
+      "Try On",
+      "Link",
+      "Fitting Room"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Cara",
+    "Name": "MacroRecursion",
+    "Description": "Execute macros from macros. /macro ## [shared]",
+    "InternalName": "MacroRecursion",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Macro"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "fmauNeko",
+    "Name": "Market board",
+    "Description": "Browse the market board. /pmb to open.",
+    "InternalName": "MarketBoardPlugin",
+    "AssemblyVersion": "0.3.0.0",
+    "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
+    "Author": "attick",
+    "Name": "Mouseover Action",
+    "Description": "This plugin allows for macro-like use of actions without any macro delay.",
+    "InternalName": "MOAction",
+    "AssemblyVersion": "2.2.1.4",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
+    "Tags": [
+      "Mouseover",
+      "Macro"
+    ],
+    "DalamudApiVersion": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "karashiiro",
+    "Name": "NeatNoter",
+    "Description": "A note-taking plugin.",
+    "InternalName": "NeatNoter",
+    "AssemblyVersion": "1.2.0.0",
+    "RepoUrl": "https://github.com/karashiiro/NeatNoter",
+    "Tags": [
+      "note",
+      "utility",
+      "tool",
+      "overlay"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=4.9.8.3",
+    "DalamudApiLevel": "1",
+    "IsHide": "False"
+  },
+  {
+    "Author": "meli",
+    "Name": "Orchestrion Plugin",
+    "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
+    "InternalName": "orchestrion",
+    "AssemblyVersion": "1.2.0.0",
+    "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
+    "Author": "goat",
+    "Name": "OwO",
+    "Description": "This plugin uwu's your chat.",
+    "InternalName": "owofy",
+    "AssemblyVersion": "1.1.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "karashiiro",
+    "Name": "PingPlugin",
+    "Description": "A ping display plugin for Dalamud (Does not work with Mudfish FastConnect).",
+    "InternalName": "PingPlugin",
+    "AssemblyVersion": "1.5.0.1",
+    "RepoUrl": "https://github.com/karashiiro/PingPlugin",
+    "Tags": [
+      "ping",
+      "monitor",
+      "utility",
+      "tool"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=4.9.8.3",
+    "DalamudApiLevel": "1",
+    "IsHide": "False"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Pixel Perfect",
+    "InternalName": "PixelPerfect",
+    "Description": "Adds an indicator of your hitbox.",
+    "Tags": [
+      "Hitbox",
+      "Overlay",
+      "Indicator"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+    "AssemblyVersion": "1.2.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "SlideCast",
+    "InternalName": "SlideCast",
+    "Description": "Adds an indicator of when it's safe to move while casting",
+    "Tags": [
+      "Castbar",
+      "UI",
+      "Overlay",
+      "Extension",
+      "Casting",
+      "Slide"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/SlideCast",
+    "AssemblyVersion": "0.6.1.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Pohky",
+    "Name": "Teleporter",
+    "Description": "Chat Commands for teleporting to Aetherytes. /tp or /tpt for help",
+    "InternalName": "TeleporterPlugin",
+    "AssemblyVersion": "1.0.0.5",
+    "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "attick",
+    "Name": "Title Edit",
+    "Description": "This plugin allows for the title screen to be changed to any expac's title screen.",
+    "InternalName": "TitleEdit",
+    "AssemblyVersion": "1.0.1.1",
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "VoidList",
+    "InternalName": "VoidList",
+    "Description": "Completely removes chosen players from your game.",
+    "Tags": [
+      "Blacklist",
+      "Void",
+      "Ban",
+      "Hide"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/VoidList",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Waymark Preset Plugin",
+    "Description": "Manage waymark presets.  Use \"/pwaymark help\" for valid commands.",
+    "InternalName": "WaymarkPresetPlugin",
+    "AssemblyVersion": "0.9.0.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "attick",
+    "Name": "XIV Combo",
+    "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+    "InternalName": "XIVCombo",
+    "AssemblyVersion": "1.0.3.3",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
+    "Tags": [
+      "Combo"
+    ],
+    "DalamudApiVersion": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "Dark",
+    "Name": "Simple Counter",
+    "Description": "Simple counter with Mob-specific automation to increment a counter on kill (not instant)",
+    "InternalName": "XIVCounter",
+    "AssemblyVersion": "1.1.0.0",
+    "RepoUrl": "https://github.com/DarkView/XIVCounter",
+    "Tags": [
+      "counter",
+      "utility",
+      "tool",
+      "automation"
+    ],
+    "ApplicableVersion": "any",
+    "IsHide": "False"
+  },
+  {
+    "Author": "Emilia",
+    "Name": "XIVStats",
+    "Description": "Tracks statistics of each class you use, including playtime and commendations received",
+    "InternalName": "XIVStats",
+    "AssemblyVersion": "1.2.0.0",
+    "RepoUrl": "https://github.com/thetrueyoshifan/Dalamud.XIVStats",
+    "ApplicableVersion": "any",
+    "IsHide": "True"
+  }
+]
