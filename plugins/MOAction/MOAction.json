@@ -6,5 +6,6 @@
 	"AssemblyVersion": "2.2.1.4",
 	"ApplicableVersion": "any",
 	"RepoUrl":"https://github.com/attickdoor/MOActionPlugin",
-	"Tags":["Mouseover", "Macro"]
+	"Tags":["Mouseover", "Macro"],
+	"DalamudApiVersion":1
 }
