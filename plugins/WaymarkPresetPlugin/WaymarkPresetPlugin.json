@@ -1,9 +1,9 @@
 {
   "Author": "PunishedPineapple",
   "Name": "Waymark Preset Plugin",
-  "Description": "Manage waymark presets.  Use \"/pwaymark help\" for valid commands.",
+  "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
   "InternalName": "WaymarkPresetPlugin",
-  "AssemblyVersion": "0.9.0.0",
+  "AssemblyVersion": "0.9.0.1",
   "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 1
