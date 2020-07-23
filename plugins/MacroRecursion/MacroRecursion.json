@@ -1,0 +1,11 @@
+{
+  "Author": "Caraxi",
+  "Name": "MacroRecursion",
+  "Description": "Execute macros from macros. /macro ## [shared] [line]",
+  "InternalName": "MacroRecursion",
+  "AssemblyVersion": "1.1.0.0",
+  "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
+  "ApplicableVersion": "any",
+  "Tags": ["Macro"],
+  "DalamudApiLevel": 1
+}
