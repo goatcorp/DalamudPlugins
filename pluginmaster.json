@@ -122,11 +122,11 @@
     "Name": "Market board",
     "Description": "Browse the market board. /pmb to open.",
     "InternalName": "MarketBoardPlugin",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.0.1",
     "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "True"
+    "IsHide": "False"
   },
   {
     "Author": "attick",
