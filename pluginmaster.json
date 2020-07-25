@@ -58,9 +58,9 @@
   {
     "Author": "goat",
     "Name": "Discord Rich Presence",
-    "Description": "This plugin allows you display your name, job, world and current zone in your discord status.",
+    "Description": "This plugin allows you to set up chat triggers.",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.3.0.0",
     "ApplicableVersion": "any",
     "Tags": [
       "Discord"
