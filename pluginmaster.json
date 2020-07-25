@@ -57,6 +57,22 @@
     "IsHide": "False"
   },
   {
+    "Author": "perchbird",
+    "Name": "Damage Info Plugin",
+    "Description": "Configurable UI options for damage fly text. /dmginfo displays the config.",
+    "InternalName": "DamageInfoPlugin",
+    "AssemblyVersion": "0.9.2",
+    "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "damage",
+      "flytext",
+      "UI"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "Description": "Display game FPS. /pfps to open config",
