@@ -1,9 +1,9 @@
 ﻿{
   "Author": "kij",
   "Name": "ChatCoordinates",
-  "Description": "This plugin transforms coordinates from chat to XIV MapLink",
+  "Description": "Places flag marker on map from coordinates in chat. \"/coords help\" for more info.",
   "InternalName": "ChatCoordinates",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.1.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 1
 }
