@@ -16,6 +16,22 @@
     "IsHide": "False"
   },
   {
+    "Author": "ackwell",
+    "Name": "Browser Host",
+    "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself. Use the settings button below or the /pbrowser command to configure.",
+    "InternalName": "BrowserHost.Plugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/ackwell/BrowserHost",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
     "Author": "Haplo064",
     "Name": "Chat Extender Plugin",
     "Description": "This plugin adds functionality to FFXIV in-game chat.",
