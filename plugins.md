@@ -8,7 +8,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Accurate CountDown | Shows the current countdown time. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
-| goat | Discord Rich Presence | This plugin allows you display your name, job, world and current zone in your discord status. |
+| goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
 | perchbird | Damage Info Plugin | Configurable UI options for damage fly text. /dmginfo displays the config. |
 | Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
 | Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
