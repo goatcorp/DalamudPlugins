@@ -6,6 +6,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Author | Name | Description |
 |---------------|---------------|-----------------|
 | Haplo064 | Accurate CountDown | Shows the current countdown time. |
+| kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
