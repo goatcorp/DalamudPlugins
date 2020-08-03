@@ -1,5 +1,5 @@
 $output = New-Object Collections.Generic.List[object]
-$notInclude = "ChatCoordinates", "dhfnf", "XIVStats", "SHDHJFK";
+$notInclude = "sdfg", "dhfnf", "XIVStats", "SHDHJFK";
 
 $table = ""
 
