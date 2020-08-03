@@ -105,6 +105,17 @@
   },
   {
     "Author": "ascclemens",
+    "Name": "Globetrotter",
+    "Description": "Automatically shows where treasure maps are located. /pglobetrogger /tmap",
+    "InternalName": "Globetrotter",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "ascclemens",
     "Name": "HudSwap",
     "Description": "Automatically changes your HUD layout for you. /phudswap",
     "InternalName": "HudSwap",
