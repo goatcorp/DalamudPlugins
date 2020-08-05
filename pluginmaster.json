@@ -108,7 +108,7 @@
     "Name": "Globetrotter",
     "Description": "Automatically shows where treasure maps are located. /pglobetrogger /tmap",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.1",
     "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
@@ -278,7 +278,7 @@
     "Name": "Sonar",
     "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.0.1",
+    "AssemblyVersion": "0.1.0.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False"
