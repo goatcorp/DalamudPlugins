@@ -203,17 +203,6 @@
     "IsHide": "False"
   },
   {
-    "Author": "ascclemens",
-    "Name": "NoSoliciting",
-    "Description": "Hides RMT in chat and the party finder. /prmt",
-    "InternalName": "NoSoliciting",
-    "AssemblyVersion": "1.1.0",
-    "RepoUrl": "https://sr.ht/~jkcclemens/NoSoliciting",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
-    "IsHide": "False"
-  },
-  {
     "Author": "meli",
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
