@@ -3,7 +3,7 @@
 	"Name": "PingPlugin",
 	"Description": "A ping display plugin for Dalamud (Does not work with Mudfish FastConnect).",
 	"InternalName": "PingPlugin",
-	"AssemblyVersion": "1.5.0.1",
+	"AssemblyVersion": "1.5.1.0",
 	"RepoUrl": "https://github.com/karashiiro/PingPlugin",
 	"Tags": [ "ping", "monitor", "utility", "tool" ],
 	"ApplicableVersion": "any",
