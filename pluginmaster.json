@@ -104,17 +104,6 @@
     "IsHide": "False"
   },
   {
-    "Author": "ascclemens",
-    "Name": "HudSwap",
-    "Description": "Automatically changes your HUD layout for you. /phudswap",
-    "InternalName": "HudSwap",
-    "AssemblyVersion": "1.3.1",
-    "RepoUrl": "https://sr.ht/~jkcclemens/HudSwap",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
-    "IsHide": "False"
-  },
-  {
     "Author": "Caraxi",
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
