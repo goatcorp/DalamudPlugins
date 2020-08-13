@@ -89,7 +89,7 @@
     "Name": "Damage Info Plugin",
     "Description": "Configurable UI options for damage fly text. /dmginfo displays the config.",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.1.0",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -116,11 +116,22 @@
     "IsHide": "False"
   },
   {
+    "Author": "ascclemens",
+    "Name": "Globetrotter",
+    "Description": "Automatically shows where treasure maps are located. /pglobetrogger /tmap",
+    "InternalName": "Globetrotter",
+    "AssemblyVersion": "1.0.2",
+    "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.4.2",
+    "AssemblyVersion": "1.5.5.0",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -241,7 +252,7 @@
     "Name": "PingPlugin",
     "Description": "A ping display plugin for Dalamud (Does not work with Mudfish FastConnect).",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.5.1.0",
+    "AssemblyVersion": "1.5.2.0",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
     "Tags": [
       "ping",
