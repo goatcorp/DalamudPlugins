@@ -231,7 +231,7 @@
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.0.2",
     "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
@@ -263,7 +263,7 @@
     "Name": "PingPlugin",
     "Description": "A ping display plugin for Dalamud (Does not work with Mudfish FastConnect).",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.5.2.0",
+    "AssemblyVersion": "1.6.0.0",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
     "Tags": [
       "ping",
