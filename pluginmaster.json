@@ -231,9 +231,13 @@
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.2.0.2",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
     "ApplicableVersion": "any",
+    "Tags": [
+      "bgm",
+      "music"
+    ],
     "DalamudApiLevel": 1,
     "IsHide": "False"
   },
@@ -309,6 +313,24 @@
     "AssemblyVersion": "0.6.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
+    "Author": "karashiiro",
+    "Name": "SoundSetter",
+    "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
+    "InternalName": "SoundSetter",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/karashiiro/SoundSetter",
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=4.9.8.3",
+    "DalamudApiLevel": "1",
+    "Tags": [
+      "tool",
+      "sound",
+      "volume",
+      "control"
+    ],
     "IsHide": "False"
   },
   {

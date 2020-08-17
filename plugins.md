@@ -28,6 +28,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud (Does not work with Mudfish FastConnect). |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
+| karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp or /tpt for help |
 | attick | Title Edit | This plugin allows for the title screen to be changed to any expac's title screen. |
 | Haplo064 | VoidList | Completely removes chosen players from your game. |
