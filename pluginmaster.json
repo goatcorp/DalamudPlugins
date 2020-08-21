@@ -11,7 +11,7 @@
       "UI"
     ],
     "RepoUrl": "https://github.com/Haplo064/Europe",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False"
@@ -220,7 +220,7 @@
     "Name": "NoSoliciting",
     "Description": "Hides RMT in chat and the party finder. /prmt",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "1.1.3",
+    "AssemblyVersion": "1.1.4",
     "RepoUrl": "https://sr.ht/~jkcclemens/NoSoliciting",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
