@@ -172,6 +172,17 @@
     "IsHide": "False"
   },
   {
+    "Author": "Bluefissure",
+    "Name": "MapLinker",
+    "Description": "Automatically record the maplinks in chat and retrieval later.",
+    "InternalName": "MapLinker",
+    "AssemblyVersion": "1.0.1.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Bluefissure/MapLinker",
+    "DalamudApiLevel": 1,
+    "IsHide": "False"
+  },
+  {
     "Author": "fmauNeko",
     "Name": "Market board",
     "Description": "Browse the market board. /pmb to open.",
