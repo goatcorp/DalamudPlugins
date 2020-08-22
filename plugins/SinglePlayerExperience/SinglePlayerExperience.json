@@ -1,0 +1,11 @@
+{
+    "Author": "Haplo064",
+    "Name": "Single Player Experience",
+    "InternalName": "SinglePlayerExperience",
+    "Description": "Enabled hiding all other players.",
+    "Tags": [ "Single", "Alone", "Remove", "Hide", "Players"],
+	"RepoUrl": "https://github.com/Haplo064/Decrowdify",
+    "AssemblyVersion": "1.0.0.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 1
+}
