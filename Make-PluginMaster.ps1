@@ -1,6 +1,8 @@
 $output = New-Object Collections.Generic.List[object]
 $notInclude = "sdfg", "dhfnf", "XIVStats", "SHDHJFK";
 
+$counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
+
 $table = ""
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
@@ -16,11 +18,19 @@ Foreach-Object {
     	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
+    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count"
+
+    if ($dlCount -eq $null){
+        $dlCount = 0;
+    }
+
+    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
+
     $output.Add($content)
 }
 
 $outputStr = $output | ConvertTo-Json
-echo $outputStr
+Write-Output $outputStr
 
 Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
 
