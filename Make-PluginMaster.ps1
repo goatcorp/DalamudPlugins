@@ -1,3 +1,5 @@
+$ErrorActionPreference = 'SilentlyContinue'
+
 $output = New-Object Collections.Generic.List[object]
 $notInclude = "sdfg", "dhfnf", "XIVStats", "SHDHJFK";
 
@@ -18,7 +20,7 @@ Foreach-Object {
     	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
-    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count"
+    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
 
     if ($dlCount -eq $null){
         $dlCount = 0;
