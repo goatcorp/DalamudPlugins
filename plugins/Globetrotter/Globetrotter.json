@@ -1,9 +1,9 @@
 ﻿{
     "Author": "ascclemens",
     "Name": "Globetrotter",
-    "Description": "Automatically shows where treasure maps are located. /pglobetrogger /tmap",
+    "Description": "Automatically shows where treasure maps are located. /pglobetrotter /tmap",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.0.2",
+    "AssemblyVersion": "1.0.3",
     "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1
