@@ -26,6 +26,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | meli | Orchestrion Plugin | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | goat | OwO | This plugin uwu's your chat. |
 | ascclemens | Peeping Tom | Shows who is or was targeting you. /ptom |
+| tesu | Penny Pincher | Copies 1 less than cheapest price to your clipboard when you look at current marketboard prices for faster undercutting. /penny help for additional settings |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud (Does not work with Mudfish FastConnect). |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
