@@ -15,7 +15,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 29
   },
   {
     "Author": "ackwell",
@@ -32,7 +32,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 8
   },
   {
     "Author": "kij",
@@ -43,7 +43,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 7
   },
   {
     "Author": "Haplo064",
@@ -63,7 +63,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 16
   },
   {
     "Author": "goat",
@@ -74,7 +74,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 6
   },
   {
     "Author": "goat",
@@ -88,7 +88,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 1
+    "DownloadCount": 19
   },
   {
     "Author": "perchbird",
@@ -105,7 +105,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 50
   },
   {
     "Author": "Caraxi",
@@ -121,19 +121,19 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 15
   },
   {
     "Author": "ascclemens",
     "Name": "Globetrotter",
-    "Description": "Automatically shows where treasure maps are located. /pglobetrogger /tmap",
+    "Description": "Automatically shows where treasure maps are located. /pglobetrotter /tmap",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.0.2",
+    "AssemblyVersion": "1.0.3",
     "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 28
   },
   {
     "Author": "ascclemens",
@@ -145,7 +145,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 11
   },
   {
     "Author": "Caraxi",
@@ -166,7 +166,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 23
   },
   {
     "Author": "Caraxi",
@@ -181,7 +181,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 5
   },
   {
     "Author": "Bluefissure",
@@ -193,7 +193,7 @@
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 14
   },
   {
     "Author": "fmauNeko",
@@ -205,7 +205,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 25
   },
   {
     "Author": "attick",
@@ -221,7 +221,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 11
   },
   {
     "Author": "karashiiro",
@@ -240,19 +240,19 @@
     "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": "1",
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 4
   },
   {
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "Description": "Hides RMT in chat and the party finder. /prmt",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "1.1.4",
-    "RepoUrl": "https://sr.ht/~jkcclemens/NoSoliciting",
+    "AssemblyVersion": "1.3.0",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 32
   },
   {
     "Author": "meli",
@@ -268,7 +268,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 16
   },
   {
     "Author": "goat",
@@ -279,7 +279,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 4626
   },
   {
     "Author": "ascclemens",
@@ -291,7 +291,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 260
   },
   {
     "Author": "karashiiro",
@@ -310,7 +310,7 @@
     "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": "1",
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 19
   },
   {
     "Author": "Haplo064",
@@ -327,7 +327,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 20
   },
   {
     "Author": "Haplo064",
@@ -347,7 +347,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 20
   },
   {
     "Author": "karashiiro",
@@ -366,7 +366,7 @@
       "control"
     ],
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 68
   },
   {
     "Author": "Pohky",
@@ -378,7 +378,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 10
   },
   {
     "Author": "attick",
@@ -389,7 +389,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 6
   },
   {
     "Author": "Haplo064",
@@ -407,7 +407,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 1
   },
   {
     "Author": "PunishedPineapple",
@@ -425,7 +425,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 0
+    "DownloadCount": 7
   },
   {
     "Author": "attick",
@@ -440,7 +440,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 7
+    "DownloadCount": 32
   },
   {
     "Author": "Dark",
