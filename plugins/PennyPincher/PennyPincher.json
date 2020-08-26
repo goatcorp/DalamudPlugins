@@ -1,9 +1,9 @@
 {
   "Author": "tesu",
   "Name": "Penny Pincher",
-  "Description": "Copies 1 less than cheapest price to your clipboard when you look at current marketboard prices for faster undercutting. /penny help for additional settings",
+  "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
   "InternalName": "PennyPincher",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "RepoUrl": "https://github.com/tesu/PennyPincher",
   "ApplicableVersion": "any",
   "Tags": ["marketboard", "undercut", "penny", "clipboard"],
