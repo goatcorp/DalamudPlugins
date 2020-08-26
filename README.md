@@ -8,8 +8,8 @@ Please see the [API documentation](https://goatcorp.github.io/Dalamud/api/index.
 
 ### What should my plugin not do?
 Make sure that your plugin does not directly interact with the game servers in a way that is:
-<br>a) *automatic*, as in polling data or making requests without direct interaction from the user
-<br>b) *outside of specification*, as in allowing the player to do submit things to the server that would not be possible by normal meansWhat should my plugin not do?
+<br>a) *automatic*, as in polling data or making requests without direct interaction from the user.
+<br>b) *outside of specification*, as in allowing the player to do submit things to the server that would not be possible by normal means.
 
 ## Publishing/updating your plugin
 
