@@ -32,7 +32,6 @@ Use the settings button below or the /pbrowser command to configure. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp or /tpt for help |
-| attick | Title Edit | This plugin allows for the title screen to be changed to any expac's title screen. |
 | Haplo064 | VoidList | Completely removes chosen players from your game. |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | attick | XIV Combo | This plugin condenses combos and mutually exclusive abilities onto a single button. |
