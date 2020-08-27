@@ -3,7 +3,7 @@
   "Name": "Penny Pincher",
   "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
   "InternalName": "PennyPincher",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.1.0",
   "RepoUrl": "https://github.com/tesu/PennyPincher",
   "ApplicableVersion": "any",
   "Tags": ["marketboard", "undercut", "penny", "clipboard"],
