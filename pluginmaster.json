@@ -152,7 +152,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.6.0",
+    "AssemblyVersion": "1.5.6.1",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -391,7 +391,7 @@
     "Name": "Teleporter",
     "Description": "Chat Commands for teleporting to Aetherytes. /tp for help",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
