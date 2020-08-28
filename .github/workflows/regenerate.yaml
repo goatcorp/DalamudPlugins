@@ -1,7 +1,6 @@
 name: Regenerate PluginMaster
 on:
-  pull_request:
-    types: [closed]
+  page_build:
   workflow_run:
     workflows: ["Update download counts"]
     types: 
