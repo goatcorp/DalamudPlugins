@@ -15,7 +15,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 187
+    "DownloadCount": 241
   },
   {
     "Author": "ackwell",
@@ -32,7 +32,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 57
+    "DownloadCount": 87
   },
   {
     "Author": "kij",
@@ -43,7 +43,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 48
+    "DownloadCount": 67
   },
   {
     "Author": "Haplo064",
@@ -63,7 +63,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 95
+    "DownloadCount": 141
   },
   {
     "Author": "goat",
@@ -74,7 +74,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 60
+    "DownloadCount": 99
   },
   {
     "Author": "goat",
@@ -88,7 +88,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 98
+    "DownloadCount": 147
   },
   {
     "Author": "perchbird",
@@ -105,7 +105,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 271
+    "DownloadCount": 334
   },
   {
     "Author": "Caraxi",
@@ -121,7 +121,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 98
+    "DownloadCount": 137
   },
   {
     "Author": "ascclemens",
@@ -133,7 +133,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 1214
+    "DownloadCount": 1375
   },
   {
     "Author": "ascclemens",
@@ -145,14 +145,14 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 46
+    "DownloadCount": 72
   },
   {
     "Author": "Caraxi",
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.5.0",
+    "AssemblyVersion": "1.5.6.0",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -166,7 +166,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 119
+    "DownloadCount": 173
   },
   {
     "Author": "Caraxi",
@@ -181,7 +181,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 49
+    "DownloadCount": 66
   },
   {
     "Author": "Bluefissure",
@@ -193,7 +193,7 @@
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 110
+    "DownloadCount": 152
   },
   {
     "Author": "fmauNeko",
@@ -205,7 +205,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 150
+    "DownloadCount": 230
   },
   {
     "Author": "attick",
@@ -221,7 +221,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 1038
+    "DownloadCount": 1239
   },
   {
     "Author": "karashiiro",
@@ -240,7 +240,7 @@
     "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": "1",
     "IsHide": "False",
-    "DownloadCount": 38
+    "DownloadCount": 47
   },
   {
     "Author": "ascclemens",
@@ -252,7 +252,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 1041
+    "DownloadCount": 1194
   },
   {
     "Author": "meli",
@@ -268,7 +268,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 132
+    "DownloadCount": 185
   },
   {
     "Author": "goat",
@@ -279,26 +279,26 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 4662
+    "DownloadCount": 4692
   },
   {
     "Author": "ascclemens",
     "Name": "Peeping Tom",
     "Description": "Shows who is or was targeting you. /ptom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.5.0",
+    "AssemblyVersion": "1.5.1",
     "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 1382
+    "DownloadCount": 1543
   },
   {
     "Author": "tesu",
     "Name": "Penny Pincher",
-    "Description": "Copies 1 less than cheapest price to your clipboard when you look at current marketboard prices for faster undercutting. /penny help for additional settings",
+    "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
     "ApplicableVersion": "any",
     "Tags": [
@@ -309,7 +309,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 223
+    "DownloadCount": 333
   },
   {
     "Author": "karashiiro",
@@ -328,7 +328,7 @@
     "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": "1",
     "IsHide": "False",
-    "DownloadCount": 143
+    "DownloadCount": 192
   },
   {
     "Author": "Haplo064",
@@ -345,7 +345,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 140
+    "DownloadCount": 201
   },
   {
     "Author": "Haplo064",
@@ -365,7 +365,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 142
+    "DownloadCount": 212
   },
   {
     "Author": "karashiiro",
@@ -384,19 +384,19 @@
       "control"
     ],
     "IsHide": "False",
-    "DownloadCount": 350
+    "DownloadCount": 384
   },
   {
     "Author": "Pohky",
     "Name": "Teleporter",
-    "Description": "Chat Commands for teleporting to Aetherytes. /tp or /tpt for help",
+    "Description": "Chat Commands for teleporting to Aetherytes. /tp for help",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 85
+    "DownloadCount": 120
   },
   {
     "Author": "attick",
@@ -407,7 +407,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "True",
-    "DownloadCount": 49
+    "DownloadCount": 69
   },
   {
     "Author": "Haplo064",
@@ -425,7 +425,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 30
+    "DownloadCount": 51
   },
   {
     "Author": "PunishedPineapple",
@@ -443,7 +443,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 40
+    "DownloadCount": 61
   },
   {
     "Author": "attick",
@@ -458,7 +458,7 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "DownloadCount": 138
+    "DownloadCount": 191
   },
   {
     "Author": "Dark",
