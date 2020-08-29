@@ -93,7 +93,7 @@
     "Name": "FPS Plugin",
     "Description": "Display game FPS. /pfps to open config",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.0.2",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -108,7 +108,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.3.1",
+    "AssemblyVersion": "1.5.6.1",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -124,11 +124,11 @@
     "IsHide": "False"
   },
   {
-    "Author": "Cara",
+    "Author": "Caraxi",
     "Name": "MacroRecursion",
-    "Description": "Execute macros from macros. /macro ## [shared]",
+    "Description": "Execute macros from macros. /macro ## [shared] [line]",
     "InternalName": "MacroRecursion",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
     "ApplicableVersion": "any",
     "Tags": [
