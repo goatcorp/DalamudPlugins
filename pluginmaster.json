@@ -256,6 +256,23 @@
     "IsHide": "False"
   },
   {
+    "Author": "kalilistic",
+    "Name": "PriceCheck",
+    "Description": "Quickly price check your items.",
+    "InternalName": "PriceCheck",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+    "Tags": [
+      "price",
+      "marketboard",
+      "items"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=5.1.0.2",
+    "DalamudApiLevel": "1",
+    "IsHide": "False"
+  },
+  {
     "Author": "Haplo064",
     "Name": "SlideCast Plugin",
     "Description": "Adds an indicator of when it's safe to move while casting",
@@ -286,9 +303,9 @@
   {
     "Author": "Pohky",
     "Name": "Teleporter",
-    "Description": "Chat Commands for teleporting to Aetherytes. /tp or /tpt for help",
+    "Description": "Chat Commands for teleporting to Aetherytes. /tp for help",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.1.3",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
