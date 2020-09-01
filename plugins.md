@@ -17,7 +17,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
 | Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
-| Caraxi | MacroRecursion | Execute macros from macros. /macro ## [shared] [line] |
+| Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
 | Bluefissure | MapLinker | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | Market board | Browse the market board. /pmb to open. |
 | attick | Mouseover Action | This plugin allows for macro-like use of actions without any macro delay. |
