@@ -152,7 +152,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.6.1",
+    "AssemblyVersion": "1.5.7.1",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -298,7 +298,7 @@
     "Name": "Penny Pincher",
     "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
     "ApplicableVersion": "any",
     "Tags": [
