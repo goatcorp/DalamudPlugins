@@ -18,6 +18,18 @@
     "DownloadCount": 626
   },
   {
+    "Author": "Caraxi",
+    "Name": "Adventurer in Need",
+    "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
+    "InternalName": "AdventurerInNeed",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 0
+  },
+  {
     "Author": "ackwell",
     "Name": "Browser Host",
     "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the /pbrowser command to configure.",
@@ -137,6 +149,18 @@
   },
   {
     "Author": "ascclemens",
+    "Name": "Good Memory",
+    "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.",
+    "InternalName": "GoodMemory",
+    "AssemblyVersion": "1.0.1",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 0
+  },
+  {
+    "Author": "ascclemens",
     "Name": "HudSwap",
     "Description": "Automatically changes your HUD layout for you. /phudswap",
     "InternalName": "HudSwap",
@@ -247,7 +271,7 @@
     "Name": "NoSoliciting",
     "Description": "Hides RMT in chat and the party finder. /prmt",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "1.4.1",
+    "AssemblyVersion": "1.4.3",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
@@ -346,6 +370,24 @@
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "DownloadCount": 619
+  },
+  {
+    "Author": "kalilistic",
+    "Name": "PriceCheck",
+    "Description": "Quickly price check your items.",
+    "InternalName": "PriceCheck",
+    "AssemblyVersion": "1.0.7",
+    "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+    "Tags": [
+      "price",
+      "marketboard",
+      "items"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=5.1.0.2",
+    "DalamudApiLevel": "1",
+    "IsHide": "False",
+    "DownloadCount": 0
   },
   {
     "Author": "Haplo064",

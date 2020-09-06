@@ -6,6 +6,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Author | Name | Description |
 |---------------|---------------|-----------------|
 | Haplo064 | Accurate CountDown | Shows the current countdown time. |
+| Caraxi | Adventurer in Need | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.
 Use the settings button below or the /pbrowser command to configure. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" for more info. |
@@ -15,6 +16,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | perchbird | Damage Info Plugin | Configurable UI options for damage fly text. /dmginfo displays the config. |
 | Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
+| ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
 | Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
 | Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
@@ -29,6 +31,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud (Does not work with Mudfish FastConnect). |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
+| kalilistic | PriceCheck | Quickly price check your items. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
