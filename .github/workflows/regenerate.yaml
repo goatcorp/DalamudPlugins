@@ -10,6 +10,7 @@ on:
 jobs:
   generate:
     name: Regenerate PluginMaster
+    if: github.repository == ‘goatcorp/DalamudPlugins’
     runs-on: windows-2019
     steps:
       - name: Extract branch name
