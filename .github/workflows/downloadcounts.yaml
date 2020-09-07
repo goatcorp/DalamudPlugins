@@ -8,6 +8,7 @@ on:
     
 jobs:
   update-counts:
+    if: github.repository == ‘goatcorp/DalamudPlugins’
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
