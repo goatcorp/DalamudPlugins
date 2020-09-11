@@ -34,7 +34,7 @@
     "Name": "Browser Host",
     "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the /pbrowser command to configure.",
     "InternalName": "BrowserHost.Plugin",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.2.0",
     "RepoUrl": "https://github.com/ackwell/BrowserHost",
     "ApplicableVersion": "any",
     "Tags": [
