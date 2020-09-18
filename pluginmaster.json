@@ -529,6 +529,23 @@
     "DownloadCount": 424
   },
   {
+    "Author": "Haplo064",
+    "Name": "Where's WOLdo",
+    "InternalName": "WOLdo",
+    "Description": "Text overlay of current location name.",
+    "Tags": [
+      "Location",
+      "UI",
+      "Overlay"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 0
+  },
+  {
     "Author": "attick",
     "Name": "XIV Combo",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
