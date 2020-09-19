@@ -1,12 +1,12 @@
 {
-	"Author": "kalilistic",
-	"Name": "PriceCheck",
-	"Description": "Quickly price check your items.",
-	"InternalName": "PriceCheck",
-	"AssemblyVersion": "1.0.7",
-	"RepoUrl": "https://github.com/kalilistic/PriceCheck",
-	"Tags": [ "price", "marketboard", "items" ],
-	"ApplicableVersion": "any",
-	"DalamudApplicableVersion": ">=5.1.0.2",
-	"DalamudApiLevel": "1"
+    "Author": "kalilistic",
+    "Name": "PriceCheck",
+    "Description": "Quickly price check your items.",
+    "InternalName": "PriceCheck",
+    "AssemblyVersion": "1.0.23",
+    "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+    "Tags": ["price", "marketboard", "items"],
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=5.1.0.2",
+    "DalamudApiLevel": "1"
 }
