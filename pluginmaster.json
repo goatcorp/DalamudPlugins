@@ -11,20 +11,51 @@
       "UI"
     ],
     "RepoUrl": "https://github.com/Haplo064/Europe",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1327
+  },
+  {
+    "Author": "Caraxi",
+    "Name": "Adventurer in Need",
+    "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
+    "InternalName": "AdventurerInNeed",
+    "AssemblyVersion": "1.1.0.0",
+    "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 999
+  },
+  {
+    "Author": "ackwell",
+    "Name": "Browser Host",
+    "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the /pbrowser command to configure.",
+    "InternalName": "BrowserHost.Plugin",
+    "AssemblyVersion": "1.1.2.0",
+    "RepoUrl": "https://github.com/ackwell/BrowserHost",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 2468
   },
   {
     "Author": "kij",
     "Name": "ChatCoordinates",
-    "Description": "This plugin transforms coordinates from chat to XIV MapLink",
+    "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" for more info.",
     "InternalName": "ChatCoordinates",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "True"
+    "IsHide": "False",
+    "DownloadCount": 574
   },
   {
     "Author": "Haplo064",
@@ -43,37 +74,57 @@
     "AssemblyVersion": "2.0.2.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1108
   },
   {
     "Author": "goat",
     "Name": "Character Data Sync",
     "Description": "This plugin allows you to use your character data from your main character on all others.",
     "InternalName": "Dalamud.CharacterSync",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.6.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 776
   },
   {
     "Author": "goat",
     "Name": "Discord Rich Presence",
-    "Description": "This plugin allows you display your name, job, world and current zone in your discord status.",
+    "Description": "This plugin allows you to set up chat triggers.",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.5.0.0",
     "ApplicableVersion": "any",
     "Tags": [
       "Discord"
     ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1126
+  },
+  {
+    "Author": "perchbird",
+    "Name": "Damage Info Plugin",
+    "Description": "Configurable UI options for damage fly text. /dmginfo displays the config.",
+    "InternalName": "DamageInfoPlugin",
+    "AssemblyVersion": "1.2.0",
+    "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "damage",
+      "flytext",
+      "UI"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 4422
   },
   {
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "Description": "Display game FPS. /pfps to open config",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.4.0.1",
+    "AssemblyVersion": "1.4.0.3",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -81,14 +132,51 @@
       "Monitor"
     ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 2643
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "Globetrotter",
+    "Description": "Automatically shows where treasure maps are located. /pglobetrotter /tmap",
+    "InternalName": "Globetrotter",
+    "AssemblyVersion": "1.1.0",
+    "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 4801
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "Good Memory",
+    "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.",
+    "InternalName": "GoodMemory",
+    "AssemblyVersion": "1.0.1",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 971
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "HudSwap",
+    "Description": "Automatically changes your HUD layout for you. /phudswap",
+    "InternalName": "HudSwap",
+    "AssemblyVersion": "1.4.0",
+    "RepoUrl": "https://sr.ht/~jkcclemens/HudSwap",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 473
   },
   {
     "Author": "Caraxi",
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.5.3.0",
+    "AssemblyVersion": "1.5.7.2",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -101,21 +189,55 @@
       "Fitting Room"
     ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 6354
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Job Icons",
+    "InternalName": "JobIcons",
+    "Description": "Enable icons for player jobs instead of nameplates.",
+    "Tags": [
+      "Icon",
+      "Role",
+      "Job",
+      "Nameplate",
+      "Replace",
+      "UI"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/JobIcons",
+    "AssemblyVersion": "1.0.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 1703
   },
   {
     "Author": "Caraxi",
     "Name": "MacroRecursion",
-    "Description": "Execute macros from macros. /macro ## [shared] [line]",
+    "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
     "InternalName": "MacroRecursion",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.2.0",
     "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
     "ApplicableVersion": "any",
     "Tags": [
       "Macro"
     ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1489
+  },
+  {
+    "Author": "Bluefissure",
+    "Name": "MapLinker",
+    "Description": "Automatically record the maplinks in chat and retrieval later.",
+    "InternalName": "MapLinker",
+    "AssemblyVersion": "1.0.1.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Bluefissure/MapLinker",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 785
   },
   {
     "Author": "fmauNeko",
@@ -126,29 +248,31 @@
     "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1769
   },
   {
     "Author": "attick",
     "Name": "Mouseover Action",
     "Description": "This plugin allows for macro-like use of actions without any macro delay.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.2.1.6",
-    "ApplicableVersion": "any",
+    "AssemblyVersion": "2.2.1.10",
+    "ApplicableVersion": "2020.08.28.0000.0000",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
       "Macro"
     ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 4685
   },
   {
     "Author": "karashiiro",
     "Name": "NeatNoter",
     "Description": "A note-taking plugin.",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.3.2.0",
     "RepoUrl": "https://github.com/karashiiro/NeatNoter",
     "Tags": [
       "note",
@@ -159,18 +283,36 @@
     "ApplicableVersion": "any",
     "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": "1",
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 489
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "NoSoliciting",
+    "Description": "Hides RMT in chat and the party finder. /prmt",
+    "InternalName": "NoSoliciting",
+    "AssemblyVersion": "1.4.5",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 6556
   },
   {
     "Author": "meli",
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
     "ApplicableVersion": "any",
+    "Tags": [
+      "bgm",
+      "music"
+    ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1156
   },
   {
     "Author": "goat",
@@ -180,25 +322,45 @@
     "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 10296
   },
   {
     "Author": "ascclemens",
     "Name": "Peeping Tom",
-    "Description": "Shows who is or was targeting you",
+    "Description": "Shows who is or was targeting you. /ptom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.5.1",
     "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 4470
+  },
+  {
+    "Author": "tesu",
+    "Name": "Penny Pincher",
+    "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
+    "InternalName": "PennyPincher",
+    "AssemblyVersion": "1.0.1.1",
+    "RepoUrl": "https://github.com/tesu/PennyPincher",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "marketboard",
+      "undercut",
+      "penny",
+      "clipboard"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 3057
   },
   {
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "Description": "A ping display plugin for Dalamud (Does not work with Mudfish FastConnect).",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.5.0.1",
+    "AssemblyVersion": "1.7.0.0",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
     "Tags": [
       "ping",
@@ -209,7 +371,8 @@
     "ApplicableVersion": "any",
     "DalamudApplicableVersion": ">=4.9.8.3",
     "DalamudApiLevel": "1",
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 3458
   },
   {
     "Author": "Haplo064",
@@ -225,7 +388,26 @@
     "AssemblyVersion": "1.2.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1475
+  },
+  {
+    "Author": "kalilistic",
+    "Name": "PriceCheck",
+    "Description": "Quickly price check your items.",
+    "InternalName": "PriceCheck",
+    "AssemblyVersion": "1.0.29",
+    "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+    "Tags": [
+      "price",
+      "marketboard",
+      "items"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=5.1.0.2",
+    "DalamudApiLevel": "1",
+    "IsHide": "False",
+    "DownloadCount": 1805
   },
   {
     "Author": "Haplo064",
@@ -244,18 +426,39 @@
     "AssemblyVersion": "0.6.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1598
+  },
+  {
+    "Author": "karashiiro",
+    "Name": "SoundSetter",
+    "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
+    "InternalName": "SoundSetter",
+    "AssemblyVersion": "1.1.0.0",
+    "RepoUrl": "https://github.com/karashiiro/SoundSetter",
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=4.9.8.3",
+    "DalamudApiLevel": "1",
+    "Tags": [
+      "tool",
+      "sound",
+      "volume",
+      "control"
+    ],
+    "IsHide": "False",
+    "DownloadCount": 1883
   },
   {
     "Author": "Pohky",
     "Name": "Teleporter",
-    "Description": "Chat Commands for teleporting to Aetherytes. /tp or /tpt for help",
+    "Description": "Chat Commands for teleporting to Aetherytes. /tp for help",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "1.0.0.8",
+    "AssemblyVersion": "1.0.1.4",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 4797
   },
   {
     "Author": "attick",
@@ -265,7 +468,29 @@
     "AssemblyVersion": "1.0.1.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "True",
+    "DownloadCount": 100
+  },
+  {
+    "Author": "Dragon",
+    "Name": "Visibility",
+    "InternalName": "Visibility",
+    "Description": "Allows you to hide players, pets and chocobos.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
+    "Tags": [
+      "Blacklist",
+      "Void",
+      "VoidList",
+      "Ban",
+      "Hide",
+      "Visibility",
+      "QoL"
+    ],
+    "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+    "AssemblyVersion": "1.0.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 0
   },
   {
     "Author": "Haplo064",
@@ -282,32 +507,58 @@
     "AssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 486
   },
   {
     "Author": "PunishedPineapple",
     "Name": "Waymark Preset Plugin",
     "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "0.9.0.1",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "ApplicableVersion": "any",
+    "Tags": [
+      "Waymark",
+      "Marker",
+      "Preset",
+      "Tool"
+    ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 490
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Where's WOLdo",
+    "InternalName": "WOLdo",
+    "Description": "Text overlay of current location name.",
+    "Tags": [
+      "Location",
+      "UI",
+      "Overlay"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 0
   },
   {
     "Author": "attick",
     "Name": "XIV Combo",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.0.3.3",
+    "AssemblyVersion": "1.0.3.6",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
       "Combo"
     ],
     "DalamudApiLevel": 1,
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 1309
   },
   {
     "Author": "Dark",
@@ -323,7 +574,8 @@
       "automation"
     ],
     "ApplicableVersion": "any",
-    "IsHide": "False"
+    "IsHide": "False",
+    "DownloadCount": 0
   },
   {
     "Author": "Emilia",
@@ -333,6 +585,7 @@
     "AssemblyVersion": "1.2.0.0",
     "RepoUrl": "https://github.com/thetrueyoshifan/Dalamud.XIVStats",
     "ApplicableVersion": "any",
-    "IsHide": "True"
+    "IsHide": "True",
+    "DownloadCount": 0
   }
 ]

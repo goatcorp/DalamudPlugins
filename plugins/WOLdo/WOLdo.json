@@ -1,0 +1,11 @@
+{
+    "Author": "Haplo064",
+    "Name": "Where's WOLdo",
+    "InternalName": "WOLdo",
+    "Description": "Text overlay of current location name.",
+    "Tags": [ "Location", "UI", "Overlay"],
+	"RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "AssemblyVersion": "1.0.0.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 1
+}

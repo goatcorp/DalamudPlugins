@@ -3,7 +3,7 @@
   "Name": "FPS Plugin",
   "Description": "Display game FPS. /pfps to open config",
   "InternalName": "FPSPlugin",
-  "AssemblyVersion": "1.4.0.1",
+  "AssemblyVersion": "1.4.0.3",
   "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
   "ApplicableVersion": "any",
   "Tags": [ "FPS", "Monitor" ],

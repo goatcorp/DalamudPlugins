@@ -1,5 +1,9 @@
+$ErrorActionPreference = 'SilentlyContinue'
+
 $output = New-Object Collections.Generic.List[object]
-$notInclude = "ChatCoordinates", "dhfnf", "XIVStats", "SHDHJFK";
+$notInclude = "sdfg", "dhfnf", "XIVStats", "TitleEdit";
+
+$counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
 $thisPath = Get-Location
 
@@ -24,6 +28,12 @@ Foreach-Object {
         $testingContent = Get-Content $testingPath | ConvertFrom-Json
         $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
     }
+
+    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
+    if ($dlCount -eq $null){
+        $dlCount = 0;
+    }
+    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     $output.Add($content)
 }
