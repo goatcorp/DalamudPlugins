@@ -1,6 +1,8 @@
 $output = New-Object Collections.Generic.List[object]
 $notInclude = "ChatCoordinates", "dhfnf", "XIVStats", "SHDHJFK";
 
+$thisPath = Get-Location
+
 $table = ""
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
@@ -16,11 +18,18 @@ Foreach-Object {
     	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
+    $testingPath = Join-Path $thisPath -ChildPath "testing" | Join-Path -ChildPath $content.InternalName | Join-Path -ChildPath $_.Name
+    if ($testingPath | Test-Path)
+    {
+        $testingContent = Get-Content $testingPath | ConvertFrom-Json
+        $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
+    }
+
     $output.Add($content)
 }
 
 $outputStr = $output | ConvertTo-Json
-echo $outputStr
+Write-Output $outputStr
 
 Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
 
