@@ -5,6 +5,8 @@ $notInclude = "sdfg", "dhfnf", "XIVStats", "TitleEdit";
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
+$thisPath = Get-Location
+
 $table = ""
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
@@ -20,12 +22,17 @@ Foreach-Object {
     	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
-    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
+    $testingPath = Join-Path $thisPath -ChildPath "testing" | Join-Path -ChildPath $content.InternalName | Join-Path -ChildPath $_.Name
+    if ($testingPath | Test-Path)
+    {
+        $testingContent = Get-Content $testingPath | ConvertFrom-Json
+        $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
+    }
 
+    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
     if ($dlCount -eq $null){
         $dlCount = 0;
     }
-
     $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     $output.Add($content)
