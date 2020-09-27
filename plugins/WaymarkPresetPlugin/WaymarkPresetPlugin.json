@@ -3,11 +3,7 @@
   "Name": "Waymark Preset Plugin",
   "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
   "InternalName": "WaymarkPresetPlugin",
-<<<<<<< HEAD
   "AssemblyVersion": "1.1.1.0",
-=======
-  "AssemblyVersion": "1.0.1.0",
->>>>>>> upstream/master
   "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
   "ApplicableVersion": "any",
   "Tags": [ "Waymark", "Marker", "Preset", "Tool" ],
