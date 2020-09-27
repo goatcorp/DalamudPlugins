@@ -1,11 +1,22 @@
 name: Regenerate PluginMaster
-on: [push]
+on:
+  page_build:
+  workflow_run:
+    workflows: ["Update download counts"]
+    types: 
+      - completed
+  workflow_dispatch:
 
 jobs:
   generate:
     name: Regenerate PluginMaster
+    if: github.repository == 'goatcorp/DalamudPlugins'
     runs-on: windows-2019
     steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - uses: actions/checkout@v1
       - name: Run generator
         run: .\Make-PluginMaster.ps1
@@ -20,3 +31,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.extract_branch.outputs.branch }}

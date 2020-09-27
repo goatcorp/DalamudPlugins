@@ -1,10 +1,11 @@
 {
-  "Author": "Haplo064",
-  "Name": "Accurate CountDown Plugin",
-  "Description": "Shows the current countdown time.",
-  "InternalName": "AccurateCountDown",
-  "AssemblyVersion": "1.0.2.0",
-  "RepoUrl":"https://github.com/Haplo064/Europe",
-  "ApplicableVersion": "any",
-  "Tags": [ "Combat", "Countdown", "Timer", "UI"]
+    "Author": "Haplo064",
+    "Name": "Accurate CountDown",
+    "InternalName": "AccurateCountDown",
+    "Description": "Shows the current countdown time.",
+    "Tags": [ "Combat", "Countdown", "Timer", "UI"],
+	"RepoUrl": "https://github.com/Haplo064/Europe",
+    "AssemblyVersion": "1.0.2.2",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 1
 }

@@ -1,10 +1,11 @@
 {
-  "Author": "Haplo064",
-  "Name": "Pixel Perfect Plugin",
-  "Description": "Adds an indicator of your hitbox.",
-  "InternalName": "PixelPerfect",
-  "AssemblyVersion": "1.1.0.0",
-  "RepoUrl":"https://github.com/Haplo064/PixelPerfect",
-  "ApplicableVersion": "any",
-  "Tags": ["Hitbox", "Overlay", "Indicator"]
+	"Author": "Haplo064",
+	"Name": "Pixel Perfect",
+	"InternalName": "PixelPerfect",
+	"Description": "Adds an indicator of your hitbox.",
+	"Tags": ["Hitbox", "Overlay", "Indicator"],
+	"RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+	"AssemblyVersion": "1.2.0.1",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 1
 }

@@ -1,5 +1,13 @@
+$ErrorActionPreference = 'SilentlyContinue'
+
 $output = New-Object Collections.Generic.List[object]
-$notInclude = "testPlugin", "testPlugin2", "XIVStats";
+$notInclude = "sdfg", "dhfnf", "XIVStats", "TitleEdit";
+
+$counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
+
+$thisPath = Get-Location
+
+$table = ""
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
 Foreach-Object {
@@ -11,12 +19,30 @@ Foreach-Object {
     else
     {
     	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
+    	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
+
+    $testingPath = Join-Path $thisPath -ChildPath "testing" | Join-Path -ChildPath $content.InternalName | Join-Path -ChildPath $_.Name
+    if ($testingPath | Test-Path)
+    {
+        $testingContent = Get-Content $testingPath | ConvertFrom-Json
+        $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
+    }
+
+    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
+    if ($dlCount -eq $null){
+        $dlCount = 0;
+    }
+    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     $output.Add($content)
 }
 
 $outputStr = $output | ConvertTo-Json
-echo $outputStr
+Write-Output $outputStr
 
 Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
+
+$template = Get-Content -Path mdtemplate.txt
+$template = $template + $table
+Out-File -FilePath .\plugins.md -InputObject $template

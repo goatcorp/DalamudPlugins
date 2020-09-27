@@ -1,9 +1,9 @@
 {
-  "Author": "Cara",
+  "Author": "Caraxi",
   "Name": "MacroRecursion",
-  "Description": "Execute macros from macros. /macro ## [shared]",
+  "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
   "InternalName": "MacroRecursion",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.1.2.0",
   "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
   "ApplicableVersion": "any",
   "Tags": ["Macro"],

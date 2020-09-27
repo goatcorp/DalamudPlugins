@@ -3,8 +3,9 @@
   "Name": "FPS Plugin",
   "Description": "Display game FPS. /pfps to open config",
   "InternalName": "FPSPlugin",
-  "AssemblyVersion": "1.3.0.0",
+  "AssemblyVersion": "1.4.0.3",
   "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
   "ApplicableVersion": "any",
-  "Tags": ["FPS", "Monitor"] 
+  "Tags": [ "FPS", "Monitor" ],
+  "DalamudApiLevel": 1
 }
