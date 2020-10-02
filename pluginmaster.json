@@ -342,7 +342,7 @@
     "Name": "Penny Pincher",
     "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
     "ApplicableVersion": "any",
     "Tags": [
@@ -515,7 +515,7 @@
     "Name": "Waymark Preset Plugin",
     "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.1.1.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "ApplicableVersion": "any",
     "Tags": [
