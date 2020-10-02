@@ -28,6 +28,7 @@ Foreach-Object {
         $testingContent = Get-Content $testingPath | ConvertFrom-Json
         $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
     }
+    $content | add-member -Name "IsTestingExclusive" -value "False" -MemberType NoteProperty
 
     $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
     if ($dlCount -eq $null){
@@ -36,6 +37,31 @@ Foreach-Object {
     $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     $output.Add($content)
+}
+
+Get-ChildItem -Path testing -File -Recurse -Include *.json |
+Foreach-Object {
+    $content = Get-Content $_.FullName | ConvertFrom-Json
+
+    if ($notInclude.Contains($content.InternalName)) { 
+    	$content | add-member -Name "IsHide" -value "True" -MemberType NoteProperty
+    }
+    else
+    {
+    	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
+    	# $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
+    }
+
+    $dlCount = 0;
+    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
+
+    if (($output | Where-Object {$_.InternalName -eq $content.InternalName}).Count -eq 0)
+    {
+        $content | add-member -Name "TestingAssemblyVersion" -value $content.AssemblyVersion -MemberType NoteProperty
+        $content | add-member -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
+    
+        $output.Add($content)
+    }
 }
 
 $outputStr = $output | ConvertTo-Json
