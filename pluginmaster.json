@@ -162,7 +162,7 @@
     "Name": "Good Memory",
     "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "InternalName": "GoodMemory",
-    "AssemblyVersion": "1.0.1",
+    "AssemblyVersion": "1.0.2",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
@@ -416,6 +416,24 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1739
+  },
+  {
+    "Author": "perchbird",
+    "Name": "PrefPro",
+    "Description": "Changes in-game references to your desired gender. /prefpro for the menu.",
+    "InternalName": "PrefPro",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/lmcintyre/prefpro",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pronouns",
+      "text",
+      "parsing"
+    ],
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0
   },
   {
     "Author": "kalilistic",

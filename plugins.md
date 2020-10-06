@@ -32,6 +32,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud (Does not work with Mudfish FastConnect). |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
+| perchbird | PrefPro | Changes in-game references to your desired gender. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
