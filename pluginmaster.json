@@ -672,5 +672,18 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.1.3.0",
     "IsTestingExclusive": "True"
+  },
+  {
+    "Author": "Sonar Team",
+    "Name": "Sonar",
+    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure",
+    "InternalName": "SonarPlugin",
+    "AssemblyVersion": "0.1.0.11",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.11",
+    "IsTestingExclusive": "True"
   }
 ]
