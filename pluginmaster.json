@@ -689,9 +689,9 @@
   {
     "Author": "karashiiro",
     "Name": "TextToTalk",
-    "Description": "Chat TTS. Use /tttconfig to configure the enabled channels.",
+    "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
     "ApplicableVersion": "any",
     "DalamudApplicableVersion": ">=4.9.8.3",
@@ -701,7 +701,7 @@
     ],
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "True"
   }
 ]
