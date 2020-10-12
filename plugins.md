@@ -37,6 +37,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
+| karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | Dragon | Visibility | Allows you to hide players, pets and chocobos.
 Includes VoidList, which is a better blacklist.
 Accessible via /pvis
