@@ -668,13 +668,13 @@
     "Name": "Remind Me",
     "Description": "Cooldown and Status tracking.\n/remindme",
     "InternalName": "RemindMe",
-    "AssemblyVersion": "0.0.1.7",
+    "AssemblyVersion": "0.0.1.8",
     "RepoUrl": "https://github.com/Caraxi/RemindMe",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.1.7",
+    "TestingAssemblyVersion": "0.0.1.8",
     "IsTestingExclusive": "True"
   },
   {
