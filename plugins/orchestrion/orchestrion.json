@@ -3,7 +3,7 @@
   "Name": "Orchestrion Plugin",
   "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
   "InternalName": "orchestrion",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "1.2.1.1",
   "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
   "ApplicableVersion": "any",
   "Tags": ["bgm", "music"],
