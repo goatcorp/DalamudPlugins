@@ -621,6 +621,19 @@
     "DownloadCount": 0
   },
   {
+    "Author": "ascclemens",
+    "Name": "XIVChat Server",
+    "Description": "Allows you to use various XIVChat clients to chat in FFXIV from anywhere!",
+    "InternalName": "XIVChat",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://sr.ht/~jkcclemens/xivchat",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0
+  },
+  {
     "Author": "attick",
     "Name": "XIV Combo",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
