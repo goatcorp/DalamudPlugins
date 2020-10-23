@@ -42,7 +42,6 @@ Use the settings button below or the /pbrowser command to configure. |
 Includes VoidList, which is a better blacklist.
 Accessible via /pvis
 More information available via /xlhelp |
-| Haplo064 | VoidList | Completely removes chosen players from your game. |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Haplo064 | Where's WOLdo | Text overlay of current location name. |
 | ascclemens | XIVChat Server | Allows you to use various XIVChat clients to chat in FFXIV from anywhere! |
