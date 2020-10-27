@@ -13,7 +13,7 @@ Use the settings button below or the /pbrowser command to configure. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
-| perchbird | Damage Info Plugin | Configurable UI options for damage fly text. /dmginfo displays the config. |
+| perchbird | Damage Info Plugin | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
