@@ -3,7 +3,7 @@
   "Name": "Damage Info Plugin",
   "Description": "Configurable UI options for extra damage information. /dmginfo displays the config.",
   "InternalName": "DamageInfoPlugin",
-  "AssemblyVersion": "1.3.2",
+  "AssemblyVersion": "1.3.3",
   "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
   "ApplicableVersion": "any",
   "Tags": ["damage", "flytext", "UI"],
