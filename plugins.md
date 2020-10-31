@@ -34,6 +34,17 @@ Use the settings button below or the /pbrowser command to configure. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | perchbird | PrefPro | Changes in-game references to your desired gender. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
+| Caraxi | Simple Tweaks | Collection of simple ideas that are too small to warrent their own plugin.
+/tweaks to open the config
+Tweaks:
+ - Lock chat size and position
+ - Show exact percentage for item durability and spiritbond
+ - Show current desynthesis level on desythable items.
+- Disable title screen movie
+- Copy item name with CTRL-C
+- Show average item level when examining other players.
+- Command to open character directory
+ - Command to change tooltip settings. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
