@@ -37,13 +37,13 @@ Use the settings button below or the /pbrowser command to configure. |
 | Caraxi | Simple Tweaks | Collection of simple ideas that are too small to warrent their own plugin.
 /tweaks to open the config
 Tweaks:
- - Lock chat size and position
- - Show exact percentage for item durability and spiritbond
- - Show current desynthesis level on desythable items.
-- Disable title screen movie
-- Copy item name with CTRL-C
-- Show average item level when examining other players.
-- Command to open character directory
+ - Lock chat size and position.
+ - Show exact percentage for item durability and spiritbond.
+ - Show current desynthesis level on desynthable items.
+ - Disable title screen movie.
+ - Copy item name with CTRL-C.
+ - Show average item level when examining other players.
+ - Command to open character directory.
  - Command to change tooltip settings. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
