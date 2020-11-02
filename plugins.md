@@ -7,8 +7,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 |---------------|---------------|-----------------|
 | Haplo064 | Accurate CountDown | Shows the current countdown time. |
 | Caraxi | Adventurer in Need | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
-| ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.
-Use the settings button below or the /pbrowser command to configure. |
+| ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the /pbrowser command to configure. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
@@ -34,25 +33,12 @@ Use the settings button below or the /pbrowser command to configure. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | perchbird | PrefPro | Changes in-game references to your desired gender. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
-| Caraxi | Simple Tweaks | Collection of simple ideas that are too small to warrent their own plugin.
-/tweaks to open the config
-Tweaks:
- - Lock chat size and position.
- - Show exact percentage for item durability and spiritbond.
- - Show current desynthesis level on desynthable items.
- - Disable title screen movie.
- - Copy item name with CTRL-C.
- - Show average item level when examining other players.
- - Command to open character directory.
- - Command to change tooltip settings. |
+| Caraxi | Simple Tweaks | Collection of simple ideas that are too small to warrent their own plugin.<br>/tweaks to open the config<br>Tweaks:<br> - Lock chat size and position.<br> - Show exact percentage for item durability and spiritbond.<br> - Show current desynthesis level on desynthable items.<br> - Disable title screen movie.<br> - Copy item name with CTRL-C.<br> - Show average item level when examining other players.<br> - Command to open character directory.<br> - Command to change tooltip settings. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
-| Dragon | Visibility | Allows you to hide players, pets and chocobos.
-Includes VoidList, which is a better blacklist.
-Accessible via /pvis
-More information available via /xlhelp |
+| Dragon | Visibility | Allows you to hide players, pets and chocobos.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Haplo064 | Where's WOLdo | Text overlay of current location name. |
 | ascclemens | XIVChat Server | Allows you to use various XIVChat clients to chat in FFXIV from anywhere! |
