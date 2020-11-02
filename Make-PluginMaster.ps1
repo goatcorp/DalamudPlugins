@@ -21,7 +21,7 @@ Foreach-Object {
     	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
         
         $newDesc = $content.Description -replace "\n", "<br>"
-    	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
+    	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $newDesc + " |`n"
     }
 
     $testingPath = Join-Path $thisPath -ChildPath "testing" | Join-Path -ChildPath $content.InternalName | Join-Path -ChildPath $_.Name
