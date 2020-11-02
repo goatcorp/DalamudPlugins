@@ -19,6 +19,8 @@ Foreach-Object {
     else
     {
     	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
+        
+        $newDesc = $content.Description -replace "\n", "<br>"
     	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
