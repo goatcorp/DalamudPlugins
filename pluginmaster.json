@@ -420,9 +420,9 @@
   {
     "Author": "perchbird",
     "Name": "PrefPro",
-    "Description": "Changes in-game references to your desired gender. /prefpro for the menu.",
+    "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
     "InternalName": "PrefPro",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/lmcintyre/prefpro",
     "ApplicableVersion": "any",
     "Tags": [
@@ -432,7 +432,6 @@
     ],
     "DalamudApiLevel": 1,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 605
   },
