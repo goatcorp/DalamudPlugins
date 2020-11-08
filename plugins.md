@@ -13,6 +13,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
 | goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
+| goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info Plugin | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
