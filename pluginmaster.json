@@ -129,25 +129,6 @@
     "DownloadCount": 0
   },
   {
-    "Author": "goat",
-    "Name": "Hey Dalamud!",
-    "Description": "The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!\nJust say \"Hey Dalamud, help me!\" to learn more.",
-    "InternalName": "DalamudVox",
-    "AssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/goaaats/dalamudvox",
-    "ApplicableVersion": "any",
-    "DalamudApplicableVersion": ">=4.9.8.3",
-    "DalamudApiLevel": "1",
-    "Tags": [
-      "voice",
-      "amazing",
-      "intelligent"
-    ],
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0
-  },
-  {
     "Author": "perchbird",
     "Name": "Damage Info Plugin",
     "Description": "Configurable UI options for extra damage information. /dmginfo displays the config.",
