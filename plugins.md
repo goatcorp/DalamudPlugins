@@ -30,7 +30,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | goat | OwO | This plugin uwu's your chat. |
 | ascclemens | Peeping Tom | Shows who is or was targeting you. /ptom |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
-| karashiiro | PingPlugin | A ping display plugin for Dalamud (Does not work with Mudfish FastConnect). |
+| karashiiro | PingPlugin | A ping display plugin for Dalamud. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | perchbird | PrefPro | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
