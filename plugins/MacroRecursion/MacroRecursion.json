@@ -3,9 +3,9 @@
   "Name": "MacroRecursion",
   "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
   "InternalName": "MacroRecursion",
-  "AssemblyVersion": "1.1.2.0",
+  "AssemblyVersion": "1.1.2.1",
   "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
   "ApplicableVersion": "any",
   "Tags": ["Macro"],
-  "DalamudApiLevel": 1
+  "DalamudApiLevel": 2
 }
