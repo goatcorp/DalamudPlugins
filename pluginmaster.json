@@ -717,13 +717,13 @@
     "Name": "Fantasy Player",
     "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
     "InternalName": "FantasyPlayer.Dalamud",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.2.0",
     "RepoUrl": "https://github.com/BiscuitUmU/FantasyPlayer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.1.0",
+    "TestingAssemblyVersion": "1.2.2.0",
     "IsTestingExclusive": "True"
   },
   {
