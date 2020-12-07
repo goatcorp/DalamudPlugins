@@ -3,10 +3,9 @@
     "Name": "PriceCheck",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.51",
+    "AssemblyVersion": "1.0.54",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": ["price", "marketboard", "items"],
     "ApplicableVersion": "any",
-    "DalamudApplicableVersion": ">=5.1.0.2",
-    "DalamudApiLevel": "1"
+    "DalamudApiLevel": "2"
 }
