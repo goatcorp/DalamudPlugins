@@ -3,8 +3,8 @@
   "Name": "Simple Tweaks",
   "Description": "Collection of simple ideas that are too small to warrent their own plugin.\n/tweaks to open the config\nTweaks:\n - Lock chat size and position.\n - Show exact percentage for item durability and spiritbond.\n - Show current desynthesis level on desynthable items.\n - Disable title screen movie.\n - Copy item name with CTRL-C.\n - Show average item level when examining other players.\n - Command to open character directory.\n - Command to change tooltip settings.",
   "InternalName": "SimpleTweaksPlugin",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.1.0",
   "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 1
+  "DalamudApiLevel": 2
 }
