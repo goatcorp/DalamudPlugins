@@ -23,10 +23,10 @@
     "Name": "Adventurer in Need",
     "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
     "InternalName": "AdventurerInNeed",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2498
@@ -133,7 +133,7 @@
     "Name": "Damage Info Plugin",
     "Description": "Configurable UI options for extra damage information. /dmginfo displays the config.",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.3.3",
+    "AssemblyVersion": "1.3.4",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -141,7 +141,7 @@
       "flytext",
       "UI"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6362
@@ -151,14 +151,14 @@
     "Name": "FPS Plugin",
     "Description": "Display game FPS. /pfps to open config",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.4.0.3",
+    "AssemblyVersion": "1.4.0.4",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
     "ApplicableVersion": "any",
     "Tags": [
       "FPS",
       "Monitor"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4241
@@ -207,7 +207,7 @@
     "Name": "Item Search Plugin",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.7.1.2",
+    "AssemblyVersion": "1.7.2.0",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -219,7 +219,7 @@
       "Link",
       "Fitting Room"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 7850
@@ -250,13 +250,13 @@
     "Name": "MacroRecursion",
     "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
     "InternalName": "MacroRecursion",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.2.1",
     "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
     "ApplicableVersion": "any",
     "Tags": [
       "Macro"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2213
@@ -384,7 +384,7 @@
     "Name": "Penny Pincher",
     "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
     "ApplicableVersion": "any",
     "Tags": [
@@ -393,7 +393,7 @@
       "penny",
       "clipboard"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4993
@@ -442,7 +442,7 @@
     "Name": "PrefPro",
     "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
     "InternalName": "PrefPro",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "RepoUrl": "https://github.com/lmcintyre/prefpro",
     "ApplicableVersion": "any",
     "Tags": [
@@ -450,7 +450,7 @@
       "text",
       "parsing"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 849
@@ -460,7 +460,7 @@
     "Name": "PriceCheck",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.51",
+    "AssemblyVersion": "1.0.54",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": [
       "price",
@@ -468,8 +468,7 @@
       "items"
     ],
     "ApplicableVersion": "any",
-    "DalamudApplicableVersion": ">=5.1.0.2",
-    "DalamudApiLevel": "1",
+    "DalamudApiLevel": "2",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4940
@@ -479,10 +478,10 @@
     "Name": "Simple Tweaks",
     "Description": "Collection of simple ideas that are too small to warrent their own plugin.\n/tweaks to open the config\nTweaks:\n - Lock chat size and position.\n - Show exact percentage for item durability and spiritbond.\n - Show current desynthesis level on desynthable items.\n - Disable title screen movie.\n - Copy item name with CTRL-C.\n - Show average item level when examining other players.\n - Command to open character directory.\n - Command to change tooltip settings.",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
@@ -508,6 +507,19 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4156
+  },
+  {
+    "Author": "Sonar Team",
+    "Name": "Sonar",
+    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure",
+    "InternalName": "SonarPlugin",
+    "AssemblyVersion": "0.1.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.1.0.11",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0
   },
   {
     "Author": "karashiiro",
@@ -590,9 +602,9 @@
       "QoL"
     ],
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.2.2",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 46
@@ -621,7 +633,7 @@
     "Name": "Waymark Preset Plugin",
     "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.2.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -630,7 +642,7 @@
       "Preset",
       "Tool"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
@@ -739,19 +751,6 @@
     "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.9",
-    "IsTestingExclusive": "True"
-  },
-  {
-    "Author": "Sonar Team",
-    "Name": "Sonar",
-    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure",
-    "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.0.11",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "True"
   }
 ]
