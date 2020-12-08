@@ -756,19 +756,5 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.2.4.0",
     "IsTestingExclusive": "True"
-  },
-  {
-    "Author": "Caraxi",
-    "Name": "Remind Me",
-    "Description": "Cooldown and Status tracking.\n/remindme",
-    "InternalName": "RemindMe",
-    "AssemblyVersion": "0.0.1.9",
-    "RepoUrl": "https://github.com/Caraxi/RemindMe",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.1.9",
-    "IsTestingExclusive": "True"
   }
 ]
