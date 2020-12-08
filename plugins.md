@@ -33,6 +33,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | perchbird | PrefPro | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
+| Caraxi | Simple Tweaks | Collection of simple ideas that are too small to warrent their own plugin.<br>/tweaks to open the config<br>Tweaks:<br> - Lock chat size and position.<br> - Show exact percentage for item durability and spiritbond.<br> - Show current desynthesis level on desynthable items.<br> - Disable title screen movie.<br> - Copy item name with CTRL-C.<br> - Show average item level when examining other players.<br> - Command to open character directory.<br> - Command to change tooltip settings. |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
