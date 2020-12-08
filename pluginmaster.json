@@ -682,9 +682,9 @@
   {
     "Author": "attick",
     "Name": "XIV Combo",
-    "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+    "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.0.3.6",
+    "AssemblyVersion": "1.0.3.7",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
