@@ -16,7 +16,6 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info Plugin | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
-| ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
 | Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
 | Haplo064 | Job Icons | Enable icons for player jobs instead of nameplates. |
