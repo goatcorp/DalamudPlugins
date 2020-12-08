@@ -5,7 +5,7 @@
     "Description": "Shows the current countdown time.",
     "Tags": [ "Combat", "Countdown", "Timer", "UI"],
 	"RepoUrl": "https://github.com/Haplo064/Europe",
-    "AssemblyVersion": "1.0.2.2",
+    "AssemblyVersion": "1.0.3.0",
 	"ApplicableVersion": "any",
-	"DalamudApiLevel": 1
+	"DalamudApiLevel": 2
 }
