@@ -117,12 +117,12 @@
     "Name": "Discord Rich Presence",
     "Description": "This plugin allows you to set up chat triggers.",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.5.0.2",
     "ApplicableVersion": "any",
     "Tags": [
       "Discord"
     ],
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2676
