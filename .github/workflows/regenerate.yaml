@@ -1,9 +1,16 @@
 name: Regenerate PluginMaster
-on: [push]
+on:
+  page_build:
+  workflow_run:
+    workflows: ["Update download counts"]
+    types: 
+      - completed
+  workflow_dispatch:
 
 jobs:
   generate:
     name: Regenerate PluginMaster
+    if: github.repository == 'goatcorp/DalamudPlugins'
     runs-on: windows-2019
     steps:
       - name: Extract branch name

@@ -1,0 +1,10 @@
+﻿{
+    "Author": "ascclemens",
+    "Name": "NoSoliciting",
+    "Description": "Hides RMT in chat and the party finder. /prmt",
+    "InternalName": "NoSoliciting",
+    "AssemblyVersion": "1.4.7",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2
+}

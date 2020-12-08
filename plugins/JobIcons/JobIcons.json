@@ -1,0 +1,11 @@
+{
+    "Author": "Haplo064",
+    "Name": "Job Icons",
+    "InternalName": "JobIcons",
+    "Description": "Enable icons for player jobs instead of nameplates.",
+    "Tags": [ "Icon", "Role", "Job", "Nameplate", "Replace", "UI"],
+	"RepoUrl": "https://github.com/Haplo064/JobIcons",
+    "AssemblyVersion": "1.0.1.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 1
+}

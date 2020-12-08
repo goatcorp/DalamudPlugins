@@ -3,8 +3,9 @@
   "Name": "Waymark Preset Plugin",
   "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
   "InternalName": "WaymarkPresetPlugin",
-  "AssemblyVersion": "0.9.0.1",
+  "AssemblyVersion": "1.1.2.0",
   "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 1
+  "Tags": [ "Waymark", "Marker", "Preset", "Tool" ],
+  "DalamudApiLevel": 2
 }
