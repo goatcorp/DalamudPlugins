@@ -5,7 +5,7 @@
 	"Description": "Adds an indicator of your hitbox.",
 	"Tags": ["Hitbox", "Overlay", "Indicator"],
 	"RepoUrl": "https://github.com/Haplo064/PixelPerfect",
-	"AssemblyVersion": "1.2.0.1",
+	"AssemblyVersion": "1.2.0.2",
 	"ApplicableVersion": "any",
-	"DalamudApiLevel": 1
+	"DalamudApiLevel": 2
 }
