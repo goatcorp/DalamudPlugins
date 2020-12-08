@@ -1,10 +1,10 @@
 ﻿{
     "Author": "ascclemens",
     "Name": "XIVChat Server",
-    "Description": "Allows you to use various XIVChat clients to chat in FFXIV from anywhere!",
+    "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from different devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.2.0",
-    "RepoUrl": "https://sr.ht/~jkcclemens/xivchat",
+    "AssemblyVersion": "1.3.0",
+    "RepoUrl": "https://xiv.chat/",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1
+    "DalamudApiLevel": 2
 }
