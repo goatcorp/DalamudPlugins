@@ -1,11 +1,11 @@
 {
 	"Author": "attick",
 	"Name": "Mouseover Action",
-	"Description": "This plugin allows for macro-like use of actions without any macro delay.",
+	"Description": "This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI",
 	"InternalName": "MOAction",
-	"AssemblyVersion": "2.2.1.13",
+	"AssemblyVersion": "2.2.1.14",
 	"ApplicableVersion": "2020.10.21.0001.0000",
 	"RepoUrl":"https://github.com/attickdoor/MOActionPlugin",
 	"Tags":["Mouseover", "Macro"],
-	"DalamudApiLevel":1
+	"DalamudApiLevel":2
 }
