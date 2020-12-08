@@ -500,7 +500,7 @@
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
-    "IsHide": "False",
+    "IsHide": "True",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 0
