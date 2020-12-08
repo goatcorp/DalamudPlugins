@@ -3,8 +3,8 @@
   "Name": "Teleporter",
   "Description": "Chat Commands for teleporting to Aetherytes. /tp for help",
   "InternalName": "TeleporterPlugin",
-  "AssemblyVersion": "1.0.1.4",
+  "AssemblyVersion": "1.0.1.5",
   "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 1
+  "DalamudApiLevel": 2
 }
