@@ -3,8 +3,8 @@
     "Name": "Peeping Tom",
     "Description": "Shows who is or was targeting you. /ptom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.5.1",
+    "AssemblyVersion": "1.5.2",
     "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1
+    "DalamudApiLevel": 2
 }

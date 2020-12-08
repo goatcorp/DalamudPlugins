@@ -3,8 +3,8 @@
     "Name": "Globetrotter",
     "Description": "Automatically shows where treasure maps are located. /pglobetrotter /tmap",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.1.0",
+    "AssemblyVersion": "1.1.1",
     "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1
+    "DalamudApiLevel": 2
 }
