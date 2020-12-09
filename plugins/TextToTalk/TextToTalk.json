@@ -1,8 +1,8 @@
 {
   "ApplicableVersion": "any",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.2.0",
   "Author": "karashiiro",
-  "DalamudApiLevel": "1",
+  "DalamudApiLevel": "2",
   "DalamudApplicableVersion": ">=4.9.8.3",
   "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
   "InternalName": "TextToTalk",
