@@ -38,6 +38,10 @@ Foreach-Object {
     }
     $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
+    $internalName = $content.InternalName
+    $updateDate = git log -1 --pretty="format:%ct" plugins/$internalName/latest.zip
+    $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
+
     $output.Add($content)
 }
 
@@ -61,6 +65,10 @@ Foreach-Object {
     {
         $content | add-member -Name "TestingAssemblyVersion" -value $content.AssemblyVersion -MemberType NoteProperty
         $content | add-member -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
+
+        $internalName = $content.InternalName
+        $updateDate = git log -1 --pretty="format:%ct" testing/$internalName/latest.zip
+        $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
     
         $output.Add($content)
     }
