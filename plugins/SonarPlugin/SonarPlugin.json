@@ -1,9 +1,10 @@
 {
-    "Author": "Sonar Team",
-    "Name": "Sonar",
-    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure",
-    "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.1.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2
+  "Author": "Sonar Team",
+  "Name": "Sonar",
+  "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source.",
+  "InternalName": "SonarPlugin",
+  "AssemblyVersion": "0.1.1.1",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 2,
+  "RepoUrl": "https://discord.gg/K7y24Rr"
 }
