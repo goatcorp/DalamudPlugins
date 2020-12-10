@@ -561,16 +561,17 @@
   {
     "Author": "Sonar Team",
     "Name": "Sonar",
-    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure",
+    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source.",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
+    "RepoUrl": "https://discord.gg/K7y24Rr",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1607349102"
+    "LastUpdate": "1607608053"
   },
   {
     "Author": "karashiiro",
