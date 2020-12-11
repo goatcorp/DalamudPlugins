@@ -160,7 +160,7 @@
     "Name": "Damage Info Plugin",
     "Description": "Configurable UI options for extra damage information. /dmginfo displays the config.",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.3.4",
+    "AssemblyVersion": "1.3.5",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -172,7 +172,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 7412,
-    "LastUpdate": "1607121911"
+    "LastUpdate": "1607659697"
   },
   {
     "Author": "Caraxi",
@@ -211,14 +211,14 @@
     "Name": "Good Memory",
     "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "InternalName": "GoodMemory",
-    "AssemblyVersion": "1.0.3",
+    "AssemblyVersion": "1.0.4",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 3425,
-    "LastUpdate": "1607416610"
+    "LastUpdate": "1607657865"
   },
   {
     "Author": "ascclemens",
@@ -731,14 +731,14 @@
     "Name": "XIVChat Server",
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from different devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.3.0",
+    "AssemblyVersion": "1.3.1",
     "RepoUrl": "https://xiv.chat/",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 826,
-    "LastUpdate": "1607416610"
+    "LastUpdate": "1607657550"
   },
   {
     "Author": "attick",
