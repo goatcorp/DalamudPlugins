@@ -3,7 +3,7 @@
   "Name": "ChatCoordinates",
   "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" for more info.",
   "InternalName": "ChatCoordinates",
-  "AssemblyVersion": "1.1.0.1",
+  "AssemblyVersion": "1.1.0.2",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 1
+  "DalamudApiLevel": 2
 }
