@@ -5,6 +5,9 @@ $notInclude = "GoodMemory", "sdafsaf", "XIVStats", "TitleEdit", "VoidList", "asd
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
+$dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}"
+$dlTemplateUpdate = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=True&isTesting={1}"
+
 $thisPath = Get-Location
 
 $table = ""
@@ -42,6 +45,12 @@ Foreach-Object {
     $updateDate = git log -1 --pretty="format:%ct" plugins/$internalName/latest.zip
     $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
+    $installLink = $dlTemplateInstall -f $internalName, "False"
+    $content | add-member -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
+    
+    $updateLink = $dlTemplateUpdate -f $internalName, "False"
+    $content | add-member -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
+
     $output.Add($content)
 }
 
@@ -69,6 +78,12 @@ Foreach-Object {
         $internalName = $content.InternalName
         $updateDate = git log -1 --pretty="format:%ct" testing/$internalName/latest.zip
         $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
+
+        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $content | add-member -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
+    
+        $updateLink = $dlTemplateUpdate -f $internalName, "True"
+        $content | add-member -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
     
         $output.Add($content)
     }
