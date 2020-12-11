@@ -17,6 +17,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | perchbird | Damage Info Plugin | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
+| ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
 | Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
 | Haplo064 | Job Icons | Enable icons for player jobs instead of nameplates. |
