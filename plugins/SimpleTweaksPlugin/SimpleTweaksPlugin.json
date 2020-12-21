@@ -1,9 +1,9 @@
 ﻿{
     "Author":  "Caraxi",
     "Name":  "Simple Tweaks",
-    "Description":  "Collection of simple ideas that are too small to warrent their own plugin.\nTweaks: [All are optional are disabled by default]\n - Lock chat size and position.\n - Show exact percentage for item durability and spiritbond.\n - Show current desynthesis level on desynthable items.\n - Disable title screen movie.\n - Copy item name with a hotkey.\n - Show average item level when examining other players.\n - Command to open character directory.\n - Command to change tooltip settings.\n - Command to change movement type.\n - Highlight active food stats (Current / Max).\n - Show player item levels when examining them.\n - Remove the \u0027Casting\u0027 text from cast bar.\n - Adjust the positioning of the ability name on target cast bars.\n - Create aliases for commands. (e.g. \u0027/g\u0027 -\u003e \u0027/fc\u0027)",
+    "Description":  "Collection of simple ideas that are too small to warrant their own plugin.\nAvailable Tweaks:\n - General UI Tweaks:\n    - Lock Chat Size and Position.\n    - Show average item level when examining other players.\n    - Remove the \u0027Casting\u0027 text from cast bar.\n    - Adjust the positioning of the ability name on target cast bars.\n    - Adjust the format of the game clocks to your liking.\n    - Remove the \u0027Community Finder\u0027 button from windows.\n    - Hide FC names from player name plates.\n    - Make links in chat clickable.\n - Item Tooltip Tweaks:\n    - Show exact durability and spiritbond.\n    - Show relevant desynthesis level.\n    - Copy item names with a hotkey.\n    - Highlight expected status changes from food.\n    - Show ID of an item on its tooltip.\n - Disable title screen movie.\n - Copy item name with a hotkey.\n - Command to open character directory.\n - Command to change tooltip settings.\n - Command to change movement type.\n - Create aliases for commands. (e.g. \u0027/g\u0027 -\u003e \u0027/fc\u0027)",
     "InternalName":  "SimpleTweaksPlugin",
-    "AssemblyVersion":  "1.2.0.2",
+    "AssemblyVersion":  "1.3.0.0",
     "RepoUrl":  "https://github.com/Caraxi/SimpleTweaksPlugin",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  2
