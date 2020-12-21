@@ -27,6 +27,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | attick | Mouseover Action | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | karashiiro | NeatNoter | A note-taking plugin. |
 | ascclemens | NoSoliciting | Hides RMT in chat and the party finder. /prmt |
+| Ava (Forairan) | Oops, All Lalafells! | Turn everyone into Lalafells! (Note: If disabling this plugin, you need to switch zones to restore everyone to their original race.) |
 | meli | Orchestrion Plugin | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | goat | OwO | This plugin uwu's your chat. |
 | ascclemens | Peeping Tom | Shows who is or was targeting you. /ptom |
