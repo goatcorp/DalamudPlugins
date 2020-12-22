@@ -465,7 +465,7 @@
     "Name": "Oops, All Lalafells!",
     "Description": "Turn everyone into Lalafells! (Note: If disabling this plugin, you need to switch zones to restore everyone to their original race.)",
     "InternalName": "OopsAllLalafells",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.2",
     "RepoUrl": "https://github.com/forairan/OopsAllLalafells",
     "ApplicableVersion": "any",
     "DalamudApplicableVersion": ">=4.9.8.3",
@@ -479,7 +479,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1608501217",
+    "LastUpdate": "1608597269",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=True&isTesting=False"
