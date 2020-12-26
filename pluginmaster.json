@@ -453,6 +453,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.5.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 10626,
     "LastUpdate": "1607416610",
@@ -613,7 +614,7 @@
     "Name": "PrefPro",
     "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
     "InternalName": "PrefPro",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "RepoUrl": "https://github.com/lmcintyre/prefpro",
     "ApplicableVersion": "any",
     "Tags": [
@@ -625,7 +626,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1234,
-    "LastUpdate": "1607122282",
+    "LastUpdate": "1608965284",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=True&isTesting=False"
