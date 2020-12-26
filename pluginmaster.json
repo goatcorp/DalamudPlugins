@@ -653,6 +653,23 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "UnknownX",
+    "Name": "QoL Bar",
+    "Description": "A plugin designed to provide a simple, customizable and always available interface for chat commands\nor other plugins to alleviate the need for using macros and hotbar space to achieve similar results.\n\nThe plugin should initially appear as a small box on the bottom center of the game window.",
+    "InternalName": "QoLBar",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/UnknownX7/QoLBar",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1608877133",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Remind Me",
     "Description": "Cooldown and Status tracking.\n/remindme",
@@ -735,7 +752,7 @@
     "Name": "SoundSetter",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.2.0.0",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
     "ApplicableVersion": "any",
     "DalamudApplicableVersion": ">=4.9.8.3",
@@ -749,7 +766,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3030,
-    "LastUpdate": "1607453487",
+    "LastUpdate": "1608854618",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False"
