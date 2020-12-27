@@ -735,7 +735,7 @@
     "Name": "Sonar",
     "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source.",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.2.1",
+    "AssemblyVersion": "0.1.2.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "RepoUrl": "https://discord.gg/K7y24Rr",
@@ -743,7 +743,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1608769187",
+    "LastUpdate": "1608996205",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False"
