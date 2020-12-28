@@ -1,10 +1,10 @@
-﻿{
-    "Author": "ascclemens",
-    "Name": "NoSoliciting",
-    "Description": "Customisable chat and Party Finder filtering. In addition to letting you filter anything from chat and PF, it comes with built-in filters for the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Any PF with an item level over the max\n\nNow with experimental machine learning!",
-    "InternalName": "NoSoliciting",
-    "AssemblyVersion": "1.5.1",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2
+{
+  "Author": "ascclemens",
+  "Name": "NoSoliciting",
+  "InternalName": "NoSoliciting",
+  "AssemblyVersion": "1.5.2",
+  "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Any PF with an item level over the max\n\nNow with experimental machine learning!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
+  "DalamudApiLevel": 2
 }
