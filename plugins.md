@@ -16,7 +16,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info Plugin | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | BiscuitUmU | Fantasy Player | Control Spotify playback from within FFX|V<br>Use the button below to open settings or use the '/pfp settings' command. |
-| Caraxi | FPS Plugin | Display game FPS. /pfps to open config |
+| Caraxi | FPS Plugin | Display game FPS. |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
@@ -31,7 +31,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Ava (Forairan) | Oops, All Lalafells! | Turn everyone into Lalafells! (Note: If disabling this plugin, you need to switch zones to restore everyone to their original race.) |
 | meli | Orchestrion Plugin | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | goat | OwO | This plugin uwu's your chat. |
-| ascclemens | Peeping Tom | Shows who is or was targeting you. /ptom |
+| ascclemens | Peeping Tom | Shows who is currently or previously was targeting you. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
