@@ -40,6 +40,28 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "Ms.Tress",
+    "Name": "AetherSense",
+    "Description": "Elevate your gaming experience to gaming euphoria with integrated intimates",
+    "InternalName": "AetherSense",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ms-Tress/AetherSense",
+    "Tags": [
+      "Ms.Tress",
+      "Intimate",
+      "Toys"
+    ],
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1609504605",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "ackwell",
     "Name": "Browser Host",
     "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the /pbrowser command to configure.",
