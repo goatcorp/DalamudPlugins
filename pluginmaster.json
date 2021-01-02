@@ -44,9 +44,9 @@
     "Name": "AetherSense",
     "Description": "Elevate your gaming experience to gaming euphoria with integrated intimates",
     "InternalName": "AetherSense",
-    "AssemblyVersion": "1.0.0.1",
-    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.0.2",
     "RepoUrl": "https://github.com/Ms-Tress/AetherSense",
+    "ApplicableVersion": "any",
     "Tags": [
       "Ms.Tress",
       "Intimate",
@@ -56,7 +56,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 160,
-    "LastUpdate": "1609504605",
+    "LastUpdate": "1609568007",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False"
@@ -471,7 +471,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.5.2",
+    "TestingAssemblyVersion": "1.5.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 11262,
     "LastUpdate": "1607416610",
@@ -632,7 +632,7 @@
     "Name": "PrefPro",
     "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
     "InternalName": "PrefPro",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.1.0.3",
     "RepoUrl": "https://github.com/lmcintyre/prefpro",
     "ApplicableVersion": "any",
     "Tags": [
@@ -644,7 +644,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1302,
-    "LastUpdate": "1608965284",
+    "LastUpdate": "1609562709",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=True&isTesting=False"
