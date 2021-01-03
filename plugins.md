@@ -7,7 +7,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 |---------------|---------------|-----------------|
 | Haplo064 | Accurate CountDown | Shows the current countdown time. |
 | Caraxi | Adventurer in Need | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
-| Ms.Tress | AetherSense | Elevate your gaming experience to gaming euphoria with integrated intimates |
+| Ms.Tress | Aether Sense (18+) | Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. |
 | ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the /pbrowser command to configure. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
