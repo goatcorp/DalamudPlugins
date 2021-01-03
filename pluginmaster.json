@@ -508,7 +508,7 @@
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.2.1.3",
+    "AssemblyVersion": "1.2.1.4",
     "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
     "ApplicableVersion": "any",
     "Tags": [
@@ -519,7 +519,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3650,
-    "LastUpdate": "1608556757",
+    "LastUpdate": "1609641265",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=True&isTesting=False"
