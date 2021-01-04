@@ -42,9 +42,9 @@
   {
     "Author": "Ms.Tress",
     "Name": "Aether Sense (18+)",
-    "Description": "Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware.",
+    "Description": "Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/",
     "InternalName": "AetherSense",
-    "AssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
     "RepoUrl": "https://github.com/Ms-Tress/AetherSense",
     "ApplicableVersion": "any",
     "Tags": [
@@ -56,7 +56,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 739,
-    "LastUpdate": "1609652735",
+    "LastUpdate": "1609745922",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False"
@@ -770,7 +770,7 @@
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.1.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -784,7 +784,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3169,
-    "LastUpdate": "1609555055",
+    "LastUpdate": "1609746740",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False"
