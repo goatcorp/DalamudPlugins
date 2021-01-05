@@ -1,0 +1,12 @@
+{
+  "Author": "Ava (Forairan)",
+  "Name": "Oops, All Lalafells!",
+  "Description": "Turn everyone into Lalafells!",
+  "InternalName": "OopsAllLalafells",
+  "AssemblyVersion": "1.0.3.0",
+  "RepoUrl": "https://git.ava.dev/ava/OopsAllLalafells",
+  "ApplicableVersion": "any",
+  "DalamudApplicableVersion": ">=4.9.8.3",
+  "DalamudApiLevel": "2",
+  "Tags": [ "lalafell", "lala", "lalafells", "oops" ]
+}
