@@ -771,7 +771,7 @@
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.2.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -785,7 +785,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3199,
-    "LastUpdate": "1609746740",
+    "LastUpdate": "1609955108",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False"
@@ -1019,5 +1019,50 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVStats&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVStats&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVStats&isUpdate=True&isTesting=False"
+  },
+  {
+    "Author": "kalilistic",
+    "Name": "PlayerTrack",
+    "Description": "Keep track of players you meet.",
+    "InternalName": "PlayerTrack",
+    "AssemblyVersion": "0.1.12",
+    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+    "Tags": [
+      "players",
+      "track",
+      "orwell"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.12",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1609945766",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=True"
+  },
+  {
+    "Author": "ocealot",
+    "Name": "VFXEditor",
+    "Description": "VFX editor, open with /vfxedit",
+    "InternalName": "VFXEditor",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "VFX",
+      "AVFX"
+    ],
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1609966117",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=True"
   }
 ]
