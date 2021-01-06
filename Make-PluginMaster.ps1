@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'SilentlyContinue'
 
 $output = New-Object Collections.Generic.List[object]
-$notInclude = "vberfgg", "sdafsaf", "XIVStats", "TitleEdit", "VoidList", "asdfsad", "sdfgdfsg", "vrgnddgv";
+$notInclude = "vberfgg", "sdafsaf", "XIVStats", "bffbbf", "VoidList", "asdfsad", "sdfgdfsg", "vrgnddgv";
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
