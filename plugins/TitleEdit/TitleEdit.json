@@ -1,9 +1,10 @@
 {
-	"Author": "attick",
-	"Name": "Title Edit",
-	"Description": "This plugin allows for the title screen to be changed to any expac's title screen.",
-	"InternalName": "TitleEdit",
-	"AssemblyVersion": "1.0.1.2",
-	"ApplicableVersion": "any",
-	"DalamudApiLevel":1
+  "Author": "attick",
+  "Name": "TitleEdit",
+  "InternalName": "TitleEdit",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "This plugin allows for the title screen to be changed to any expac's title screen.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/attickdoor/TitleEditPlugin",
+  "DalamudApiLevel": 2
 }
