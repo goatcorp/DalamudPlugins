@@ -771,7 +771,7 @@
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.4.3.0",
+    "AssemblyVersion": "1.4.4.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -785,7 +785,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3234,
-    "LastUpdate": "1610043241",
+    "LastUpdate": "1610127525",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False"
