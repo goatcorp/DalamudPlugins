@@ -3,7 +3,7 @@
   "Name": "QoL Bar",
   "Description": "A plugin designed to provide a simple, customizable and always available interface for chat commands\nor other plugins to alleviate the need for using macros and hotbar space to achieve similar results.\n\nThe plugin should initially appear as a small box on the bottom center of the game window.",
   "InternalName": "QoLBar",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "1.2.2.0",
   "RepoUrl": "https://github.com/UnknownX7/QoLBar",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 2
