@@ -227,6 +227,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "Strati",
+    "Name": "DeepDungeonDex",
+    "InternalName": "DeepDungeonDex",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)\nShows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.\nThreat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with\ndeep dungeon mechanics and the class being played.\nInformation is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the\nDeep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
+    "DalamudApiLevel": 2,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1610286131",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "BiscuitUmU",
     "Name": "Fantasy Player",
     "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
@@ -1049,7 +1067,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1059,9 +1077,9 @@
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1610046099",
+    "LastUpdate": "1610216638",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=True"
