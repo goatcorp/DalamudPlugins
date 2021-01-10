@@ -50,7 +50,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Dragon | Visibility | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Haplo064 | Where's WOLdo | Text overlay of current location name. |
-| ascclemens | XIVChat Server | XIVChat is a suite of software allowing you to use FFXIV's chat from different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
+| ascclemens | XIVChat Server | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | XIV Combo | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 | Dark | Simple Counter | Simple counter with Mob-specific automation to increment a counter on kill (not instant) |
 
