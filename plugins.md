@@ -47,7 +47,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
-| attick | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
+| attick & perchbird | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
 | Dragon | Visibility | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Haplo064 | Where's WOLdo | Text overlay of current location name. |

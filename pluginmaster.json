@@ -851,19 +851,19 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False"
   },
   {
-    "Author": "attick",
+    "Author": "attick & perchbird",
     "Name": "TitleEdit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.0.1.0",
+    "AssemblyVersion": "2.1.0.0",
     "Description": "Create, share, and shuffle custom title screens for FFXIV.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/attickdoor/TitleEditPlugin",
+    "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
     "DalamudApiLevel": 2,
     "LoadPriority": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 556,
-    "LastUpdate": "1609918024",
+    "LastUpdate": "1610311688",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False"
