@@ -439,8 +439,8 @@
     "Name": "Mouseover Action",
     "Description": "This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.2.1.15",
-    "ApplicableVersion": "2020.12.15.0000.0000",
+    "AssemblyVersion": "2.2.1.16",
+    "ApplicableVersion": "2020.12.29.0000.0000",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
@@ -450,7 +450,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 7344,
-    "LastUpdate": "1608679808",
+    "LastUpdate": "1610471066",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=True&isTesting=False"
@@ -489,7 +489,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.5.4",
+    "TestingAssemblyVersion": "1.5.5",
     "IsTestingExclusive": "False",
     "DownloadCount": 12083,
     "LastUpdate": "1607416610",
@@ -869,6 +869,27 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "ocealot",
+    "Name": "VFXEditor",
+    "Description": "VFX editor, open with /vfxedit",
+    "InternalName": "VFXEditor",
+    "AssemblyVersion": "1.0.3.0",
+    "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "VFX",
+      "AVFX"
+    ],
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1610470044",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "Dragon",
     "Name": "Visibility",
     "InternalName": "Visibility",
@@ -1061,27 +1082,5 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=True"
-  },
-  {
-    "Author": "ocealot",
-    "Name": "VFXEditor",
-    "Description": "VFX editor, open with /vfxedit",
-    "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.0.2.0",
-    "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "VFX",
-      "AVFX"
-    ],
-    "DalamudApiLevel": 2,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1610216638",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=True"
   }
 ]
