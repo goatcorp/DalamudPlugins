@@ -44,7 +44,7 @@
     "Name": "Aether Sense (18+)",
     "Description": "Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/",
     "InternalName": "AetherSense",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.0.6",
     "RepoUrl": "https://github.com/Ms-Tress/AetherSense",
     "ApplicableVersion": "any",
     "Tags": [
@@ -56,7 +56,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1298,
-    "LastUpdate": "1609932571",
+    "LastUpdate": "1610697978",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False"
@@ -875,7 +875,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.4.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -886,7 +886,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1610470044",
+    "LastUpdate": "1610727485",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False"
