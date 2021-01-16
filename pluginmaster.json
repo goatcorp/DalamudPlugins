@@ -84,6 +84,30 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "Haplo064",
+    "Name": "Chat Bubbles",
+    "InternalName": "ChatBubbles",
+    "Description": "Enables in-game chat bubbles.",
+    "Tags": [
+      "UI",
+      "Roleplay",
+      "RP",
+      "Bubbles",
+      "Chat"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": null,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "kij",
     "Name": "ChatCoordinates",
     "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" for more info.",
