@@ -1091,7 +1091,7 @@
     "Name": "PlayerTrack",
     "Description": "Keep track of players you meet.",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "0.1.12",
+    "AssemblyVersion": "0.2.0",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
     "Tags": [
       "players",
@@ -1102,9 +1102,9 @@
     "DalamudApiLevel": "2",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.12",
+    "TestingAssemblyVersion": "0.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1609945766",
+    "LastUpdate": "1610854151",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=True"
