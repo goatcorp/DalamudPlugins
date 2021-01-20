@@ -23,7 +23,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
-| Caraxi | Item Search Plugin | Search for items. Type /xlitem to open search window. |
+| Caraxi | Item Search | Search for items. Type /xlitem to open search window. |
 | Haplo064 | Job Icons | Enable icons for player jobs instead of nameplates. |
 | Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
 | Bluefissure | MapLinker | Automatically record the maplinks in chat and retrieval later. |
@@ -44,7 +44,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | Remind Me | Cooldown and Status tracking.<br>/remindme |
 | Caraxi | Simple Tweaks | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
-| Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source. |
+| Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |

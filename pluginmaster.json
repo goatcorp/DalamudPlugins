@@ -355,26 +355,17 @@
   },
   {
     "Author": "Caraxi",
-    "Name": "Item Search Plugin",
+    "Name": "Item Search",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.7.3.2",
+    "AssemblyVersion": "1.7.4.0",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
-    "Tags": [
-      "Item",
-      "Search",
-      "Lookup",
-      "Tool",
-      "Try On",
-      "Link",
-      "Fitting Room"
-    ],
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10248,
-    "LastUpdate": "1607484196",
+    "LastUpdate": "1611145151",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False"
@@ -795,9 +786,9 @@
   {
     "Author": "Sonar Team",
     "Name": "Sonar",
-    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source.",
+    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.2.2",
+    "AssemblyVersion": "0.1.3.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "RepoUrl": "https://discord.gg/K7y24Rr",
@@ -805,7 +796,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1608996205",
+    "LastUpdate": "1611112795",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False"
@@ -1108,5 +1099,29 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=True"
+  },
+  {
+    "Author": "Avaflow",
+    "Name": "TabTab",
+    "Description": "Customise the behaviour of tab targeting. Use /ptab to open configuration.",
+    "InternalName": "TabTab",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://git.ava.dev/ava/TabTab",
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": ">=4.9.8.3",
+    "DalamudApiLevel": "2",
+    "Tags": [
+      "tab",
+      "target",
+      "custom"
+    ],
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1611017980",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=True&isTesting=True"
   }
 ]
