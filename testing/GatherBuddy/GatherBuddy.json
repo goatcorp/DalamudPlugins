@@ -1,0 +1,10 @@
+﻿{
+    "Author": "Ottermandias",
+    "Name": "GatherBuddy",
+    "Description": "Adds the slash commands /gather [itemname] and /gathergroup [groupname].",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "1.1.0.0",
+    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2
+}
