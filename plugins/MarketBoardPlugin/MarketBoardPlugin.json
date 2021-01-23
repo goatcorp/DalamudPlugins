@@ -3,8 +3,8 @@
   "Name": "Market board",
   "Description": "Browse the market board. /pmb to open.",
   "InternalName": "MarketBoardPlugin",
-  "AssemblyVersion": "0.3.0.5",
+  "AssemblyVersion": "0.3.0.6",
   "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 2 
+  "DalamudApiLevel": 2
 }
