@@ -842,14 +842,12 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=True&isTesting=False"
   },
   {
-    "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.2.0",
     "Author": "karashiiro",
-    "DalamudApiLevel": "2",
-    "DalamudApplicableVersion": ">=4.9.8.3",
-    "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
-    "InternalName": "TextToTalk",
     "Name": "TextToTalk",
+    "InternalName": "TextToTalk",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
+    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
     "Tags": [
       "tts",
@@ -857,11 +855,13 @@
       "triggers",
       "karashiiro"
     ],
+    "DalamudApiLevel": 2,
+    "LoadPriority": 0,
     "IsHide": "False",
     "TestingAssemblyVersion": "0.3.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 662,
-    "LastUpdate": "1607475754",
+    "LastUpdate": "1611388857",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False"
