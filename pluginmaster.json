@@ -980,6 +980,23 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "Azure Gem",
+    "Name": "Window Title Changer",
+    "Description": "Allows you to change your game window title",
+    "InternalName": "WinTitle",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1611179319",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "Haplo064",
     "Name": "Where's WOLdo",
     "InternalName": "WOLdo",
