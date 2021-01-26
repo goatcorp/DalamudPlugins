@@ -5,7 +5,7 @@
     "Description": "Enable icons for player jobs instead of nameplates.",
     "Tags": [ "Icon", "Role", "Job", "Nameplate", "Replace", "UI"],
 	"RepoUrl": "https://github.com/Haplo064/JobIcons",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.1.0",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 2
 }
