@@ -1132,29 +1132,6 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=True&isTesting=True"
   },
   {
-    "Author": "kalilistic",
-    "Name": "PlayerTrack",
-    "Description": "Keep track of players you meet.",
-    "InternalName": "PlayerTrack",
-    "AssemblyVersion": "0.2.13",
-    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
-    "Tags": [
-      "players",
-      "track",
-      "orwell"
-    ],
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "2",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.2.13",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1611633425",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=True"
-  },
-  {
     "Author": "Avaflow",
     "Name": "TabTab",
     "Description": "Customise the behaviour of tab targeting. Use /ptab to open configuration.",
