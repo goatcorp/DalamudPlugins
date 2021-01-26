@@ -384,13 +384,13 @@
       "UI"
     ],
     "RepoUrl": "https://github.com/Haplo064/JobIcons",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "2.0.0.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
+    "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3883,
-    "LastUpdate": "1600401230",
+    "LastUpdate": "1611648099",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
@@ -1136,7 +1136,7 @@
     "Name": "PlayerTrack",
     "Description": "Keep track of players you meet.",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "0.2.12",
+    "AssemblyVersion": "0.2.13",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
     "Tags": [
       "players",
@@ -1147,9 +1147,9 @@
     "DalamudApiLevel": "2",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.2.12",
+    "TestingAssemblyVersion": "0.2.13",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1610908075",
+    "LastUpdate": "1611633425",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=True"
