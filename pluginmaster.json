@@ -96,13 +96,13 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1611412228",
+    "LastUpdate": "1611661817",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=True&isTesting=False"
@@ -384,13 +384,13 @@
       "UI"
     ],
     "RepoUrl": "https://github.com/Haplo064/JobIcons",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3883,
-    "LastUpdate": "1611648099",
+    "LastUpdate": "1611661661",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
