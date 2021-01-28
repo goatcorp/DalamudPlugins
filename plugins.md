@@ -34,7 +34,6 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Ava (Forairan) | Oops, All Lalafells! | Turn everyone into Lalafells! (Note: If disabling this plugin, you need to switch zones to restore everyone to their original race.) |
 | meli | Orchestrion Plugin | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | goat | OwO | This plugin uwu's your chat. |
-| ascclemens | Peeping Tom | Shows who is currently or previously was targeting you. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
