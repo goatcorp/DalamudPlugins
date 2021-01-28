@@ -2,9 +2,10 @@
   "Author": "daemitus",
   "Name": "ezMiniCactpot",
   "InternalName": "MiniCactpotSolver",
-  "AssemblyVersion": "1.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
-  "DalamudApiLevel": 2
+  "DalamudApiLevel": 2,
+  "LoadPriority": 0
 }
