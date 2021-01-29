@@ -371,7 +371,7 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False"
   },
   {
-    "Author": "Haplo064",
+    "Author": "Haplo064, daemitus",
     "Name": "Job Icons",
     "InternalName": "JobIcons",
     "Description": "Enable icons for player jobs instead of nameplates.",
@@ -384,13 +384,13 @@
       "UI"
     ],
     "RepoUrl": "https://github.com/Haplo064/JobIcons",
-    "AssemblyVersion": "2.0.1.0",
+    "AssemblyVersion": "3.0.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4231,
-    "LastUpdate": "1611661661",
+    "LastUpdate": "1611879340",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
@@ -890,7 +890,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.1.1.1",
+    "AssemblyVersion": "1.1.1.2",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -901,7 +901,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1611757339",
+    "LastUpdate": "1611877421",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False"
@@ -1097,17 +1097,17 @@
   {
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
-    "Description": "Adds the slash commands /gather [itemname] and /gathergroup [groupname].",
+    "Description": "Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.",
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1611343630",
+    "LastUpdate": "1611840221",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=True"
