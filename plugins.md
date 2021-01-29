@@ -56,5 +56,4 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Where's WOLdo | Text overlay of current location name. |
 | ascclemens | XIVChat Server | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | XIV Combo | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
-| Dark | Simple Counter | Simple counter with Mob-specific automation to increment a counter on kill (not instant) |
 

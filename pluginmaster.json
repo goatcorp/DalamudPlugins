@@ -1057,44 +1057,6 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False"
   },
   {
-    "Author": "Dark",
-    "Name": "Simple Counter",
-    "Description": "Simple counter with Mob-specific automation to increment a counter on kill (not instant)",
-    "InternalName": "XIVCounter",
-    "AssemblyVersion": "1.1.0.0",
-    "RepoUrl": "https://github.com/DarkView/XIVCounter",
-    "Tags": [
-      "counter",
-      "utility",
-      "tool",
-      "automation"
-    ],
-    "ApplicableVersion": "any",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1592603983",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCounter&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCounter&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCounter&isUpdate=True&isTesting=False"
-  },
-  {
-    "Author": "Emilia",
-    "Name": "XIVStats",
-    "Description": "Tracks statistics of each class you use, including playtime and commendations received",
-    "InternalName": "XIVStats",
-    "AssemblyVersion": "1.2.0.0",
-    "RepoUrl": "https://github.com/thetrueyoshifan/Dalamud.XIVStats",
-    "ApplicableVersion": "any",
-    "IsHide": "True",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1592149854",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVStats&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVStats&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVStats&isUpdate=True&isTesting=False"
-  },
-  {
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
     "Description": "Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.",
