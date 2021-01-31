@@ -371,31 +371,6 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False"
   },
   {
-    "Author": "Haplo064, daemitus",
-    "Name": "Job Icons",
-    "InternalName": "JobIcons",
-    "Description": "Enable icons for player jobs instead of nameplates.",
-    "Tags": [
-      "Icon",
-      "Role",
-      "Job",
-      "Nameplate",
-      "Replace",
-      "UI"
-    ],
-    "RepoUrl": "https://github.com/Haplo064/JobIcons",
-    "AssemblyVersion": "3.0.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 4601,
-    "LastUpdate": "1611879340",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
-  },
-  {
     "Author": "Caraxi",
     "Name": "MacroRecursion",
     "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
