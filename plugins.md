@@ -10,7 +10,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Ms.Tress | Aether Sense (18+) | Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/ |
 | ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the /pbrowser command to configure. |
 | Haplo064 | Chat Bubbles | Enables in-game chat bubbles. |
-| kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" for more info. |
+| kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord and chat on FFXIV remotely. |
