@@ -1,9 +1,9 @@
 ﻿{
   "Author": "kij",
   "Name": "ChatCoordinates",
-  "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" for more info.",
+  "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" or \"/ctp help\" for more info.",
   "InternalName": "ChatCoordinates",
-  "AssemblyVersion": "1.1.0.2",
+  "AssemblyVersion": "1.2.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 2
 }
