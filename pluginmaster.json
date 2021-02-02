@@ -1016,7 +1016,7 @@
     "Name": "XIV Combo",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.0.3.7",
+    "AssemblyVersion": "1.0.3.8",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
@@ -1026,7 +1026,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6478,
-    "LastUpdate": "1607414715",
+    "LastUpdate": "1612279900",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False"
