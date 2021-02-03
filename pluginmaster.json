@@ -371,6 +371,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "haplo, daemitus",
+    "Name": "JobIcons",
+    "InternalName": "JobIcons",
+    "AssemblyVersion": "3.1.0.0",
+    "Description": "Names are dumb, use icons instead.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/haplo064/JobIcons",
+    "DalamudApiLevel": 2,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 4659,
+    "LastUpdate": "1612252382",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "Caraxi",
     "Name": "MacroRecursion",
     "Description": "Execute macros from macros. /runmacro ## [shared] [line]",

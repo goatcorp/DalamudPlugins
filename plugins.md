@@ -24,6 +24,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
 | Caraxi | Item Search | Search for items. Type /xlitem to open search window. |
+| haplo, daemitus | JobIcons | Names are dumb, use icons instead. |
 | Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
 | Bluefissure | MapLinker | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | Market board | Browse the market board. /pmb to open. |
