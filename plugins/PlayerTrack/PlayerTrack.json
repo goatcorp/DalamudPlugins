@@ -1,0 +1,11 @@
+{
+    "Author": "kalilistic",
+    "Name": "PlayerTrack",
+    "Description": "Keep track of players you meet.",
+    "InternalName": "PlayerTrack",
+    "AssemblyVersion": "1.1.31",
+    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+    "Tags": ["players", "track", "orwell"],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2"
+}
