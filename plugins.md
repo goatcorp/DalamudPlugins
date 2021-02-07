@@ -38,6 +38,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
+| kalilistic | PlayerTrack | Keep track of players you meet. |
 | perchbird | PrefPro | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
 | UnknownX | QoL Bar | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |

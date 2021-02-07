@@ -655,6 +655,28 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "kalilistic",
+    "Name": "PlayerTrack",
+    "Description": "Keep track of players you meet.",
+    "InternalName": "PlayerTrack",
+    "AssemblyVersion": "1.1.31",
+    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+    "Tags": [
+      "players",
+      "track",
+      "orwell"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1612653408",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "perchbird",
     "Name": "PrefPro",
     "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
@@ -681,7 +703,7 @@
     "Name": "PriceCheck",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.54",
+    "AssemblyVersion": "1.0.62",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": [
       "price",
@@ -693,7 +715,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9214,
-    "LastUpdate": "1606514182",
+    "LastUpdate": "1612497753",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False"
