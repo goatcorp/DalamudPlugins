@@ -1037,7 +1037,7 @@
     "Author": "ascclemens",
     "Name": "XIVChat Server",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.4.3",
+    "AssemblyVersion": "1.5.0",
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://xiv.chat/",
@@ -1046,7 +1046,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1327,
-    "LastUpdate": "1610386299",
+    "LastUpdate": "1612888182",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=True&isTesting=False"
