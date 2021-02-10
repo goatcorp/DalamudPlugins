@@ -19,7 +19,6 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | perchbird | Damage Info Plugin | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | DeepDungeonDex | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | BiscuitUmU | Fantasy Player | Control Spotify playback from within FFX|V<br>Use the button below to open settings or use the '/pfp settings' command. |
-| Caraxi | FPS Plugin | Display game FPS. |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
@@ -36,6 +35,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | goat | OwO | This plugin uwu's your chat. |
 | ascclemens | Peeping Tom | Shows who is currently or previously was targeting you. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
+| karashiiro | PingPlugin | A ping display plugin for Dalamud. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | kalilistic | PlayerTrack | Keep track of players you meet. |
 | perchbird | PrefPro | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
