@@ -49,7 +49,6 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | attick & perchbird | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
-| ocealot | VFXEditor | VFX editor, open with /vfxedit |
 | Dragon | Visibility | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Azure Gem | Window Title Changer | Allows you to change your game window title |
