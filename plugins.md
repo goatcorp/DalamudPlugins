@@ -37,6 +37,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | goat | OwO | This plugin uwu's your chat. |
 | ascclemens | Peeping Tom | Shows who is currently or previously was targeting you. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
+| karashiiro | PingPlugin | A ping display plugin for Dalamud. |
 | Haplo064 | Pixel Perfect | Adds an indicator of your hitbox. |
 | kalilistic | PlayerTrack | Keep track of players you meet. |
 | perchbird | PrefPro | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
