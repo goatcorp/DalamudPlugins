@@ -885,7 +885,7 @@
     "Author": "attick & perchbird",
     "Name": "TitleEdit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.1.1.0",
+    "AssemblyVersion": "2.1.2.0",
     "Description": "Create, share, and shuffle custom title screens for FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
@@ -895,7 +895,7 @@
     "TestingAssemblyVersion": "2.2.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 2005,
-    "LastUpdate": "1610319958",
+    "LastUpdate": "1612925374",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False"
