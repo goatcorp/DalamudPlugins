@@ -8,7 +8,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Accurate CountDown | Shows the current countdown time. |
 | Caraxi | Adventurer in Need | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | Ms.Tress | Aether Sense (18+) | Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/ |
-| ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the /pbrowser command to configure. |
+| ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
 | Haplo064 | Chat Bubbles | Enables in-game chat bubbles. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
@@ -20,6 +20,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Strati | DeepDungeonDex | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | BiscuitUmU | Fantasy Player | Control Spotify playback from within FFX|V<br>Use the button below to open settings or use the '/pfp settings' command. |
 | Caraxi | FPS Plugin | Display game FPS. |
+| Ottermandias | GatherBuddy | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |

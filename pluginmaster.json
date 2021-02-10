@@ -64,9 +64,9 @@
   {
     "Author": "ackwell",
     "Name": "Browser Host",
-    "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the /pbrowser command to configure.",
+    "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the '/bh config' command to configure.",
     "InternalName": "BrowserHost.Plugin",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.3.0.0",
     "RepoUrl": "https://github.com/ackwell/BrowserHost",
     "ApplicableVersion": "any",
     "Tags": [
@@ -78,7 +78,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4048,
-    "LastUpdate": "1607853802",
+    "LastUpdate": "1612941778",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=True&isTesting=False"
@@ -301,6 +301,23 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=True&isTesting=False"
+  },
+  {
+    "Author": "Ottermandias",
+    "Name": "GatherBuddy",
+    "Description": "Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "1.1.2.0",
+    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1612954108",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=False"
   },
   {
     "Author": "ascclemens",
@@ -892,7 +909,7 @@
     "DalamudApiLevel": 2,
     "LoadPriority": 10,
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.2.0.0",
+    "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 2005,
     "LastUpdate": "1612925374",
@@ -1070,24 +1087,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False"
-  },
-  {
-    "Author": "Ottermandias",
-    "Name": "GatherBuddy",
-    "Description": "Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.",
-    "InternalName": "GatherBuddy",
-    "AssemblyVersion": "1.1.1.1",
-    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.1.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1611930859",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=True"
   },
   {
     "Author": "Chivalrik",
