@@ -43,7 +43,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | perchbird | PrefPro | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | PriceCheck | Quickly price check your items. |
 | UnknownX | QoL Bar | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |
-| Caraxi | Remind Me | Cooldown and Status tracking.<br>/remindme |
+| Caraxi | Remind Me | Cooldown and Status tracking. |
 | Caraxi | Simple Tweaks | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |

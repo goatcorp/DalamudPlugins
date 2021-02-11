@@ -758,16 +758,16 @@
   {
     "Author": "Caraxi",
     "Name": "Remind Me",
-    "Description": "Cooldown and Status tracking.\n/remindme",
+    "Description": "Cooldown and Status tracking.",
     "InternalName": "RemindMe",
-    "AssemblyVersion": "0.0.2.1",
+    "AssemblyVersion": "0.0.3.0",
     "RepoUrl": "https://github.com/Caraxi/RemindMe",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5012,
-    "LastUpdate": "1608213595",
+    "LastUpdate": "1613011732",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=True&isTesting=False"
@@ -922,7 +922,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.1.1.2",
+    "AssemblyVersion": "1.1.2.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -933,7 +933,7 @@
     "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1611877421",
+    "LastUpdate": "1613018475",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False"
