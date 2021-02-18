@@ -282,6 +282,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "ascclemens",
+    "Name": "Expanded Search Info",
+    "InternalName": "ExpandedSearchInfo",
+    "AssemblyVersion": "1.2.0",
+    "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
+    "DalamudApiLevel": 2,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1613692386",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "BiscuitUmU",
     "Name": "Fantasy Player",
     "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
