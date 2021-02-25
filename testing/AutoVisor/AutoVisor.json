@@ -1,0 +1,10 @@
+{
+    "Author": "Ottermandias",
+    "Name": "AutoVisor",
+    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states.",
+    "InternalName": "AutoVisor",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2
+}
