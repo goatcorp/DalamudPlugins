@@ -33,7 +33,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | fmauNeko | Market board | Browse the market board. /pmb to open. |
 | attick | Mouseover Action | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | karashiiro | NeatNoter | A note-taking plugin. |
-| ascclemens | NoSoliciting | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Any PF with an item level over the max |
+| ascclemens | NoSoliciting | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Ava (Forairan) | Oops, All Lalafells! | Turn everyone into Lalafells! (Note: If disabling this plugin, you need to switch zones to restore everyone to their original race.) |
 | meli | Orchestrion Plugin | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | goat | OwO | This plugin uwu's your chat. |
