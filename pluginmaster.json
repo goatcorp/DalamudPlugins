@@ -514,9 +514,10 @@
   {
     "Author": "karashiiro",
     "Name": "NeatNoter",
-    "Description": "A note-taking plugin.",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.2.0",
+    "Description": "A note-taking plugin.",
+    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/NeatNoter",
     "Tags": [
       "note",
@@ -524,13 +525,12 @@
       "tool",
       "overlay"
     ],
-    "ApplicableVersion": "any",
-    "DalamudApplicableVersion": ">=4.9.8.3",
-    "DalamudApiLevel": "2",
+    "DalamudApiLevel": 2,
+    "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3637,
-    "LastUpdate": "1607452871",
+    "LastUpdate": "1614931099",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=True&isTesting=False"
