@@ -1,0 +1,11 @@
+{
+  "Author": "mommothazaz123",
+  "Name": "PaissaHouse",
+  "Description": "Makes note of open houses when viewing a housing ward from an aetheryte.",
+  "InternalName": "autoSweep",
+  "AssemblyVersion": "0.0.1.1",
+  "RepoUrl": "https://github.com/mommothazaz123/FFXIV_AutoSweep",
+  "ApplicableVersion": "2021.02.10.0000.0000",
+  "Tags": ["housing"],
+  "DalamudApiLevel": 2
+}
