@@ -385,6 +385,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "perchbird",
+    "Name": "Housemate",
+    "InternalName": "Housemate",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Displays information about housing fixtures and objects.\n/housemate opens the UI.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lmcintyre/Housemate",
+    "DalamudApiLevel": 2,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1615253200",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "ascclemens",
     "Name": "HudSwap",
     "Description": "Automatically changes your HUD layout for you. /phudswap",
@@ -934,7 +952,7 @@
     "Author": "attick & perchbird",
     "Name": "TitleEdit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.1.2.0",
+    "AssemblyVersion": "2.2.2.0",
     "Description": "Create, share, and shuffle custom title screens for FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
@@ -944,7 +962,7 @@
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 2922,
-    "LastUpdate": "1612925374",
+    "LastUpdate": "1615311494",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False"
