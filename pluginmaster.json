@@ -388,7 +388,7 @@
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Displays information about housing fixtures and objects.\n/housemate opens the UI.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/Housemate",
@@ -397,7 +397,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1615253200",
+    "LastUpdate": "1615403484",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=True&isTesting=False"
