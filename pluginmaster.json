@@ -771,7 +771,7 @@
     "Name": "PriceCheck",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.66",
+    "AssemblyVersion": "1.0.71",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": [
       "price",
@@ -783,7 +783,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11851,
-    "LastUpdate": "1615348469",
+    "LastUpdate": "1615860620",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False"
@@ -1043,7 +1043,7 @@
     "Name": "Waymark Preset Plugin",
     "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.2.0.1",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1057,7 +1057,7 @@
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 3641,
-    "LastUpdate": "1607127176",
+    "LastUpdate": "1615611780",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=True&isTesting=False"
