@@ -771,7 +771,7 @@
     "Name": "PriceCheck",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.71",
+    "AssemblyVersion": "1.0.72",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": [
       "price",
@@ -783,7 +783,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11851,
-    "LastUpdate": "1615860620",
+    "LastUpdate": "1615933015",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False"
