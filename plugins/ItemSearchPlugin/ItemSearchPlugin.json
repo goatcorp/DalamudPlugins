@@ -1,11 +1,10 @@
-{
-  "Author": "Caraxi",
-  "Name": "Item Search Plugin",
-  "Description": "Search for items. Type /xlitem to open search window.",
-  "InternalName": "ItemSearchPlugin",
-  "AssemblyVersion": "1.7.3.2",
-  "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
-  "ApplicableVersion": "any",
-  "Tags": [ "Item", "Search", "Lookup", "Tool", "Try On", "Link", "Fitting Room" ],
-  "DalamudApiLevel": 2 
+﻿{
+    "Author":  "Caraxi",
+    "Name":  "Item Search",
+    "Description":  "Search for items. Type /xlitem to open search window.",
+    "InternalName":  "ItemSearchPlugin",
+    "AssemblyVersion":  "1.7.4.1",
+    "RepoUrl":  "https://github.com/Caraxi/ItemSearchPlugin",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  2
 }
