@@ -25,9 +25,8 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | FPS Plugin | Display game FPS. |
 | Ottermandias | GatherBuddy | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. |
-| ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
+| ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
 | perchbird | Housemate | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
-| ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
 | Caraxi | Item Search | Search for items. Type /xlitem to open search window. |
 | haplo, daemitus | JobIcons | Names are dumb, use icons instead. |
 | Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
