@@ -1,10 +1,11 @@
-﻿{
-    "Author": "ascclemens",
-    "Name": "Globetrotter",
-    "Description": "Automatically shows where treasure maps are located. /pglobetrotter /tmap",
-    "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.1.2",
-    "RepoUrl": "https://sr.ht/~jkcclemens/Globetrotter",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2
+{
+  "Author": "ascclemens",
+  "Name": "Globetrotter",
+  "InternalName": "Globetrotter",
+  "AssemblyVersion": "1.1.3",
+  "Description": "Automatically shows where treasure maps are located.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
+  "DalamudApiLevel": 2,
+  "LoadPriority": 0
 }
