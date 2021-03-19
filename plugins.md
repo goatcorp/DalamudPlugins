@@ -24,7 +24,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | BiscuitUmU | Fantasy Player | Control Spotify playback from within FFX|V<br>Use the button below to open settings or use the '/pfp settings' command. |
 | Caraxi | FPS Plugin | Display game FPS. |
 | Ottermandias | GatherBuddy | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
-| ascclemens | Globetrotter | Automatically shows where treasure maps are located. /pglobetrotter /tmap |
+| ascclemens | Globetrotter | Automatically shows where treasure maps are located. |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item. |
 | perchbird | Housemate | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | ascclemens | HudSwap | Automatically changes your HUD layout for you. /phudswap |
