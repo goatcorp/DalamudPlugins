@@ -1,10 +1,11 @@
-﻿{
-    "Author": "ascclemens",
-    "Name": "Good Memory",
-    "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.",
-    "InternalName": "GoodMemory",
-    "AssemblyVersion": "1.0.4",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2
+{
+  "Author": "ascclemens",
+  "Name": "Good Memory",
+  "InternalName": "GoodMemory",
+  "AssemblyVersion": "1.0.5",
+  "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.\n\nThis indicator is in the item's description near the bottom and only appears for\nitems that are unlockable, such as orchestrion rolls, minions, etc.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
+  "DalamudApiLevel": 2,
+  "LoadPriority": 0
 }
