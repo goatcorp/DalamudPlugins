@@ -19,3 +19,9 @@ It should also contain a zip called "latest.zip" containing your plugin DLL, dep
 When the AssemblyVersion of the locally installed plugin doesn't match the "AssemblyVersion" field of the plugin definition json pushed to this repository, a redownload of the plugin is forced.
 
 For a sample of this, please see my [sample plugin](https://github.com/goatcorp/DalamudPlugins/blob/master/plugins/owofy).
+
+### Plugin testing
+
+When releasing a new plugin or making bigger changes, please PR your plugin inside the ``testing`` folder on this repository first - this lets users that opt into receiving testing releases see the plugin in their installer. You can join our [Discord server](https://discord.gg/3NMcUV5) to make an announcement in our testers channel.
+
+This should usually not take more than a week - but it helps weeding out bigger issues that could cause crashes or prevent the plugin from being updated.
