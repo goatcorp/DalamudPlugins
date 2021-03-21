@@ -461,6 +461,27 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
   },
   {
+    "Author": "kalilistic",
+    "Name": "Kapture",
+    "Description": "Track your loot.",
+    "InternalName": "Kapture",
+    "AssemblyVersion": "1.0.39",
+    "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
+    "Tags": [
+      "loot",
+      "track"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1616360129",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=True&isTesting=False"
+  },
+  {
     "Author": "Caraxi",
     "Name": "MacroRecursion",
     "Description": "Execute macros from macros. /runmacro ## [shared] [line]",

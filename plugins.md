@@ -29,6 +29,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | perchbird | Housemate | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | Caraxi | Item Search | Search for items. Type /xlitem to open search window. |
 | haplo, daemitus | JobIcons | Names are dumb, use icons instead. |
+| kalilistic | Kapture | Track your loot. |
 | Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
 | Bluefissure | MapLinker | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | Market board | Browse the market board. /pmb to open. |
