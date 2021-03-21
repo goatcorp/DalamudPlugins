@@ -66,7 +66,7 @@
     "Name": "PaissaHouse",
     "Description": "Makes note of open houses when viewing a housing ward from an aetheryte.",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "0.0.2.2",
+    "AssemblyVersion": "0.0.2.3",
     "RepoUrl": "https://github.com/mommothazaz123/FFXIV_AutoSweep",
     "ApplicableVersion": "any",
     "Tags": [
@@ -76,7 +76,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1615666695",
+    "LastUpdate": "1616270493",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=False"
