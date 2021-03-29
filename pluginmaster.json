@@ -465,7 +465,7 @@
     "Name": "Kapture",
     "Description": "Track your loot.",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.0.39",
+    "AssemblyVersion": "1.0.55",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
     "Tags": [
       "loot",
@@ -476,7 +476,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1616360129",
+    "LastUpdate": "1616978766",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=True&isTesting=False"
