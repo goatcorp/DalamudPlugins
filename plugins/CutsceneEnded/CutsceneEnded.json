@@ -1,1 +1,10 @@
-
+﻿{
+	"Author": "Eternita",
+	"Name": "Cutscene Ended",
+	"Description": "Notifies you about cutscenes ending when the game is not active.",
+	"InternalName": "CutsceneEnded",
+	"AssemblyVersion": "1.0.0.0",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/Eternita-S/CutsceneEnded",
+	"DalamudApiLevel": 2
+}
