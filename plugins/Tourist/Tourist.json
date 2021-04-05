@@ -2,9 +2,9 @@
   "Author": "ascclemens",
   "Name": "Tourist",
   "InternalName": "Tourist",
-  "AssemblyVersion": "1.2.1",
+  "AssemblyVersion": "1.2.2",
   "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 2,
+  "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
