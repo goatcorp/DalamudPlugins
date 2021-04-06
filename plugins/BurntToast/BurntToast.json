@@ -1,0 +1,11 @@
+{
+  "Author": "ascclemens",
+  "Name": "Burnt Toast",
+  "InternalName": "BurntToast",
+  "AssemblyVersion": "1.0.0",
+  "Description": "Hides toast notifications you don't want to see.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/BurntToast",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
