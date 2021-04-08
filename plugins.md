@@ -11,6 +11,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | mommothazaz123 | PaissaHouse | Makes note of open houses when viewing a housing ward from an aetheryte. |
 | ascclemens | Better Party Finder | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
+| ascclemens | Burnt Toast | Hides toast notifications you don't want to see. |
 | Haplo064 | Chat Bubbles | Enables in-game chat bubbles. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |

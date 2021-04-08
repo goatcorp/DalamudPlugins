@@ -18,9 +18,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 9093,
     "LastUpdate": "1607420600",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Caraxi",
@@ -35,9 +35,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 4850,
     "LastUpdate": "1607454528",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Ms.Tress",
@@ -57,9 +57,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 2659,
     "LastUpdate": "1616916440",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "mommothazaz123",
@@ -77,26 +77,26 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1616270493",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "Better Party Finder",
     "InternalName": "BetterPartyFinder",
-    "AssemblyVersion": "1.1.2",
+    "AssemblyVersion": "1.1.3",
     "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1617215995",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ackwell",
@@ -116,9 +116,27 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 4909,
     "LastUpdate": "1612941778",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=True&isTesting=False&branch=api3"
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "Burnt Toast",
+    "InternalName": "BurntToast",
+    "AssemblyVersion": "1.1.0",
+    "Description": "Hides toast notifications you don't want to see.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/BurntToast",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1617817898",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Haplo064",
@@ -140,9 +158,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1611661817",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "kij",
@@ -156,9 +174,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 3869,
     "LastUpdate": "1611945400",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Haplo064",
@@ -181,9 +199,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 2632,
     "LastUpdate": "1594007235",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "goat",
@@ -197,9 +215,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 6329,
     "LastUpdate": "1607441196",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "goat",
@@ -219,9 +237,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 4216,
     "LastUpdate": "1607447236",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "goat",
@@ -238,9 +256,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 8963,
     "LastUpdate": "1607441424",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "goat",
@@ -261,9 +279,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 24,
     "LastUpdate": "1604857638",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "perchbird",
@@ -279,9 +297,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 13247,
     "LastUpdate": "1613185920",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Strati",
@@ -297,27 +315,27 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1613461174",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
-    "AssemblyVersion": "1.3.0",
+    "AssemblyVersion": "1.3.1",
     "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1614046575",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "BiscuitUmU",
@@ -333,26 +351,26 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1615150316",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "Description": "Display game FPS.",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.4.2.1",
+    "AssemblyVersion": "1.4.2.2",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10513,
-    "LastUpdate": "1612925445",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617704206",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Ottermandias",
@@ -367,45 +385,45 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1615222392",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.1.3",
+    "AssemblyVersion": "1.1.4",
     "Description": "Automatically shows where treasure maps are located.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 14138,
-    "LastUpdate": "1616184632",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "Good Memory",
     "InternalName": "GoodMemory",
-    "AssemblyVersion": "1.0.5",
+    "AssemblyVersion": "1.0.6",
     "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.\n\nThis indicator is in the item's description near the bottom and only appears for\nitems that are unlockable, such as orchestrion rolls, minions, etc.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9384,
-    "LastUpdate": "1616185111",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "perchbird",
@@ -421,26 +439,26 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1615403484",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Caraxi",
     "Name": "Item Search",
     "Description": "Search for items. Type /xlitem to open search window.",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.7.4.1",
+    "AssemblyVersion": "1.7.4.2",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13175,
-    "LastUpdate": "1611229674",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617704215",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "haplo, daemitus",
@@ -456,30 +474,30 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 8210,
     "LastUpdate": "1612252382",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "kalilistic",
     "Name": "Kapture",
     "Description": "Track your loot.",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.0.55",
+    "AssemblyVersion": "1.0.56",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
     "Tags": [
       "loot",
       "track"
     ],
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "2",
+    "DalamudApiLevel": "3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1616978766",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617840005",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Caraxi",
@@ -497,9 +515,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 5618,
     "LastUpdate": "1606152114",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Bluefissure",
@@ -514,9 +532,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 4267,
     "LastUpdate": "1617310717",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "fmauNeko",
@@ -531,9 +549,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 14713,
     "LastUpdate": "1612680680",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "attick",
@@ -552,15 +570,15 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 10769,
     "LastUpdate": "1613496280",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "1.4.4.0",
+    "AssemblyVersion": "1.4.5.0",
     "Description": "A note-taking plugin.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/NeatNoter",
@@ -570,33 +588,33 @@
       "tool",
       "overlay"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4192,
-    "LastUpdate": "1616544522",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617651862",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "1.8.0",
+    "AssemblyVersion": "1.8.1",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 100,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 16851,
-    "LastUpdate": "1617216033",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Ava (Forairan)",
@@ -619,9 +637,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 3936,
     "LastUpdate": "1608597269",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "meli",
@@ -640,9 +658,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 6877,
     "LastUpdate": "1609641265",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "goat",
@@ -656,27 +674,27 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 22232,
     "LastUpdate": "1607450965",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "Peeping Tom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.6.0",
+    "AssemblyVersion": "1.7.0",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 14955,
-    "LastUpdate": "1613533398",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617838851",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "tesu",
@@ -697,15 +715,15 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 10704,
     "LastUpdate": "1607201720",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.11.1.0",
+    "AssemblyVersion": "1.11.2.0",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -715,16 +733,16 @@
       "utility",
       "tool"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 12320,
-    "LastUpdate": "1612981262",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617651862",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Haplo064",
@@ -744,16 +762,16 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 11909,
     "LastUpdate": "1607420866",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "Description": "Keep track of players you meet.",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "1.1.58",
+    "AssemblyVersion": "1.1.66",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
     "Tags": [
       "players",
@@ -761,14 +779,14 @@
       "orwell"
     ],
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "2",
+    "DalamudApiLevel": "3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1615347934",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617843384",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "perchbird",
@@ -788,16 +806,16 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 2234,
     "LastUpdate": "1609562709",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.72",
+    "AssemblyVersion": "1.0.73",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": [
       "price",
@@ -805,14 +823,14 @@
       "items"
     ],
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "2",
+    "DalamudApiLevel": "3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 12852,
-    "LastUpdate": "1615933015",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617842482",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "UnknownX",
@@ -828,9 +846,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 5463,
     "LastUpdate": "1615796909",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Caraxi",
@@ -845,9 +863,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 7754,
     "LastUpdate": "1614107624",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Caraxi",
@@ -863,9 +881,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 8162,
     "LastUpdate": "1617545639",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Haplo064",
@@ -888,9 +906,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 14089,
     "LastUpdate": "1607421112",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Sonar Team",
@@ -906,15 +924,15 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1613109317",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.4.5.0",
+    "AssemblyVersion": "1.4.6.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -924,14 +942,15 @@
       "volume",
       "control"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4361,
-    "LastUpdate": "1611268515",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617651862",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Pohky",
@@ -946,15 +965,15 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 9859,
     "LastUpdate": "1612933261",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.3.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -964,16 +983,16 @@
       "triggers",
       "karashiiro"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "TestingAssemblyVersion": "0.3.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 1234,
-    "LastUpdate": "1616913968",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617651862",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "attick & perchbird",
@@ -990,26 +1009,26 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 3426,
     "LastUpdate": "1615311494",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "Tourist",
     "InternalName": "Tourist",
-    "AssemblyVersion": "1.2.1",
+    "AssemblyVersion": "1.2.2",
     "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1616451921",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ocealot",
@@ -1028,9 +1047,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1616694714",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Dragon",
@@ -1054,9 +1073,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 3736,
     "LastUpdate": "1608413628",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Haplo064",
@@ -1077,9 +1096,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 742,
     "LastUpdate": "1594726916",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "PunishedPineapple",
@@ -1101,9 +1120,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 4017,
     "LastUpdate": "1615611780",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Azure Gem",
@@ -1118,9 +1137,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1611179319",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Haplo064",
@@ -1140,27 +1159,27 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1607485593",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "ascclemens",
     "Name": "XIVChat Server",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.5.0",
+    "AssemblyVersion": "1.5.1",
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://xiv.chat/",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1685,
-    "LastUpdate": "1612888182",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=True&isTesting=False"
+    "LastUpdate": "1617650510",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "attick",
@@ -1178,9 +1197,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 9861,
     "LastUpdate": "1612279900",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False&branch=api3"
   },
   {
     "Author": "Ottermandias",
@@ -1196,9 +1215,9 @@
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1614342970",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=True&isTesting=True"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=True&isTesting=True&branch=api3"
   },
   {
     "Author": "Chivalrik",
@@ -1215,9 +1234,9 @@
     "TestingAssemblyVersion": "0.7.2",
     "IsTestingExclusive": "True",
     "LastUpdate": "1617449484",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=True&isTesting=True"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=True&isTesting=True&branch=api3"
   },
   {
     "Author": "Avaflow",
@@ -1239,8 +1258,8 @@
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1611017980",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=True&isTesting=True"
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=api3",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=True&isTesting=True&branch=api3"
   }
 ]
