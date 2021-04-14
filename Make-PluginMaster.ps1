@@ -5,8 +5,8 @@ $notInclude = "sdgfdsgfgdfs", "sdfgdfg", "XIVStats", "bffbbf", "VoidList", "asdf
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
-$dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}"
-$dlTemplateUpdate = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=True&isTesting={1}"
+$dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=api3"
+$dlTemplateUpdate = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=True&isTesting={1}&branch=api3"
 
 $thisPath = Get-Location
 

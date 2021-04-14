@@ -1,10 +1,10 @@
 {
   "Author": "goat",
   "Name": "Discord Rich Presence",
-  "Description": "This plugin allows you display your character and current zone in your Discord profile.",
+  "Description": "This plugin allows you to set up chat triggers.",
   "InternalName": "Dalamud.RichPresence",
-  "AssemblyVersion": "1.5.0.2",
+  "AssemblyVersion": "1.6.0.0",
   "ApplicableVersion": "any",
   "Tags": [ "Discord" ],
-  "DalamudApiLevel":  2
+  "DalamudApiLevel":  3 
 }

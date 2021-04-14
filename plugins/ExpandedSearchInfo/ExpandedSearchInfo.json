@@ -2,10 +2,10 @@
   "Author": "ascclemens",
   "Name": "Expanded Search Info",
   "InternalName": "ExpandedSearchInfo",
-  "AssemblyVersion": "1.3.0",
+  "AssemblyVersion": "1.3.2",
   "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
-  "DalamudApiLevel": 2,
+  "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
