@@ -59,7 +59,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | attick & perchbird | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
-| ocealot | VFXEditor | VFX editor, open with /vfxedit |
+| ocealot | VFXEditor | VFX editor and browser, open with /vfxedit |
 | Dragon | Visibility | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Azure Gem | Window Title Changer | Allows you to change your game window title |
