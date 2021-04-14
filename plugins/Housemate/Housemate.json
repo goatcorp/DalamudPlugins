@@ -2,10 +2,10 @@
   "Author": "perchbird",
   "Name": "Housemate",
   "InternalName": "Housemate",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.1.1",
   "Description": "Displays information about housing fixtures and objects.\n/housemate opens the UI.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lmcintyre/Housemate",
-  "DalamudApiLevel": 2,
+  "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
