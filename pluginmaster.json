@@ -1079,18 +1079,18 @@
     "Name": "VFXEditor",
     "Description": "VFX editor, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.3.0.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 100,
-    "LastUpdate": "1616694714",
+    "LastUpdate": "1618412415",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=master"
