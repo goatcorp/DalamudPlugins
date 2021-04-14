@@ -17,7 +17,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord and chat on FFXIV remotely. |
-| goat | Discord Rich Presence | This plugin allows you display your character and current zone in your Discord profile. |
+| goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
 | goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | DeepDungeonDex | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
@@ -49,6 +49,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | kalilistic | PriceCheck | Quickly price check your items. |
 | UnknownX | QoL Bar | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |
 | Caraxi | Remind Me | Cooldown and Status tracking. |
+| Ottermandias | RezPls | Easy overview about who is currently resurrecting who. |
 | Caraxi | Simple Tweaks | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
