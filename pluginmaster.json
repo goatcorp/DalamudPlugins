@@ -437,7 +437,7 @@
     "Author": "ascclemens",
     "Name": "Good Memory",
     "InternalName": "GoodMemory",
-    "AssemblyVersion": "1.0.6",
+    "AssemblyVersion": "1.0.7",
     "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.\n\nThis indicator is in the item's description near the bottom and only appears for\nitems that are unlockable, such as orchestrion rolls, minions, etc.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
@@ -446,7 +446,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9879,
-    "LastUpdate": "1617650510",
+    "LastUpdate": "1618416873",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=True&isTesting=False&branch=master"
