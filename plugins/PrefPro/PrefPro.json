@@ -1,11 +1,11 @@
 {
   "Author": "perchbird",
   "Name": "PrefPro",
-  "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
   "InternalName": "PrefPro",
-  "AssemblyVersion": "1.1.0.3",
-  "RepoUrl": "https://github.com/lmcintyre/prefpro",
+  "AssemblyVersion": "1.1.0.5",
+  "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
   "ApplicableVersion": "any",
-  "Tags": ["pronouns", "text", "parsing"],
-  "DalamudApiLevel": 2
+  "RepoUrl": "https://github.com/lmcintyre/PrefPro",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
 }
