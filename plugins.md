@@ -15,6 +15,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Chat Bubbles | Enables in-game chat bubbles. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
+| Haplo064 | Chat Translator | Enables in-game chat translation. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord and chat on FFXIV remotely. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |

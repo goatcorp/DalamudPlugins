@@ -204,6 +204,31 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "Haplo064",
+    "Name": "Chat Translator",
+    "InternalName": "ChatTranslator",
+    "Description": "Enables in-game chat translation.",
+    "Tags": [
+      "UI",
+      "Translator",
+      "Translate",
+      "Translation",
+      "Chat"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 100,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": null,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "goat",
     "Name": "Character Data Sync",
     "Description": "This plugin allows you to use your character data from your main character on all others.",
