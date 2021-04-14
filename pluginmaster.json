@@ -584,7 +584,7 @@
     "Name": "Mouseover Action",
     "Description": "This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.2.1.21",
+    "AssemblyVersion": "2.2.1.22",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
@@ -595,7 +595,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10971,
-    "LastUpdate": "1618202193",
+    "LastUpdate": "1618419843",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=True&isTesting=False&branch=master"
