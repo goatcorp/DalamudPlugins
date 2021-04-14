@@ -2,10 +2,10 @@
   "Author": "Chivalrik",
   "Name": "GentleTouch",
   "InternalName": "GentleTouch",
-  "AssemblyVersion": "0.7.2",
+  "AssemblyVersion": "0.8.0",
   "Description": "Allows one to create vibration patterns for the controller and specify triggers for them.\n\nYou need to configure patterns and triggers before it will work.\nCurrently supported triggers are:\n- Cooldowns\n- Near Aether Current",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/fitzchivalrik/gentletouch",
-  "DalamudApiLevel": 2,
+  "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
