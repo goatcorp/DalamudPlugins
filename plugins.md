@@ -17,7 +17,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | Haplo064 | Chat Translator | Enables in-game chat translation. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
-| goat | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord and chat on FFXIV remotely. |
+| goat, modded by Franz | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
 | goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info | Configurable UI options for extra damage information. /dmginfo displays the config. |
@@ -40,7 +40,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | ascclemens | NoSoliciting | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Avaflow | Oops, All Lalafells! | Turn everyone around you into Lalafells (or other races)!<br><br>Use /poal to open settings. |
 | meli | Orchestrion Plugin | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
-| goat | OwO | This plugin uwu's your chat. |
+| goat, modded by Franz | OwO | This plugin uwu's your chat. |
 | ascclemens | Peeping Tom | Shows who is currently or was previously targeting you. |
 | tesu | Penny Pincher | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | karashiiro | PingPlugin | A ping display plugin for Dalamud. |
