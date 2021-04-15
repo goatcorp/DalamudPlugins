@@ -1,12 +1,11 @@
 {
-  "Author": "goat",
+  "Author": "goat, modded by Franz",
   "Name": "Discord Chat Bridge",
-  "Description": "This plugin allows you to receive your chat messages inside of discord and chat on FFXIV remotely.",
+  "Description": "This plugin allows you to receive your chat messages inside of discord.",
   "InternalName": "Dalamud.DiscordBridge",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.1.0.0",
   "RepoUrl": "https://github.com/goaaats/Dalamud.DiscordBridge",
   "ApplicableVersion": "any",
-  "DalamudApplicableVersion": ">=4.9.8.3",
-  "DalamudApiLevel": "2",
+  "DalamudApiLevel": "3",
   "Tags": ["discord", "chat"]
 }
