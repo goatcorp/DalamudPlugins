@@ -56,6 +56,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
+| ascclemens | Text Box Styler | Allows replacing every text box with the background of your choice. |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | attick & perchbird | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
