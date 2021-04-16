@@ -1010,7 +1010,7 @@
     "Author": "ascclemens",
     "Name": "Text Box Styler",
     "InternalName": "TextBoxStyler",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Allows replacing every text box with the background of your choice.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/TextBoxStyler",
@@ -1019,7 +1019,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1618463256",
+    "LastUpdate": "1618589984",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=True&isTesting=False&branch=master"
