@@ -528,7 +528,7 @@
     "Name": "Macro Chain",
     "Description": "Allows macros to continue into the next macro",
     "InternalName": "MacroRecursion",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.1.0",
     "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
     "ApplicableVersion": "any",
     "Tags": [
@@ -538,7 +538,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5804,
-    "LastUpdate": "1618556102",
+    "LastUpdate": "1618592999",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=True&isTesting=False&branch=master"
