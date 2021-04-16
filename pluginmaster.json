@@ -417,7 +417,7 @@
     "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.1.4",
+    "AssemblyVersion": "1.2.0",
     "Description": "Automatically shows where treasure maps are located.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
@@ -426,7 +426,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15611,
-    "LastUpdate": "1617650510",
+    "LastUpdate": "1618574677",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=True&isTesting=False&branch=master"
