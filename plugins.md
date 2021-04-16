@@ -32,7 +32,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | Item Search | Search for items. Type /xlitem to open search window. |
 | haplo, daemitus | JobIcons | Names are dumb, use icons instead. |
 | kalilistic | Kapture | Track your loot. |
-| Caraxi | MacroRecursion | Execute macros from macros. /runmacro ## [shared] [line] |
+| Caraxi | Macro Chain | Allows macros to continue into the next macro |
 | Bluefissure | MapLinker | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | Market board | Browse the market board. /pmb to open. |
 | attick | Mouseover Action | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
