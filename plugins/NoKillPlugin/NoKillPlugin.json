@@ -1,0 +1,10 @@
+{
+  "Author": "Bluefissure",
+  "Name": "No Kill Plugin",
+  "Description": "A simple plugin that prevent the game to kill itself.",
+  "InternalName": "NoKillPlugin",
+  "AssemblyVersion": "1.0.0.2",
+  "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
+  "DalamudApiLevel":  3,
+  "ApplicableVersion": "any"
+}
