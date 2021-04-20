@@ -247,20 +247,21 @@
   {
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
-    "Description": "This plugin allows you to receive your chat messages inside of discord.",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.1.0.0",
-    "RepoUrl": "https://github.com/goaaats/Dalamud.DiscordBridge",
+    "AssemblyVersion": "1.1.0.1",
+    "Description": "This plugin allows you to receive your chat messages inside of discord.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "3",
+    "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
     "Tags": [
       "discord",
       "chat"
     ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4727,
-    "LastUpdate": "1618451899",
+    "LastUpdate": "1618797241",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False&branch=master"
@@ -1121,13 +1122,13 @@
       "QoL"
     ],
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
-    "AssemblyVersion": "1.0.3.1",
+    "AssemblyVersion": "1.0.3.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5056,
-    "LastUpdate": "1618437586",
+    "LastUpdate": "1618816791",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False&branch=master"
