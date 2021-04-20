@@ -103,7 +103,7 @@
     "Name": "Browser Host",
     "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the '/bh config' command to configure.",
     "InternalName": "BrowserHost.Plugin",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.4.0.0",
     "RepoUrl": "https://github.com/ackwell/BrowserHost",
     "ApplicableVersion": "any",
     "Tags": [
@@ -111,11 +111,11 @@
       "browser",
       "inlay"
     ],
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4996,
-    "LastUpdate": "1612941778",
+    "LastUpdate": "1618924646",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=True&isTesting=False&branch=master"
