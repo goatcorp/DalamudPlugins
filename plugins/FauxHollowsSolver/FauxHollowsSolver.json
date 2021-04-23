@@ -1,0 +1,11 @@
+{
+  "Author": "daemitus",
+  "Name": "ezFauxHollows",
+  "InternalName": "FauxHollowsSolver",
+  "AssemblyVersion": "1.0.1.2",
+  "Description": "Highlights recommended tiles in Faux Hollows for your next move.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
