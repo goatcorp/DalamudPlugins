@@ -23,6 +23,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | perchbird | Damage Info | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | DeepDungeonDex | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | ascclemens | Expanded Search Info | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically. |
+| daemitus | ezFauxHollows | Highlights recommended tiles in Faux Hollows for your next move. |
 | Caraxi | FPS Plugin | Display game FPS. |
 | Ottermandias | GatherBuddy | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. |
@@ -34,6 +35,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | Macro Chain | Allows macros to continue into the next macro |
 | Bluefissure | MapLinker | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | Market board | Browse the market board. /pmb to open. |
+| daemitus | ezMiniCactpot | Highlights recommended tiles in Mini Cactpot for your next move. |
 | attick | Mouseover Action | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | karashiiro | NeatNoter | A note-taking plugin. |
 | ascclemens | NoSoliciting | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
@@ -64,6 +66,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | PunishedPineapple | Waymark Preset Plugin | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Azure Gem | Window Title Changer | Allows you to change your game window title |
 | Haplo064 | Where's WOLdo | Text overlay of current location name. |
+| daemitus | ezWondrousTails | Adds row probabilities to the Wondrous Tails display. |
 | ascclemens | XIVChat Server | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | XIV Combo | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 

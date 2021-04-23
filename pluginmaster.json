@@ -363,6 +363,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "daemitus",
+    "Name": "ezFauxHollows",
+    "InternalName": "FauxHollowsSolver",
+    "AssemblyVersion": "1.0.1.2",
+    "Description": "Highlights recommended tiles in Faux Hollows for your next move.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1618416794",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "Description": "Display game FPS.",
@@ -559,6 +577,24 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
+    "Author": "daemitus",
+    "Name": "ezMiniCactpot",
+    "InternalName": "MiniCactpotSolver",
+    "AssemblyVersion": "1.0.2.3",
+    "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1618949792",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=True&isTesting=False&branch=master"
   },
   {
     "Author": "attick",
@@ -1200,6 +1236,24 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
+    "Author": "daemitus",
+    "Name": "ezWondrousTails",
+    "InternalName": "WondrousTailsSolver",
+    "AssemblyVersion": "1.0.1.2",
+    "Description": "Adds row probabilities to the Wondrous Tails display.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1618416831",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=True&isTesting=False&branch=master"
   },
   {
     "Author": "ascclemens",
