@@ -248,7 +248,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.1.0.3",
     "Description": "This plugin allows you to receive your chat messages inside of discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -261,7 +261,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4859,
-    "LastUpdate": "1618940132",
+    "LastUpdate": "1619286351",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False&branch=master"
@@ -970,7 +970,7 @@
     "Name": "Sonar",
     "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.1.5.0",
+    "AssemblyVersion": "0.1.5.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "RepoUrl": "https://discord.gg/K7y24Rr",
@@ -978,7 +978,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1618457817",
+    "LastUpdate": "1619249056",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False&branch=master"
@@ -1329,6 +1329,28 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
+    "Author": "ocealot",
+    "Name": "EasyEyes",
+    "Description": "Hides VFXs which are too bright or distracting",
+    "InternalName": "EasyEyes",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "VFX",
+      "AVFX"
+    ],
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": null,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Xorus",
