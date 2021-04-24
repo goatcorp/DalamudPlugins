@@ -70,8 +70,7 @@ Foreach-Object {
     	# $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
-    $dlCount = 0;
-    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
+    $content | add-member -Name "DownloadCount" 0 -MemberType NoteProperty
 
     if (($output | Where-Object {$_.InternalName -eq $content.InternalName}).Count -eq 0)
     {
