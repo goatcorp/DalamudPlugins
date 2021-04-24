@@ -1,0 +1,11 @@
+{
+    "Author": "ocealot",
+    "Name": "EasyEyes",
+    "Description": "Hides VFXs which are too bright or distracting",
+    "InternalName": "EasyEyes",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
+    "ApplicableVersion": "any",
+    "Tags": [ "VFX", "AVFX" ],
+    "DalamudApiLevel": 3
+}
