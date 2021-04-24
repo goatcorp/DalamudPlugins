@@ -42,7 +42,11 @@ Foreach-Object {
     $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     $internalName = $content.InternalName
+    
     $updateDate = git log -1 --pretty="format:%ct" plugins/$internalName/latest.zip
+    if ($updateDate -eq $null){
+        $updateDate = 0;
+    }
     $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
     $installLink = $dlTemplateInstall -f $internalName, "False"
@@ -70,7 +74,8 @@ Foreach-Object {
     	# $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
-    $content | add-member -Name "DownloadCount" 0 -MemberType NoteProperty
+    $dlCount = 0;
+    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     if (($output | Where-Object {$_.InternalName -eq $content.InternalName}).Count -eq 0)
     {
@@ -78,7 +83,11 @@ Foreach-Object {
         $content | add-member -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
 
         $internalName = $content.InternalName
+        
         $updateDate = git log -1 --pretty="format:%ct" testing/$internalName/latest.zip
+        if ($updateDate -eq $null){
+            $updateDate = 0;
+        }
         $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
         $installLink = $dlTemplateInstall -f $internalName, "True"
