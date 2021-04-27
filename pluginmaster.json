@@ -1109,7 +1109,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor and browser, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.3.2.2",
+    "AssemblyVersion": "1.3.2.3",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1120,7 +1120,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 657,
-    "LastUpdate": "1619216966",
+    "LastUpdate": "1619407775",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=master"
@@ -1140,13 +1140,13 @@
       "QoL"
     ],
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
-    "AssemblyVersion": "1.0.3.3",
+    "AssemblyVersion": "1.0.3.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5419,
-    "LastUpdate": "1618816791",
+    "LastUpdate": "1619492709",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False&branch=master"
@@ -1248,6 +1248,7 @@
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1618416831",
@@ -1335,7 +1336,7 @@
     "Name": "EasyEyes",
     "Description": "Hides VFXs which are too bright or distracting",
     "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1345,9 +1346,9 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1619289823",
+    "LastUpdate": "1619408042",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=True&branch=master"
