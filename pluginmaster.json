@@ -645,7 +645,7 @@
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "2.0.0",
+    "AssemblyVersion": "2.0.1",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
@@ -654,7 +654,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 18263,
-    "LastUpdate": "1619812137",
+    "LastUpdate": "1619813950",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=True&isTesting=False&branch=master"
