@@ -1109,7 +1109,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor and browser, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.3.2.3",
+    "AssemblyVersion": "1.3.2.4",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1117,10 +1117,11 @@
       "AVFX"
     ],
     "DalamudApiLevel": 3,
+    "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 724,
-    "LastUpdate": "1619407775",
+    "LastUpdate": "1619792176",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=master"
@@ -1336,7 +1337,7 @@
     "Name": "EasyEyes",
     "Description": "Hides VFXs which are too bright or distracting",
     "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1344,11 +1345,12 @@
       "AVFX"
     ],
     "DalamudApiLevel": 3,
+    "LoadPriority": 69419,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1619408042",
+    "LastUpdate": "1619792211",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=True&branch=master"
