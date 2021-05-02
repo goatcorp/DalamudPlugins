@@ -268,6 +268,23 @@
   },
   {
     "Author": "goat",
+    "Name": "Fancy Loading Screens",
+    "Description": "This plugin shows the destination zone's concept art while loading.",
+    "InternalName": "Dalamud.LoadingImage",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.0.1",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1619981712",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
+    "Author": "goat",
     "Name": "Discord Rich Presence",
     "Description": "This plugin allows you to set up chat triggers.",
     "InternalName": "Dalamud.RichPresence",
@@ -1331,23 +1348,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=True&isTesting=True&branch=master"
-  },
-  {
-    "Author": "goat",
-    "Name": "Fancy Loading Screens",
-    "Description": "This plugin shows the destination zone's concept art while loading.",
-    "InternalName": "Dalamud.LoadingImage",
-    "AssemblyVersion": "1.0.0.1",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1619972118",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "ocealot",
