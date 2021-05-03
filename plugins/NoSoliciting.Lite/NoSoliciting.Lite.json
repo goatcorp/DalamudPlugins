@@ -1,0 +1,11 @@
+{
+  "Author": "ascclemens",
+  "Name": "NoSoliciting Lite",
+  "InternalName": "NoSoliciting.Lite",
+  "AssemblyVersion": "1.0.0",
+  "Description": "Customisable, simple chat and Party Finder filtering.\n\nOnly filters out text that you configure.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 100
+}
