@@ -1,0 +1,11 @@
+{
+  "Author": "Hattu",
+  "Name": "Quiet Glamours",
+  "Description": "Suppresses system messages for glamours, such as those that occur when applying a glamour plate. Supports EN, FR, DE, and JP. /qg",
+  "InternalName": "quietGlamours",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/HatTheTurtle/QuietGlamours",
+  "ApplicableVersion": "any",
+  "Tags": [ "chat", "system", "glamour", "mute", "hattu" ],
+  "DalamudApiLevel": 2
+}
