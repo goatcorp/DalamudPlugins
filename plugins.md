@@ -60,6 +60,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | Text Box Styler | Allows replacing every text box with the background of your choice. |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
+| ascclemens | The Great Separator | Add separators to your damage numbers. |
 | attick & perchbird | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
 | ocealot | VFXEditor | VFX editor and browser, open with /vfxedit |

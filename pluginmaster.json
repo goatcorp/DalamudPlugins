@@ -1086,6 +1086,23 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "ascclemens",
+    "Name": "The Great Separator",
+    "InternalName": "TheGreatSeparator",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Add separators to your damage numbers.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1620230230",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "attick & perchbird",
     "Name": "TitleEdit",
     "InternalName": "TitleEdit",
