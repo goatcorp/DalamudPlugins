@@ -1,0 +1,10 @@
+{
+  "Author": "ascclemens",
+  "Name": "The Great Separator",
+  "InternalName": "TheGreatSeparator",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "Add separators to your damage numbers.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
