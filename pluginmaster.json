@@ -1175,13 +1175,13 @@
       "QoL"
     ],
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
-    "AssemblyVersion": "1.0.3.4",
+    "AssemblyVersion": "1.0.3.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5822,
-    "LastUpdate": "1619492709",
+    "LastUpdate": "1620376744",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False&branch=master"
