@@ -1,0 +1,17 @@
+﻿{
+  "Author": "MoogleTroupe",
+  "Name": "BardMusicPlayer Helper",
+  "Description": "Allows for you to sing lyrics and play music at the same time with BardMusicPlayer ( https://bardmusicplayer.com )",
+  "InternalName": "BardMusicPlayerHelper",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/BardMusicPlayer/Dalamud-BardMusicPlayerHelper",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "BMP",
+    "BardMusicPlayer",
+    "Midi",
+    "Bard",
+    "Doot"
+  ],
+  "DalamudApiLevel": 3
+}
