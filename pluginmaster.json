@@ -1089,7 +1089,7 @@
     "Author": "ascclemens",
     "Name": "The Great Separator",
     "InternalName": "TheGreatSeparator",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
@@ -1097,7 +1097,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 809,
-    "LastUpdate": "1620236940",
+    "LastUpdate": "1620663242",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=True&isTesting=False&branch=master"
