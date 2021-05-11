@@ -56,6 +56,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | Simple Tweaks | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
+| ascclemens | Sound Filter | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | Text Box Styler | Allows replacing every text box with the background of your choice. |
