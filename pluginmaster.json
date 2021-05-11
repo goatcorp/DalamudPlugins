@@ -44,7 +44,7 @@
     "Name": "Aether Sense (18+)",
     "Description": "Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/",
     "InternalName": "AetherSense",
-    "AssemblyVersion": "1.0.0.9",
+    "AssemblyVersion": "1.0.0.10",
     "RepoUrl": "https://github.com/Ms-Tress/AetherSense",
     "ApplicableVersion": "any",
     "Tags": [
@@ -56,7 +56,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3347,
-    "LastUpdate": "1618567343",
+    "LastUpdate": "1620730989",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False&branch=master"
