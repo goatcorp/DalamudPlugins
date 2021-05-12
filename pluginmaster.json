@@ -82,6 +82,23 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "Ottermandias",
+    "Name": "AutoVisor",
+    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states.",
+    "InternalName": "AutoVisor",
+    "AssemblyVersion": "1.1.2.1",
+    "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1619703983",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "ascclemens",
     "Name": "Better Party Finder",
     "InternalName": "BetterPartyFinder",
@@ -1345,24 +1362,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False&branch=master"
-  },
-  {
-    "Author": "Ottermandias",
-    "Name": "AutoVisor",
-    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states.",
-    "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1614342970",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Chivalrik",
