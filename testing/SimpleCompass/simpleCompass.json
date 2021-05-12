@@ -1,0 +1,11 @@
+{
+  "Author": "DarkDestry",
+  "Name": "SimpleCompass",
+  "Description": "Adds a compass below your feet",
+  "InternalName": "simpleCompass",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/DarkDestry/dalamud-simpleCompass",
+  "ApplicableVersion": "any",
+  "Tags": [ "compass", "plugin" ],
+  "DalamudApiLevel": 3
+}
