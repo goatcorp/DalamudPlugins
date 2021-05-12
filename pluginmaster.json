@@ -1468,6 +1468,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "Bluefissure",
+    "Name": "No Kill Plugin",
+    "Description": "A simple plugin that prevent the game from killing itself with lobby error.",
+    "InternalName": "NoKillPlugin",
+    "AssemblyVersion": "1.0.0.3",
+    "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
+    "DalamudApiLevel": 3,
+    "ApplicableVersion": "any",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.3",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1620795798",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "Dragon",
     "Name": "Side HUD",
     "InternalName": "SideHUDPlugin",
