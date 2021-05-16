@@ -1,0 +1,11 @@
+{
+  "Author": "kalilistic",
+  "Name": "PriceCheck",
+  "InternalName": "PriceCheck",
+  "AssemblyVersion": "2.0.3.0",
+  "Description": "Quickly price check your items.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
