@@ -1,0 +1,11 @@
+{
+  "Author": "Dragon",
+  "Name": "Side HUD",
+  "InternalName": "SideHUDPlugin",
+  "AssemblyVersion": "0.9.0.7",
+  "Description": "Provides fancy side HUD",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SheepGoMeh/SideHUD",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}

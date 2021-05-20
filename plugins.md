@@ -9,6 +9,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | Adventurer in Need | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | Ms.Tress | Aether Sense (18+) | Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/ |
 | mommothazaz123 | PaissaHouse | Makes note of open houses when viewing a housing ward from an aetheryte. |
+| Ottermandias | AutoVisor | Automatically change visor, headslot hiding, and weapon hiding status for different player states. |
 | ascclemens | Better Party Finder | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | ackwell | Browser Host | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
 | ascclemens | Burnt Toast | Hides toast notifications you don't want to see. |
@@ -18,11 +19,13 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Haplo064 | Chat Translator | Enables in-game chat translation. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat, modded by Franz | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord. |
+| goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
 | goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | DeepDungeonDex | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | ascclemens | Expanded Search Info | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically. |
+| BiscuitUmU, Kazumi | Fantasy Player | Control Spotify playback from within FFX|V<br>Use the button below to open settings or use the '/pfp settings' command. |
 | daemitus | ezFauxHollows | Highlights recommended tiles in Faux Hollows for your next move. |
 | Caraxi | FPS Plugin | Display game FPS. |
 | Ottermandias | GatherBuddy | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
@@ -55,10 +58,12 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | Caraxi | Simple Tweaks | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | SlideCast | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | Sonar | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
+| ascclemens | Sound Filter | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
 | karashiiro | SoundSetter | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | Teleporter | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | Text Box Styler | Allows replacing every text box with the background of your choice. |
 | karashiiro | TextToTalk | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
+| ascclemens | The Great Separator | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
 | attick & perchbird | TitleEdit | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
 | ocealot | VFXEditor | VFX editor and browser, open with /vfxedit |
