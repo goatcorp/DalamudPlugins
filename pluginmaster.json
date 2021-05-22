@@ -976,6 +976,25 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "kalilistic",
+    "Name": "SillyChat",
+    "InternalName": "SillyChat",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "Make chat more fun with translations like pirate.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kalilistic/SillyChat",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.1.11.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1621653940",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Simple Tweaks",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
@@ -1504,25 +1523,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=True&isTesting=True&branch=master"
-  },
-  {
-    "Author": "kalilistic",
-    "Name": "SillyChat",
-    "InternalName": "SillyChat",
-    "AssemblyVersion": "0.1.11.0",
-    "Description": "Make chat more fun with translations like pirate.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/kalilistic/SillyChat",
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.11.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1621566950",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Avaflow",
