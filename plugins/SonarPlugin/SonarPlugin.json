@@ -3,8 +3,8 @@
   "Name": "Sonar",
   "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
   "InternalName": "SonarPlugin",
-  "AssemblyVersion": "0.2.0.2",
-  "ApplicableVersion": "2021.04.21.0000.0000",
+  "AssemblyVersion": "0.2.0.3",
+  "ApplicableVersion": "2021.05.18.0000.0000",
   "DalamudApiLevel": 3,
   "RepoUrl": "https://discord.gg/K7y24Rr"
 }
