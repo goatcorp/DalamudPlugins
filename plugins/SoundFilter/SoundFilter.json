@@ -2,7 +2,7 @@
   "Author": "ascclemens",
   "Name": "Sound Filter",
   "InternalName": "SoundFilter",
-  "AssemblyVersion": "1.4.0.0",
+  "AssemblyVersion": "1.4.1.0",
   "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.sr.ht/jkcclemens/SoundFilter",
