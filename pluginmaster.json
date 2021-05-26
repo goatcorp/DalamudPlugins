@@ -379,6 +379,28 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "ocealot",
+    "Name": "EasyEyes",
+    "Description": "Hides VFXs which are too bright or distracting",
+    "InternalName": "EasyEyes",
+    "AssemblyVersion": "1.0.2.1",
+    "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "VFX",
+      "AVFX"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 69419,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1621967474",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
@@ -1216,7 +1238,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor and browser, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.3.2.4",
+    "AssemblyVersion": "1.3.2.5",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1228,7 +1250,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1371,
-    "LastUpdate": "1619792176",
+    "LastUpdate": "1621967399",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=master"
@@ -1422,29 +1444,6 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=True&isTesting=True&branch=master"
   },
   {
-    "Author": "ocealot",
-    "Name": "EasyEyes",
-    "Description": "Hides VFXs which are too bright or distracting",
-    "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.0.2.0",
-    "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "VFX",
-      "AVFX"
-    ],
-    "DalamudApiLevel": 3,
-    "LoadPriority": 69419,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1619792211",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=True&branch=master"
-  },
-  {
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
@@ -1467,6 +1466,30 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
+    "Author": "CFG",
+    "Name": "FC Name Color",
+    "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+    "InternalName": "FCNameColor",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "nameplate",
+      "FC",
+      "name",
+      "colors"
+    ],
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1621963069",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Chivalrik",
