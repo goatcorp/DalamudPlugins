@@ -1,0 +1,14 @@
+{
+  "Author": "zhudotexe",
+  "Name": "PaissaHouse",
+  "InternalName": "autoSweep",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+  "Tags": [
+    "housing"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
