@@ -1511,6 +1511,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "ocealot",
+    "Name": "JobBars",
+    "Description": "Additional job gauges and party buff trackers",
+    "InternalName": "JobBars",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/0ceal0t/JobBars",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1622145068",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "Bluefissure",
     "Name": "No Kill Plugin",
     "Description": "A simple plugin that prevent the game from killing itself with lobby error.",
