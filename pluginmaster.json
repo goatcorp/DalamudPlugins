@@ -247,6 +247,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "Chivalrik",
+    "Name": "Compass",
+    "InternalName": "Compass",
+    "AssemblyVersion": "1.0.0",
+    "Description": "Monodimensional compass for your adventures.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/fitzchivalrik/compass",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1622114762",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "goat",
     "Name": "Character Data Sync",
     "Description": "This plugin allows you to use your character data from your main character on all others.",
@@ -1424,25 +1442,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False&branch=master"
-  },
-  {
-    "Author": "Chivalrik",
-    "Name": "Compass",
-    "InternalName": "Compass",
-    "AssemblyVersion": "0.10.1",
-    "Description": "Monodimensional compass for your adventures.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/fitzchivalrik/compass",
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.10.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1621118189",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Xorus",
