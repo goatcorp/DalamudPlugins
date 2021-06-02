@@ -31,6 +31,7 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | daemitus | ezFauxHollows | Highlights recommended tiles in Faux Hollows for your next move. |
 | Caraxi | FPS Plugin | Display game FPS. |
 | Ottermandias | GatherBuddy | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
+| Chivalrik | GentleTouch | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | ascclemens | Globetrotter | Automatically shows where treasure maps are located. |
 | ascclemens | Good Memory | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
 | perchbird | Housemate | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
