@@ -62,27 +62,6 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False&branch=master"
   },
   {
-    "Author": "mommothazaz123",
-    "Name": "PaissaHouse",
-    "Description": "Makes note of open houses when viewing a housing ward from an aetheryte.",
-    "InternalName": "autoSweep",
-    "AssemblyVersion": "0.0.2.3",
-    "RepoUrl": "https://github.com/mommothazaz123/FFXIV_AutoSweep",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "housing"
-    ],
-    "DalamudApiLevel": 2,
-    "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.0.0",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 227,
-    "LastUpdate": "1616270493",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=False&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=False&branch=master"
-  },
-  {
     "Author": "Ottermandias",
     "Name": "AutoVisor",
     "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states.",
@@ -1461,6 +1440,28 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
+    "Author": "zhudotexe",
+    "Name": "PaissaHouse",
+    "InternalName": "autoSweep",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+    "Tags": [
+      "housing"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1620884892",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Xorus",
