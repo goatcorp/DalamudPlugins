@@ -1493,7 +1493,7 @@
     "Name": "FC Name Color",
     "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
     "InternalName": "FCNameColor",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1505,9 +1505,9 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1621963069",
+    "LastUpdate": "1623014739",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=True&isTesting=True&branch=master"
