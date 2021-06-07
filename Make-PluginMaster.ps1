@@ -8,6 +8,8 @@ $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 $dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=master"
 $dlTemplateUpdate = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=True&isTesting={1}&branch=master"
 
+$apiLevel = 3
+
 $thisPath = Get-Location
 
 $table = ""
@@ -24,7 +26,10 @@ Foreach-Object {
     	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
         
         $newDesc = $content.Description -replace "\n", "<br>"
-    	$table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $newDesc + " |`n"
+        
+        if ($content.DalamudApiLevel -eq $apiLevel) {
+            $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $newDesc + " |`n"
+        }
     }
 
     $testingPath = Join-Path $thisPath -ChildPath "testing" | Join-Path -ChildPath $content.InternalName | Join-Path -ChildPath $_.Name
