@@ -17,7 +17,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - name: Run generator
         run: .\Make-PluginMaster.ps1
       - name: Commit files
