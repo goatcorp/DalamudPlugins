@@ -14,14 +14,12 @@ These are community-made plugins that you can install by using /xlplugins in-gam
 | ascclemens | Burnt Toast | Hides toast notifications you don't want to see. |
 | Haplo064 | Chat Bubbles | Enables in-game chat bubbles. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
-| Haplo064 | Chat Extender | This plugin adds functionality to FFXIV in-game chat. |
 | Haplo064 | Chat Translator | Enables in-game chat translation. |
 | Chivalrik | Compass | Monodimensional compass for your adventures. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat, modded by Franz | Discord Chat Bridge | This plugin allows you to receive your chat messages inside of discord. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
 | goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
-| goat | Hey Dalamud! | The intelligent voice assistant for your FFXIV experience - teleport to places, open other plugins, the possibilities are limitless!<br>Just say "Hey Dalamud, help me!" to learn more. |
 | perchbird | Damage Info | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | DeepDungeonDex | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | ocealot | EasyEyes | Hides VFXs which are too bright or distracting |
