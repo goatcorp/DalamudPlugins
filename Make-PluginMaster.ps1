@@ -28,7 +28,12 @@ Foreach-Object {
         $newDesc = $content.Description -replace "\n", "<br>"
         
         if ($content.DalamudApiLevel -eq $apiLevel) {
-            $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $newDesc + " |`n"
+            if ($content.RepoUrl) {
+                $table = $table + "| " + $content.Author + " | [" + $content.Name + "](" + $content.RepoUrl + ") | " + $newDesc + " |`n"
+            }
+            else {
+                $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $newDesc + " |`n"
+            }
         }
     }
 
