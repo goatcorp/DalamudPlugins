@@ -1,9 +1,9 @@
 {
     "Author": "Ottermandias",
     "Name": "AutoVisor",
-    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states.",
+    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPoses per job.",
     "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.1.2.1",
+    "AssemblyVersion": "1.1.3.1",
     "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3
