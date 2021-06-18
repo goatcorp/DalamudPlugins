@@ -263,7 +263,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.1.0.10",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "This plugin allows you to receive your chat messages inside of discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -276,7 +276,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6674,
-    "LastUpdate": "1623630229",
+    "LastUpdate": "1623912722",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False&branch=master"
