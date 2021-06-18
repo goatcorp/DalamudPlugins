@@ -35,6 +35,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Good Memory](https://git.sr.ht/~jkcclemens/GoodMemory) | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
 | perchbird | [Housemate](https://github.com/lmcintyre/Housemate) | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Search for items. Type /xlitem to open search window. |
+| ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Track your loot. |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
