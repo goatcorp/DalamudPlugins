@@ -1272,7 +1272,7 @@
     "Name": "VFXEditor",
     "Description": "VFX editor and browser, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.3.2.8",
+    "AssemblyVersion": "1.3.2.9",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1284,7 +1284,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1962,
-    "LastUpdate": "1622950399",
+    "LastUpdate": "1624302587",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=master"
@@ -1590,5 +1590,29 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
+    "Author": "Cadaeix",
+    "Name": "XIVLogger",
+    "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs.",
+    "InternalName": "XIVLogger",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/cadaeix/XIVLogger",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "xivlauncer",
+      "plugin",
+      "chat",
+      "chat log"
+    ],
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1624273886",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=True&isTesting=True&branch=master"
   }
 ]
