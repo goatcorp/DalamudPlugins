@@ -1,12 +1,17 @@
 {
   "Author": "karashiiro",
   "Name": "TextToTalk",
-  "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
   "InternalName": "TextToTalk",
-  "AssemblyVersion": "0.3.0.0",
-  "RepoUrl": "https://github.com/karashiiro/TextToTalk",
+  "AssemblyVersion": "1.5.0.0",
+  "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
   "ApplicableVersion": "any",
-  "DalamudApplicableVersion": ">=4.9.8.3",
-  "DalamudApiLevel": "1",
-  "Tags": ["tts"]
+  "RepoUrl": "https://github.com/karashiiro/TextToTalk",
+  "Tags": [
+    "tts",
+    "trigger",
+    "triggers",
+    "karashiiro"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
 }
