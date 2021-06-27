@@ -399,6 +399,29 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "Xorus",
+    "Name": "EngageTimer",
+    "InternalName": "EngageTimer",
+    "AssemblyVersion": "1.1.2.1",
+    "Description": "Combat Timer OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xorus/EngageTimer",
+    "Tags": [
+      "countdown",
+      "stopwatch",
+      "OBS"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1624793720",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
@@ -1480,30 +1503,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=True&branch=master"
-  },
-  {
-    "Author": "Xorus",
-    "Name": "EngageTimer",
-    "InternalName": "EngageTimer",
-    "AssemblyVersion": "1.1.2.1",
-    "Description": "Displays a simple engagement timer and a countdown in the middle of the screen in the style of the original one.\nIt also allows you to open a web-server to serve an OBS overlay for the engagement timer.\n\nConsult the repository link for instructions.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/xorus/EngageTimer",
-    "Tags": [
-      "countdown",
-      "stopwatch",
-      "OBS"
-    ],
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.2.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1619368849",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "CFG",
