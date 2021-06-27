@@ -1592,11 +1592,11 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=True&isTesting=True&branch=master"
   },
   {
-    "Author": "cadaeix",
+    "Author": "Cadaeix",
     "Name": "XIVLogger",
     "InternalName": "XIVLogger",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs.",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cadaeix/XIVLogger",
     "Tags": [
@@ -1609,9 +1609,9 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1624407530",
+    "LastUpdate": "1624782194",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=True&isTesting=True&branch=master"
