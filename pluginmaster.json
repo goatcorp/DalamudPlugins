@@ -603,14 +603,14 @@
     "Name": "JobBars",
     "Description": "Additional job gauges and party buff trackers",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.1",
     "RepoUrl": "https://github.com/0ceal0t/JobBars",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1624641478",
+    "LastUpdate": "1624983575",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=True&isTesting=False&branch=master"
@@ -814,11 +814,11 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=True&isTesting=False&branch=master"
   },
   {
-    "Author": "meli",
+    "Author": "meli & perchbird",
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.5.0.0",
     "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
     "ApplicableVersion": "any",
     "Tags": [
@@ -829,7 +829,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11627,
-    "LastUpdate": "1618499290",
+    "LastUpdate": "1624977112",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=True&isTesting=False&branch=master"
