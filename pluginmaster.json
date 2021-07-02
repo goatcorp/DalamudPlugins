@@ -476,6 +476,30 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "CFG",
+    "Name": "FC Name Color",
+    "InternalName": "FCNameColor",
+    "AssemblyVersion": "1.0.2.3",
+    "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
+    "Tags": [
+      "nameplate",
+      "FC",
+      "name",
+      "colors"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1625227359",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "Description": "Display game FPS.",
@@ -1503,31 +1527,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=True&branch=master"
-  },
-  {
-    "Author": "CFG",
-    "Name": "FC Name Color",
-    "InternalName": "FCNameColor",
-    "AssemblyVersion": "1.0.2.3",
-    "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
-    "Tags": [
-      "nameplate",
-      "FC",
-      "name",
-      "colors"
-    ],
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.3",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1624786000",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Gotest",
