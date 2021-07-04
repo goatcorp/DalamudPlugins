@@ -1253,7 +1253,7 @@
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.6.0.0",
+    "TestingAssemblyVersion": "1.6.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 2508,
     "LastUpdate": "1624861591",
@@ -1532,23 +1532,17 @@
     "Author": "Gotest",
     "Name": "Kingdom Hearts UI Bars",
     "InternalName": "KingdomHeartsPlugin",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
-    "Tags": [
-      "health",
-      "ui",
-      "kh",
-      "Kingdom Hearts"
-    ],
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1625111199",
+    "LastUpdate": "1625149670",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=True&isTesting=True&branch=master"
@@ -1589,6 +1583,27 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
+    "Author": "ocealot",
+    "Name": "SkillSwap",
+    "Description": "Create animation replacement mods for Textools or Penumbra",
+    "InternalName": "SkillSwap",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin"
+    ],
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1625013250",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=True&isTesting=True&branch=master"
   },
   {
     "Author": "Avaflow",
