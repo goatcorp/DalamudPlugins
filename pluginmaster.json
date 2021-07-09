@@ -1240,7 +1240,7 @@
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.7.2.0",
+    "AssemblyVersion": "1.7.3.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -1259,7 +1259,7 @@
     "TestingAssemblyVersion": "1.6.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 2683,
-    "LastUpdate": "1625787455",
+    "LastUpdate": "1625837812",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False&branch=master"
