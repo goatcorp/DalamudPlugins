@@ -1592,7 +1592,7 @@
     "Name": "SkillSwap",
     "Description": "Create animation replacement mods for Textools or Penumbra",
     "InternalName": "SkillSwap",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1601,9 +1601,9 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.1.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1625429574",
+    "LastUpdate": "1625673795",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=True&isTesting=True&branch=master"
