@@ -63,7 +63,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
 | Caraxi | [Simple Tweaks](https://github.com/Caraxi/SimpleTweaksPlugin) | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
-| Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
+| Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | ascclemens | [Sound Filter](https://git.sr.ht/jkcclemens/SoundFilter) | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
