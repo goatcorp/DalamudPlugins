@@ -1,0 +1,11 @@
+{
+  "Author": "ascclemens",
+  "Name": "Quest Map",
+  "InternalName": "Quest Map",
+  "AssemblyVersion": "1.3.0.0",
+  "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/QuestMap",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
