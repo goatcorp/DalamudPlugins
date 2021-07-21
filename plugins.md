@@ -58,6 +58,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | perchbird | [PrefPro](https://github.com/lmcintyre/PrefPro) | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | Quickly price check your items. |
 | UnknownX | [QoL Bar](https://github.com/UnknownX7/QoLBar) | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |
+| ascclemens | [Quest Map](https://git.sr.ht/~jkcclemens/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |

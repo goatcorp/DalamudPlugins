@@ -1045,6 +1045,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=True&isTesting=False&branch=master"
   },
   {
+    "Author": "ascclemens",
+    "Name": "Quest Map",
+    "InternalName": "Quest Map",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/QuestMap",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1626848042",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=True&isTesting=False&branch=master"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Remind Me",
     "Description": "Cooldown and Status tracking.",
