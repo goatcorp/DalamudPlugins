@@ -1569,6 +1569,25 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "aers",
+    "Name": "NamePlateDebuffs",
+    "InternalName": "NamePlateDebuffs",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Displays your debuffs on enemy nameplates.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1627572080",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "Bluefissure",
     "Name": "No Kill Plugin",
     "Description": "A simple plugin that prevent the game from killing itself with lobby error.",
