@@ -21,7 +21,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages inside of discord. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
-| goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
+| goat | Discord Rich Presence | This plugin allows you display your character and current zone in your Discord profile. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | [DeepDungeonDex](https://github.com/Strati/DeepDungeonDex) | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | Hides VFXs which are too bright or distracting |
