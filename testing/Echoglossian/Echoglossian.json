@@ -1,0 +1,17 @@
+{
+  "Author": "Dante Souza e Souza - aka lokinmodar",
+  "Name": "Echoglossian",
+  "InternalName": "Echoglossian",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Realtime game text translator",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
+  "Tags": [
+    "ffxiv",
+    "Dalamud",
+    "plugin",
+    "translation"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
