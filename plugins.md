@@ -21,13 +21,15 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others. |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages inside of discord. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
-| goat | Discord Rich Presence | This plugin allows you to set up chat triggers. |
+| goat | Discord Rich Presence | This plugin allows you display your character and current zone in your Discord profile. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable UI options for extra damage information. /dmginfo displays the config. |
-| Strati | [DeepDungeonDex](https://github.com/Strati/DeepDungeonDex) | A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)<br>Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the<br>Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
+| Strati | [DeepDungeonDex](https://github.com/Strati/DeepDungeonDex) | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | Hides VFXs which are too bright or distracting |
+| Xorus | [EngageTimer](https://github.com/xorus/EngageTimer) | Combat Timer OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.<br>Please consult the repository link for OBS setup instructions. |
 | ascclemens | [Expanded Search Info](https://git.sr.ht/~jkcclemens/ExpandedSearchInfo) | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically. |
 | BiscuitUmU, Kazumi | [Fantasy Player](https://github.com/Dormanil/FantasyPlayer) | Control Spotify playback from within FFX|V<br>Use the button below to open settings or use the '/pfp settings' command. |
 | daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | Highlights recommended tiles in Faux Hollows for your next move. |
+| CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. |
 | Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
@@ -35,6 +37,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Good Memory](https://git.sr.ht/~jkcclemens/GoodMemory) | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
 | perchbird | [Housemate](https://github.com/lmcintyre/Housemate) | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Search for items. Type /xlitem to open search window. |
+| ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Track your loot. |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
@@ -45,7 +48,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | karashiiro | [NeatNoter](https://github.com/karashiiro/NeatNoter) | A note-taking plugin. |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Avaflow | [Oops, All Lalafells!](https://github.com/avafloww/OopsAllLalafells) | Turn everyone around you into Lalafells (or other races)!<br><br>Use /poal to open settings. |
-| meli | [Orchestrion Plugin](https://github.com/ff-meli/OrchestrionPlugin/) | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
+| meli & perchbird | [Orchestrion Plugin](https://github.com/ff-meli/OrchestrionPlugin/) | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | goat, modded by Franz | OwO | This plugin uwu's your chat. |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
 | tesu | [Penny Pincher](https://github.com/tesu/PennyPincher) | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
@@ -55,17 +58,17 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | perchbird | [PrefPro](https://github.com/lmcintyre/PrefPro) | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | Quickly price check your items. |
 | UnknownX | [QoL Bar](https://github.com/UnknownX7/QoLBar) | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |
+| ascclemens | [Quest Map](https://git.sr.ht/~jkcclemens/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
-| Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who. |
+| Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has dispellable status effects. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
 | Caraxi | [Simple Tweaks](https://github.com/Caraxi/SimpleTweaksPlugin) | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
-| Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
+| Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | ascclemens | [Sound Filter](https://git.sr.ht/jkcclemens/SoundFilter) | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | [Text Box Styler](https://git.sr.ht/~jkcclemens/TextBoxStyler) | Allows replacing every text box with the background of your choice. |
-| karashiiro | [TextToTalk](https://github.com/karashiiro/TextToTalk) | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | ascclemens | The Great Separator | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
 | attick & perchbird | [TitleEdit](https://github.com/lmcintyre/TitleEditPlugin) | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
