@@ -1635,6 +1635,24 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "Chalkos",
+    "Name": "RepairMe",
+    "Description": "Helps you notice when your gear needs to be repaired. /repairme to config",
+    "InternalName": "RepairMe",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/chalkos/RepairMe",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "akira0245",
     "Name": "Reset dummy enmity command",
     "Description": "A text command for reset target striking dummy enmity.",
