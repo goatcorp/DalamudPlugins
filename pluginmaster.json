@@ -1172,7 +1172,7 @@
     "Name": "Sonar",
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.2.2.2",
+    "AssemblyVersion": "0.2.3.0",
     "ApplicableVersion": "2021.07.15.0000.0000",
     "DalamudApiLevel": 3,
     "Tags": [
@@ -1191,7 +1191,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1627933953",
+    "LastUpdate": "1628561951",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False&branch=master"
