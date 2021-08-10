@@ -1,10 +1,11 @@
 {
-    "Author": "Chalkos",
-    "Name": "RepairMe",
-    "Description": "Helps you notice when your gear needs to be repaired. /repairme to config",
-    "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/chalkos/RepairMe",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 3
+  "Author": "Chalkos",
+  "Name": "RepairMe",
+  "InternalName": "RepairMe",
+  "AssemblyVersion": "0.1.1.1",
+  "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/chalkos/RepairMe",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0
 }
