@@ -1712,6 +1712,25 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "Caraxi",
+    "Name": "Party List Layout",
+    "InternalName": "PartyListLayout",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Customize the layout of the party list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1628783761",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "Eternita",
     "Name": "QuestAWAY",
     "InternalName": "QuestAWAY",
