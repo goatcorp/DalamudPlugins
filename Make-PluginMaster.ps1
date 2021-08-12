@@ -1,13 +1,13 @@
 $ErrorActionPreference = 'SilentlyContinue'
 
 $output = New-Object Collections.Generic.List[object]
-$notInclude = "sdgfdsgfgdfs", "sdfgdfg", "XIVStats", "bffbbf", "VoidList", "asdfsad", "sdfgdfsg", "vrgnddgv";
+$notInclude = @();
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 $categoryFallbacksMap = Get-Content "categoryfallbacks.json" | ConvertFrom-Json
 
-$dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=api4"
-$dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/{0}/{1}/latest.zip"
+$dlTemplateInstall = "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/{0}/latest.zip"
+$dlTemplateUpdate = "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/{0}/{1}/latest.zip"
 
 $apiLevel = 4
 
