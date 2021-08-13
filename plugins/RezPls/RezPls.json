@@ -1,9 +1,9 @@
 ﻿{
   "Author": "Ottermandias",
   "Name": "RezPls",
-  "Description": "Easy overview about who is currently resurrecting who.",
+  "Description": "Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects.",
   "InternalName": "RezPls",
-  "AssemblyVersion": "1.0.1.2",
+  "AssemblyVersion": "1.1.2.0",
   "RepoUrl": "https://github.com/Ottermandias/RezPls",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 3
