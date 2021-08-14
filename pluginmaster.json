@@ -1595,6 +1595,25 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "aers",
+    "Name": "EnemyListDebuffs",
+    "InternalName": "EnemyListDebuffs",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Displays your debuffs on the enemy list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/EnemyListDebuffs",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1628850967",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "Franz",
     "Name": "FlashOnTell",
     "InternalName": "FlashOnTell",
