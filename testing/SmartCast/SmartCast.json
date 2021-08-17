@@ -1,0 +1,15 @@
+{
+  "Author": "akira0245",
+  "Name": "SmartCast",
+  "InternalName": "SmartCast",
+  "AssemblyVersion": "0.0.0.6",
+  "Description": "Casting ground target actions with 1 click.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://gist.github.com/akira0245/6fe2f03303b092ff9270d022b81a9066",
+  "Tags": [
+    "akira0245",
+    "akira"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
