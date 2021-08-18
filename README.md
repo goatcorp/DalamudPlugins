@@ -1,6 +1,12 @@
 # Dalamud plugin repository
 
-This repository hosts plugin binaries and update definitions for [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher).
+This repository hosts plugin binaries that are used with [Dalamud](https://github.com/goatcorp/Dalamud), which is managed by [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher).
+
+## Installing Plugins
+
+To install plugins, you'll need to use XIVLauncher with the in-game addon (Dalamud) enabled. Once Dalamud has loaded, you can type `/xlplugins` in game to open a plugin installed.
+
+You do not need to download any of the plugins here manually. Plugin installation is handled inside of the game directly.
 
 ## Making a plugin
 

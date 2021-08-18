@@ -1,0 +1,11 @@
+{
+  "Author": "kalilistic",
+  "Name": "PlayerTrack",
+  "InternalName": "PlayerTrack",
+  "AssemblyVersion": "2.0.39.0",
+  "Description": "Keep track of players you meet.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}

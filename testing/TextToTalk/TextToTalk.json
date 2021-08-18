@@ -2,7 +2,7 @@
   "Author": "karashiiro",
   "Name": "TextToTalk",
   "InternalName": "TextToTalk",
-  "AssemblyVersion": "1.8.0.3",
+  "AssemblyVersion": "1.8.5.0",
   "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -15,6 +15,6 @@
     "speech",
     "karashiiro"
   ],
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 4,
   "LoadPriority": 0
 }
