@@ -975,22 +975,18 @@
   {
     "Author": "kalilistic",
     "Name": "PlayerTrack",
-    "Description": "Keep track of players you meet.",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "1.1.66",
-    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
-    "Tags": [
-      "players",
-      "track",
-      "orwell"
-    ],
+    "AssemblyVersion": "2.0.40.0",
+    "Description": "Keep track of players you meet.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "3",
+    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
     "IsHide": "False",
     "TestingAssemblyVersion": "2.0.39.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 5758,
-    "LastUpdate": "1617843384",
+    "LastUpdate": "1629391457",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=False&branch=master"
