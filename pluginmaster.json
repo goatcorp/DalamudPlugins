@@ -1629,6 +1629,25 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=True&isTesting=True&branch=master"
   },
   {
+    "Author": "aers",
+    "Name": "FlyTextFilter",
+    "InternalName": "FlyTextFilter",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Filter fly text by type.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/flytextfilter",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1629439610",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=True&isTesting=True&branch=master"
+  },
+  {
     "Author": "Eternita",
     "Name": "GPNotify",
     "InternalName": "GPNotify",
