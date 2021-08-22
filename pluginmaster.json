@@ -402,7 +402,7 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "Description": "Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -413,10 +413,17 @@
     ],
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "ImageUrls": [
+      "https://xorus.dev/xiv/engageTimer/img/countdown_decimals.png",
+      "https://xorus.dev/xiv/engageTimer/img/screenshot_obs.png"
+    ],
+    "IconUrl": "https://xorus.dev/xiv/engageTimer/img/icon.png",
+    "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
+    "Changelog": "- support new dalamud version",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1628621738",
+    "LastUpdate": "1629647859",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=True&isTesting=False&branch=master"
