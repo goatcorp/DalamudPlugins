@@ -2,7 +2,7 @@
   "Author": "Xorus",
   "Name": "EngageTimer",
   "InternalName": "EngageTimer",
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.2.1.0",
   "Description": "Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -12,5 +12,12 @@
     "OBS"
   ],
   "DalamudApiLevel": 4,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://xorus.dev/xiv/engageTimer/img/countdown_decimals.png",
+    "https://xorus.dev/xiv/engageTimer/img/screenshot_obs.png"
+  ],
+  "IconUrl": "https://xorus.dev/xiv/engageTimer/img/icon.png",
+  "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
+  "Changelog": "- support new dalamud version"
 }
