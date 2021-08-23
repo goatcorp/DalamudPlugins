@@ -8,11 +8,11 @@
   "ApplicableVersion": "any",
   "DalamudApiLevel": 3,
   "ImageUrls": [
-    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo1.png",
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png",
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png",
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png",
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png"
   ],
-  "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/icon.png"
 }
