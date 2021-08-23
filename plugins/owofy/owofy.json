@@ -1,18 +1,32 @@
 {
+  "Disabled": true,
+  "Testing": false,
+  "InstalledFromUrl": null,
   "Author": "goat, modded by Franz",
-  "Name": "OwO",
-  "Description": "This plugin uwu's your chat.",
+  "Name": "owo plugin",
   "Punchline": "owo for your chat",
+  "Description": "This plugin uwu's your chat.",
+  "Tags": null,
+  "IsHide": false,
   "InternalName": "owofy",
-  "AssemblyVersion": "1.3.1.0",
+  "AssemblyVersion": "1.4.0.0",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": null,
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 4,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "LoadPriority": 0,
   "ImageUrls": [
-    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo1.png",
-    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png",
-    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png",
-    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png",
-    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/promo2.png"
+    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
+    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+    "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/owofy/images/icon.png"
+  "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
 }
