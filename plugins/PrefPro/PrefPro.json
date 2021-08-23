@@ -2,10 +2,11 @@
   "Author": "perchbird",
   "Name": "PrefPro",
   "InternalName": "PrefPro",
-  "AssemblyVersion": "1.1.0.5",
-  "Description": "Changes in-game dialogue to your desired gender and name. /prefpro for the menu.",
+  "AssemblyVersion": "1.1.1.0",
+  "Description": "Your character is personal, so you should be able to have NPCs refer to them\nthe way that you want. With PrefPro, you can control which text option\nwill appear when an NPC uses dialogue meant for a specific in-game gender.\nThis allows you to use a female player model and be referred to as male, and\nvice versa. In addition, there are a few name customization options - if you\nwant to only be referred to by your last name, so be it.\nNote: This plugin currently will not swap voiced cutscene dialogue.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lmcintyre/PrefPro",
-  "DalamudApiLevel": 3,
-  "LoadPriority": 0
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Changes in-game dialogue to reference your desired gender and name."
 }
