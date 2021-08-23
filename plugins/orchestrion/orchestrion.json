@@ -1,11 +1,16 @@
 {
-  "Author": "meli & perchbird",
+  "Author": "Meli & perchbird",
   "Name": "Orchestrion Plugin",
-  "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
   "InternalName": "orchestrion",
-  "AssemblyVersion": "1.5.0.0",
-  "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
+  "AssemblyVersion": "1.6.0.0",
+  "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
   "ApplicableVersion": "any",
-  "Tags": ["bgm", "music"],
-  "DalamudApiLevel": 3
+  "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
+  "Tags": [
+    "bgm",
+    "music"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM."
 }
