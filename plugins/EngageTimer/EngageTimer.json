@@ -14,10 +14,10 @@
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://xorus.dev/xiv/engageTimer/img/countdown_decimals.png",
-    "https://xorus.dev/xiv/engageTimer/img/screenshot_obs.png"
+    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/countdown_decimals.png",
+    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/screenshot_obs.png"
   ],
-  "IconUrl": "https://xorus.dev/xiv/engageTimer/img/icon.png",
+  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/icon.png",
   "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
-  "Changelog": "- support new dalamud version"
+  "Changelog": "- update images"
 }
