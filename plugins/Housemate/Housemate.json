@@ -2,10 +2,11 @@
   "Author": "perchbird",
   "Name": "Housemate",
   "InternalName": "Housemate",
-  "AssemblyVersion": "1.0.1.1",
-  "Description": "Displays information about housing fixtures and objects.\n/housemate opens the UI.",
+  "AssemblyVersion": "1.0.2.0",
+  "Description": "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lmcintyre/Housemate",
-  "DalamudApiLevel": 3,
-  "LoadPriority": 0
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Displays information about housing fixtures and objects."
 }
