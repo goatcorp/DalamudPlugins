@@ -51,7 +51,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat, modded by Franz | OwO | This plugin uwu's your chat. |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
 | tesu | [Penny Pincher](https://github.com/tesu/PennyPincher) | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
-| karashiiro | [PingPlugin](https://github.com/karashiiro/PingPlugin) | A ping display plugin for Dalamud. |
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Adds an indicator of your hitbox. |
 | kalilistic | [PlayerTrack](https://github.com/kalilistic/PlayerTrack) | Keep track of players you meet. |
 | perchbird | [PrefPro](https://github.com/lmcintyre/PrefPro) | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
