@@ -22,7 +22,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages inside of discord. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
 | goat | Discord Rich Presence | This plugin allows you display your character and current zone in your Discord profile. |
-| perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable UI options for extra damage information. /dmginfo displays the config. |
 | Strati | [DeepDungeonDex](https://github.com/Strati/DeepDungeonDex) | A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with<br>deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | Hides VFXs which are too bright or distracting |
 | ascclemens | [Expanded Search Info](https://git.sr.ht/~jkcclemens/ExpandedSearchInfo) | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically. |
@@ -34,7 +33,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | ascclemens | [Globetrotter](https://git.sr.ht/~jkcclemens/Globetrotter) | Automatically shows where treasure maps are located. |
 | ascclemens | [Good Memory](https://git.sr.ht/~jkcclemens/GoodMemory) | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
-| perchbird | [Housemate](https://github.com/lmcintyre/Housemate) | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Search for items. Type /xlitem to open search window. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
@@ -47,12 +45,10 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | karashiiro | [NeatNoter](https://github.com/karashiiro/NeatNoter) | A note-taking plugin. |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Avaflow | [Oops, All Lalafells!](https://github.com/avafloww/OopsAllLalafells) | Turn everyone around you into Lalafells (or other races)!<br><br>Use /poal to open settings. |
-| meli & perchbird | [Orchestrion Plugin](https://github.com/ff-meli/OrchestrionPlugin/) | Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
 | tesu | [Penny Pincher](https://github.com/tesu/PennyPincher) | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Adds an indicator of your hitbox. |
 | kalilistic | [PlayerTrack](https://github.com/kalilistic/PlayerTrack) | Keep track of players you meet. |
-| perchbird | [PrefPro](https://github.com/lmcintyre/PrefPro) | Changes in-game dialogue to your desired gender and name. /prefpro for the menu. |
 | kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | Quickly price check your items. |
 | UnknownX | [QoL Bar](https://github.com/UnknownX7/QoLBar) | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |
 | ascclemens | [Quest Map](https://git.sr.ht/~jkcclemens/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal. |
@@ -67,7 +63,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | [Text Box Styler](https://git.sr.ht/~jkcclemens/TextBoxStyler) | Allows replacing every text box with the background of your choice. |
 | ascclemens | The Great Separator | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
-| attick & perchbird | [TitleEdit](https://github.com/lmcintyre/TitleEditPlugin) | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
 | ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | VFX editor and browser, open with /vfxedit |
 | Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
