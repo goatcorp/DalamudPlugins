@@ -26,6 +26,7 @@ Foreach-Object {
     	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
         
         $newDesc = $content.Description -replace "\n", "<br>"
+        $newDesc = $newDesc -replace "\|", "I"
         
         if ($content.DalamudApiLevel -eq $apiLevel) {
             if ($content.RepoUrl) {
