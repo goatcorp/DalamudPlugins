@@ -58,7 +58,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | ascclemens | [Sound Filter](https://git.sr.ht/jkcclemens/SoundFilter) | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
-| karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | [Text Box Styler](https://git.sr.ht/~jkcclemens/TextBoxStyler) | Allows replacing every text box with the background of your choice. |
 | ascclemens | The Great Separator | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
