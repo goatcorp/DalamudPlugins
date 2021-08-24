@@ -947,7 +947,7 @@
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.12.0.0",
+    "AssemblyVersion": "1.12.0.1",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -960,14 +960,14 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/preview_1.png"
+      "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 28762,
-    "LastUpdate": "1629689043",
+    "LastUpdate": "1629830686",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=True&isTesting=False&branch=api4"
@@ -1058,17 +1058,23 @@
   {
     "Author": "UnknownX",
     "Name": "QoL Bar",
+    "Punchline": "Customizable ImGui hotbars",
     "Description": "A plugin designed to provide a simple, customizable and always available interface for chat commands\nor other plugins to alleviate the need for using macros and hotbar space to achieve similar results.\n\nThe plugin should initially appear as a small box on the bottom center of the game window.",
-    "InternalName": "QoLBar",
-    "AssemblyVersion": "2.1.3.4",
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
+    ],
     "RepoUrl": "https://github.com/UnknownX7/QoLBar",
+    "InternalName": "QoLBar",
+    "AssemblyVersion": "2.1.4.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "Changelog": "Updated for API4",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 17409,
-    "LastUpdate": "1628988994",
+    "LastUpdate": "1629807120",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=True&isTesting=False&branch=api4"
