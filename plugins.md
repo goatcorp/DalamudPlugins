@@ -60,7 +60,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Quest Map](https://git.sr.ht/~jkcclemens/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects. |
-| kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
+| kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate and urianger. |
 | Caraxi | [Simple Tweaks](https://github.com/Caraxi/SimpleTweaksPlugin) | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
