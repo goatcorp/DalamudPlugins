@@ -26,7 +26,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | Hides VFXs which are too bright or distracting |
 | ascclemens | [Expanded Search Info](https://git.sr.ht/~jkcclemens/ExpandedSearchInfo) | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically. |
 | BiscuitUmU, Kazumi | [Fantasy Player](https://github.com/Dormanil/FantasyPlayer) | Control Spotify playback from within FFXIV<br>Use the button below to open settings or use the '/pfp settings' command. |
-| daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | Highlights recommended tiles in Faux Hollows for your next move. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. |
 | Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes. |
@@ -40,7 +39,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
-| daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | Highlights recommended tiles in Mini Cactpot for your next move. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | karashiiro | [NeatNoter](https://github.com/karashiiro/NeatNoter) | A note-taking plugin. |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
@@ -54,7 +52,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
-| Caraxi | [Simple Tweaks](https://github.com/Caraxi/SimpleTweaksPlugin) | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | ascclemens | [Sound Filter](https://git.sr.ht/jkcclemens/SoundFilter) | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
@@ -67,7 +64,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | Haplo064 | [Where's WOLdo](https://github.com/Haplo064/WheresWOLdo) | Text overlay of current location name. |
-| daemitus | [ezWondrousTails](https://github.com/daemitus/WondrousTailsSolver) | Adds row probabilities to the Wondrous Tails display. |
 | ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 
