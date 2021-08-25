@@ -34,6 +34,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | ascclemens | [Globetrotter](https://git.sr.ht/~jkcclemens/Globetrotter) | Automatically shows where treasure maps are located. |
 | ascclemens | [Good Memory](https://git.sr.ht/~jkcclemens/GoodMemory) | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
+| Eternita | [GPNotify](https://github.com/Eternita-S/GPNotify) | Notifies you when your GP recovers to certain amount as gatherer, takes potion into account as well. |
 | perchbird | [Housemate](https://github.com/lmcintyre/Housemate) | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Search for items. Type /xlitem to open search window. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
