@@ -6,7 +6,7 @@ $notInclude = "sdgfdsgfgdfs", "sdfgdfg", "XIVStats", "bffbbf", "VoidList", "asdf
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 
 $dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=master"
-$dlTemplateUpdate = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=True&isTesting={1}&branch=master"
+$dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/{0}/{1}/latest.zip"
 
 $apiLevel = 3
 
@@ -66,7 +66,7 @@ Foreach-Object {
     $installLink = $dlTemplateInstall -f $internalName, "True"
     $content | add-member -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
-    $updateLink = $dlTemplateUpdate -f $internalName, "False"
+    $updateLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
     $output.Add($content)
@@ -107,7 +107,7 @@ Foreach-Object {
         $installLink = $dlTemplateInstall -f $internalName, "True"
         $content | add-member -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
-        $updateLink = $dlTemplateUpdate -f $internalName, "True"
+        $updateLink = $dlTemplateUpdate -f "testing", $internalName
         $content | add-member -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
     
         $output.Add($content)

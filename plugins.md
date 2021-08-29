@@ -34,6 +34,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | ascclemens | [Globetrotter](https://git.sr.ht/~jkcclemens/Globetrotter) | Automatically shows where treasure maps are located. |
 | ascclemens | [Good Memory](https://git.sr.ht/~jkcclemens/GoodMemory) | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
+| Eternita | [GPNotify](https://github.com/Eternita-S/GPNotify) | Notifies you when your GP recovers to certain amount as gatherer, takes potion into account as well. |
 | perchbird | [Housemate](https://github.com/lmcintyre/Housemate) | Displays information about housing fixtures and objects.<br>/housemate opens the UI. |
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Search for items. Type /xlitem to open search window. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
@@ -60,7 +61,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Quest Map](https://git.sr.ht/~jkcclemens/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects. |
-| kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
+| kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate and urianger. |
 | Caraxi | [Simple Tweaks](https://github.com/Caraxi/SimpleTweaksPlugin) | A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.<br>All changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below) |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
