@@ -279,19 +279,20 @@
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
     "AssemblyVersion": "1.1.1.4",
-    "Description": "This plugin allows you to receive your chat messages inside of discord.",
+    "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
     "Tags": [
       "discord",
       "chat"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "Punchline": "Receive your chat messages via Discord.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9800,
-    "LastUpdate": "1627802890",
+    "LastUpdate": "1630351827",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False&branch=api4"

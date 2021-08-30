@@ -16,7 +16,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
 | Haplo064 | [Chat Translator](https://github.com/Haplo064/ChatTranslator) | Enables in-game chat translation. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Monodimensional compass for your adventures. |
-| goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages inside of discord. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | Hides VFXs which are too bright or distracting |
 | BiscuitUmU, Kazumi | [Fantasy Player](https://github.com/Dormanil/FantasyPlayer) | Control Spotify playback from within FFXIV<br>Use the button below to open settings or use the '/pfp settings' command. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
