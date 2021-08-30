@@ -10,7 +10,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [Accurate CountDown](https://github.com/Haplo064/Europe) | Shows the current countdown time. |
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | Ms.Tress | [Aether Sense (18+)](https://github.com/Ms-Tress/AetherSense) | Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/ |
-| ascclemens | Better Party Finder | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | ackwell | [Browser Host](https://github.com/ackwell/BrowserHost) | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
 | ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Enables in-game chat bubbles. |
@@ -22,13 +21,10 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
 | goat | Discord Rich Presence | This plugin allows you display your character and current zone in your Discord profile. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | Hides VFXs which are too bright or distracting |
-| ascclemens | [Expanded Search Info](https://git.sr.ht/~jkcclemens/ExpandedSearchInfo) | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically. |
 | BiscuitUmU, Kazumi | [Fantasy Player](https://github.com/Dormanil/FantasyPlayer) | Control Spotify playback from within FFXIV<br>Use the button below to open settings or use the '/pfp settings' command. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
-| ascclemens | [Globetrotter](https://git.sr.ht/~jkcclemens/Globetrotter) | Automatically shows where treasure maps are located. |
-| ascclemens | [Good Memory](https://git.sr.ht/~jkcclemens/GoodMemory) | Adds an indicator in item tooltips to show whether you have acquired that item.<br><br>This indicator is in the item's description near the bottom and only appears for<br>items that are unlockable, such as orchestrion rolls, minions, etc. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Track your loot. |
@@ -44,16 +40,11 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Adds an indicator of your hitbox. |
 | kalilistic | [PlayerTrack](https://github.com/kalilistic/PlayerTrack) | Keep track of players you meet. |
 | kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | Quickly price check your items. |
-| ascclemens | [Quest Map](https://git.sr.ht/~jkcclemens/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
-| ascclemens | [Sound Filter](https://git.sr.ht/jkcclemens/SoundFilter) | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
-| ascclemens | [Text Box Styler](https://git.sr.ht/~jkcclemens/TextBoxStyler) | Allows replacing every text box with the background of your choice. |
-| ascclemens | The Great Separator | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
-| ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
 | ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | VFX editor and browser, open with /vfxedit |
 | Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Manage waymark presets.  Use "/pwaymark help" for more information. |
