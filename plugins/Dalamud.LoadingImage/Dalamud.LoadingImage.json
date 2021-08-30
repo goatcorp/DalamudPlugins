@@ -2,8 +2,9 @@
   "Author": "goat",
   "Name": "Fancy Loading Screens",
   "Description": "This plugin shows the destination zone's concept art while loading.",
+  "Punchline": "Shows the destination zone's concept art while loading",
   "InternalName": "Dalamud.LoadingImage",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.3",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 3
+  "DalamudApiLevel": 4
 }
