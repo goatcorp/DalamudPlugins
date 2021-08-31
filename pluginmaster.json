@@ -1756,6 +1756,25 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/NoKillPlugin/latest.zip"
   },
   {
+    "Author": "Sl0nderman",
+    "Name": "Ocean Fishin'",
+    "InternalName": "OceanFishin",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Suggests bait while ocean fishing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1630293056",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/OceanFishin/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
