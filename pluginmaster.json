@@ -685,16 +685,22 @@
   {
     "Author": "ocealot",
     "Name": "JobBars",
-    "Description": "Additional job gauges and party buff trackers",
+    "Punchline": "Extra job gauges",
+    "Description": "Additional job gauges, party buff timers, mitigation trackers, and more",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.0.2.6",
+    "AssemblyVersion": "1.1.0.0",
+    "Tags": [
+      "UI",
+      "Bars"
+    ],
     "RepoUrl": "https://github.com/0ceal0t/JobBars",
+    "IconUrl": "https://raw.githubusercontent.com/0ceal0t/JobBars/main/assets/icon.png",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1629465561",
+    "LastUpdate": "1630434234",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=True&isTesting=False&branch=api4"
@@ -1263,6 +1269,29 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=True&isTesting=False&branch=api4"
   },
   {
+    "Author": "ocealot",
+    "Name": "SkillSwap",
+    "Punchline": "Skill mod creator",
+    "Description": "Create animation replacement mods for Textools or Penumbra",
+    "InternalName": "SkillSwap",
+    "AssemblyVersion": "1.1.0.0",
+    "Tags": [
+      "Mods",
+      "Skills"
+    ],
+    "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
+    "IconUrl": "https://raw.githubusercontent.com/0ceal0t/SkillSwap/main/icon.png",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 4,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=True&isTesting=False&branch=api4"
+  },
+  {
     "Author": "Haplo064",
     "Name": "SlideCast",
     "InternalName": "SlideCast",
@@ -1483,23 +1512,55 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=True&isTesting=False&branch=api4"
   },
   {
+    "Author": "MgAl2O4",
+    "Name": "TriadBuddy",
+    "InternalName": "TriadBuddy",
+    "AssemblyVersion": "1.2.0.1",
+    "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
+    "Tags": [
+      "solver",
+      "triad",
+      "triple triad"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image1.png",
+      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image2.png",
+      "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/FFTriadBuddyDalamud/main/assets/icon.png",
+    "Punchline": "Triple triad solver",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1630274197",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=True&isTesting=False&branch=api4"
+  },
+  {
     "Author": "ocealot",
     "Name": "VFXEditor",
-    "Description": "VFX editor and browser, open with /vfxedit",
+    "Punchline": "VFX editor and viewer",
+    "Description": "View and modify vfxs, as well as create mods for them",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.5.0.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
+    "IconUrl": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/assets/icon.png",
     "ApplicableVersion": "any",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3845,
-    "LastUpdate": "1626226919",
+    "LastUpdate": "1630433084",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=api4"
@@ -1974,27 +2035,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=True&isTesting=True&branch=api4"
-  },
-  {
-    "Author": "ocealot",
-    "Name": "SkillSwap",
-    "Description": "Create animation replacement mods for Textools or Penumbra",
-    "InternalName": "SkillSwap",
-    "AssemblyVersion": "1.0.1.1",
-    "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "plugin"
-    ],
-    "DalamudApiLevel": 3,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1625673795",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=True&isTesting=True&branch=api4"
   },
   {
     "Author": "Avaflow",

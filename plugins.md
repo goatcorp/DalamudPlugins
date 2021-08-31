@@ -21,7 +21,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
-| ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges and party buff trackers |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Track your loot. |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
@@ -41,7 +40,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
-| ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | VFX editor and browser, open with /vfxedit |
 | Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
