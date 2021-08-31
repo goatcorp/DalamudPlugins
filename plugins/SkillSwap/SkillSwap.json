@@ -1,11 +1,13 @@
 {
   "Author": "ocealot",
   "Name": "SkillSwap",
+  "Punchline": "Skill mod creator",
   "Description": "Create animation replacement mods for Textools or Penumbra",
   "InternalName": "SkillSwap",
-  "AssemblyVersion": "1.0.1.1",
+  "AssemblyVersion": "1.1.0.0",
+  "Tags": [ "Mods", "Skills" ],
   "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
+  "IconUrl": "https://raw.githubusercontent.com/0ceal0t/SkillSwap/main/icon.png",
   "ApplicableVersion": "any",
-  "Tags": [ "plugin" ],
-  "DalamudApiLevel": 3
+  "DalamudApiLevel": 4
 }
