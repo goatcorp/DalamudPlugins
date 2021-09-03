@@ -461,7 +461,7 @@
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
-    "AssemblyVersion": "1.3.6",
+    "AssemblyVersion": "1.3.7",
     "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.\n\nIcon: expand by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
@@ -471,7 +471,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5562,
-    "LastUpdate": "1630339314",
+    "LastUpdate": "1630648717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=True&isTesting=False&branch=api4"
