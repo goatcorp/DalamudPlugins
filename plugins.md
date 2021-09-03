@@ -25,7 +25,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Track your loot. |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
-| fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | karashiiro | [NeatNoter](https://github.com/karashiiro/NeatNoter) | A note-taking plugin. |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
@@ -36,7 +35,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | kalilistic | [PlayerTrack](https://github.com/kalilistic/PlayerTrack) | Keep track of players you meet. |
 | kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | Quickly price check your items. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
-| kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Make chat more fun with translations like pirate. |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
