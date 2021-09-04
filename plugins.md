@@ -32,7 +32,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | tesu | [Penny Pincher](https://github.com/tesu/PennyPincher) | Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help |
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Adds an indicator of your hitbox. |
 | kalilistic | [PlayerTrack](https://github.com/kalilistic/PlayerTrack) | Keep track of players you meet. |
-| kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | Quickly price check your items. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
