@@ -1,11 +1,22 @@
 {
-    "Author": "kalilistic",
-    "Name": "PriceCheck",
-    "Description": "Quickly price check your items.",
-    "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.73",
-    "RepoUrl": "https://github.com/kalilistic/PriceCheck",
-    "Tags": ["price", "marketboard", "items"],
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "3"
+  "Author": "kalilistic",
+  "Name": "PriceCheck",
+  "InternalName": "PriceCheck",
+  "AssemblyVersion": "2.0.59.0",
+  "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+  "Tags": [
+    "price",
+    "marketboard",
+    "universalis"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PriceCheck/images/image1.png",
+    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PriceCheck/images/image2.png"
+  ],
+  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PriceCheck/images/icon.png",
+  "Punchline": "Quickly price check your items."
 }
