@@ -1,0 +1,13 @@
+{
+  "Author": "CptJesus",
+  "Name": "Boss Notes",
+  "InternalName": "BossNotes",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "In-game boss notes and shareable quick strategies",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/rvazarkar/XIVQuickBossNotes",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Quick Boss Strategy Reference",
+  "Changelog": "Initial API4 release"
+}
