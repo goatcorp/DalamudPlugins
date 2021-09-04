@@ -574,7 +574,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.1.0.0",
+    "AssemblyVersion": "2.1.0.1",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -584,7 +584,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13281,
-    "LastUpdate": "1630245300",
+    "LastUpdate": "1630783405",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=False&branch=api4"
