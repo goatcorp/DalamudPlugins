@@ -25,7 +25,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
-| karashiiro | [NeatNoter](https://github.com/karashiiro/NeatNoter) | A note-taking plugin. |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Avaflow | [Oops, All Lalafells!](https://github.com/avafloww/OopsAllLalafells) | Turn everyone around you into Lalafells (or other races)!<br><br>Use /poal to open settings. |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
