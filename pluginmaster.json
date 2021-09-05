@@ -1087,7 +1087,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.0.42.0",
+    "AssemblyVersion": "2.0.43.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1109,7 +1109,7 @@
     "TestingAssemblyVersion": "2.0.39.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 6022,
-    "LastUpdate": "1630779424",
+    "LastUpdate": "1630859929",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=False&branch=api4"
