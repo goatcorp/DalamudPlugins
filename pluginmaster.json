@@ -726,20 +726,24 @@
   {
     "Author": "kalilistic",
     "Name": "Kapture",
-    "Description": "Track your loot.",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.0.56",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
+    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
     "Tags": [
       "loot",
-      "track"
+      "track",
+      "roll"
     ],
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "3",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/Kapture/images/icon.png",
+    "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8555,
-    "LastUpdate": "1617840005",
+    "LastUpdate": "1630857935",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=True&isTesting=False&branch=api4"

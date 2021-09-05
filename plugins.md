@@ -21,7 +21,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
-| kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Track your loot. |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
