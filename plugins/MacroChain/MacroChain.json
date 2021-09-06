@@ -1,0 +1,12 @@
+{
+  "Author": "Caraxi",
+  "Name": "Macro Chain",
+  "InternalName": "MacroChain",
+  "AssemblyVersion": "2.1.0.0",
+  "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Caraxi/MacroChain",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Run multiple macros one after the other."
+}
