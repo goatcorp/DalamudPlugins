@@ -751,22 +751,21 @@
   {
     "Author": "Caraxi",
     "Name": "Macro Chain",
-    "Description": "Allows macros to continue into the next macro",
-    "InternalName": "MacroRecursion",
-    "AssemblyVersion": "2.0.2.0",
-    "RepoUrl": "https://github.com/Caraxi/MacroRecursion",
+    "InternalName": "MacroChain",
+    "AssemblyVersion": "2.1.0.0",
+    "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running.",
     "ApplicableVersion": "any",
-    "Tags": [
-      "Macro"
-    ],
-    "DalamudApiLevel": 3,
+    "RepoUrl": "https://github.com/Caraxi/MacroChain",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Run multiple macros one after the other.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13157,
-    "LastUpdate": "1619949062",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=True&isTesting=False&branch=api4"
+    "DownloadCount": 0,
+    "LastUpdate": "1630889102",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=True&isTesting=False&branch=api4"
   },
   {
     "Author": "Bluefissure",

@@ -21,7 +21,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | Allows one to create vibration patterns for the controller and specify triggers for them.<br><br>You need to configure patterns and triggers before it will work.<br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | haplo, daemitus | [JobIcons](https://github.com/haplo064/JobIcons) | Names are dumb, use icons instead. |
-| Caraxi | [Macro Chain](https://github.com/Caraxi/MacroRecursion) | Allows macros to continue into the next macro |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
