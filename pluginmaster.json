@@ -689,7 +689,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.1.0.3",
     "Tags": [
       "UI",
       "Bars"
@@ -700,7 +700,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1630794245",
+    "LastUpdate": "1630945338",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=True&isTesting=False&branch=api4"
@@ -1589,7 +1589,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.5.0.1",
+    "AssemblyVersion": "1.5.0.2",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1601,7 +1601,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3845,
-    "LastUpdate": "1630677480",
+    "LastUpdate": "1630945409",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=api4"
