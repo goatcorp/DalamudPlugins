@@ -1595,6 +1595,24 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/autoSweep/latest.zip"
   },
   {
+    "Author": "Franz",
+    "Name": "ChatTyper",
+    "InternalName": "ChatTyper",
+    "AssemblyVersion": "0.0.0.4",
+    "Description": "Prefixes all chatbox messages with their chat types.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.4",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1630890131",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/ChatTyper/latest.zip"
+  },
+  {
     "Name": "Echoglossian",
     "Author": "Dante Souza e Souza - aka lokinmodar",
     "Contributors": "Eternita",
