@@ -378,9 +378,6 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=True&isTesting=False&branch=api4"
   },
   {
-    "Disabled": false,
-    "Testing": false,
-    "InstalledFromUrl": null,
     "Author": "Strati",
     "Name": "DeepDungeonDex",
     "Punchline": "Live monster data for Deep Dungeons.",
@@ -390,20 +387,19 @@
       "achievements",
       "battle"
     ],
-    "IsHide": false,
     "InternalName": "DeepDungeonDex",
     "AssemblyVersion": "1.1.7.0",
-    "TestingAssemblyVersion": null,
-    "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": null,
-    "DownloadLinkUpdate": null,
-    "DownloadLinkTesting": null,
-    "LoadPriority": 0
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 587,
+    "LastUpdate": "1630019053",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False&branch=api4"
   },
   {
     "Author": "ocealot",
