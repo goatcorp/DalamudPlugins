@@ -399,6 +399,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EasyEyes/latest.zip"
   },
   {
+    "Author": "Dante Souza e Souza - aka lokinmodar",
+    "Name": "Echoglossian",
+    "InternalName": "Echoglossian",
+    "AssemblyVersion": "1.0.1.1",
+    "Description": "Realtime game text translator",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
+    "Tags": [
+      "ffxiv",
+      "Dalamud",
+      "plugin",
+      "translation"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1630529178",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Echoglossian/latest.zip"
+  },
+  {
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
@@ -1611,31 +1635,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/ChatTyper/latest.zip"
-  },
-  {
-    "Name": "Echoglossian",
-    "Author": "Dante Souza e Souza - aka lokinmodar",
-    "Contributors": "Eternita",
-    "InternalName": "Echoglossian",
-    "AssemblyVersion": "1.0.1.0",
-    "ApplicableVersion": "any",
-    "Description": "Realtime game text translator",
-    "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
-    "Tags": [
-      "ffxiv",
-      "Dalamud",
-      "plugin",
-      "translation"
-    ],
-    "DalamudApiLevel": 3,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1628816886",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/Echoglossian/latest.zip"
   },
   {
     "Author": "aers",
