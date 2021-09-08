@@ -1,11 +1,15 @@
 {
-  "Author": "tesu",
-  "Name": "Penny Pincher",
-  "Description": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices. /penny help",
-  "InternalName": "PennyPincher",
-  "AssemblyVersion": "1.1.0.2",
-  "RepoUrl": "https://github.com/tesu/PennyPincher",
-  "ApplicableVersion": "any",
-  "Tags": ["marketboard", "undercut", "penny", "clipboard"],
-  "DalamudApiLevel": 3
+    "Author": "tesu",
+    "Name": "Penny Pincher",
+    "Punchline": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices",
+    "Description": "Plugin for simplifying \"pennying\" (undercutting current lowest offer by 1).\n\nThe usual workflow for this is the following:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Take a mental note of what the current lowest offer is\n4. Subtract one from it\n5. Close the current listings window\n6. Update your item's price with the number you noted\n7. Confirm your new price\n\nThis plugin eliminates the mental notekeeping steps in the middle by automatically copying the number you want onto your clipboard when you open the current listings window.  \n\nTherefore, your new workflow becomes this:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Close the current listings window\n4. Paste the undercut value in\n5. Confirm your new price\n\nThis both speeds up the process and reduces room for error from typos.",
+    "InternalName": "PennyPincher",
+    "AssemblyVersion": "1.3.0.0",
+    "RepoUrl": "https://github.com/tesu/PennyPincher",
+    "ApplicableVersion": "any",
+    "Tags": [ "marketboard", "undercut", "penny", "clipboard" ],
+    "ImageUrls": [],
+    "IconUrl": "https://github.com/tesu/PennyPincher/raw/master/images/icon.png",
+    "Changelog": "Initial APIv4 release.",
+    "DalamudApiLevel": 4
 }
