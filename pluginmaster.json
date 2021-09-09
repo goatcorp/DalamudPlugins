@@ -1637,6 +1637,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/ChatTyper/latest.zip"
   },
   {
+    "Author": "DelvUI",
+    "Name": "DelvUI",
+    "InternalName": "DelvUI",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Provides an ElvUI style HUD for FFXIV",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/delvui/delvui",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1631205496",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/DelvUI/latest.zip"
+  },
+  {
     "Author": "aers",
     "Name": "EnemyListDebuffs",
     "InternalName": "EnemyListDebuffs",
