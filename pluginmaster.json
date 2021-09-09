@@ -76,7 +76,7 @@
       "Glasses"
     ],
     "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.0.1",
     "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -86,7 +86,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1630245300",
+    "LastUpdate": "1631198387",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=True&isTesting=False&branch=api4"
@@ -570,7 +570,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.1.0.1",
+    "AssemblyVersion": "2.1.0.2",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -580,7 +580,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13281,
-    "LastUpdate": "1630783405",
+    "LastUpdate": "1631180181",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=False&branch=api4"
@@ -685,7 +685,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.0.3",
+    "AssemblyVersion": "1.1.0.4",
     "Tags": [
       "UI",
       "Bars"
@@ -696,7 +696,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1630945338",
+    "LastUpdate": "1631143614",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=True&isTesting=False&branch=api4"
@@ -1618,7 +1618,7 @@
     "Author": "Dragon",
     "Name": "Visibility",
     "InternalName": "Visibility",
-    "AssemblyVersion": "1.0.4.2",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "Allows you to hide players, pets chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
@@ -1631,13 +1631,13 @@
       "Visibility",
       "QoL"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 12813,
-    "LastUpdate": "1623213744",
+    "LastUpdate": "1631213074",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False&branch=api4"
@@ -1668,10 +1668,17 @@
   {
     "Author": "PunishedPineapple",
     "Name": "Waymark Preset Plugin",
-    "Description": "Manage waymark presets.  Use \"/pwaymark help\" for more information.",
+    "Punchline": "Improved Waymark Management",
+    "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.2.0.3",
+    "AssemblyVersion": "1.3.1.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
+    "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/image2.png",
+      "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/image3.png"
+    ],
     "ApplicableVersion": "any",
     "Tags": [
       "Waymark",
@@ -1679,12 +1686,13 @@
       "Preset",
       "Tool"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
+    "Changelog": "1.3.1.0: Added preset placement by name to the text commands.",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 9473,
-    "LastUpdate": "1618554827",
+    "LastUpdate": "1631171016",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=True&isTesting=False&branch=api4"
@@ -1793,20 +1801,23 @@
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
     "Tags": [
       "housing"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "ImageUrls": [],
+    "Punchline": "Chat alerts for player housing.",
+    "Changelog": "Updated to API v4",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1623017689",
+    "LastUpdate": "1631158390",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=True&branch=api4"

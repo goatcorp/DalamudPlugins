@@ -28,8 +28,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
-| Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
-| PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Manage waymark presets.  Use "/pwaymark help" for more information. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | Haplo064 | [Where's WOLdo](https://github.com/Haplo064/WheresWOLdo) | Text overlay of current location name. |
 | ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
