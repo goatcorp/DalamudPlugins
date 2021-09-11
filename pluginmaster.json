@@ -1640,8 +1640,8 @@
     "Author": "DelvUI",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.1.0.0",
-    "Description": "Provides an ElvUI style HUD for FFXIV",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "Provides an ElvUI style HUD for FFXIV.  All support for this plugin is handled at discord.gg/delvui",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
     "Tags": [
@@ -1651,9 +1651,9 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1631205496",
+    "LastUpdate": "1631322360",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/DelvUI/latest.zip"
