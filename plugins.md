@@ -24,12 +24,10 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Avaflow | [Oops, All Lalafells!](https://github.com/avafloww/OopsAllLalafells) | Turn everyone around you into Lalafells (or other races)!<br><br>Use /poal to open settings. |
-| ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | Cooldown and Status tracking. |
 | Haplo064 | [SlideCast](https://github.com/Haplo064/SlideCast) | Adds an indicator of when it's safe to move while casting |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | Haplo064 | [Where's WOLdo](https://github.com/Haplo064/WheresWOLdo) | Text overlay of current location name. |
-| ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 
