@@ -834,20 +834,21 @@
   {
     "Author": "attick",
     "Name": "Mouseover Action",
-    "Description": "This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI",
+    "Punchline": "Mo' actions no problems",
+    "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "2.2.1.22",
+    "AssemblyVersion": "4.0.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
       "Macro"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 19667,
-    "LastUpdate": "1618424485",
+    "LastUpdate": "1631415000",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=True&isTesting=False&branch=api4"
