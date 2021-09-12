@@ -1,0 +1,13 @@
+{
+  "Author": "Chivalrik",
+  "Name": "Compass",
+  "InternalName": "Compass",
+  "AssemblyVersion": "1.11.0",
+  "Description": "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/fitzchivalrik/compass",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Monodimensional compass for your adventures.",
+  "Changelog": "Update to API 4 and optional show approx. distance to target on compass."
+}
