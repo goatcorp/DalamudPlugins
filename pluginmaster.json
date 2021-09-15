@@ -644,6 +644,37 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=True&isTesting=False&branch=api4"
   },
   {
+    "Author": "MgAl2O4",
+    "Name": "Harp Hero",
+    "InternalName": "HarpHero",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- only keyboard binds are supported right now\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MgAl2O4/HarpHeroDalamud",
+    "Tags": [
+      "bard",
+      "music",
+      "performance",
+      "midi",
+      "harp"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/MgAl2O4/HarpHeroDalamud/main/assets/image1.png",
+      "https://raw.githubusercontent.com/MgAl2O4/HarpHeroDalamud/main/assets/image2.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/HarpHeroDalamud/main/assets/icon.png",
+    "Punchline": "Bard performance assistant",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1631673794",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=True&isTesting=False&branch=api4"
+  },
+  {
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
@@ -1210,7 +1241,7 @@
     "Author": "ascclemens",
     "Name": "Quest Map",
     "InternalName": "Quest Map",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.4.0.0",
     "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.\n\nIcons: treasure map by Anthony Ledoux from the Noun Project and\nlocked book by Anthony Ledoux from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/QuestMap",
@@ -1220,7 +1251,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1630261152",
+    "LastUpdate": "1631638704",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=True&isTesting=False&branch=api4"
@@ -1569,7 +1600,7 @@
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
-    "AssemblyVersion": "1.2.0.4",
+    "AssemblyVersion": "1.2.0.5",
     "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
@@ -1590,7 +1621,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1631329495",
+    "LastUpdate": "1631664678",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=True&isTesting=False&branch=api4"
