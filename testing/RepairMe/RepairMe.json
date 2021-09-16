@@ -1,11 +1,13 @@
 {
-  "Author": "Chalkos",
-  "Name": "RepairMe",
-  "InternalName": "RepairMe",
-  "AssemblyVersion": "0.1.1.2",
-  "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/chalkos/RepairMe",
-  "DalamudApiLevel": 4,
-  "LoadPriority": 0
+    "Author": "Chalkos",
+    "Name": "RepairMe",
+    "Punchline": "Never forget to repair & extract materia again!",
+    "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
+    "RepoUrl": "https://github.com/chalkos/RepairMe",
+    "Tags": ["Repair", "Materia", "Spiritbond", "Alert"],
+    "InternalName": "RepairMe",
+    "AssemblyVersion": "0.2.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0
 }
