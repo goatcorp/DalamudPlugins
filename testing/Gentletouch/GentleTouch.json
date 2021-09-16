@@ -1,0 +1,13 @@
+{
+  "Author": "Chivalrik",
+  "Name": "GentleTouch",
+  "InternalName": "GentleTouch",
+  "AssemblyVersion": "1.2.2",
+  "Description": "You need to configure patterns and triggers before it will work, \nopen the configuration window to do that. \nCurrently supported triggers are:\n- Cooldowns\n- Near Aether Current",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/fitzchivalrik/gentletouch",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Create vibration patterns for the controller and specify triggers to make it vibrate.",
+  "Changelog": "Update to API 4 and possibly more performant Aether Current Sense logic."
+}
