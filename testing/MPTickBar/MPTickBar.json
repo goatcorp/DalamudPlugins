@@ -1,0 +1,11 @@
+{
+  "Author": "Marconsou",
+  "Name": "MP Tick Bar",
+  "InternalName": "MPTickBar",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Visually tracks MP regeneration tick (Black Mage only).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
