@@ -1862,22 +1862,25 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=True&isTesting=False&branch=api4"
   },
   {
-    "Author": "ascclemens",
-    "Name": "XIVChat Server",
-    "InternalName": "XIVChat",
-    "AssemblyVersion": "1.7.0",
-    "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
+    "Author": "attick",
+    "Name": "XIV Combo",
+    "Punchline": "PvP, but in PvE.",
+    "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+    "InternalName": "XIVCombo",
+    "AssemblyVersion": "1.6.1",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://xiv.chat/",
+    "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
+    "Tags": [
+      "Combo"
+    ],
     "DalamudApiLevel": 4,
-    "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2863,
-    "LastUpdate": "1631381253",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=True&isTesting=False&branch=api4"
+    "DownloadCount": 26734,
+    "LastUpdate": "1632032403",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False&branch=api4"
   },
   {
     "Author": "zhudotexe",
