@@ -27,5 +27,4 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | Haplo064 | [Where's WOLdo](https://github.com/Haplo064/WheresWOLdo) | Text overlay of current location name. |
-| attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 
