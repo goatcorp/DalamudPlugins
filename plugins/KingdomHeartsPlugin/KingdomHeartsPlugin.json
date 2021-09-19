@@ -2,12 +2,12 @@
   "Author": "Gotest",
   "Name": "Kingdom Hearts UI Bars",
   "InternalName": "KingdomHeartsPlugin",
-  "AssemblyVersion": "1.0.0.5",
+  "AssemblyVersion": "1.0.0.6",
   "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-  "Changelog": "Updated for API4, changed command from /khb -> /khp"
+  "Changelog": "Added Limit Bar"
 }
