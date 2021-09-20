@@ -70,6 +70,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Chat Commands for teleporting to Aetherytes. /tp for help |
 | ascclemens | [Text Box Styler](https://git.sr.ht/~jkcclemens/TextBoxStyler) | Allows replacing every text box with the background of your choice. |
+| karashiiro | [TextToTalk](https://github.com/karashiiro/TextToTalk) | Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions. |
 | ascclemens | The Great Separator | Add separators to various numbers.<br><br>- Damage/healing numbers (not DoTs or other players' numbers)<br>- Party list HP<br>- Ability costs on hotbars<br>- Ability costs in tooltips |
 | attick & perchbird | [TitleEdit](https://github.com/lmcintyre/TitleEditPlugin) | Create, share, and shuffle custom title screens for FFXIV. |
 | ascclemens | Tourist | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista |
