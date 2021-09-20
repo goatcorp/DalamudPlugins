@@ -11,7 +11,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | Ms.Tress | [Aether Sense (18+)](https://github.com/Ms-Tress/AetherSense) | Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/ |
 | ackwell | [Browser Host](https://github.com/ackwell/BrowserHost) | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
-| ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | kij | ChatCoordinates | Places flag marker on map from coordinates in chat. "/coord help" or "/ctp help" for more info. |
 | Haplo064 | [Chat Translator](https://github.com/Haplo064/ChatTranslator) | Enables in-game chat translation. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Monodimensional compass for your adventures. |
