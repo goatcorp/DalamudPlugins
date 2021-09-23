@@ -2007,6 +2007,35 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=True&isTesting=True&branch=api4"
   },
   {
+    "Author": "Critical_Impact",
+    "Name": "Inventory Tools",
+    "InternalName": "InventoryTools",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
+    "Tags": [
+      "Inventory",
+      "Sorting",
+      "Filtering"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/banner1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/icon.png",
+    "Punchline": "Clean up your messy inventories.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1632389820",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=True&isTesting=True&branch=api4"
+  },
+  {
     "Author": "Talim",
     "Name": "MPTimer",
     "InternalName": "MPTimer",
