@@ -2,7 +2,7 @@
   "Author": "Chalkos",
   "Name": "RepairMe",
   "InternalName": "RepairMe",
-  "AssemblyVersion": "0.2.0.1",
+  "AssemblyVersion": "0.2.0.2",
   "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -14,5 +14,12 @@
   ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/chalkos/RepairMe/raw/api4/images/image1.png",
+    "https://github.com/chalkos/RepairMe/raw/api4/images/image2.png",
+    "https://github.com/chalkos/RepairMe/raw/api4/images/image3.png",
+    "https://github.com/chalkos/RepairMe/raw/api4/images/image4.png"
+  ],
+  "IconUrl": "https://github.com/chalkos/RepairMe/raw/api4/images/icon.png",
   "Punchline": "Never forget to repair & extract materia again!"
 }
