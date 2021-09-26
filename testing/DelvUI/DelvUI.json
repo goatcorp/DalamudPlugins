@@ -1,14 +1,15 @@
 {
-  "Author": "DelvUI",
+  "Author": "jdsmith2816",
   "Name": "DelvUI",
   "InternalName": "DelvUI",
-  "AssemblyVersion": "0.1.1.0",
-  "Description": "Provides an ElvUI style HUD for FFXIV.  All support for this plugin is handled at discord.gg/delvui",
+  "AssemblyVersion": "0.2.0.0",
+  "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/delvui/delvui",
   "Tags": [
     "UI"
   ],
-  "DalamudApiLevel": 3,
-  "LoadPriority": 0
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "A modern HUD replacement built for customization."
 }
