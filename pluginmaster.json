@@ -1637,23 +1637,24 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/ChatTyper/latest.zip"
   },
   {
-    "Author": "DelvUI",
+    "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.1.1.0",
-    "Description": "Provides an ElvUI style HUD for FFXIV.  All support for this plugin is handled at discord.gg/delvui",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
     "Tags": [
       "UI"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.1.0",
+    "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1631322360",
+    "LastUpdate": "1632683864",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/testing/DelvUI/latest.zip"
