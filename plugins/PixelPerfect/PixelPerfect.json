@@ -6,7 +6,7 @@
 	"Description": "Showing exactly where to stand since 2020.",
 	"Tags": ["Hitbox", "Overlay", "Indicator"],
 	"RepoUrl": "https://github.com/Haplo064/PixelPerfect",
-	"AssemblyVersion": "1.4.0.0",
+	"AssemblyVersion": "1.4.0.1",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 4,
 	"LoadPriority": 0,
@@ -16,5 +16,5 @@
 		"https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
 		],
 	"IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
-	"Changelog": "Updated for net5, and fixed the slowdown on having the hitbox leave the screen view."
+	"Changelog": "Really for real fixed the slowdown on having the hitbox leave the screen view."
 }
