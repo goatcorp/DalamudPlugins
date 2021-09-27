@@ -8,7 +8,7 @@ $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 $dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=api4"
 $dlTemplateUpdate = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=True&isTesting={1}&branch=api4"
 
-$apiLevel = 3
+$apiLevel = 4
 
 $thisPath = Get-Location
 
