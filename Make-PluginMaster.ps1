@@ -19,11 +19,11 @@ Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
     if ($notInclude.Contains($content.InternalName)) { 
-    	$content | add-member -Name "IsHide" -value "True" -MemberType NoteProperty
+    	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
     else
     {
-    	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
+    	$content | add-member -Force -Name "IsHide" -value "False" -MemberType NoteProperty
         
         $newDesc = $content.Description -replace "\n", "<br>"
         $newDesc = $newDesc -replace "\|", "I"
@@ -44,13 +44,13 @@ Foreach-Object {
         $testingContent = Get-Content $testingPath | ConvertFrom-Json
         $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
     }
-    $content | add-member -Name "IsTestingExclusive" -value "False" -MemberType NoteProperty
+    $content | add-member -Force -Name "IsTestingExclusive" -value "False" -MemberType NoteProperty
 
     $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
     if ($dlCount -eq $null){
         $dlCount = 0;
     }
-    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
+    $content | add-member -Force -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     $internalName = $content.InternalName
     
@@ -58,16 +58,16 @@ Foreach-Object {
     if ($updateDate -eq $null){
         $updateDate = 0;
     }
-    $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
+    $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
     $installLink = $dlTemplateInstall -f $internalName, "False"
-    $content | add-member -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
+    $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
     
     $installLink = $dlTemplateInstall -f $internalName, "True"
-    $content | add-member -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
+    $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
     $updateLink = $dlTemplateUpdate -f $internalName, "False"
-    $content | add-member -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
+    $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
     $output.Add($content)
 }
@@ -77,21 +77,21 @@ Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
     if ($notInclude.Contains($content.InternalName)) { 
-    	$content | add-member -Name "IsHide" -value "True" -MemberType NoteProperty
+    	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
     else
     {
-    	$content | add-member -Name "IsHide" -value "False" -MemberType NoteProperty
+    	$content | add-member -Force -Name "IsHide" -value "False" -MemberType NoteProperty
     	# $table = $table + "| " + $content.Author + " | " + $content.Name + " | " + $content.Description + " |`n"
     }
 
     $dlCount = 0;
-    $content | add-member -Name "DownloadCount" $dlCount -MemberType NoteProperty
+    $content | add-member -Force -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     if (($output | Where-Object {$_.InternalName -eq $content.InternalName}).Count -eq 0)
     {
-        $content | add-member -Name "TestingAssemblyVersion" -value $content.AssemblyVersion -MemberType NoteProperty
-        $content | add-member -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
+        $content | add-member -Force -Name "TestingAssemblyVersion" -value $content.AssemblyVersion -MemberType NoteProperty
+        $content | add-member -Force -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
 
         $internalName = $content.InternalName
         
@@ -99,16 +99,16 @@ Foreach-Object {
         if ($updateDate -eq $null){
             $updateDate = 0;
         }
-        $content | add-member -Name "LastUpdate" $updateDate -MemberType NoteProperty
+        $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
         $installLink = $dlTemplateInstall -f $internalName, "True"
-        $content | add-member -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
+        $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
         
         $installLink = $dlTemplateInstall -f $internalName, "True"
-        $content | add-member -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
+        $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
         $updateLink = $dlTemplateUpdate -f $internalName, "True"
-        $content | add-member -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
+        $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
     
         $output.Add($content)
     }
