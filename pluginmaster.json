@@ -549,8 +549,8 @@
     "Author": "CFG",
     "Name": "FC Name Color",
     "InternalName": "FCNameColor",
-    "AssemblyVersion": "1.0.2.3",
-    "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+    "AssemblyVersion": "1.0.2.4",
+    "Description": "Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
     "Tags": [
@@ -559,12 +559,14 @@
       "name",
       "colors"
     ],
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "IconUrl": "https://github.com/WesselKuipers/FCNameColor/raw/master/images/icon.png",
+    "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1625227359",
+    "LastUpdate": "1632776598",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FCNameColor/latest.zip"
