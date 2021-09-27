@@ -66,7 +66,7 @@ Foreach-Object {
     $installLink = $dlTemplateInstall -f $internalName, "True"
     $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
-    $updateLink = $dlTemplateUpdate -f $internalName, "False"
+    $updateLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
     $output.Add($content)
@@ -107,7 +107,7 @@ Foreach-Object {
         $installLink = $dlTemplateInstall -f $internalName, "True"
         $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
-        $updateLink = $dlTemplateUpdate -f $internalName, "True"
+        $updateLink = $dlTemplateUpdate -f "plugins", $internalName
         $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
     
         $output.Add($content)
