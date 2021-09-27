@@ -2087,6 +2087,31 @@
     "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=True&isTesting=True&branch=api4"
   },
   {
+    "Author": "Marconsou",
+    "Name": "MP Tick Bar",
+    "InternalName": "MPTickBar",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize your bar.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
+    "Tags": [
+      "mp",
+      "tick",
+      "bar"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1632523698",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=True&isTesting=True&branch=api4"
+  },
+  {
     "Author": "Talim",
     "Name": "MPTimer",
     "InternalName": "MPTimer",
