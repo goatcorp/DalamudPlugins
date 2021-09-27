@@ -1973,14 +1973,14 @@
     "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": null,
-    "DownloadLinkUpdate": null,
-    "DownloadLinkTesting": null,
     "LoadPriority": 0,
     "ImageUrls": [
       ""
     ],
-    "IconUrl": "https://github.com/lokinmodar/Echoglossian/raw/APIv4/images/logo.png"
+    "IconUrl": "https://github.com/lokinmodar/Echoglossian/raw/APIv4/images/logo.png",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=True&isTesting=True&branch=api4"
   },
   {
     "Author": "aers",
