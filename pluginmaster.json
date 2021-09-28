@@ -1135,7 +1135,7 @@
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.13.0.0",
+    "AssemblyVersion": "1.14.0.0",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -1155,7 +1155,7 @@
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 28762,
-    "LastUpdate": "1632613339",
+    "LastUpdate": "1632864655",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PingPlugin/latest.zip"
