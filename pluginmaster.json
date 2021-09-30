@@ -17,7 +17,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 22780,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1618369127",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=True&branch=api4",
@@ -35,7 +37,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9801,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1619078470",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=True&branch=api4",
@@ -58,7 +62,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6188,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1620730989",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True&branch=api4",
@@ -89,7 +95,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631198387",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api4",
@@ -108,7 +116,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6737,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=True&branch=api4",
@@ -131,7 +141,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8703,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1618924646",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=api4",
@@ -150,7 +162,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3130,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632162870",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=True&branch=api4",
@@ -178,7 +192,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Chat Alerts&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Chat Alerts&isUpdate=False&isTesting=True&branch=api4",
@@ -206,7 +222,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28805,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1631761041",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=api4",
@@ -223,7 +241,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11346,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1617890680",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=True&branch=api4",
@@ -249,7 +269,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2634,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1594007235",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=True&branch=api4",
@@ -275,7 +297,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1618366599",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api4",
@@ -313,7 +337,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632822869",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=api4",
@@ -331,7 +357,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15608,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1630347378",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=True&branch=api4",
@@ -355,7 +383,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9800,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1632936317",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api4",
@@ -374,7 +404,9 @@
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 17029,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1630350448",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=api4",
@@ -395,7 +427,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 19809,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1630352464",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True&branch=api4",
@@ -419,7 +453,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 24,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1604857638",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=True&branch=api4",
@@ -439,7 +475,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 29900,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630723049",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -464,7 +502,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 587,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630019053",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api4",
@@ -488,7 +528,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630677717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=api4",
@@ -519,7 +561,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1630236592",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api4",
@@ -539,7 +583,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5562,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630648717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True&branch=api4",
@@ -558,7 +604,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1621021219",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=True&branch=api4",
@@ -582,7 +630,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8199,
-    "CategoryTags": "minigames",
+    "CategoryTags": [
+      "minigames"
+    ],
     "LastUpdate": "1629832687",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=api4",
@@ -630,7 +680,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1632977948",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=True&branch=api4",
@@ -650,7 +702,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1633020965",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=api4",
@@ -670,7 +724,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 26874,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632830845",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -701,7 +757,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13281,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1631180181",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api4",
@@ -722,7 +780,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632823926",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True&branch=api4",
@@ -742,7 +802,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 30470,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=api4",
@@ -762,7 +824,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28740,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=api4",
@@ -794,7 +858,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1632966412",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api4",
@@ -814,7 +880,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6167,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630723196",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api4",
@@ -834,7 +902,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 23190,
-    "CategoryTags": "inventory",
+    "CategoryTags": [
+      "inventory"
+    ],
     "LastUpdate": "1629961534",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -857,7 +927,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1631901159",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
@@ -876,7 +948,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 20536,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1618736205",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True&branch=api4",
@@ -902,7 +976,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8555,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632688628",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api4",
@@ -923,7 +999,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632871860",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -943,7 +1021,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1630889102",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=True&branch=api4",
@@ -970,7 +1050,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 7849,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632788611",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api4",
@@ -1017,7 +1099,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 23449,
-    "CategoryTags": "minigames",
+    "CategoryTags": [
+      "minigames"
+    ],
     "LastUpdate": "1629832651",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=api4",
@@ -1040,7 +1124,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 19667,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1632113090",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api4",
@@ -1090,7 +1176,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8653,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630797421",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api4",
@@ -1137,7 +1225,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15653,
-    "CategoryTags": "other",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1618382731",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=api4",
@@ -1161,7 +1251,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15622,
-    "CategoryTags": "sound",
+    "CategoryTags": [
+      "sound"
+    ],
     "LastUpdate": "1630723322",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=api4",
@@ -1194,7 +1286,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28509,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1629723118",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=True&branch=api4",
@@ -1246,7 +1340,9 @@
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 26451,
-    "CategoryTags": "inventory",
+    "CategoryTags": [
+      "inventory"
+    ],
     "LastUpdate": "1631070223",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=True&branch=api4",
@@ -1276,7 +1372,9 @@
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 28762,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632864655",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -1307,7 +1405,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 31378,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631761374",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=True&branch=api4",
@@ -1338,7 +1438,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6022,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1632022554",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api4",
@@ -1358,7 +1460,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4525,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630723116",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True&branch=api4",
@@ -1388,7 +1492,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 33871,
-    "CategoryTags": "inventory",
+    "CategoryTags": [
+      "inventory"
+    ],
     "LastUpdate": "1632055520",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=api4",
@@ -1413,7 +1519,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 17409,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632801136",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api4",
@@ -1433,7 +1541,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631638704",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=api4",
@@ -1451,7 +1561,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 20976,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1620917291",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=True&branch=api4",
@@ -1484,7 +1596,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10830,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630245300",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=True&branch=api4",
@@ -1535,7 +1649,9 @@
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 31126,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631521122",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -1558,7 +1674,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1630677590",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=api4",
@@ -1584,7 +1702,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 36243,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1618376375",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=True&branch=api4",
@@ -1623,7 +1743,9 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1633014922",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -1643,7 +1765,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "sound",
+    "CategoryTags": [
+      "sound"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=api4",
@@ -1669,7 +1793,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 7501,
-    "CategoryTags": "sound",
+    "CategoryTags": [
+      "sound"
+    ],
     "LastUpdate": "1632865245",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True&branch=api4",
@@ -1690,7 +1816,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 18990,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632910792",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -1710,7 +1838,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3405,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=True&branch=api4",
@@ -1739,7 +1869,9 @@
     "TestingAssemblyVersion": "1.8.6.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 4352,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1628136598",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True&branch=api4",
@@ -1758,7 +1890,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9091,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=api4",
@@ -1779,7 +1913,9 @@
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 7955,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631848365",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True&branch=api4",
@@ -1799,7 +1935,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8896,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=True&branch=api4",
@@ -1830,7 +1968,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "minigames",
+    "CategoryTags": [
+      "minigames"
+    ],
     "LastUpdate": "1632966295",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api4",
@@ -1854,7 +1994,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3845,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1630945409",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api4",
@@ -1883,7 +2025,9 @@
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 12813,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631213074",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=api4",
@@ -1907,7 +2051,9 @@
     "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 742,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1594726916",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=True&branch=api4",
@@ -1940,7 +2086,9 @@
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 9473,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1631171016",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -1958,7 +2106,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1618458657",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api4",
@@ -1981,7 +2131,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4809,
-    "CategoryTags": "UI",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1618376934",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=api4",
@@ -2005,7 +2157,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15167,
-    "CategoryTags": "minigames",
+    "CategoryTags": [
+      "minigames"
+    ],
     "LastUpdate": "1629832670",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=True&branch=api4",
@@ -2024,7 +2178,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2863,
-    "CategoryTags": "social",
+    "CategoryTags": [
+      "social"
+    ],
     "LastUpdate": "1631381253",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True&branch=api4",
@@ -2046,7 +2202,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 26734,
-    "CategoryTags": "jobs",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1632197054",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=api4",
@@ -2072,6 +2230,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1631158390",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
@@ -2091,6 +2252,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
     "LastUpdate": "1632534217",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api4",
@@ -2114,6 +2279,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.2.1.1",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632749031",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
@@ -2148,6 +2316,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "2.0.2109.1305",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632696471",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
@@ -2167,6 +2338,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.1.1.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1629067902",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api4",
@@ -2186,6 +2360,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1628352325",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=False&isTesting=True&branch=api4",
@@ -2215,6 +2392,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "inventory"
+    ],
     "LastUpdate": "1632990765",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
@@ -2240,6 +2420,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1632523698",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
@@ -2264,6 +2447,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1629050803",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=api4",
@@ -2283,6 +2469,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.3.0.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
     "LastUpdate": "1629067902",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api4",
@@ -2303,6 +2493,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "other"
+    ],
     "LastUpdate": "1632453885",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -2322,6 +2515,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.1.0.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1628783761",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api4",
@@ -2342,6 +2538,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1632138286",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api4",
@@ -2375,6 +2574,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.2.0.2",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "inventory"
+    ],
     "LastUpdate": "1632507170",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api4",
@@ -2402,6 +2604,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "jobs"
+    ],
     "LastUpdate": "1632566794",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=api4",
@@ -2421,6 +2626,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.9.0.7",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1620197610",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
@@ -2470,6 +2678,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1624782194",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
