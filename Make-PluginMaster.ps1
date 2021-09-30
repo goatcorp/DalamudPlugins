@@ -4,6 +4,7 @@ $output = New-Object Collections.Generic.List[object]
 $notInclude = "sdgfdsgfgdfs", "sdfgdfg", "XIVStats", "bffbbf", "VoidList", "asdfsad", "sdfgdfsg", "vrgnddgv";
 
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
+$categoryFallbacksMap = Get-Content "categoryfallbacks.json" | ConvertFrom-Json
 
 $dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=api4"
 $dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/{0}/{1}/latest.zip"
@@ -52,6 +53,13 @@ Foreach-Object {
     }
     $content | add-member -Force -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
+    if ($content.CategoryTags -eq $null) {
+        $fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
+        if ($fallbackCategoryTags -ne $null) {
+            $content | add-member -Force -Name "CategoryTags" $fallbackCategoryTags -MemberType NoteProperty
+        }
+    }
+
     $internalName = $content.InternalName
     
     $updateDate = git log -1 --pretty="format:%ct" plugins/$internalName/latest.zip
@@ -92,6 +100,13 @@ Foreach-Object {
     {
         $content | add-member -Force -Name "TestingAssemblyVersion" -value $content.AssemblyVersion -MemberType NoteProperty
         $content | add-member -Force -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
+
+        if ($content.CategoryTags -eq $null) {
+            $fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
+            if ($fallbackCategoryTags -ne $null) {
+                content | add-member -Force -Name "CategoryTags" $fallbackCategoryTags -MemberType NoteProperty
+            }
+        }
 
         $internalName = $content.InternalName
         
