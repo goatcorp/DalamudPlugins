@@ -63,7 +63,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 6188,
     "CategoryTags": [
-      "other"
+      "other",
+      "utility"
     ],
     "LastUpdate": "1620730989",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False&branch=api4",
@@ -96,7 +97,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "utility"
     ],
     "LastUpdate": "1631198387",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api4",
@@ -242,7 +244,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 11346,
     "CategoryTags": [
-      "social"
+      "social",
+      "utility"
     ],
     "LastUpdate": "1617890680",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False&branch=api4",
@@ -358,7 +361,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 15608,
     "CategoryTags": [
-      "other"
+      "utility"
     ],
     "LastUpdate": "1630347378",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False&branch=api4",
@@ -384,7 +387,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 9800,
     "CategoryTags": [
-      "other"
+      "utility"
     ],
     "LastUpdate": "1632936317",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api4",
@@ -428,7 +431,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 19809,
     "CategoryTags": [
-      "other"
+      "utility"
     ],
     "LastUpdate": "1630352464",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=api4",
@@ -454,7 +457,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 24,
     "CategoryTags": [
-      "other"
+      "utility"
     ],
     "LastUpdate": "1604857638",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=False&branch=api4",
@@ -681,7 +684,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-      "social"
+      "social",
+      "utility"
     ],
     "LastUpdate": "1632977948",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=False&branch=api4",
@@ -781,7 +785,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-      "UI"
+      "utility"
     ],
     "LastUpdate": "1632823926",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=False&branch=api4",
@@ -803,7 +807,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 30470,
     "CategoryTags": [
-      "UI"
+      "utility"
     ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api4",
@@ -825,7 +829,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 28740,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "utility"
     ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=api4",
@@ -859,7 +864,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-      "jobs"
+      "jobs",
+      "utility",
+      "sound"
     ],
     "LastUpdate": "1632966412",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api4",
@@ -903,7 +910,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 23190,
     "CategoryTags": [
-      "inventory"
+      "inventory",
+      "utility"
     ],
     "LastUpdate": "1629961534",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api4",
@@ -977,7 +985,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 8555,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "utility"
     ],
     "LastUpdate": "1632688628",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api4",
@@ -1022,7 +1031,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-      "jobs"
+      "utility"
     ],
     "LastUpdate": "1630889102",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=False&branch=api4",
@@ -1439,7 +1448,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 6022,
     "CategoryTags": [
-      "social"
+      "social",
+      "utility"
     ],
     "LastUpdate": "1632022554",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api4",
@@ -1650,7 +1660,10 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 31126,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "other",
+      "utility",
+      "social"
     ],
     "LastUpdate": "1631521122",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api4",
@@ -1675,7 +1688,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-      "jobs"
+      "utility"
     ],
     "LastUpdate": "1630677590",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=False&branch=api4",
@@ -1817,7 +1830,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 18990,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "utility"
     ],
     "LastUpdate": "1632910792",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api4",
@@ -1914,7 +1928,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 7955,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "utility"
     ],
     "LastUpdate": "1631848365",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False&branch=api4",
@@ -1936,7 +1951,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 8896,
     "CategoryTags": [
-      "UI"
+      "UI",
+      "utility"
     ],
     "LastUpdate": "1630261152",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=False&branch=api4",
@@ -2393,7 +2409,8 @@
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "True",
     "CategoryTags": [
-      "inventory"
+      "inventory",
+      "utility"
     ],
     "LastUpdate": "1632990765",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
