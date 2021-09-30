@@ -56,7 +56,7 @@ Foreach-Object {
     if ($content.CategoryTags -eq $null) {
         $fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
         if ($fallbackCategoryTags -ne $null) {
-            content | add-member -Force -Name "CategoryTags" $fallbackCategoryTags -MemberType NoteProperty
+            $content | add-member -Force -Name "CategoryTags" $fallbackCategoryTags -MemberType NoteProperty
         }
     }
 
