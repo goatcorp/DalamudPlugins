@@ -12,6 +12,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
+| Franz | chattyper plugin | Prefixes all chatbox messages with their chat types. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others.<br><br>In-game, use the configuration menu to choose your main character, the restart the game to start syncing! |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
@@ -23,6 +24,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Expanded Search Info](https://git.sr.ht/~jkcclemens/ExpandedSearchInfo) | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically.<br><br>Icon: expand by Gregor Cresnar from the Noun Project |
 | daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | This plugin highlights tiles in Faux Hollows that represent the best potential action you can take. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
+| Franz | FlashOnTell | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
 | Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | You need to configure patterns and triggers before it will work, <br>open the configuration window to do that. <br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
