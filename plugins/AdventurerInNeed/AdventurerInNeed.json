@@ -1,10 +1,12 @@
-﻿{
-    "Author":  "Caraxi",
-    "Name":  "Adventurer in Need",
-    "Description":  "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
-    "InternalName":  "AdventurerInNeed",
-    "AssemblyVersion":  "1.1.2.2",
-    "RepoUrl":  "https://github.com/Caraxi/AdventurerInNeed",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  3
+{
+  "Author": "Caraxi",
+  "Name": "Adventurer in Need",
+  "InternalName": "AdventurerInNeed",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Recieve a notification when a duty roulette is in need of a role."
 }
