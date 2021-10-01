@@ -28,19 +28,21 @@
   {
     "Author": "Caraxi",
     "Name": "Adventurer in Need",
-    "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
     "InternalName": "AdventurerInNeed",
-    "AssemblyVersion": "1.1.2.2",
-    "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
+    "AssemblyVersion": "1.2.0.0",
+    "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
+    "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9801,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1619078470",
+    "LastUpdate": "1633075982",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/AdventurerInNeed/latest.zip"
@@ -235,11 +237,19 @@
   {
     "Author": "kij",
     "Name": "ChatCoordinates",
-    "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" or \"/ctp help\" for more info.",
     "InternalName": "ChatCoordinates",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.1.0.0",
+    "Description": "Places flag marker on map from coordinates in chat.\nOpens map with given coordinates for current or given zone.\nSee \"/coord\" for configuration and usage info.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
+    "RepoUrl": "https://github.com/kissorjeyabalan/dalamud-chatcoordinates",
+    "Tags": [
+      "utility",
+      "map",
+      "coordinates"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11346,
@@ -247,7 +257,7 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1617890680",
+    "LastUpdate": "1633092852",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatCoordinates/latest.zip"
@@ -543,14 +553,16 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "1.2.1.1",
+    "AssemblyVersion": "2.0.0.0",
     "Description": "Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
     "Tags": [
       "countdown",
       "stopwatch",
-      "OBS"
+      "OBS",
+      "streaming",
+      "combat"
     ],
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
@@ -560,14 +572,13 @@
     ],
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/icon.png",
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
-    "Changelog": "- fixes for new dalamud api",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1630236592",
+    "LastUpdate": "1633125318",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EngageTimer/latest.zip"
@@ -696,20 +707,21 @@
     "Author": "Aireil",
     "Name": "FlyTextFilter",
     "InternalName": "FlyTextFilter",
-    "AssemblyVersion": "3.0.0.0",
+    "AssemblyVersion": "3.0.0.1",
     "Description": "Allows the filtering of the different fly text types.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "Allows the filtering of the different fly text types.",
+    "Changelog": "Disable logging by default and add a toggle to reduce spam.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633020965",
+    "LastUpdate": "1633052721",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FlyTextFilter/latest.zip"
@@ -2567,7 +2579,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "0.2.0.2",
+    "AssemblyVersion": "0.2.0.4",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -2580,21 +2592,21 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://github.com/chalkos/RepairMe/raw/api4/images/image1.png",
-      "https://github.com/chalkos/RepairMe/raw/api4/images/image2.png",
-      "https://github.com/chalkos/RepairMe/raw/api4/images/image3.png",
-      "https://github.com/chalkos/RepairMe/raw/api4/images/image4.png"
+      "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image1.png",
+      "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image2.png",
+      "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image3.png",
+      "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image4.png"
     ],
-    "IconUrl": "https://github.com/chalkos/RepairMe/raw/api4/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.2.0.2",
+    "TestingAssemblyVersion": "0.2.0.4",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1632507170",
+    "LastUpdate": "1633084911",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/RepairMe/latest.zip"

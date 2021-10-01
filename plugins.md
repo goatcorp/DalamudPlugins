@@ -7,11 +7,13 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 
 | Author | Name | Description |
 |---------------|---------------|-----------------|
+| Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | Ottermandias | [AutoVisor](https://github.com/Ottermandias/AutoVisor) | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
 | ascclemens | Better Party Finder | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
+| kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | Franz | chattyper plugin | Prefixes all chatbox messages with their chat types. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | goat | Character Data Sync | This plugin allows you to use your character data from your main character on all others.<br><br>In-game, use the configuration menu to choose your main character, the restart the game to start syncing! |
