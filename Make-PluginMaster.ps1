@@ -54,6 +54,8 @@ Foreach-Object {
     $content | add-member -Force -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     if ($content.CategoryTags -eq $null) {
+    	$content | Select-Object -Property * -ExcludeProperty CategoryTags
+    
         $fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
         if ($fallbackCategoryTags -ne $null) {
 			$content | add-member -Name "CategoryTags" -value @() -MemberType NoteProperty
@@ -103,6 +105,8 @@ Foreach-Object {
         $content | add-member -Force -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
 
 		if ($content.CategoryTags -eq $null) {
+			$content | Select-Object -Property * -ExcludeProperty CategoryTags
+		
 			$fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
 			if ($fallbackCategoryTags -ne $null) {
 				$content | add-member -Name "CategoryTags" -value @() -MemberType NoteProperty
