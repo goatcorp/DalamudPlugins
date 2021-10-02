@@ -143,7 +143,6 @@
       "browser",
       "inlay"
     ],
-    "CategoryTags": "UI",
     "InternalName": "BrowserHost.Plugin",
     "AssemblyVersion": "1.4.1.0",
     "TestingAssemblyVersion": null,
@@ -156,6 +155,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8703,
+    "CategoryTags": [
+      "UI"
+    ],
     "LastUpdate": "1633194422",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=api4",
