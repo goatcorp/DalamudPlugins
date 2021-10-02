@@ -1,10 +1,12 @@
-﻿{
-    "Author":  "Caraxi",
-    "Name":  "Remind Me",
-    "Description":  "Cooldown and Status tracking.",
-    "InternalName":  "RemindMe",
-    "AssemblyVersion":  "1.0.6.0",
-    "RepoUrl":  "https://github.com/Caraxi/RemindMe",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  3
+{
+  "Author": "Caraxi",
+  "Name": "Remind Me",
+  "InternalName": "RemindMe",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "UI for showing countdowns for status effects and ability cooldowns.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Caraxi/RemindMe",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Cooldown and Status tracking."
 }
