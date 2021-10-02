@@ -10,6 +10,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | Ottermandias | [AutoVisor](https://github.com/Ottermandias/AutoVisor) | Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job. |
 | ascclemens | Better Party Finder | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
+| ackwell | [Browser Host](https://github.com/ackwell/BrowserHost) | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
 | ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
