@@ -9,9 +9,9 @@
                   ],
     "RepoUrl":  "https://github.com/UnknownX7/QoLBar",
     "InternalName":  "QoLBar",
-    "AssemblyVersion":  "2.1.4.2",
+    "AssemblyVersion":  "2.2.0.1",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  4,
     "LoadPriority":  0,
-    "Changelog":  "Updated for API4"
+    "Changelog":  "Items, hotkey changes, /maincommand, new options, bug fixes"
 }

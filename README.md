@@ -31,3 +31,7 @@ For a sample of this, please see my [sample plugin](https://github.com/goatcorp/
 When releasing a new plugin or making bigger changes, please PR your plugin inside the ``testing`` folder on this repository first - this lets users that opt into receiving testing releases see the plugin in their installer. You can join our [Discord server](https://discord.gg/3NMcUV5) to make an announcement in our testers channel.
 
 This should usually not take more than a week - but it helps weeding out bigger issues that could cause crashes or prevent the plugin from being updated.
+
+---
+
+When submitting a plugin, please consider our [Acceptable Use Policy](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)) & [Terms of Service](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)), which e.g. detail the rights you need to give to us when uploading a plugin to this repository.

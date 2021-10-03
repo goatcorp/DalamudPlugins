@@ -1,9 +1,17 @@
-﻿{
+{
   "Author": "kij",
   "Name": "ChatCoordinates",
-  "Description": "Places flag marker on map from coordinates in chat. \"/coord help\" or \"/ctp help\" for more info.",
   "InternalName": "ChatCoordinates",
-  "AssemblyVersion": "2.0.0.0",
+  "AssemblyVersion": "2.1.0.0",
+  "Description": "Places flag marker on map from coordinates in chat.\nOpens map with given coordinates for current or given zone.\nSee \"/coord\" for configuration and usage info.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 3
+  "RepoUrl": "https://github.com/kissorjeyabalan/dalamud-chatcoordinates",
+  "Tags": [
+    "utility",
+    "map",
+    "coordinates"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Places flag marker on map from coordinates in chat."
 }
