@@ -560,6 +560,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EasyEyes/latest.zip"
   },
   {
+    "Author": "aers",
+    "Name": "EnemyListDebuffs",
+    "InternalName": "EnemyListDebuffs",
+    "AssemblyVersion": "0.3.0.0",
+    "Description": "Displays your debuffs on the enemy list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/EnemyListDebuffs",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1633269106",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EnemyListDebuffs/latest.zip"
+  },
+  {
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
@@ -1162,6 +1183,28 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MOAction/latest.zip"
+  },
+  {
+    "Author": "aers",
+    "Name": "NamePlateDebuffs",
+    "InternalName": "NamePlateDebuffs",
+    "AssemblyVersion": "0.5.0.0",
+    "Description": "Displays your debuffs on enemy nameplates.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
+    "LastUpdate": "1633269106",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NamePlateDebuffs/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2365,28 +2408,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Echoglossian/latest.zip"
   },
   {
-    "Author": "aers",
-    "Name": "EnemyListDebuffs",
-    "InternalName": "EnemyListDebuffs",
-    "AssemblyVersion": "0.1.1.0",
-    "Description": "Displays your debuffs on the enemy list.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/aers/EnemyListDebuffs",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.1.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1629067902",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EnemyListDebuffs/latest.zip"
-  },
-  {
     "Author": "Eternita",
     "Name": "GPNotify",
     "InternalName": "GPNotify",
@@ -2495,29 +2516,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MPTimer/latest.zip"
-  },
-  {
-    "Author": "aers",
-    "Name": "NamePlateDebuffs",
-    "InternalName": "NamePlateDebuffs",
-    "AssemblyVersion": "0.3.0.0",
-    "Description": "Displays your debuffs on enemy nameplates.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.0.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI",
-      "jobs"
-    ],
-    "LastUpdate": "1629067902",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NamePlateDebuffs/latest.zip"
   },
   {
     "Author": "Bluefissure",
