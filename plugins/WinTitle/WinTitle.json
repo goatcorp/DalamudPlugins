@@ -3,8 +3,8 @@
   "Name": "Window Title Changer",
   "Description": "Allows you to change your game window title",
   "InternalName": "WinTitle",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.1.0",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
-  "DalamudApiLevel": 3
+  "DalamudApiLevel": 4
 }
