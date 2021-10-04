@@ -129,36 +129,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/BetterPartyFinder/latest.zip"
   },
   {
-    "Disabled": true,
-    "Testing": false,
-    "InstalledFromUrl": null,
-    "IsThirdParty": false,
     "Author": "ackwell",
     "Name": "Browser Host",
     "Punchline": "Dalamud plugin for in-game browser rendering.",
     "Description": "Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.\nUse the settings button below or the '/bh config' command to configure.",
-    "Changelog": null,
+    "InternalName": "BrowserHost.Plugin",
+    "AssemblyVersion": "1.4.1.2",
+    "RepoUrl": "https://github.com/ackwell/BrowserHost",
+    "ApplicableVersion": "any",
     "Tags": [
       "framework",
       "browser",
       "inlay"
     ],
-    "InternalName": "BrowserHost.Plugin",
-    "AssemblyVersion": "1.4.1.0",
-    "TestingAssemblyVersion": null,
-    "RepoUrl": "https://github.com/ackwell/BrowserHost",
-    "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8703,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633194422",
+    "LastUpdate": "1633321448",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/BrowserHost.Plugin/latest.zip"
