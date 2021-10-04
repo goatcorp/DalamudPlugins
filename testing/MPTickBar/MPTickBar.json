@@ -2,14 +2,17 @@
   "Author": "Marconsou",
   "Name": "MP Tick Bar",
   "InternalName": "MPTickBar",
-  "AssemblyVersion": "1.1.0.0",
-  "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize your bar.",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize it.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
   "Tags": [
     "mp",
     "tick",
-    "bar"
+    "bar",
+    "blm",
+    "black",
+    "mage"
   ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
