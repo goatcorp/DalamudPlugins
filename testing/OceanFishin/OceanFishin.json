@@ -1,0 +1,11 @@
+{
+  "Author": "Sl0nderman",
+  "Name": "Ocean Fishin'",
+  "InternalName": "OceanFishin",
+  "AssemblyVersion": "1.1.1.0",
+  "Description": "Suggests bait while ocean fishing.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}

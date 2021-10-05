@@ -16,11 +16,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13745,
+    "DownloadCount": 28805,
     "LastUpdate": "1618369127",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/AccurateCountDown/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -33,11 +33,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6176,
+    "DownloadCount": 11912,
     "LastUpdate": "1619078470",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/AdventurerInNeed/latest.zip"
   },
   {
     "Author": "Ms.Tress",
@@ -55,28 +55,28 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3882,
+    "DownloadCount": 7757,
     "LastUpdate": "1620730989",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/AetherSense/latest.zip"
   },
   {
     "Author": "Ottermandias",
     "Name": "AutoVisor",
-    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states.",
+    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPoses per job.",
     "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.1.2.1",
+    "AssemblyVersion": "1.1.4.1",
     "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1619703983",
+    "LastUpdate": "1628416218",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/AutoVisor/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -89,11 +89,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2408,
+    "DownloadCount": 9752,
     "LastUpdate": "1619925005",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/BetterPartyFinder/latest.zip"
   },
   {
     "Author": "ackwell",
@@ -111,11 +111,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6080,
+    "DownloadCount": 10141,
     "LastUpdate": "1618924646",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/BrowserHost.Plugin/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -129,11 +129,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 785,
+    "DownloadCount": 4437,
     "LastUpdate": "1618414789",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/BurntToast/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -153,11 +153,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 40493,
     "LastUpdate": "1618367785",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatBubbles/latest.zip"
   },
   {
     "Author": "kij",
@@ -169,11 +169,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6497,
+    "DownloadCount": 14391,
     "LastUpdate": "1617890680",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatCoordinates/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -194,11 +194,11 @@
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2633,
+    "DownloadCount": 2634,
     "LastUpdate": "1594007235",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatExtender/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -219,17 +219,17 @@
     "LoadPriority": 100,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 3032,
     "LastUpdate": "1618366599",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatTranslator/latest.zip"
   },
   {
     "Author": "Chivalrik",
     "Name": "Compass",
     "InternalName": "Compass",
-    "AssemblyVersion": "1.6.1",
+    "AssemblyVersion": "1.8.2",
     "Description": "Monodimensional compass for your adventures.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/fitzchivalrik/compass",
@@ -238,10 +238,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1622852782",
+    "LastUpdate": "1623709075",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Compass/latest.zip"
   },
   {
     "Author": "goat",
@@ -253,17 +253,17 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9977,
+    "DownloadCount": 18568,
     "LastUpdate": "1618413899",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.CharacterSync/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.1.0.7",
+    "AssemblyVersion": "1.1.1.4",
     "Description": "This plugin allows you to receive your chat messages inside of discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -275,11 +275,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6262,
-    "LastUpdate": "1621991778",
+    "DownloadCount": 11727,
+    "LastUpdate": "1627802890",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.DiscordBridge/latest.zip"
   },
   {
     "Author": "goat",
@@ -292,16 +292,16 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4903,
+    "DownloadCount": 24958,
     "LastUpdate": "1620242170",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.LoadingImage/latest.zip"
   },
   {
     "Author": "goat",
     "Name": "Discord Rich Presence",
-    "Description": "This plugin allows you to set up chat triggers.",
+    "Description": "This plugin allows you display your character and current zone in your Discord profile.",
     "InternalName": "Dalamud.RichPresence",
     "AssemblyVersion": "1.6.0.0",
     "ApplicableVersion": "any",
@@ -311,11 +311,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12750,
-    "LastUpdate": "1618337997",
+    "DownloadCount": 24000,
+    "LastUpdate": "1627774615",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.RichPresence/latest.zip"
   },
   {
     "Author": "goat",
@@ -334,11 +334,11 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24,
+    "DownloadCount": 25,
     "LastUpdate": "1604857638",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DalamudVox/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -352,36 +352,36 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18536,
+    "DownloadCount": 37610,
     "LastUpdate": "1619539554",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DamageInfoPlugin/latest.zip"
   },
   {
     "Author": "Strati",
     "Name": "DeepDungeonDex",
     "InternalName": "DeepDungeonDex",
-    "AssemblyVersion": "1.1.5.1",
-    "Description": "A live bestiary for Deep Dungeon. (Only Heaven-on-High supported for now, Palace of the Dead support planned for later)\nShows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics.\nThreat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with\ndeep dungeon mechanics and the class being played.\nInformation is accurate to the best of my knowledge based on crowdsourced information, but please ping me in either the\nDeep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data.",
+    "AssemblyVersion": "1.1.6.2",
+    "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, vulnerability to stun, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with\ndeep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but please open an issue on the GitHub or ping me in either the Deep Dungeons or QuickLauncher Discord servers if anything is found to be inaccurate or if you'd like to make a report on untested data.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1621601800",
+    "DownloadCount": 5364,
+    "LastUpdate": "1627586620",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DeepDungeonDex/latest.zip"
   },
   {
     "Author": "ocealot",
     "Name": "EasyEyes",
     "Description": "Hides VFXs which are too bright or distracting",
     "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.3",
     "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
     "ApplicableVersion": "any",
     "Tags": [
@@ -392,17 +392,64 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1621967474",
+    "DownloadCount": 2973,
+    "LastUpdate": "1625774801",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EasyEyes/latest.zip"
+  },
+  {
+    "Author": "Dante Souza e Souza - aka lokinmodar",
+    "Name": "Echoglossian",
+    "InternalName": "Echoglossian",
+    "AssemblyVersion": "1.0.1.2",
+    "Description": "Realtime game text translator",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
+    "Tags": [
+      "ffxiv",
+      "Dalamud",
+      "plugin",
+      "translation"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1631654798",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Echoglossian/latest.zip"
+  },
+  {
+    "Author": "Xorus",
+    "Name": "EngageTimer",
+    "InternalName": "EngageTimer",
+    "AssemblyVersion": "1.2.0.0",
+    "Description": "Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xorus/EngageTimer",
+    "Tags": [
+      "countdown",
+      "stopwatch",
+      "OBS"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1724,
+    "LastUpdate": "1628621738",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EngageTimer/latest.zip"
   },
   {
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
-    "AssemblyVersion": "1.3.3",
+    "AssemblyVersion": "1.3.4",
     "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
@@ -410,11 +457,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2349,
-    "LastUpdate": "1618439060",
+    "DownloadCount": 7394,
+    "LastUpdate": "1625326438",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ExpandedSearchInfo/latest.zip"
   },
   {
     "Author": "BiscuitUmU, Kazumi",
@@ -428,11 +475,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 1784,
     "LastUpdate": "1621021219",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FantasyPlayer.Dalamud/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -446,11 +493,35 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2242,
+    "DownloadCount": 11825,
     "LastUpdate": "1618416794",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FauxHollowsSolver/latest.zip"
+  },
+  {
+    "Author": "CFG",
+    "Name": "FC Name Color",
+    "InternalName": "FCNameColor",
+    "AssemblyVersion": "1.0.2.4",
+    "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
+    "Tags": [
+      "nameplate",
+      "FC",
+      "name",
+      "colors"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 3478,
+    "LastUpdate": "1629831398",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FCNameColor/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -463,28 +534,28 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15704,
+    "DownloadCount": 34216,
     "LastUpdate": "1617704206",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FPSPlugin/latest.zip"
   },
   {
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
     "Description": "Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.",
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.0.3.0",
+    "AssemblyVersion": "2.0.7.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4339,
-    "LastUpdate": "1622403545",
+    "DownloadCount": 19163,
+    "LastUpdate": "1629017799",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GatherBuddy/latest.zip"
   },
   {
     "Author": "Chivalrik",
@@ -498,11 +569,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 353,
     "LastUpdate": "1622116827",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GentleTouch/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -516,11 +587,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20571,
+    "DownloadCount": 36314,
     "LastUpdate": "1618574677",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Globetrotter/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -534,11 +605,29 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15883,
+    "DownloadCount": 36918,
     "LastUpdate": "1622266491",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GoodMemory/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "GPNotify",
+    "InternalName": "GPNotify",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Notifies you when your GP recovers to certain amount as gatherer, takes potion into account as well.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/GPNotify",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1629316782",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GPNotify/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -552,11 +641,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2745,
+    "DownloadCount": 8255,
     "LastUpdate": "1618422298",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Housemate/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -569,11 +658,28 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16823,
+    "DownloadCount": 27186,
     "LastUpdate": "1621068171",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ItemSearchPlugin/latest.zip"
+  },
+  {
+    "Author": "ocealot",
+    "Name": "JobBars",
+    "Description": "Additional job gauges and party buff trackers",
+    "InternalName": "JobBars",
+    "AssemblyVersion": "1.0.2.6",
+    "RepoUrl": "https://github.com/0ceal0t/JobBars",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 8192,
+    "LastUpdate": "1629465561",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/JobBars/latest.zip"
   },
   {
     "Author": "haplo, daemitus",
@@ -587,11 +693,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12015,
+    "DownloadCount": 25865,
     "LastUpdate": "1618736205",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/JobIcons/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -608,11 +714,11 @@
     "DalamudApiLevel": "3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3624,
+    "DownloadCount": 11558,
     "LastUpdate": "1617840005",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Kapture/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -628,11 +734,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8350,
+    "DownloadCount": 16209,
     "LastUpdate": "1619949062",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroRecursion&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MacroRecursion/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -645,11 +751,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5892,
+    "DownloadCount": 8847,
     "LastUpdate": "1618535721",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MapLinker/latest.zip"
   },
   {
     "Author": "fmauNeko",
@@ -662,11 +768,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 22256,
+    "DownloadCount": 50011,
     "LastUpdate": "1618470037",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MarketBoardPlugin/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -680,11 +786,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5522,
+    "DownloadCount": 34642,
     "LastUpdate": "1618949792",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MiniCactpotSolver/latest.zip"
   },
   {
     "Author": "attick",
@@ -701,11 +807,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13473,
+    "DownloadCount": 24097,
     "LastUpdate": "1618424485",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MOAction/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -725,17 +831,17 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5714,
+    "DownloadCount": 10532,
     "LastUpdate": "1617851803",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NeatNoter/latest.zip"
   },
   {
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "2.1.2",
+    "AssemblyVersion": "2.1.3",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
@@ -743,11 +849,11 @@
     "LoadPriority": 100,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19828,
-    "LastUpdate": "1622853122",
+    "DownloadCount": 26628,
+    "LastUpdate": "1622920931",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoSoliciting/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -767,18 +873,18 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8174,
+    "DownloadCount": 20186,
     "LastUpdate": "1618382731",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/OopsAllLalafells/latest.zip"
   },
   {
-    "Author": "meli",
+    "Author": "meli & perchbird",
     "Name": "Orchestrion Plugin",
     "Description": "Adds a simple front-end for browsing and changing the in-game BGM.  /porch to open",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.5.1.1",
     "RepoUrl": "https://github.com/ff-meli/OrchestrionPlugin/",
     "ApplicableVersion": "any",
     "Tags": [
@@ -788,27 +894,36 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10414,
-    "LastUpdate": "1618499290",
+    "DownloadCount": 18678,
+    "LastUpdate": "1629838890",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/orchestrion/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
     "Name": "OwO",
     "Description": "This plugin uwu's your chat.",
+    "Punchline": "owo for your chat",
     "InternalName": "owofy",
     "AssemblyVersion": "1.3.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
+    "ImageUrls": [
+      "https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
+      "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+      "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+      "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+      "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
+    ],
+    "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24521,
+    "DownloadCount": 31136,
     "LastUpdate": "1618452003",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/owofy/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -822,11 +937,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21919,
+    "DownloadCount": 41515,
     "LastUpdate": "1619922672",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PeepingTom/latest.zip"
   },
   {
     "Author": "tesu",
@@ -844,12 +959,13 @@
     ],
     "DalamudApiLevel": 3,
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14926,
+    "DownloadCount": 33925,
     "LastUpdate": "1618359278",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PennyPincher/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -870,11 +986,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17934,
+    "DownloadCount": 35816,
     "LastUpdate": "1619294551",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PingPlugin/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -892,33 +1008,30 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18332,
+    "DownloadCount": 39547,
     "LastUpdate": "1618373097",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PixelPerfect/latest.zip"
   },
   {
     "Author": "kalilistic",
     "Name": "PlayerTrack",
-    "Description": "Keep track of players you meet.",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "1.1.66",
-    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
-    "Tags": [
-      "players",
-      "track",
-      "orwell"
-    ],
+    "AssemblyVersion": "2.0.40.0",
+    "Description": "Keep track of players you meet.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "3",
+    "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.0.41.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2122,
-    "LastUpdate": "1617843384",
+    "DownloadCount": 8556,
+    "LastUpdate": "1629391457",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PlayerTrack/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -932,11 +1045,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3152,
+    "DownloadCount": 5330,
     "LastUpdate": "1618422243",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PrefPro/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -953,31 +1066,49 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "3",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.13.0",
+    "TestingAssemblyVersion": "2.0.56.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19391,
+    "DownloadCount": 45566,
     "LastUpdate": "1617842482",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PriceCheck/latest.zip"
   },
   {
     "Author": "UnknownX",
     "Name": "QoL Bar",
     "Description": "A plugin designed to provide a simple, customizable and always available interface for chat commands\nor other plugins to alleviate the need for using macros and hotbar space to achieve similar results.\n\nThe plugin should initially appear as a small box on the bottom center of the game window.",
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.1.2.0",
+    "AssemblyVersion": "2.1.3.4",
     "RepoUrl": "https://github.com/UnknownX7/QoLBar",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9665,
-    "LastUpdate": "1622194110",
+    "DownloadCount": 22570,
+    "LastUpdate": "1628988994",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QoLBar/latest.zip"
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "Quest Map",
+    "InternalName": "Quest Map",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/QuestMap",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1626848042",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Quest Map/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -990,35 +1121,35 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12103,
+    "DownloadCount": 26779,
     "LastUpdate": "1620917291",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/RemindMe/latest.zip"
   },
   {
     "Author": "Ottermandias",
     "Name": "RezPls",
-    "Description": "Easy overview about who is currently resurrecting who.",
+    "Description": "Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects.",
     "InternalName": "RezPls",
-    "AssemblyVersion": "1.0.1.2",
+    "AssemblyVersion": "1.1.2.0",
     "RepoUrl": "https://github.com/Ottermandias/RezPls",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2419,
-    "LastUpdate": "1619789194",
+    "DownloadCount": 15956,
+    "LastUpdate": "1628173889",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/RezPls/latest.zip"
   },
   {
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.0.4.0",
-    "Description": "Make chat more fun with translations like pirate.",
+    "AssemblyVersion": "1.0.6.0",
+    "Description": "Make chat more fun with translations like pirate and urianger.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
     "DalamudApiLevel": 3,
@@ -1027,28 +1158,28 @@
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1622418359",
+    "LastUpdate": "1629765382",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SillyChat/latest.zip"
   },
   {
     "Author": "Caraxi",
     "Name": "Simple Tweaks",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.4.3.2",
+    "AssemblyVersion": "1.5.1.4",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14993,
-    "LastUpdate": "1620999117",
+    "DownloadCount": 43699,
+    "LastUpdate": "1629689907",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SimpleTweaksPlugin/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -1069,35 +1200,56 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21463,
+    "DownloadCount": 46919,
     "LastUpdate": "1618376375",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SlideCast/latest.zip"
   },
   {
     "Author": "Sonar Team",
     "Name": "Sonar",
-    "Description": "Relay hunts to other players in the community. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
+    "Punchline": "Automatically send and receive hunt and fate relays.",
+    "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
+    "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.2.0.4",
-    "ApplicableVersion": "2021.05.29.0000.0000",
+    "AssemblyVersion": "0.2.4.0",
+    "ApplicableVersion": "2021.08.17.0000.0000",
     "DalamudApiLevel": 3,
+    "Tags": [
+      "Sonar",
+      "Hunt",
+      "Hunts",
+      "Fate",
+      "Fates",
+      "Relay",
+      "Relays",
+      "Automated",
+      "Automatic"
+    ],
     "RepoUrl": "https://discord.gg/K7y24Rr",
+    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+    "ImageUrls": [
+      "https://assets.ffxivsonar.com/dalamud/image1.png",
+      "https://assets.ffxivsonar.com/dalamud/image2.png",
+      "https://assets.ffxivsonar.com/dalamud/image3.png",
+      "https://assets.ffxivsonar.com/dalamud/image4.png",
+      "https://assets.ffxivsonar.com/dalamud/image5.png"
+    ],
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1622626024",
+    "LastUpdate": "1629809613",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SonarPlugin/latest.zip"
   },
   {
     "Author": "ascclemens",
     "Name": "Sound Filter",
     "InternalName": "SoundFilter",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.2.0",
     "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/jkcclemens/SoundFilter",
@@ -1105,17 +1257,17 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1621968509",
+    "DownloadCount": 904,
+    "LastUpdate": "1622929019",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SoundFilter/latest.zip"
   },
   {
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.4.8.0",
+    "AssemblyVersion": "1.5.1.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -1129,11 +1281,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5721,
-    "LastUpdate": "1618500175",
+    "DownloadCount": 8718,
+    "LastUpdate": "1632865285",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SoundSetter/latest.zip"
   },
   {
     "Author": "Pohky",
@@ -1147,11 +1299,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13091,
+    "DownloadCount": 22770,
     "LastUpdate": "1617844840",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TeleporterPlugin/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1165,17 +1317,17 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 866,
+    "DownloadCount": 4828,
     "LastUpdate": "1618589984",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TextBoxStyler/latest.zip"
   },
   {
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.3.3.0",
+    "AssemblyVersion": "1.8.12.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -1183,18 +1335,21 @@
       "tts",
       "trigger",
       "triggers",
+      "voice",
+      "voices",
+      "speech",
       "karashiiro"
     ],
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "1.8.11.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2047,
-    "LastUpdate": "1621474449",
+    "DownloadCount": 5609,
+    "LastUpdate": "1633363989",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TextToTalk/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1207,17 +1362,17 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2832,
+    "DownloadCount": 12888,
     "LastUpdate": "1620663242",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TheGreatSeparator/latest.zip"
   },
   {
     "Author": "attick & perchbird",
     "Name": "TitleEdit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.2.3.1",
+    "AssemblyVersion": "2.2.3.2",
     "Description": "Create, share, and shuffle custom title screens for FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
@@ -1226,11 +1381,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5198,
-    "LastUpdate": "1621660088",
+    "DownloadCount": 9505,
+    "LastUpdate": "1630722789",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TitleEdit/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1243,18 +1398,18 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3510,
+    "DownloadCount": 11890,
     "LastUpdate": "1618575760",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Tourist/latest.zip"
   },
   {
     "Author": "ocealot",
     "Name": "VFXEditor",
     "Description": "VFX editor and browser, open with /vfxedit",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.3.2.7",
+    "AssemblyVersion": "1.4.0.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1265,17 +1420,17 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1634,
-    "LastUpdate": "1622841734",
+    "DownloadCount": 5098,
+    "LastUpdate": "1626226919",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/VFXEditor/latest.zip"
   },
   {
     "Author": "Dragon",
     "Name": "Visibility",
     "InternalName": "Visibility",
-    "AssemblyVersion": "1.0.4.1",
+    "AssemblyVersion": "1.0.4.2",
     "Description": "Allows you to hide players, pets chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
@@ -1293,11 +1448,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7702,
-    "LastUpdate": "1622419527",
+    "DownloadCount": 15391,
+    "LastUpdate": "1623213744",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Visibility/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -1320,7 +1475,7 @@
     "LastUpdate": "1594726916",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/VoidList/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -1340,11 +1495,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6239,
+    "DownloadCount": 11416,
     "LastUpdate": "1618554827",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WaymarkPresetPlugin/latest.zip"
   },
   {
     "Author": "Azure Gem",
@@ -1361,7 +1516,7 @@
     "LastUpdate": "1618458657",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WinTitle/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -1379,11 +1534,11 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1548,
+    "DownloadCount": 6802,
     "LastUpdate": "1618376934",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WOLdo/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -1397,17 +1552,17 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3908,
+    "DownloadCount": 22338,
     "LastUpdate": "1620174750",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WondrousTailsSolver/latest.zip"
   },
   {
     "Author": "ascclemens",
     "Name": "XIVChat Server",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.5.1",
+    "AssemblyVersion": "1.6.0",
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://xiv.chat/",
@@ -1415,11 +1570,11 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2189,
-    "LastUpdate": "1617650510",
+    "DownloadCount": 3208,
+    "LastUpdate": "1624210250",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVChat/latest.zip"
   },
   {
     "Author": "attick",
@@ -1435,17 +1590,17 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15052,
+    "DownloadCount": 34402,
     "LastUpdate": "1618329273",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=True&isTesting=False&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVCombo/latest.zip"
   },
   {
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
@@ -1456,78 +1611,171 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1620884892",
+    "LastUpdate": "1623017689",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=True&isTesting=True&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/autoSweep/latest.zip"
   },
   {
-    "Author": "Xorus",
-    "Name": "EngageTimer",
-    "InternalName": "EngageTimer",
-    "AssemblyVersion": "1.1.2.1",
-    "Description": "Displays a simple engagement timer and a countdown in the middle of the screen in the style of the original one.\nIt also allows you to open a web-server to serve an OBS overlay for the engagement timer.\n\nConsult the repository link for instructions.",
+    "Author": "Franz",
+    "Name": "ChatTyper",
+    "InternalName": "ChatTyper",
+    "AssemblyVersion": "0.0.0.4",
+    "Description": "Prefixes all chatbox messages with their chat types.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/xorus/EngageTimer",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.4",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1630890131",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatTyper/latest.zip"
+  },
+  {
+    "Author": "jdsmith2816",
+    "Name": "DelvUI",
+    "InternalName": "DelvUI",
+    "AssemblyVersion": "0.2.1.0",
+    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/delvui/delvui",
     "Tags": [
-      "countdown",
-      "stopwatch",
-      "OBS"
+      "UI"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "Punchline": "A modern HUD replacement built for customization.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.2.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1632748876",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DelvUI/latest.zip"
+  },
+  {
+    "Author": "aers",
+    "Name": "EnemyListDebuffs",
+    "InternalName": "EnemyListDebuffs",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "Displays your debuffs on the enemy list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/EnemyListDebuffs",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1629067902",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EnemyListDebuffs/latest.zip"
+  },
+  {
+    "Author": "Franz",
+    "Name": "FlashOnTell",
+    "InternalName": "FlashOnTell",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.2",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1627803735",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FlashOnTell/latest.zip"
+  },
+  {
+    "Author": "aers",
+    "Name": "FlyTextFilter",
+    "InternalName": "FlyTextFilter",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Filter fly text by type.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/aers/flytextfilter",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1629439610",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FlyTextFilter/latest.zip"
+  },
+  {
+    "Author": "Gotest",
+    "Name": "Kingdom Hearts UI Bars",
+    "InternalName": "KingdomHeartsPlugin",
+    "AssemblyVersion": "1.0.0.4",
+    "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.4",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1630379039",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/KingdomHeartsPlugin/latest.zip"
+  },
+  {
+    "Author": "Talim",
+    "Name": "MPTimer",
+    "InternalName": "MPTimer",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Simple MP timer status bar for black mages. Shows the time until your next MP tick, and optionally shows a marker indicating when it is safe to cast Fire III without losing an MP tick.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/talimity/mptimer",
+    "Tags": [
+      "blm",
+      "combat",
+      "qol"
     ],
     "DalamudApiLevel": 3,
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.2.1",
+    "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1619368849",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=True&isTesting=True&branch=master"
+    "LastUpdate": "1629050803",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MPTimer/latest.zip"
   },
   {
-    "Author": "CFG",
-    "Name": "FC Name Color",
-    "Description": "Color your FC's tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
-    "InternalName": "FCNameColor",
-    "AssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
+    "Author": "aers",
+    "Name": "NamePlateDebuffs",
+    "InternalName": "NamePlateDebuffs",
+    "AssemblyVersion": "0.3.0.0",
+    "Description": "Displays your debuffs on enemy nameplates.",
     "ApplicableVersion": "any",
-    "Tags": [
-      "nameplate",
-      "FC",
-      "name",
-      "colors"
-    ],
-    "DalamudApiLevel": 3,
+    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "0.3.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1621963069",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=True&isTesting=True&branch=master"
-  },
-  {
-    "Author": "ocealot",
-    "Name": "JobBars",
-    "Description": "Additional job gauges and party buff trackers",
-    "InternalName": "JobBars",
-    "AssemblyVersion": "1.0.0.3",
-    "RepoUrl": "https://github.com/0ceal0t/JobBars",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.3",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1622841598",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=True&isTesting=True&branch=master"
+    "LastUpdate": "1629067902",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NamePlateDebuffs/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -1545,7 +1793,101 @@
     "LastUpdate": "1620795798",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=True&isTesting=True&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoKillPlugin/latest.zip"
+  },
+  {
+    "Author": "Sl0nderman",
+    "Name": "Ocean Fishin'",
+    "InternalName": "OceanFishin",
+    "AssemblyVersion": "1.1.1.0",
+    "Description": "Suggests bait while ocean fishing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.1.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1630466301",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/OceanFishin/latest.zip"
+  },
+  {
+    "Author": "Caraxi",
+    "Name": "Party List Layout",
+    "InternalName": "PartyListLayout",
+    "AssemblyVersion": "0.2.0.1",
+    "Description": "Customize the layout of the party list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.2.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1629631550",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PartyListLayout/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "QuestAWAY",
+    "InternalName": "QuestAWAY",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Removes unwanted icons from your map.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1630242260",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QuestAWAY/latest.zip"
+  },
+  {
+    "Author": "Chalkos",
+    "Name": "RepairMe",
+    "InternalName": "RepairMe",
+    "AssemblyVersion": "0.1.1.2",
+    "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/chalkos/RepairMe",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.1.2",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1628684175",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/RepairMe/latest.zip"
+  },
+  {
+    "Author": "akira0245",
+    "Name": "Reset dummy enmity command",
+    "Description": "A text command for reset target striking dummy enmity.",
+    "InternalName": "Reset dummy enmity command",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1627684343",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset dummy enmity command&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset dummy enmity command&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Reset dummy enmity command/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -1564,7 +1906,28 @@
     "LastUpdate": "1620197610",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=True&isTesting=True&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SideHUDPlugin/latest.zip"
+  },
+  {
+    "Author": "ocealot",
+    "Name": "SkillSwap",
+    "Description": "Create animation replacement mods for Textools or Penumbra",
+    "InternalName": "SkillSwap",
+    "AssemblyVersion": "1.0.1.1",
+    "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin"
+    ],
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.1.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1625673795",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SkillSwap/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -1588,6 +1951,31 @@
     "LastUpdate": "1618383582",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
-    "DownloadLinkUpdate": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=True&isTesting=True&branch=master"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TabTab/latest.zip"
+  },
+  {
+    "Author": "Cadaeix",
+    "Name": "XIVLogger",
+    "InternalName": "XIVLogger",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cadaeix/XIVLogger",
+    "Tags": [
+      "xivlauncher",
+      "plugin",
+      "chat",
+      "chat log"
+    ],
+    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1624782194",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVLogger/latest.zip"
   }
 ]

@@ -1,0 +1,10 @@
+{
+    "Author":  "akira0245",
+    "Name":  "Reset dummy enmity command",
+    "Description":  "A text command for reset target striking dummy enmity.",
+    "InternalName":  "Reset dummy enmity command",
+    "AssemblyVersion":  "0.0.0.1",
+    "RepoUrl":  "https://github.com/akira0245/Reset-dummy-enmity-command",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  3
+}
