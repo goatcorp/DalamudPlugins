@@ -4,8 +4,8 @@
   "Punchline": "Play sounds and highlight text based on defined filters.",
   "Description": "",
   "Tags": [ "Chat", "Highlight", "Alert", "Alarm", "Ping", "Roleplay", "Sound" ],
-  "InternalName": "Chat Alerts",
-  "AssemblyVersion": "2.0.0.0",
+  "InternalName": "ChatAlerts",
+  "AssemblyVersion": "2.0.0.1",
   "RepoUrl": "https://github.com/Ottermandias/ChatAlerts",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 4
