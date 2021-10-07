@@ -189,21 +189,18 @@
       "Roleplay",
       "Sound"
     ],
-    "InternalName": "Chat Alerts",
-    "AssemblyVersion": "2.0.0.0",
+    "InternalName": "ChatAlerts",
+    "AssemblyVersion": "2.0.0.1",
     "RepoUrl": "https://github.com/Ottermandias/ChatAlerts",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": [
-      "social"
-    ],
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Chat Alerts&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Chat Alerts&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Chat Alerts/latest.zip"
+    "LastUpdate": "1633439002",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatAlerts&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatAlerts&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatAlerts/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -551,6 +548,38 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EasyEyes/latest.zip"
   },
   {
+    "Author": "Dante Souza e Souza - aka lokinmodar",
+    "Name": "Echoglossian",
+    "InternalName": "Echoglossian",
+    "AssemblyVersion": "2.0.2110.159",
+    "Description": "Realtime game text translator",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
+    "Tags": [
+      "ffxiv",
+      "Dalamud",
+      "plugin",
+      "translation"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      ""
+    ],
+    "IconUrl": "https://github.com/lokinmodar/Echoglossian/raw/APIv4/images/icon.png",
+    "Punchline": "Dialogue and other in-game text translations? Yes we have!",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1633315242",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Echoglossian/latest.zip"
+  },
+  {
     "Author": "aers",
     "Name": "EnemyListDebuffs",
     "InternalName": "EnemyListDebuffs",
@@ -785,7 +814,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.1.0.2",
+    "AssemblyVersion": "2.1.0.4",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -798,7 +827,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1631180181",
+    "LastUpdate": "1633636989",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GatherBuddy/latest.zip"
@@ -1913,13 +1942,12 @@
     "Author": "Pohky",
     "Name": "Teleporter",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "2.0.0.5",
+    "AssemblyVersion": "2.0.0.6",
     "Description": "Adds Chat Commands to Teleport to Aetherytes or Areas by Name.\ne.g. /tp Quarrymill or /tpm South Shroud\nSupports setting up an Alias for Aetherytes to be used with Teleporter Commands\ne.g. /tp home instead of /tp Estate Hall (Free Company)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Pohky/TeleporterPlugin/dev-net5/Teleporter/images/icon.png",
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1928,7 +1956,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1632910792",
+    "LastUpdate": "1633533840",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TeleporterPlugin/latest.zip"
@@ -2058,7 +2086,7 @@
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.1.1",
     "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
@@ -2082,7 +2110,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1633136233",
+    "LastUpdate": "1633482022",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TriadBuddy/latest.zip"
@@ -2399,43 +2427,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DelvUI/latest.zip"
   },
   {
-    "Name": "Echoglossian",
-    "Author": "Dante Souza e Souza - aka lokinmodar",
-    "Contributors": "Eternita",
-    "InternalName": "Echoglossian",
-    "AssemblyVersion": "2.0.2109.1305",
-    "ApplicableVersion": "any",
-    "Description": "Realtime game text translator",
-    "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
-    "Tags": [
-      "ffxiv",
-      "Dalamud",
-      "plugin",
-      "translation"
-    ],
-    "DalamudApiLevel": 4,
-    "Disabled": true,
-    "Testing": false,
-    "InstalledFromUrl": null,
-    "Punchline": "Dialogue and other in-game text translations? Yes we have!",
-    "LoadPriority": 0,
-    "ImageUrls": [
-      ""
-    ],
-    "IconUrl": "https://github.com/lokinmodar/Echoglossian/raw/APIv4/images/logo.png",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.0.2109.1305",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1632696471",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Echoglossian/latest.zip"
-  },
-  {
     "Author": "Eternita",
     "Name": "GPNotify",
     "InternalName": "GPNotify",
@@ -2461,7 +2452,7 @@
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
     "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
@@ -2479,13 +2470,13 @@
     "Punchline": "Clean up your messy inventories.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.4",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1632990765",
+    "LastUpdate": "1633508747",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/InventoryTools/latest.zip"
@@ -2494,26 +2485,29 @@
     "Author": "Marconsou",
     "Name": "MP Tick Bar",
     "InternalName": "MPTickBar",
-    "AssemblyVersion": "1.1.0.0",
-    "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize your bar.",
+    "AssemblyVersion": "1.2.0.0",
+    "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
     "Tags": [
       "mp",
       "tick",
-      "bar"
+      "bar",
+      "blm",
+      "black",
+      "mage"
     ],
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.2.0.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1632523698",
+    "LastUpdate": "1633359288",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MPTickBar/latest.zip"
