@@ -380,7 +380,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.1.1.6",
+    "AssemblyVersion": "1.1.1.7",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -397,7 +397,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1632936317",
+    "LastUpdate": "1633638841",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -1671,7 +1671,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "0.2.0.4",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -1698,7 +1698,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1633190784",
+    "LastUpdate": "1633647942",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/RepairMe/latest.zip"
