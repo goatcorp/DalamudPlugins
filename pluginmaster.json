@@ -1282,12 +1282,13 @@
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "2.1.3",
+    "AssemblyVersion": "3.0.0",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 100,
+    "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 24584,
@@ -1295,7 +1296,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1622920931",
+    "LastUpdate": "1633708288",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoSoliciting/latest.zip"
@@ -1607,7 +1608,7 @@
     ],
     "RepoUrl": "https://github.com/UnknownX7/QoLBar",
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.2.0.1",
+    "AssemblyVersion": "2.2.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
@@ -1618,7 +1619,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633229922",
+    "LastUpdate": "1633669567",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QoLBar/latest.zip"
@@ -2485,7 +2486,7 @@
     "Author": "Marconsou",
     "Name": "MP Tick Bar",
     "InternalName": "MPTickBar",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
@@ -2502,12 +2503,12 @@
     "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.0.0",
+    "TestingAssemblyVersion": "1.2.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1633359288",
+    "LastUpdate": "1633677040",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MPTickBar/latest.zip"
@@ -2566,20 +2567,21 @@
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.3.0.0",
     "Description": "Customize the layout of the party list.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "Punchline": "Customize the layout of the party list.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.3.0.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1628783761",
+    "LastUpdate": "1633692566",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PartyListLayout/latest.zip"

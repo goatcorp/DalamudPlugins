@@ -50,6 +50,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | aers | [NamePlateDebuffs](https://github.com/aers/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
 | ascclemens | [Namingway](https://git.sr.ht/~jkcclemens/Namingway) | Rename abilities and status effects. |
 | kalilistic, karashiiro | [NeatNoter](https://github.com/kalilistic/NeatNoter) | NeatNoter allows you to take notes without switching windows or any of that. |
+| ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
 | Meli & perchbird | [Orchestrion Plugin](https://github.com/lmcintyre/OrchestrionPlugin) | Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes<br>a curated list of the most accurate in-game song titles, so you know exactly what's playing,<br>if you want to know later! Add favorite songs to separate them from the rest.<br>Note: This plugin does not currently allow you to play actual orchestrion songs. |
 | goat, modded by Franz | owo plugin | This plugin uwu's your chat. |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
