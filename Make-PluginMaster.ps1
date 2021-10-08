@@ -162,7 +162,7 @@ Foreach-Object {
 }
 
 $outputStr = $output | ConvertTo-Json
-Write-Output $outputStr
+#Write-Output $outputStr
 
 Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
 
