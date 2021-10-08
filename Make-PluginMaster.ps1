@@ -15,10 +15,26 @@ $thisPath = Get-Location
 
 $table = ""
 
+$canValidateSchema = 0
+if (Get-Command 'Test-Json' -errorAction SilentlyContinue) {
+	$canValidateSchema = 1
+}
+Write-Output "Enable JSON validation: $($canValidateSchema)"
+
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
 Foreach-Object {
-    $content = Get-Content $_.FullName | ConvertFrom-Json
-
+    $content = Get-Content $_.FullName -Raw
+	if ($canValidateSchema)
+	{
+		$isContentValid = $content | Test-Json -SchemaFile 'plugin.schema.json'
+		if (-Not $isContentValid) {
+			Write-Output "WARNING! $($_.FullName) failed validation and will be skipped"
+			{ continue }
+		}
+	}
+	
+	$content = $content | ConvertFrom-Json
+	
     if ($notInclude.Contains($content.InternalName)) { 
     	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
@@ -54,7 +70,7 @@ Foreach-Object {
     $content | add-member -Force -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     if ($content.CategoryTags -eq $null) {
-    	$content | Select-Object -Property * -ExcludeProperty CategoryTags
+    	#$content | Select-Object -Property * -ExcludeProperty CategoryTags
     
         $fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
         if ($fallbackCategoryTags -ne $null) {
@@ -85,8 +101,18 @@ Foreach-Object {
 
 Get-ChildItem -Path testing -File -Recurse -Include *.json |
 Foreach-Object {
-    $content = Get-Content $_.FullName | ConvertFrom-Json
-
+    $content = Get-Content $_.FullName -Raw
+	if ($canValidateSchema)
+	{
+		$isContentValid = $content | Test-Json -SchemaFile 'plugin.schema.json'
+		if (-Not $isContentValid) {
+			Write-Output "WARNING! $($_.FullName) failed validation and will be skipped"
+			{ continue }
+		}
+	}
+	
+	$content = $content | ConvertFrom-Json
+	
     if ($notInclude.Contains($content.InternalName)) { 
     	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
@@ -105,7 +131,7 @@ Foreach-Object {
         $content | add-member -Force -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
 
 		if ($content.CategoryTags -eq $null) {
-			$content | Select-Object -Property * -ExcludeProperty CategoryTags
+			#$content | Select-Object -Property * -ExcludeProperty CategoryTags
 		
 			$fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
 			if ($fallbackCategoryTags -ne $null) {
