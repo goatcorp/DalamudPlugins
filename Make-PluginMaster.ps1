@@ -19,6 +19,7 @@ $canValidateSchema = 0
 if (Get-Command 'Test-Json' -errorAction SilentlyContinue) {
 	$canValidateSchema = 1
 }
+$canValidateSchema = 0
 Write-Output "Enable JSON validation: $($canValidateSchema)"
 
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
