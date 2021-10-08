@@ -604,7 +604,7 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.1",
     "Description": "Combat Timer for OBS and ingame overlay with some benefits like a big nice countdown in the middle of the screen in the style of the original one.\nPlease consult the repository link for OBS setup instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -629,7 +629,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1633125318",
+    "LastUpdate": "1633708513",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EngageTimer/latest.zip"
