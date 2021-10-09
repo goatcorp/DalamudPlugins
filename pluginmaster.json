@@ -1185,7 +1185,7 @@
     "Punchline": "Mo' actions no problems",
     "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "4.0.5",
+    "AssemblyVersion": "4.0.6",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
@@ -1199,7 +1199,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1633759088",
+    "LastUpdate": "1633793942",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MOAction/latest.zip"
@@ -2087,7 +2087,7 @@
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
-    "AssemblyVersion": "1.2.1.1",
+    "AssemblyVersion": "1.2.1.2",
     "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
@@ -2111,7 +2111,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1633482022",
+    "LastUpdate": "1633786148",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TriadBuddy/latest.zip"
@@ -2332,7 +2332,7 @@
     "Punchline": "PvP, but in PvE.",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.6.3",
+    "AssemblyVersion": "1.6.4",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
@@ -2345,7 +2345,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1632197054",
+    "LastUpdate": "1633794920",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVCombo/latest.zip"
