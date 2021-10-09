@@ -1031,7 +1031,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.2.11.0",
+    "AssemblyVersion": "1.2.13.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1051,7 +1051,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1632688628",
+    "LastUpdate": "1633744721",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Kapture/latest.zip"
@@ -1513,7 +1513,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.0.49.0",
+    "AssemblyVersion": "2.0.51.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1525,9 +1525,9 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/image1.png",
-      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/image2.png",
-      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/image3.png"
+      "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image1.png",
+      "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image2.png",
+      "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image3.png"
     ],
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
@@ -1538,7 +1538,7 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1632022554",
+    "LastUpdate": "1633743857",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PlayerTrack/latest.zip"
@@ -1569,7 +1569,7 @@
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "2.0.63.0",
+    "AssemblyVersion": "2.0.64.0",
     "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
@@ -1592,7 +1592,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1632055520",
+    "LastUpdate": "1633743203",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PriceCheck/latest.zip"
