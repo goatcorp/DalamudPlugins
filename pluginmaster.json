@@ -88,7 +88,7 @@
       "Glasses"
     ],
     "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.0.2",
     "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -102,7 +102,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1631198387",
+    "LastUpdate": "1633780793",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/AutoVisor/latest.zip"
