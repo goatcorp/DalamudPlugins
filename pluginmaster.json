@@ -362,7 +362,7 @@
     "Description": "This plugin allows you to use your character data from your main character on all others.\n\nIn-game, use the configuration menu to choose your main character, the restart the game to start syncing!",
     "Punchline": "Sync your character data from your main character to all others",
     "InternalName": "Dalamud.CharacterSync",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "IsHide": "False",
@@ -371,7 +371,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1633784121",
+    "LastUpdate": "1633787938",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.CharacterSync/latest.zip"
