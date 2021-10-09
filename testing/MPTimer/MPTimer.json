@@ -2,15 +2,17 @@
   "Author": "Talim",
   "Name": "MPTimer",
   "InternalName": "MPTimer",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "Simple MP timer status bar for black mages. Shows the time until your next MP tick, and optionally shows a marker indicating when it is safe to cast Fire III without losing an MP tick.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/talimity/mptimer",
+  "RepoUrl": "https://github.com/talimity/MPTimer",
   "Tags": [
     "blm",
     "combat",
     "qol"
   ],
-  "DalamudApiLevel": 3,
-  "LoadPriority": 0
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/talimity/MPTimer/master/img/installer_icon.png",
+  "Punchline": "MP tick timer for black mages."
 }
