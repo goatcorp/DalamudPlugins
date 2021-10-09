@@ -2428,28 +2428,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DelvUI/latest.zip"
   },
   {
-    "Author": "Eternita",
-    "Name": "GPNotify",
-    "InternalName": "GPNotify",
-    "AssemblyVersion": "1.0.0.1",
-    "Description": "Notifies you when your GP recovers to certain amount as gatherer, takes potion into account as well.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/GPNotify",
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.1",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "jobs"
-    ],
-    "LastUpdate": "1628352325",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GPNotify&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GPNotify/latest.zip"
-  },
-  {
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
@@ -2562,6 +2540,25 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoKillPlugin/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "NotificationMaster",
+    "InternalName": "NotificationMaster",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Notifies you about various events while your game is minimized.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1633692982",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NotificationMaster/latest.zip"
   },
   {
     "Author": "Caraxi",
