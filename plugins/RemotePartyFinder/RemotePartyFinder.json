@@ -1,0 +1,12 @@
+{
+  "Author": "ascclemens",
+  "Name": "Remote Party Finder Uploader",
+  "InternalName": "RemotePartyFinder",
+  "AssemblyVersion": "1.0.3.0",
+  "Description": "Uploads the PF listings you retrieve to the crowdsourced Remote\nParty Finder website (https://xivpf.com/).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.sr.ht/~jkcclemens/remote-party-finder",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Crowdsourced PF website (upload PF listings to xivpf.com)"
+}
