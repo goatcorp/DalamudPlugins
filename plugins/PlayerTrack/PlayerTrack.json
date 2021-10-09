@@ -2,7 +2,7 @@
   "Author": "kalilistic",
   "Name": "PlayerTrack",
   "InternalName": "PlayerTrack",
-  "AssemblyVersion": "2.0.48.0",
+  "AssemblyVersion": "2.0.51.0",
   "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -14,9 +14,9 @@
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/image1.png",
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/image2.png",
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/image3.png"
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image1.png",
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image2.png",
+    "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image3.png"
   ],
   "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/icon.png",
   "Punchline": "Keep track of players you meet."

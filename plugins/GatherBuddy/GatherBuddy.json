@@ -5,7 +5,7 @@
   "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
   "Tags": ["Gathering", "Fishing", "Miner", "Botanist", "Weather", "Alarms", "Timer"],
   "InternalName": "GatherBuddy",
-  "AssemblyVersion": "2.1.0.1",
+  "AssemblyVersion": "2.1.0.4",
   "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 4,

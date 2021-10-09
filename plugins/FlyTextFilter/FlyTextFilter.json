@@ -1,0 +1,13 @@
+{
+  "Author": "Aireil",
+  "Name": "FlyTextFilter",
+  "InternalName": "FlyTextFilter",
+  "AssemblyVersion": "3.0.0.1",
+  "Description": "Allows the filtering of the different fly text types.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Allows the filtering of the different fly text types.",
+  "Changelog": "Disable logging by default and add a toggle to reduce spam."
+}
