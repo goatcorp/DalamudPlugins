@@ -5,7 +5,7 @@
   "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job.",
   "Tags": [ "Visor", "Headslot", "Hat", "CPose", "Stance", "State", "Glasses" ],
   "InternalName": "AutoVisor",
-  "AssemblyVersion": "1.2.0.1",
+  "AssemblyVersion": "1.2.0.2",
   "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 4,
