@@ -1306,26 +1306,22 @@
   {
     "Author": "Avaflow",
     "Name": "Oops, All Lalafells!",
-    "Description": "Turn everyone around you into Lalafells (or other races)!\n\nUse /poal to open settings.",
     "InternalName": "OopsAllLalafells",
-    "AssemblyVersion": "1.1.0.0",
-    "RepoUrl": "https://github.com/avafloww/OopsAllLalafells",
+    "AssemblyVersion": "1.2.0",
+    "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
     "ApplicableVersion": "any",
-    "DalamudApplicableVersion": "any",
-    "DalamudApiLevel": "3",
-    "Tags": [
-      "lalafell",
-      "lala",
-      "lalafells",
-      "oops"
-    ],
+    "RepoUrl": "https://ava.dev/oops-all-lalafells/",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/OopsAllLalafells/images/icon.png",
+    "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15653,
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1618382731",
+    "LastUpdate": "1633906268",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/OopsAllLalafells/latest.zip"
