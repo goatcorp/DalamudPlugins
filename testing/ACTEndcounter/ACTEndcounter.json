@@ -1,0 +1,15 @@
+{
+  "Author": "Left",
+  "Name": "ACT Endcounter",
+  "InternalName": "ACTEndcounter",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Pairs with ACT, automatically invokes 'end' at the end of combat. Additional options to invoke 'end' at the start of combat as well. Plus an option to clear your entire encounter when entering a duty.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Leftn/FFXIV-ACT-Endcounter",
+  "Tags": [
+    "Other"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Ends your encounters with ACT"
+}
