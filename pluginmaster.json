@@ -216,18 +216,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.3.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
-    "Changelog": "Added Replacement mode. Added removing your own bubbles.",
+    "Changelog": "Fixed custom emotes. Added images to browser.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28805,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1631761041",
+    "LastUpdate": "1633936981",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatBubbles/latest.zip"
@@ -2273,8 +2273,8 @@
   },
   {
     "Author": "Haplo064",
-    "Name": "Where's WOLdo",
-    "InternalName": "WOLdo",
+    "Name": "WOLdo",
+    "InternalName": "WheresWOLdo",
     "AssemblyVersion": "1.3.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -2290,14 +2290,11 @@
     "Changelog": "Updated for API4.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4809,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1633918994",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WOLdo/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WheresWOLdo/latest.zip"
   },
   {
     "Author": "daemitus",
