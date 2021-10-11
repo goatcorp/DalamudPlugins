@@ -291,8 +291,9 @@
   {
     "Author": "Haplo064",
     "Name": "Chat Translator",
-    "InternalName": "ChatTranslator",
-    "Description": "Enables in-game chat translation.",
+    "Punchline": "Enables in-game chat translation.",
+    "Description": "Automatically translating text in your chat-box, from various languages to one you specify.",
+    "Changelog": "Updated for API4",
     "Tags": [
       "UI",
       "Translator",
@@ -300,10 +301,11 @@
       "Translation",
       "Chat"
     ],
+    "InternalName": "ChatTranslator",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
-    "AssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 100,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -311,7 +313,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1618366599",
+    "LastUpdate": "1633928790",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatTranslator/latest.zip"
