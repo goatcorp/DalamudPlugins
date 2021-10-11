@@ -1113,7 +1113,7 @@
     "Description": "Automatically record the maplinks in chat and retrieval later.",
     "Tags": null,
     "InternalName": "MapLinker",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.1.1",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "ApplicableVersion": "any",
@@ -1127,7 +1127,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1632788611",
+    "LastUpdate": "1633928328",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MapLinker/latest.zip"
@@ -1872,7 +1872,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.4.0.0",
     "DalamudApiLevel": 4,
     "Tags": [
       "Sonar",
@@ -1884,6 +1884,9 @@
       "Relays",
       "Automated",
       "Automatic"
+    ],
+    "CategoryTags": [
+      "utility"
     ],
     "RepoUrl": "https://discord.gg/K7y24Rr",
     "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
@@ -1898,10 +1901,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1633014922",
+    "LastUpdate": "1633912249",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SonarPlugin/latest.zip"
@@ -2275,23 +2275,26 @@
     "Author": "Haplo064",
     "Name": "Where's WOLdo",
     "InternalName": "WOLdo",
-    "Description": "Text overlay of current location name.",
+    "AssemblyVersion": "1.3.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 4,
+    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
     "Tags": [
       "Location",
       "UI",
       "Overlay"
     ],
-    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
-    "AssemblyVersion": "1.2.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
+    "LoadPriority": 0,
+    "Punchline": "Making it easier to know where you are.",
+    "Description": "Movable text overlay of the current location name.",
+    "Changelog": "Updated for API4.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4809,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1618376934",
+    "LastUpdate": "1633918994",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WOLdo/latest.zip"
@@ -2541,19 +2544,19 @@
     "Punchline": "Lobby error saver",
     "Description": "A simple plugin that prevent the game from killing itself after a lobby error.",
     "InternalName": "NoKillPlugin",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1632453885",
+    "LastUpdate": "1633928629",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoKillPlugin/latest.zip"
