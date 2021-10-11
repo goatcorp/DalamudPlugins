@@ -1872,7 +1872,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.4.0.0",
     "DalamudApiLevel": 4,
     "Tags": [
       "Sonar",
@@ -1884,6 +1884,9 @@
       "Relays",
       "Automated",
       "Automatic"
+    ],
+    "CategoryTags": [
+      "utility"
     ],
     "RepoUrl": "https://discord.gg/K7y24Rr",
     "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
@@ -1898,10 +1901,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1633014922",
+    "LastUpdate": "1633912249",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SonarPlugin/latest.zip"
