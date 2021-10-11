@@ -2254,26 +2254,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WaymarkPresetPlugin/latest.zip"
   },
   {
-    "Author": "Azure Gem",
-    "Name": "Window Title Changer",
-    "Description": "Allows you to change your game window title",
-    "InternalName": "WinTitle",
-    "AssemblyVersion": "1.0.1.0",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
-    "DalamudApiLevel": 4,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1633390245",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WinTitle/latest.zip"
-  },
-  {
     "Author": "Haplo064",
     "Name": "WOLdo",
     "InternalName": "WheresWOLdo",
@@ -2293,10 +2273,30 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 0,
+    "LastUpdate": "1633978616",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WheresWOLdo/latest.zip"
+  },
+  {
+    "Author": "Azure Gem",
+    "Name": "Window Title Changer",
+    "Description": "Allows you to change your game window title",
+    "InternalName": "WinTitle",
+    "AssemblyVersion": "1.0.1.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
+    "DalamudApiLevel": 4,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1633390245",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WinTitle/latest.zip"
   },
   {
     "Author": "daemitus",
