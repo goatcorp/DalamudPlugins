@@ -1,0 +1,11 @@
+{
+  "Author": "Kouzukii",
+  "Name": "Death Recap",
+  "InternalName": "DeathRecap",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "See what killed you!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0
+}
