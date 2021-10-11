@@ -1113,7 +1113,7 @@
     "Description": "Automatically record the maplinks in chat and retrieval later.",
     "Tags": null,
     "InternalName": "MapLinker",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.1.1",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "ApplicableVersion": "any",
@@ -1127,7 +1127,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1632788611",
+    "LastUpdate": "1633928328",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MapLinker/latest.zip"
