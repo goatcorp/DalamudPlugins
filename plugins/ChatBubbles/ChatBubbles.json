@@ -6,9 +6,9 @@
     "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
     "Tags": [ "UI", "Roleplay", "RP", "Bubbles", "Chat"],
 	"RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.3.2.0",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 4,
 	"LoadPriority": 0,
-	"Changelog": "Added Replacement mode. Added removing your own bubbles."
+	"Changelog": "Fixed custom emotes. Added images to browser."
 }

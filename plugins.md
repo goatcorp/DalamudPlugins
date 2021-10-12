@@ -40,7 +40,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Filterable search for Items and Key Items.<br>Try on any item without having to find someone to link it. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Kapture is a loot tracker to capture drops, obtained items, rolls, and more.<br>Use the roll monitor to see who you are waiting on to roll. |
-| Gotest | [Kingdom Hearts UI Bars](https://github.com/Arrenton/KingdomHeartsPlugin) | A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player. |
+| Gotest | [Kingdom Hearts UI Bars](https://github.com/Arrenton/KingdomHeartsPlugin) | A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.<br>If you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord! |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.<br>Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02<br>Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11<br>Also allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
@@ -50,6 +50,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Namingway](https://git.sr.ht/~jkcclemens/Namingway) | Rename abilities and status effects. |
 | kalilistic, karashiiro | [NeatNoter](https://github.com/kalilistic/NeatNoter) | NeatNoter allows you to take notes without switching windows or any of that. |
 | ascclemens | [NoSoliciting](https://git.sr.ht/~jkcclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
+| Avaflow | [Oops, All Lalafells!](https://ava.dev/oops-all-lalafells/) | Turn everyone around you into Lalafells (or other races!)<br><br>Use /poal to open settings. |
 | Meli & perchbird | [Orchestrion Plugin](https://github.com/lmcintyre/OrchestrionPlugin) | Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes<br>a curated list of the most accurate in-game song titles, so you know exactly what's playing,<br>if you want to know later! Add favorite songs to separate them from the rest.<br>Note: This plugin does not currently allow you to play actual orchestrion songs. |
 | goat, modded by Franz | owo plugin | This plugin uwu's your chat. |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
@@ -81,6 +82,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | View and modify vfxs, as well as create mods for them. Icon by PAPACHIN |
 | Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
 | PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
+| Haplo064 | [WOLdo](https://github.com/Haplo064/WheresWOLdo) | Movable text overlay of the current location name. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | daemitus | [ezWondrousTails](https://github.com/daemitus/WondrousTailsSolver) | This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled. |
 | ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |

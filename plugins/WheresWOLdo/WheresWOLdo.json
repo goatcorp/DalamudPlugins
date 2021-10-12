@@ -1,0 +1,14 @@
+{
+    "Author": "Haplo064",
+    "Name": "WOLdo",
+    "InternalName": "WheresWOLdo",
+	"AssemblyVersion": "1.3.0.1",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 4,
+	"RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "Tags": [ "Location", "UI", "Overlay"],
+	"LoadPriority": 0,
+	"Punchline": "Making it easier to know where you are.",
+	"Description": "Movable text overlay of the current location name.",
+	"Changelog": "Updated for API4."
+}
