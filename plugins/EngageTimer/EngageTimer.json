@@ -1,11 +1,13 @@
 {
+  "Disabled": false,
+  "Testing": false,
+  "InstalledFromUrl": null,
+  "IsThirdParty": false,
   "Author": "Xorus",
-  "Name": "EngageTimer",
-  "InternalName": "EngageTimer",
-  "AssemblyVersion": "2.0.2.1",
-  "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/xorus/EngageTimer",
+  "Name": "Engage Timer",
+  "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
+  "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
+  "Changelog": null,
   "Tags": [
     "countdown",
     "stopwatch",
@@ -13,12 +15,27 @@
     "streaming",
     "combat"
   ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "IsHide": false,
+  "InternalName": "EngageTimer",
+  "AssemblyVersion": "2.1.0.0",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/xorus/EngageTimer",
+  "ApplicableVersion": "any",
   "DalamudApiLevel": 4,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image1.png",
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image2.png"
+    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image2.png",
+    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image3.png"
   ],
-  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/icon.png",
-  "Punchline": "Combat countdown with all numbers, stopwatch and OBS support"
+  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/icon.png"
 }
