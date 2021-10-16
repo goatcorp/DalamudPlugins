@@ -685,7 +685,7 @@
     "Author": "daemitus",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
@@ -702,7 +702,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1629832687",
+    "LastUpdate": "1634346604",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FauxHollowsSolver/latest.zip"
@@ -1160,7 +1160,7 @@
     "Author": "daemitus",
     "Name": "ezMiniCactpot",
     "InternalName": "MiniCactpotSolver",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
@@ -1178,7 +1178,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1629832651",
+    "LastUpdate": "1634346315",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/MiniCactpotSolver/latest.zip"
@@ -2424,7 +2424,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.3.1.1",
+    "AssemblyVersion": "0.3.1.2",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -2436,12 +2436,12 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.1.1",
+    "TestingAssemblyVersion": "0.3.1.2",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1634275694",
+    "LastUpdate": "1634346696",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DelvUI/latest.zip"
