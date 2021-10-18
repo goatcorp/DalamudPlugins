@@ -3,13 +3,16 @@
   "Name": "Ocean Fishin'",
   "InternalName": "OceanFishin",
   "AssemblyVersion": "2.0.0.0",
-  "Description": "Automatically recommends bait to use based on your ocean fishing route. \n You'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
+  "Description": "Automatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
   "Tags": [
     "fishing",
     "bait",
     "duty"
+  ],
+  "CategoryTags": [
+    "jobs"
   ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
