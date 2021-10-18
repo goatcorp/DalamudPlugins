@@ -608,8 +608,8 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.0.2.1",
-    "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
+    "AssemblyVersion": "2.1.1.0",
+    "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
     "Tags": [
@@ -619,21 +619,22 @@
       "streaming",
       "combat"
     ],
+    "CategoryTags": [
+      "jobs"
+    ],
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image1.png",
-      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image2.png"
+      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image2.png",
+      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image3.png"
     ],
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/icon.png",
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": [
-      "jobs"
-    ],
-    "LastUpdate": "1634165814",
+    "LastUpdate": "1634498550",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/EngageTimer/latest.zip"
@@ -908,7 +909,7 @@
     "Author": "MgAl2O4",
     "Name": "Harp Hero",
     "InternalName": "HarpHero",
-    "AssemblyVersion": "1.0.3.1",
+    "AssemblyVersion": "1.0.3.2",
     "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/HarpHeroDalamud",
@@ -935,7 +936,7 @@
       "utility",
       "sound"
     ],
-    "LastUpdate": "1634269930",
+    "LastUpdate": "1634484763",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/HarpHero/latest.zip"
@@ -1064,21 +1065,21 @@
     "Author": "Gotest",
     "Name": "Kingdom Hearts UI Bars",
     "InternalName": "KingdomHeartsPlugin",
-    "AssemblyVersion": "1.0.0.9",
+    "AssemblyVersion": "1.0.0.10",
     "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.\nIf you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-    "Changelog": "Added options for damage wobble, hiding when talking to an NPC, and more text positioning.",
+    "Changelog": "Added options for enabling of specific elements of the UI.\nSome new tooltip descriptions of some settings that were confusing.\nHide and Show commands will save the config.\nFixed MP truncate affecting GP and CP.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633888688",
+    "LastUpdate": "1634400355",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/KingdomHeartsPlugin/latest.zip"
@@ -1304,6 +1305,24 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoSoliciting/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "NotificationMaster",
+    "InternalName": "NotificationMaster",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Notifies you about various events while your game is minimized.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1634391097",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NotificationMaster/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -1607,19 +1626,20 @@
       ""
     ],
     "RepoUrl": "https://github.com/UnknownX7/QoLBar",
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.2.1.0",
+    "AssemblyVersion": "2.2.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
-    "Changelog": "Items, hotkey changes, /maincommand, new options, bug fixes",
+    "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 17409,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1633669567",
+    "LastUpdate": "1634515762",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QoLBar/latest.zip"
@@ -1645,6 +1665,28 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Quest Map/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "QuestAWAY",
+    "InternalName": "QuestAWAY",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Removes unwanted icons from your map.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1634390768",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QuestAWAY/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1691,7 +1733,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -1718,7 +1760,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1633647942",
+    "LastUpdate": "1634527191",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/RepairMe/latest.zip"
@@ -2106,7 +2148,7 @@
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
-    "AssemblyVersion": "1.2.1.3",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
@@ -2130,7 +2172,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1633983016",
+    "LastUpdate": "1634425664",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TriadBuddy/latest.zip"
@@ -2424,7 +2466,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.3.1.2",
+    "AssemblyVersion": "0.3.2.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -2436,12 +2478,12 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.1.2",
+    "TestingAssemblyVersion": "0.3.2.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1634346696",
+    "LastUpdate": "1634521160",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DelvUI/latest.zip"
@@ -2561,25 +2603,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoKillPlugin/latest.zip"
   },
   {
-    "Author": "Eternita",
-    "Name": "NotificationMaster",
-    "InternalName": "NotificationMaster",
-    "AssemblyVersion": "2.0.0.0",
-    "Description": "Notifies you about various events while your game is minimized.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.0.0.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1633692982",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NotificationMaster/latest.zip"
-  },
-  {
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
@@ -2601,29 +2624,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PartyListLayout/latest.zip"
-  },
-  {
-    "Author": "Eternita",
-    "Name": "QuestAWAY",
-    "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "Punchline": "Removes unwanted icons from your map.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1632138286",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QuestAWAY/latest.zip"
   },
   {
     "Author": "akira0245",
