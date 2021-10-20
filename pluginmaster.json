@@ -2517,6 +2517,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/DelvUI/latest.zip"
   },
   {
+    "Author": "shdwp",
+    "Name": "Fader Plugin",
+    "Punchline": "Automatically hides UI elements.",
+    "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
+    "InternalName": "faderPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "ui"
+    ],
+    "DalamudApiLevel": 4,
+    "IconUrl": "https://raw.githubusercontent.com/shdwp/xivFaderPlugin/main/Data/icon.png",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1634060797",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/faderPlugin/latest.zip"
+  },
+  {
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
