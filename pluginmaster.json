@@ -1410,6 +1410,33 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/owofy/latest.zip"
   },
   {
+    "Author": "MgAl2O4",
+    "Name": "Pat Me",
+    "InternalName": "PatMe",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MgAl2O4/PatMeDalamud",
+    "Tags": [
+      "pat",
+      "lala"
+    ],
+    "CategoryTags": [
+      "social"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/PatMeDalamud/main/assets/icon.png",
+    "Punchline": "Pat counter",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1633035901",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PatMe&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PatMe&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/PatMe/latest.zip"
+  },
+  {
     "Author": "ascclemens",
     "Name": "Peeping Tom",
     "InternalName": "PeepingTom",
@@ -1805,7 +1832,7 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.2.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
@@ -1826,7 +1853,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1632023423",
+    "LastUpdate": "1634688456",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SillyChat/latest.zip"
@@ -2604,6 +2631,38 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NoKillPlugin/latest.zip"
   },
   {
+    "Author": "Sl0nderman",
+    "Name": "Ocean Fishin'",
+    "InternalName": "OceanFishin",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Automatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+    "Tags": [
+      "fishing",
+      "bait",
+      "duty"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/preview1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/icon.png",
+    "Punchline": "Suggests bait for ocean fishing.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1634596908",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/OceanFishin/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
@@ -2729,5 +2788,27 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVLogger/latest.zip"
+  },
+  {
+    "Author": "daemitus",
+    "Name": "ZodiacBuddy",
+    "InternalName": "ZodiacBuddy",
+    "AssemblyVersion": "0.0.0.6",
+    "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
+    "Punchline": "Complete your Zodiac relic with style.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.6",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1634691942",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ZodiacBuddy/latest.zip"
   }
 ]
