@@ -2,7 +2,7 @@
   "Author": "Xorus",
   "Name": "EngageTimer",
   "InternalName": "EngageTimer",
-  "AssemblyVersion": "2.1.1.2",
+  "AssemblyVersion": "2.1.1.3",
   "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -19,10 +19,10 @@
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image1.png",
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image2.png",
-    "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/image3.png"
+    "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image1.png",
+    "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image2.png",
+    "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
   ],
-  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/EngageTimer/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
   "Punchline": "Combat countdown with all numbers, stopwatch and OBS support"
 }
