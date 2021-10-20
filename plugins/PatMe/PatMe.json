@@ -2,7 +2,7 @@
   "Author": "MgAl2O4",
   "Name": "Pat Me",
   "InternalName": "PatMe",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/MgAl2O4/PatMeDalamud",
@@ -10,7 +10,9 @@
     "pat",
     "lala"
   ],
-  "CategoryTags": [ "social" ],
+  "CategoryTags": [
+    "social"
+  ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/PatMeDalamud/main/assets/icon.png",
