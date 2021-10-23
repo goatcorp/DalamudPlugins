@@ -2514,6 +2514,42 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
+    "Author": "Azure Gem",
+    "Name": "CharSync",
+    "Punchline": "Synchronize characters data",
+    "Description": "Synchronize characters data automatically upon changing zones and logout, and allows to define multiple character groups to synchronize with. This is based upon goat's work, without using native hooks",
+    "InternalName": "CharSyncPlugin",
+    "AssemblyVersion": "0.1.0.2",
+    "DalamudApiLevel": 4,
+    "Tags": [
+      "Char",
+      "Chars",
+      "Character",
+      "Characters",
+      "Sync",
+      "Synced",
+      "Sync'ed",
+      "Synchronization",
+      "Synchronizations",
+      "Group",
+      "Groups",
+      "Automated",
+      "Automatic"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/rreminy/CharSyncPlugin",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.2",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1634803020",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CharSyncPlugin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CharSyncPlugin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/CharSyncPlugin/latest.zip"
+  },
+  {
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
@@ -2840,7 +2876,7 @@
     "Author": "daemitus",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.0.9",
+    "AssemblyVersion": "0.0.0.10",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -2851,9 +2887,9 @@
     "Punchline": "Complete your Zodiac relic with style.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.9",
+    "TestingAssemblyVersion": "0.0.0.10",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1634784195",
+    "LastUpdate": "1634991158",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ZodiacBuddy/latest.zip"
