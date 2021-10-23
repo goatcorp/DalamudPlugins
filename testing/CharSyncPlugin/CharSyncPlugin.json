@@ -1,0 +1,28 @@
+﻿{
+  "Author": "Azure Gem",
+  "Name": "CharSync",
+  "Punchline": "Synchronize characters data",
+  "Description": "Synchronize characters data automatically upon changing zones and logout, and allows to define multiple character groups to synchronize with. This is based upon goat's work, without using native hooks",
+  "InternalName": "CharSyncPlugin",
+  "AssemblyVersion": "0.1.0.2",
+  "DalamudApiLevel": 4,
+  "Tags": [
+    "Char",
+    "Chars",
+    "Character",
+    "Characters",
+    "Sync",
+    "Synced",
+    "Sync'ed",
+    "Synchronization",
+    "Synchronizations",
+    "Group",
+    "Groups",
+    "Automated",
+    "Automatic"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "RepoUrl": "https://github.com/rreminy/CharSyncPlugin"
+}
