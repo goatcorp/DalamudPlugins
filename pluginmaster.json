@@ -864,7 +864,7 @@
     "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.2.1",
+    "AssemblyVersion": "1.2.2",
     "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
@@ -877,7 +877,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1630261152",
+    "LastUpdate": "1635026437",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Globetrotter/latest.zip"
@@ -1036,7 +1036,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.2.14.0",
+    "AssemblyVersion": "1.2.21.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1056,7 +1056,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1633797590",
+    "LastUpdate": "1635017942",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Kapture/latest.zip"
@@ -1317,7 +1317,7 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.1",
+    "TestingAssemblyVersion": "2.0.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1634391097",
@@ -1698,7 +1698,7 @@
     "Author": "Eternita",
     "Name": "QuestAWAY",
     "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
@@ -1711,7 +1711,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1634390768",
+    "LastUpdate": "1635023844",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/QuestAWAY/latest.zip"
