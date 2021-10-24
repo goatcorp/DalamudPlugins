@@ -993,7 +993,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.2.1",
     "Tags": [
       "UI",
       "Bars"
@@ -1007,7 +1007,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1635092709",
+    "LastUpdate": "1635101387",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/JobBars/latest.zip"
