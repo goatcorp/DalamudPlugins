@@ -11,10 +11,10 @@
     "UI"
   ],
   "ImageUrls": [
-    "https://raw.githubusercontent.com/shdwp/xivPartyIcons/main/Data/Banners/1.png",
-    "https://raw.githubusercontent.com/shdwp/xivPartyIcons/main/Data/Banners/2.png",
-    "https://raw.githubusercontent.com/shdwp/xivPartyIcons/main/Data/Banners/3.png",
-    "https://raw.githubusercontent.com/shdwp/xivPartyIcons/main/Data/Banners/4.png"
+    "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image1.png",
+    "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image2.png",
+    "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image3.png",
+    "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image4.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/shdwp/xivPartyIcons/main/Data/icon.png"
+  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/icons/icon.png"
 }
