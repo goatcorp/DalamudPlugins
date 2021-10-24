@@ -320,17 +320,18 @@
   },
   {
     "Author": "Franz",
-    "Name": "chattyper plugin",
+    "Name": "ChatTyper",
     "InternalName": "ChatTyper",
-    "AssemblyVersion": "0.0.1.0",
-    "Description": "Prefixes all chatbox messages with their chat types.",
+    "AssemblyVersion": "0.0.2.0",
+    "Description": "Prefixes all chatbox messages with their chat type number and name, if known.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "Punchline": "This is still mostly a dev tool for debugging.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1632976707",
+    "LastUpdate": "1634971450",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ChatTyper/latest.zip"
@@ -864,7 +865,7 @@
     "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.2.2",
+    "AssemblyVersion": "1.2.3",
     "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
@@ -877,7 +878,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1635026437",
+    "LastUpdate": "1635037190",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Globetrotter/latest.zip"

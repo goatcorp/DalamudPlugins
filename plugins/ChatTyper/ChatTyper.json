@@ -1,10 +1,11 @@
 {
   "Author": "Franz",
-  "Name": "chattyper plugin",
+  "Name": "ChatTyper",
   "InternalName": "ChatTyper",
-  "AssemblyVersion": "0.0.1.0",
-  "Description": "Prefixes all chatbox messages with their chat types.",
+  "AssemblyVersion": "0.0.2.0",
+  "Description": "Prefixes all chatbox messages with their chat type number and name, if known.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 4,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "Punchline": "This is still mostly a dev tool for debugging."
 }

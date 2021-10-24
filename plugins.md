@@ -15,7 +15,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
-| Franz | chattyper plugin | Prefixes all chatbox messages with their chat types. |
+| Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | goat | Discord Rich Presence | This plugin allows you to show your zone, job, name and world in your Discord status. |
