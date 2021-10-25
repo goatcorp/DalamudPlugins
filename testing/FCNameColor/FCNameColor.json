@@ -1,0 +1,19 @@
+{
+  "Author": "CFG",
+  "Name": "FC Name Color",
+  "InternalName": "FCNameColor",
+  "AssemblyVersion": "2.0.1.0",
+  "Description": "Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
+  "Tags": [
+    "nameplate",
+    "FC",
+    "name",
+    "colors"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/WesselKuipers/FCNameColor/raw/master/images/icon.png",
+  "Punchline": "Color your FC member’s FC tags"
+}
