@@ -2,7 +2,7 @@
   "Author": "goat, modded by Franz",
   "Name": "Discord Chat Bridge",
   "InternalName": "Dalamud.DiscordBridge",
-  "AssemblyVersion": "1.1.1.8",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "This plugin allows you to receive your chat messages via Discord.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -12,5 +12,6 @@
   ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
-  "Punchline": "Receive your chat messages via Discord."
+  "Punchline": "Receive your chat messages via Discord.",
+  "Changelog": "Added IPC support thanks to Kalilistic. Also disabled @everyone/@here pings. Use a role instead please."
 }
