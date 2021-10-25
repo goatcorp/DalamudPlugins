@@ -383,7 +383,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.1.1.8",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -394,13 +394,14 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "Receive your chat messages via Discord.",
+    "Changelog": "Added IPC support thanks to Kalilistic. Also disabled @everyone/@here pings. Use a role instead please.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11727,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1633816695",
+    "LastUpdate": "1635120585",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -1037,7 +1038,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.2.21.0",
+    "AssemblyVersion": "1.2.22.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1057,7 +1058,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1635017942",
+    "LastUpdate": "1635128284",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Kapture/latest.zip"
@@ -1318,7 +1319,7 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.2",
+    "TestingAssemblyVersion": "2.0.0.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1634391097",
