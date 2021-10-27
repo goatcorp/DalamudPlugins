@@ -1,0 +1,21 @@
+{
+  "Author": "Sl0nderman",
+  "Name": "Blue Mage Helper",
+  "InternalName": "BlueMageHelper",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Adds monster names and coordinates to the \"Where to Learn\" section of your blue mage spellbook.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/markjsosnowski/BlueMageHelper",
+  "Tags": [
+    "spells",
+    "spellbook",
+    "blu"
+  ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/BlueMageHelper/master/icon.png",
+  "Punchline": "Helps you fill our your Blue Mage Spellbook"
+}
