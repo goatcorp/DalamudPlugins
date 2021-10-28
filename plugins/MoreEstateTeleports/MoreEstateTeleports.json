@@ -1,0 +1,11 @@
+{
+  "Author": "ascclemens",
+  "Name": "More Estate Teleports",
+  "InternalName": "MoreEstateTeleports",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Add the Estate Teleportation to more places like the Party Member list.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Add the Estate Teleportation to more places."
+}
