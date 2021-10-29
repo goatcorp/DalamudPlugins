@@ -2,7 +2,7 @@
   "Author": "ascclemens",
   "Name": "NoSoliciting",
   "InternalName": "NoSoliciting",
-  "AssemblyVersion": "3.0.0",
+  "AssemblyVersion": "3.0.1",
   "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
