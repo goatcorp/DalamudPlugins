@@ -555,7 +555,7 @@
     "Author": "Dante Souza e Souza - aka lokinmodar",
     "Name": "Echoglossian",
     "InternalName": "Echoglossian",
-    "AssemblyVersion": "2.0.2110.1285",
+    "AssemblyVersion": "2.0.2110.649",
     "Description": "Realtime game text translator",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
@@ -580,7 +580,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633815010",
+    "LastUpdate": "1635419574",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/Echoglossian/latest.zip"
