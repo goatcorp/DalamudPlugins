@@ -1,0 +1,20 @@
+{
+  "Author": "r00telement",
+  "Name": "Player Tags",
+  "InternalName": "PlayerTags",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/r00telement/PlayerTags",
+  "Tags": [
+    "Jobs",
+    "UI"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
+    "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
+  ],
+  "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png"
+}
