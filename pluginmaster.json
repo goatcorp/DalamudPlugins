@@ -995,7 +995,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.2.1",
+    "AssemblyVersion": "1.1.2.2",
     "Tags": [
       "UI",
       "Bars"
@@ -1009,7 +1009,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1635101387",
+    "LastUpdate": "1635731010",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/JobBars/latest.zip"
@@ -1313,17 +1313,16 @@
     "Author": "Eternita",
     "Name": "NotificationMaster",
     "InternalName": "NotificationMaster",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.3",
     "Description": "Notifies you about various events while your game is minimized.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1634391097",
+    "LastUpdate": "1635493577",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NotificationMaster/latest.zip"
@@ -1786,7 +1785,7 @@
     "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
     "IsHide": "False",
-    "TestingAssemblyVersion": "0.2.0.4",
+    "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
@@ -1866,7 +1865,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.1.0",
+    "AssemblyVersion": "1.6.2.0",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -1883,7 +1882,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1635508595",
+    "LastUpdate": "1635666662",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2444,6 +2443,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVCombo/latest.zip"
   },
   {
+    "Author": "daemitus",
+    "Name": "ZodiacBuddy",
+    "InternalName": "ZodiacBuddy",
+    "AssemblyVersion": "0.0.0.10",
+    "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
+    "Punchline": "Complete your Zodiac relic with style.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1635546825",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ZodiacBuddy/latest.zip"
+  },
+  {
     "Author": "Left",
     "Name": "ACT Endcounter",
     "InternalName": "ACTEndcounter",
@@ -2806,20 +2826,20 @@
     "Author": "Dragon",
     "Name": "Side HUD",
     "InternalName": "SideHUDPlugin",
-    "AssemblyVersion": "0.9.0.7",
+    "AssemblyVersion": "0.9.1.0",
     "Description": "Provides fancy side HUD",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/SideHUD",
-    "DalamudApiLevel": 3,
+    "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.0.7",
+    "TestingAssemblyVersion": "0.9.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1620197610",
+    "LastUpdate": "1635582360",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SideHUDPlugin/latest.zip"
@@ -2875,27 +2895,5 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/XIVLogger/latest.zip"
-  },
-  {
-    "Author": "daemitus",
-    "Name": "ZodiacBuddy",
-    "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.0.10",
-    "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
-    "Punchline": "Complete your Zodiac relic with style.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.10",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1634991158",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ZodiacBuddy/latest.zip"
   }
 ]
