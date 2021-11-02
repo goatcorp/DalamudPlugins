@@ -2,12 +2,12 @@
   "Author": "Gotest",
   "Name": "Kingdom Hearts UI Bars",
   "InternalName": "KingdomHeartsPlugin",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.1.1",
   "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.\nIf you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-  "Changelog": "Fixed controller mode hiding the UI, added text formatting options, added exp text, added custom image loading for 'portraits'"
+  "Changelog": "Fixed controller mode hiding the UI, added text formatting options, added exp text, added custom image loading for 'portraits'\nHotfix 1.0.1.1: Fixed issues with setting portrait images and a color issue with Danger."
 }
