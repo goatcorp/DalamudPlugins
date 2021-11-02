@@ -1068,21 +1068,21 @@
     "Author": "Gotest",
     "Name": "Kingdom Hearts UI Bars",
     "InternalName": "KingdomHeartsPlugin",
-    "AssemblyVersion": "1.0.0.10",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.\nIf you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-    "Changelog": "Added options for enabling of specific elements of the UI.\nSome new tooltip descriptions of some settings that were confusing.\nHide and Show commands will save the config.\nFixed MP truncate affecting GP and CP.",
+    "Changelog": "Fixed controller mode hiding the UI, added text formatting options, added exp text, added custom image loading for 'portraits'",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1634400355",
+    "LastUpdate": "1635781062",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/KingdomHeartsPlugin/latest.zip"
@@ -2826,7 +2826,7 @@
     "Author": "Dragon",
     "Name": "Side HUD",
     "InternalName": "SideHUDPlugin",
-    "AssemblyVersion": "0.9.1.0",
+    "AssemblyVersion": "0.9.1.1",
     "Description": "Provides fancy side HUD",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/SideHUD",
@@ -2834,12 +2834,12 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.1.0",
+    "TestingAssemblyVersion": "0.9.1.1",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1635582360",
+    "LastUpdate": "1635806954",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/SideHUDPlugin/latest.zip"
