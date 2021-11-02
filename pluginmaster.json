@@ -1331,7 +1331,7 @@
     "Author": "Avaflow",
     "Name": "Oops, All Lalafells!",
     "InternalName": "OopsAllLalafells",
-    "AssemblyVersion": "1.2.0",
+    "AssemblyVersion": "1.2.1",
     "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://ava.dev/oops-all-lalafells/",
@@ -1345,7 +1345,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1633906268",
+    "LastUpdate": "1635830616",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/OopsAllLalafells/latest.zip"
