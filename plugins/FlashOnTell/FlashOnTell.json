@@ -2,9 +2,10 @@
   "Author": "Franz",
   "Name": "FlashOnTell",
   "InternalName": "FlashOnTell",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.1.1",
   "Description": "Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 4,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "changelog": "This version makes flashontell skipping flashing the window if it's already active. Should help with performance issues."
 }
