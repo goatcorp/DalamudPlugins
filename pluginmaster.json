@@ -745,11 +745,12 @@
     "Author": "Franz",
     "Name": "FlashOnTell",
     "InternalName": "FlashOnTell",
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "0.0.1.1",
     "Description": "Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
+    "changelog": "This version makes flashontell skipping flashing the window if it's already active. Should help with performance issues.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
@@ -757,7 +758,7 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1632977948",
+    "LastUpdate": "1635973436",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/FlashOnTell/latest.zip"
@@ -970,7 +971,7 @@
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.8.0.0",
+    "AssemblyVersion": "1.8.1.0",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
@@ -984,7 +985,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1629961534",
+    "LastUpdate": "1636026471",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/ItemSearchPlugin/latest.zip"
@@ -1068,21 +1069,21 @@
     "Author": "Gotest",
     "Name": "Kingdom Hearts UI Bars",
     "InternalName": "KingdomHeartsPlugin",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.\nIf you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-    "Changelog": "Fixed controller mode hiding the UI, added text formatting options, added exp text, added custom image loading for 'portraits'\nHotfix 1.0.1.1: Fixed issues with setting portrait images and a color issue with Danger.",
+    "Changelog": "Added low health sound option, added scale option for the portrait, fixed damaged portrait being black when low on HP.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1635825136",
+    "LastUpdate": "1635994417",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/KingdomHeartsPlugin/latest.zip"
@@ -1276,6 +1277,7 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/NeatNoter/images/icon.png",
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.0.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 10532,
     "CategoryTags": [
