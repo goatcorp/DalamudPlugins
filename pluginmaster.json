@@ -2492,7 +2492,7 @@
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
@@ -2503,15 +2503,15 @@
     "LoadPriority": 0,
     "ImageUrls": [],
     "Punchline": "Chat alerts for player housing.",
-    "Changelog": "Updated to API v4",
+    "Changelog": "Added the ability to select the chat channel to receive alerts over.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1631158390",
+    "LastUpdate": "1636089352",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/autoSweep/latest.zip"
