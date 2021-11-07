@@ -2466,6 +2466,39 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/ZodiacBuddy/latest.zip"
   },
   {
+    "Author": "Ottermandias",
+    "Name": "Accountant",
+    "Punchline": "Character task timers.",
+    "Description": "Keep track of retainer, airship, submersible and crop timers of multiple characters.",
+    "Tags": [
+      "Airship",
+      "Gardening",
+      "Crops",
+      "Retainer",
+      "Multiple Characters",
+      "Account",
+      "Timer",
+      "Submarine",
+      "Submersible"
+    ],
+    "InternalName": "Accountant",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Ottermandias/Accountant",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1636130089",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
+  },
+  {
     "Author": "Left",
     "Name": "ACT Endcounter",
     "InternalName": "ACTEndcounter",
@@ -2579,7 +2612,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.5.0.2",
+    "AssemblyVersion": "0.5.0.3",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -2591,12 +2624,12 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.5.0.2",
+    "TestingAssemblyVersion": "0.5.0.3",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636135280",
+    "LastUpdate": "1636307141",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/DelvUI/latest.zip"
