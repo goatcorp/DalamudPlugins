@@ -1,0 +1,15 @@
+{
+  "Author": "Ottermandias",
+  "Name": "Accountant",
+  "Punchline": "Character task timers.",
+  "Description": "Keep track of retainer, airship, submersible and crop timers of multiple characters.",
+  "Tags": [ "Airship", "Gardening", "Crops", "Retainer", "Multiple Characters", "Account", "Timer", "Submarine", "Submersible" ],
+  "InternalName": "Accountant",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/Ottermandias/Accountant",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": null,
+  "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png"
+}
