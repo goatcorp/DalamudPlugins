@@ -1,0 +1,15 @@
+{
+  "Author": "Lichie",
+  "Name": "XIVAuras",
+  "InternalName": "XIVAuras",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Highly customizable status and cooldown trackers. Inspired by WeakAuras.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lichie567/XIVAuras",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Customizable status and cooldown tracking"
+}
