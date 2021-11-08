@@ -2669,20 +2669,19 @@
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
     "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
     "Tags": [
-      "plugin",
-      "ui"
+      "UI"
     ],
     "DalamudApiLevel": 4,
     "IconUrl": "https://raw.githubusercontent.com/shdwp/xivFaderPlugin/main/Data/icon.png",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1634060797",
+    "LastUpdate": "1635546980",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/faderPlugin/latest.zip"
@@ -2832,6 +2831,35 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/OceanFishin/latest.zip"
+  },
+  {
+    "Author": "shdwp",
+    "Name": "PartyIcons",
+    "Punchline": "Replace names with job icons, raid role positions and more!",
+    "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
+    "InternalName": "PartyIcons",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "UI"
+    ],
+    "ImageUrls": [
+      "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image1.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image2.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image3.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image4.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/images/image5.png"
+    ],
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api4/testing/PartyIcons/icon.png",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1635546980",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PartyIcons/latest.zip"
   },
   {
     "Author": "Caraxi",
