@@ -383,7 +383,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -394,14 +394,14 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "Punchline": "Receive your chat messages via Discord.",
-    "Changelog": "Added IPC support thanks to Kalilistic. Also disabled @everyone/@here pings. Use a role instead please.",
+    "Changelog": "Switched from XIVAPI search to NetStone.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11727,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1635120585",
+    "LastUpdate": "1636350428",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -2571,6 +2571,35 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/BigPlayerDebuffs/latest.zip"
+  },
+  {
+    "Author": "Sl0nderman",
+    "Name": "Blue Mage Helper",
+    "InternalName": "BlueMageHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Adds monster names and coordinates to the \"Where to Learn\" section of your blue mage spellbook.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/markjsosnowski/BlueMageHelper",
+    "Tags": [
+      "spells",
+      "spellbook",
+      "blu"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/BlueMageHelper/master/icon.png",
+    "Punchline": "Helps you fill our your Blue Mage Spellbook",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1635383896",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BlueMageHelper&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BlueMageHelper&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/BlueMageHelper/latest.zip"
   },
   {
     "Author": "Azure Gem",
