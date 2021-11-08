@@ -949,7 +949,7 @@
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.2",
     "Description": "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/Housemate",
@@ -962,7 +962,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630723196",
+    "LastUpdate": "1636337908",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Housemate/latest.zip"
