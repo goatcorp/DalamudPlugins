@@ -2,8 +2,8 @@
   "Author": "Marconsou",
   "Name": "MP Tick Bar",
   "InternalName": "MPTickBar",
-  "AssemblyVersion": "1.2.3.0",
-  "Description": "This plugin allows you to visualize and track MP regeneration ticks, while playing as Black Mage.\n You can visually customize it.",
+  "AssemblyVersion": "1.3.0.0",
+  "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Supports FFXIV Material UI.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
   "Tags": [
