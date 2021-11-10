@@ -24,6 +24,7 @@ jobs:
     - name: Commit files
       continue-on-error: true
       run: |
+        git checkout origin ${{ steps.extract_branch.outputs.branch }}
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
