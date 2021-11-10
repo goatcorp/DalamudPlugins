@@ -9,7 +9,7 @@ on:
 jobs:
   update-counts:
     if: github.repository == 'goatcorp/DalamudPlugins'
-    runs-on: windows-2019
+    runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
@@ -34,4 +34,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ steps.extract_branch.outputs.branch }}
-      
