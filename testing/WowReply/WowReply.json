@@ -1,0 +1,21 @@
+{
+  "Author": "bukejit",
+  "Name": "Wow Reply",
+  "InternalName": "WowReply",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Copies WoW's /r functionality for easier replying to /tells.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/bukejit/WowReply",
+  "Tags": [
+    "chat",
+    "reply",
+    "bukejit",
+    "wow",
+    "wowreply",
+    "wow reply"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/bukejit/WowReply/master/Data/meme_orc.jpg",
+  "Punchline": "/r functionality like WoW."
+}
