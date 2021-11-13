@@ -1987,7 +1987,7 @@
     "Author": "ascclemens",
     "Name": "Sound Filter",
     "InternalName": "SoundFilter",
-    "AssemblyVersion": "1.4.3.0",
+    "AssemblyVersion": "1.4.4.0",
     "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/jkcclemens/SoundFilter",
@@ -2000,7 +2000,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1630261152",
+    "LastUpdate": "1636841620",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/SoundFilter/latest.zip"
@@ -2525,7 +2525,7 @@
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
@@ -2536,15 +2536,15 @@
     "LoadPriority": 0,
     "ImageUrls": [],
     "Punchline": "Chat alerts for player housing.",
-    "Changelog": "Added the ability to select the chat channel to receive alerts over.",
+    "Changelog": "Improved the retry and error handling logic.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1636089352",
+    "LastUpdate": "1636764019",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/autoSweep/latest.zip"
@@ -3059,7 +3059,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633743030",
+    "LastUpdate": "1636812894",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/XIVLogger/latest.zip"
