@@ -1,0 +1,20 @@
+{
+  "Author": "Cai",
+  "Name": "GCDTracker",
+  "InternalName": "GCDTracker",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/CaiClone/GCDTracker",
+  "Tags": [
+    "combat",
+    "gcd"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/CaiClone/GCDTracker/raw/main/images/image1.png"
+  ],
+  "IconUrl": "https://github.com/CaiClone/GCDTracker/raw/main/images/icon.png",
+  "Punchline": "Is my DRG still jumping?"
+}
