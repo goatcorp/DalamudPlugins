@@ -2482,7 +2482,7 @@
       "Submersible"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -2491,9 +2491,9 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1636130089",
+    "LastUpdate": "1636904939",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
