@@ -1162,6 +1162,24 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/MarketBoardPlugin/latest.zip"
   },
   {
+    "Author": "Eternita",
+    "Name": "Mini",
+    "InternalName": "Mini",
+    "AssemblyVersion": "2.0.0.1",
+    "Description": "Adds a button and a command to minimize your game into taskbar",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/Mini",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1636704370",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Mini&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Mini&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Mini/latest.zip"
+  },
+  {
     "Author": "daemitus",
     "Name": "ezMiniCactpot",
     "InternalName": "MiniCactpotSolver",
@@ -2826,6 +2844,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/NoKillPlugin/latest.zip"
   },
   {
+    "Author": "Bluefissure",
+    "Name": "OBSPlugin",
+    "InternalName": "OBSPlugin",
+    "AssemblyVersion": "1.0.0.4",
+    "Description": "A plugin to control OBS by websocket.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Bluefissure/Dalamud-OBS",
+    "IconUrl": "https://raw.githubusercontent.com/Bluefissure/Dalamud-OBS/master/releases/image/icon.png",
+    "Tags": [
+      "OBS",
+      "UI",
+      "Util"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.4",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1636869492",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/OBSPlugin/latest.zip"
+  },
+  {
     "Author": "Sl0nderman",
     "Name": "Ocean Fishin'",
     "InternalName": "OceanFishin",
@@ -3017,7 +3060,7 @@
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "0.0.2.2",
+    "AssemblyVersion": "0.0.2.3",
     "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
@@ -3029,9 +3072,9 @@
     "Punchline": "Customizable ring-shaped hotbars",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.2.2",
+    "TestingAssemblyVersion": "0.0.2.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1636638529",
+    "LastUpdate": "1637005320",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/TPie/latest.zip"
@@ -3040,7 +3083,7 @@
     "Author": "Cadaeix",
     "Name": "XIVLogger",
     "InternalName": "XIVLogger",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cadaeix/XIVLogger",
@@ -3054,12 +3097,12 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.0",
+    "TestingAssemblyVersion": "1.0.3.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636812894",
+    "LastUpdate": "1637021671",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/XIVLogger/latest.zip"
