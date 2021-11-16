@@ -1885,7 +1885,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.4.0",
+    "AssemblyVersion": "1.6.4.1",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -1902,7 +1902,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1637057413",
+    "LastUpdate": "1637060504",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/SimpleTweaksPlugin/latest.zip"
