@@ -1,5 +1,37 @@
 [
   {
+    "Author": "Ottermandias",
+    "Name": "Accountant",
+    "Punchline": "Character task timers.",
+    "Description": "Keep track of retainer, airship, submersible and crop timers of multiple characters.",
+    "Tags": [
+      "Airship",
+      "Gardening",
+      "Crops",
+      "Retainer",
+      "Multiple Characters",
+      "Account",
+      "Timer",
+      "Submarine",
+      "Submersible"
+    ],
+    "InternalName": "Accountant",
+    "AssemblyVersion": "1.1.0.2",
+    "RepoUrl": "https://github.com/Ottermandias/Accountant",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 811,
+    "LastUpdate": "1637161053",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
+  },
+  {
     "Author": "Haplo064",
     "Name": "Accurate CountDown",
     "InternalName": "AccurateCountDown",
@@ -2008,7 +2040,7 @@
     "Author": "ascclemens",
     "Name": "Sound Filter",
     "InternalName": "SoundFilter",
-    "AssemblyVersion": "1.4.4.0",
+    "AssemblyVersion": "1.4.5.0",
     "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/jkcclemens/SoundFilter",
@@ -2021,7 +2053,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1636841620",
+    "LastUpdate": "1637342836",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/SoundFilter/latest.zip"
@@ -2485,39 +2517,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/ZodiacBuddy/latest.zip"
-  },
-  {
-    "Author": "Ottermandias",
-    "Name": "Accountant",
-    "Punchline": "Character task timers.",
-    "Description": "Keep track of retainer, airship, submersible and crop timers of multiple characters.",
-    "Tags": [
-      "Airship",
-      "Gardening",
-      "Crops",
-      "Retainer",
-      "Multiple Characters",
-      "Account",
-      "Timer",
-      "Submarine",
-      "Submersible"
-    ],
-    "InternalName": "Accountant",
-    "AssemblyVersion": "1.1.0.0",
-    "RepoUrl": "https://github.com/Ottermandias/Accountant",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1636904939",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
   },
   {
     "Author": "Left",
