@@ -1028,7 +1028,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.3.0",
+    "AssemblyVersion": "1.1.3.1",
     "Tags": [
       "UI",
       "Bars"
@@ -1042,7 +1042,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1636326334",
+    "LastUpdate": "1637369408",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/JobBars/latest.zip"
@@ -1312,7 +1312,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "1.4.6.1",
+    "AssemblyVersion": "2.0.3.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1327,13 +1327,12 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/NeatNoter/images/icon.png",
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 11334,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630797421",
+    "LastUpdate": "1637362218",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/NeatNoter/latest.zip"
@@ -2269,7 +2268,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.5.1.0",
+    "AssemblyVersion": "1.5.2.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2284,7 +2283,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636684356",
+    "LastUpdate": "1637369294",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/VFXEditor/latest.zip"
