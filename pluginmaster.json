@@ -1496,7 +1496,7 @@
     "Author": "ascclemens",
     "Name": "Peeping Tom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.7.6",
+    "AssemblyVersion": "1.7.7",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
@@ -1510,7 +1510,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1631381253",
+    "LastUpdate": "1637468151",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PeepingTom/latest.zip"
