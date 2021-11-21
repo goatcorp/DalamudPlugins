@@ -898,6 +898,25 @@
   },
   {
     "Author": "ascclemens",
+    "Name": "Glamaholic",
+    "InternalName": "Glamaholic",
+    "AssemblyVersion": "1.4.0.0",
+    "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.sr.ht/~jkcclemens/Glamaholic",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Save and swap your glamour plates.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1637484444",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=False&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Glamaholic/latest.zip"
+  },
+  {
+    "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
     "AssemblyVersion": "1.2.3",
@@ -1028,7 +1047,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.3.1",
+    "AssemblyVersion": "1.1.3.2",
     "Tags": [
       "UI",
       "Bars"
@@ -1042,7 +1061,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1637369408",
+    "LastUpdate": "1637519217",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/JobBars/latest.zip"
@@ -2660,7 +2679,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.5.0.3",
+    "AssemblyVersion": "0.5.1.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -2672,12 +2691,12 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.5.0.3",
+    "TestingAssemblyVersion": "0.5.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636307141",
+    "LastUpdate": "1637513706",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/DelvUI/latest.zip"
