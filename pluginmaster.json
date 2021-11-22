@@ -3,7 +3,7 @@
     "Author": "Ottermandias",
     "Name": "Accountant",
     "Punchline": "Character task timers.",
-    "Description": "Keep track of retainer, airship, submersible and crop timers of multiple characters.",
+    "Description": "Keep track of retainer, airship, submersible, aetherial wheel and crop timers as well as several miscallaneous tasks of multiple characters.",
     "Tags": [
       "Airship",
       "Gardening",
@@ -13,10 +13,12 @@
       "Account",
       "Timer",
       "Submarine",
-      "Submersible"
+      "Submersible",
+      "Tasks",
+      "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.2.0.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -26,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1747,
-    "LastUpdate": "1637161053",
+    "LastUpdate": "1637530108",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
