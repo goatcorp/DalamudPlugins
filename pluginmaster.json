@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.0.1",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -28,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2164,
-    "LastUpdate": "1637530108",
+    "LastUpdate": "1637586313",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
