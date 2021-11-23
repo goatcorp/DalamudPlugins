@@ -27,7 +27,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2164,
+    "DownloadCount": 3600,
     "LastUpdate": "1637586313",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
@@ -72,7 +72,7 @@
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13076,
+    "DownloadCount": 13179,
     "CategoryTags": [
       "UI"
     ],
@@ -131,7 +131,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 580,
+    "DownloadCount": 639,
     "CategoryTags": [
       "UI",
       "utility"
@@ -153,7 +153,7 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10498,
+    "DownloadCount": 10556,
     "CategoryTags": [
       "UI"
     ],
@@ -179,7 +179,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10871,
+    "DownloadCount": 10925,
     "CategoryTags": [
       "UI"
     ],
@@ -200,7 +200,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4798,
+    "DownloadCount": 4829,
     "CategoryTags": [
       "UI"
     ],
@@ -257,7 +257,7 @@
     "Changelog": "Fixed custom emotes. Added images to browser.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45681,
+    "DownloadCount": 46065,
     "CategoryTags": [
       "social"
     ],
@@ -284,7 +284,7 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15267,
+    "DownloadCount": 15319,
     "CategoryTags": [
       "social",
       "utility"
@@ -313,7 +313,7 @@
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2638,
+    "DownloadCount": 2639,
     "CategoryTags": [
       "social"
     ],
@@ -364,7 +364,7 @@
     "Punchline": "This is still mostly a dev tool for debugging.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44,
+    "DownloadCount": 50,
     "LastUpdate": "1634971450",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=api4",
@@ -384,7 +384,7 @@
     "Changelog": "- fix: Missing ImGui.End() when 'Drawing Cardinals only'\n- feat: Expose minimal scaling factor as an option\n- feat: Add filtering ids (thanks for the reports!):\n  - Various in residential Area\n  - Delivery Moogle\n  - Settlement\n  - Ferry",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 850,
+    "DownloadCount": 907,
     "CategoryTags": [
       "UI"
     ],
@@ -404,7 +404,7 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18625,
+    "DownloadCount": 18632,
     "CategoryTags": [
       "utility"
     ],
@@ -431,7 +431,7 @@
     "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13516,
+    "DownloadCount": 13594,
     "CategoryTags": [
       "utility"
     ],
@@ -452,7 +452,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28888,
+    "DownloadCount": 29159,
     "CategoryTags": [
       "other"
     ],
@@ -475,7 +475,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 26080,
+    "DownloadCount": 26230,
     "CategoryTags": [
       "utility"
     ],
@@ -523,7 +523,7 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39363,
+    "DownloadCount": 39488,
     "CategoryTags": [
       "UI"
     ],
@@ -550,7 +550,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6987,
+    "DownloadCount": 7116,
     "CategoryTags": [
       "UI"
     ],
@@ -576,7 +576,7 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3683,
+    "DownloadCount": 3736,
     "CategoryTags": [
       "UI"
     ],
@@ -610,7 +610,7 @@
     "Punchline": "Dialogue and other in-game text translations? Yes we have! Known Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 805,
+    "DownloadCount": 859,
     "CategoryTags": [
       "UI"
     ],
@@ -631,7 +631,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1325,
+    "DownloadCount": 1426,
     "CategoryTags": [
       "UI"
     ],
@@ -669,7 +669,7 @@
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3133,
+    "DownloadCount": 3232,
     "LastUpdate": "1634751001",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api4",
@@ -688,7 +688,7 @@
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8123,
+    "DownloadCount": 8186,
     "CategoryTags": [
       "UI"
     ],
@@ -735,7 +735,7 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13304,
+    "DownloadCount": 13409,
     "CategoryTags": [
       "minigames"
     ],
@@ -765,7 +765,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.0.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5498,
+    "DownloadCount": 5649,
     "CategoryTags": [
       "UI",
       "social"
@@ -787,7 +787,7 @@
     "changelog": "This version makes flashontell skipping flashing the window if it's already active. Should help with performance issues.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 886,
+    "DownloadCount": 962,
     "CategoryTags": [
       "social",
       "utility"
@@ -833,7 +833,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36868,
+    "DownloadCount": 37074,
     "CategoryTags": [
       "UI"
     ],
@@ -866,7 +866,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 22083,
+    "DownloadCount": 22324,
     "CategoryTags": [
       "jobs"
     ],
@@ -889,7 +889,7 @@
     "Changelog": "Update to API 4 and possibly more performant Aether Current Sense logic.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 513,
+    "DownloadCount": 526,
     "CategoryTags": [
       "utility"
     ],
@@ -930,7 +930,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39818,
+    "DownloadCount": 40073,
     "CategoryTags": [
       "utility"
     ],
@@ -952,7 +952,7 @@
     "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 40040,
+    "DownloadCount": 40258,
     "CategoryTags": [
       "UI",
       "utility"
@@ -987,7 +987,7 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1035,
+    "DownloadCount": 1119,
     "CategoryTags": [
       "jobs",
       "utility",
@@ -1011,7 +1011,7 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10361,
+    "DownloadCount": 10463,
     "CategoryTags": [
       "UI"
     ],
@@ -1033,7 +1033,7 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30647,
+    "DownloadCount": 30839,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1059,7 +1059,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17831,
+    "DownloadCount": 20356,
     "CategoryTags": [
       "jobs"
     ],
@@ -1108,7 +1108,7 @@
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12907,
+    "DownloadCount": 13022,
     "CategoryTags": [
       "UI",
       "utility"
@@ -1183,7 +1183,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10734,
+    "DownloadCount": 10802,
     "CategoryTags": [
       "UI"
     ],
@@ -1204,7 +1204,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 54990,
+    "DownloadCount": 55324,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1250,7 +1250,7 @@
     "Punchline": "Shows the next best move in Mini Cactpot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39394,
+    "DownloadCount": 39747,
     "CategoryTags": [
       "minigames"
     ],
@@ -1275,7 +1275,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25805,
+    "DownloadCount": 25950,
     "CategoryTags": [
       "jobs"
     ],
@@ -1349,7 +1349,7 @@
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14717,
+    "DownloadCount": 15115,
     "CategoryTags": [
       "UI"
     ],
@@ -1371,7 +1371,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28283,
+    "DownloadCount": 28402,
     "CategoryTags": [
       "UI",
       "social"
@@ -1416,7 +1416,7 @@
     "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 22393,
+    "DownloadCount": 22565,
     "CategoryTags": [
       "other"
     ],
@@ -1442,7 +1442,7 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20142,
+    "DownloadCount": 20257,
     "CategoryTags": [
       "sound"
     ],
@@ -1477,7 +1477,7 @@
     "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31737,
+    "DownloadCount": 31779,
     "CategoryTags": [
       "social"
     ],
@@ -1526,7 +1526,7 @@
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 54542,
+    "DownloadCount": 59063,
     "CategoryTags": [
       "UI",
       "social"
@@ -1559,7 +1559,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36272,
+    "DownloadCount": 36453,
     "CategoryTags": [
       "inventory"
     ],
@@ -1591,7 +1591,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39179,
+    "DownloadCount": 39442,
     "CategoryTags": [
       "UI"
     ],
@@ -1624,7 +1624,7 @@
     "Changelog": "Really for real fixed the slowdown on having the hitbox leave the screen view.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42378,
+    "DownloadCount": 42610,
     "CategoryTags": [
       "UI"
     ],
@@ -1658,7 +1658,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.1.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9891,
+    "DownloadCount": 10039,
     "CategoryTags": [
       "social",
       "utility"
@@ -1681,7 +1681,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5643,
+    "DownloadCount": 5661,
     "CategoryTags": [
       "UI"
     ],
@@ -1713,7 +1713,7 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 48896,
+    "DownloadCount": 49146,
     "CategoryTags": [
       "inventory"
     ],
@@ -1744,7 +1744,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 23710,
+    "DownloadCount": 23809,
     "LastUpdate": "1634515762",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api4",
@@ -1785,7 +1785,7 @@
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 888,
+    "DownloadCount": 963,
     "CategoryTags": [
       "UI"
     ],
@@ -1807,7 +1807,7 @@
     "Punchline": "Cooldown and Status tracking.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28714,
+    "DownloadCount": 28859,
     "CategoryTags": [
       "UI"
     ],
@@ -1862,7 +1862,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1566,
+    "DownloadCount": 1673,
     "CategoryTags": [
       "inventory"
     ],
@@ -1897,7 +1897,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17456,
+    "DownloadCount": 17560,
     "CategoryTags": [
       "UI"
     ],
@@ -1950,7 +1950,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 104502,
+    "DownloadCount": 105615,
     "CategoryTags": [
       "UI",
       "other",
@@ -2069,7 +2069,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2679,
+    "DownloadCount": 2755,
     "CategoryTags": [
       "sound"
     ],
@@ -2097,7 +2097,7 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9226,
+    "DownloadCount": 9259,
     "CategoryTags": [
       "sound"
     ],
@@ -2119,7 +2119,7 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 23975,
+    "DownloadCount": 24052,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2142,7 +2142,7 @@
     "Punchline": "Allows replacing every text box with the background of your choice.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5102,
+    "DownloadCount": 5131,
     "CategoryTags": [
       "UI"
     ],
@@ -2173,7 +2173,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.9.9.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6246,
+    "DownloadCount": 6277,
     "CategoryTags": [
       "UI"
     ],
@@ -2194,7 +2194,7 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13673,
+    "DownloadCount": 13715,
     "CategoryTags": [
       "UI"
     ],
@@ -2217,7 +2217,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10164,
+    "DownloadCount": 10206,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2240,7 +2240,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13418,
+    "DownloadCount": 13541,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2300,7 +2300,7 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7198,
+    "DownloadCount": 7324,
     "CategoryTags": [
       "UI"
     ],
@@ -2331,7 +2331,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16335,
+    "DownloadCount": 16404,
     "CategoryTags": [
       "UI"
     ],
@@ -2392,7 +2392,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12363,
+    "DownloadCount": 12427,
     "CategoryTags": [
       "UI"
     ],
@@ -2463,7 +2463,7 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25279,
+    "DownloadCount": 25484,
     "CategoryTags": [
       "minigames"
     ],
@@ -2484,7 +2484,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3334,
+    "DownloadCount": 3347,
     "CategoryTags": [
       "social"
     ],
@@ -2508,7 +2508,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36936,
+    "DownloadCount": 37117,
     "CategoryTags": [
       "jobs"
     ],
@@ -2532,7 +2532,7 @@
     "Punchline": "Complete your Zodiac relic with style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1581,
+    "DownloadCount": 1726,
     "LastUpdate": "1635546825",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api4",
