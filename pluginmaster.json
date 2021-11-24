@@ -1637,7 +1637,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.0.52.0",
+    "AssemblyVersion": "2.1.1.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1656,14 +1656,13 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.1.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 10139,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1633797174",
+    "LastUpdate": "1637760169",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/latest.zip"
@@ -2289,7 +2288,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.5.2.0",
+    "AssemblyVersion": "1.5.2.1",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2304,7 +2303,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1637369294",
+    "LastUpdate": "1637764593",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/VFXEditor/latest.zip"
