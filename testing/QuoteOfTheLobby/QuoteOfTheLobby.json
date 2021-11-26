@@ -1,0 +1,31 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "InstalledFromUrl": null,
+  "IsThirdParty": false,
+  "Author": "srkizer",
+  "Name": "Quote of the Lobby",
+  "Punchline": "Simmer does the light before every login.",
+  "Description": "Displays a random dialogue, and/or the datacenter you'll be connecting to when you press GAME START.",
+  "Changelog": null,
+  "Tags": [
+    "qotd", "lobby", "datacenter"
+  ],
+  "CategoryTags": null,
+  "IsHide": false,
+  "InternalName": "quoteOfTheLobby",
+  "AssemblyVersion": null,
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": null,
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 4,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "LoadPriority": 0,
+  "ImageUrls": null,
+  "IconUrl": null
+}
