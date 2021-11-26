@@ -2913,6 +2913,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/NoKillPlugin/latest.zip"
   },
   {
+    "Author": "MidoriKami",
+    "Name": "No Tank You",
+    "InternalName": "NoTankYou",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "/notankconfig",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
+    "Tags": [
+      "plugin"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Simple plugin to show a warning if none of your parties tanks have tank stance on",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1637643683",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/NoTankYou/latest.zip"
+  },
+  {
     "Author": "Bluefissure",
     "Name": "OBSPlugin",
     "InternalName": "OBSPlugin",
@@ -3048,6 +3071,39 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTags/latest.zip"
+  },
+  {
+    "Disabled": false,
+    "Testing": false,
+    "InstalledFromUrl": null,
+    "IsThirdParty": false,
+    "Author": "srkizer",
+    "Name": "Quote of the Lobby",
+    "Punchline": "Simmer does the light before every login.",
+    "Description": "Displays a random dialogue, and/or the datacenter you'll be connecting to when you press GAME START.",
+    "Changelog": null,
+    "Tags": [
+      "qotd",
+      "lobby",
+      "datacenter"
+    ],
+    "CategoryTags": null,
+    "InternalName": "quoteOfTheLobby",
+    "AssemblyVersion": null,
+    "RepoUrl": null,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": null,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": null,
+    "IsTestingExclusive": "True",
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=quoteOfTheLobby&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=quoteOfTheLobby&isUpdate=False&isTesting=True&branch=api4",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/quoteOfTheLobby/latest.zip"
   },
   {
     "Author": "akira0245",
