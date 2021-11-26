@@ -43,7 +43,7 @@ Foreach-Object {
     if ($testingPath | Test-Path)
     {
         $testingContent = Get-Content $testingPath | ConvertFrom-Json
-        $content | add-member -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
+        $content | add-member -Force -Name "TestingAssemblyVersion" -value $testingContent.AssemblyVersion -MemberType NoteProperty
     }
     $content | add-member -Force -Name "IsTestingExclusive" -value "False" -MemberType NoteProperty
 
