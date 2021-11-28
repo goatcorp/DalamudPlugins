@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.0.3",
+    "AssemblyVersion": "1.2.0.4",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 4,
@@ -28,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6546,
-    "LastUpdate": "1638106073",
+    "LastUpdate": "1638107392",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Accountant/latest.zip"
@@ -1656,6 +1656,7 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.2.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 12453,
     "CategoryTags": [
