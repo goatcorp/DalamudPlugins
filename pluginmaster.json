@@ -800,7 +800,7 @@
     "Author": "Aireil",
     "Name": "FlyTextFilter",
     "InternalName": "FlyTextFilter",
-    "AssemblyVersion": "3.1.0.0",
+    "AssemblyVersion": "3.2.0.0",
     "Description": "Allows the filtering of the different fly text types.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
@@ -814,7 +814,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1634241200",
+    "LastUpdate": "1638578305",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/FlyTextFilter/latest.zip"
