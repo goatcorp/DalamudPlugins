@@ -2,10 +2,10 @@
   "Author": "Eternita",
   "Name": "Mini",
   "InternalName": "Mini",
-  "AssemblyVersion": "2.0.0.3",
+  "AssemblyVersion": "2.0.0.4",
   "Description": "Adds a button and a command to minimize your game into taskbar",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Eternita-S/Mini",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }
