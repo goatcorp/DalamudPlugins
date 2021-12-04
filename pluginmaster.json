@@ -1190,30 +1190,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/MacroChain/latest.zip"
   },
   {
-    "Disabled": true,
+    "Disabled": false,
     "Testing": false,
     "InstalledFromUrl": null,
+    "IsThirdParty": false,
     "Author": "Bluefissure",
     "Name": "MapLinker",
     "Punchline": "Record the maplinks in chat",
     "Description": "Automatically record the maplinks in chat and retrieval later.",
+    "Changelog": null,
     "Tags": null,
     "InternalName": "MapLinker",
     "AssemblyVersion": "1.1.2.1",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11374,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636432908",
+    "LastUpdate": "1638634578",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/MapLinker/latest.zip"
@@ -2107,7 +2112,7 @@
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.5.4.0",
+    "AssemblyVersion": "1.5.4.1",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -2117,7 +2122,7 @@
       "volume",
       "control"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
@@ -2126,7 +2131,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1632865245",
+    "LastUpdate": "1638634687",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/SoundSetter/latest.zip"
@@ -2893,16 +2898,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/MPTimer/latest.zip"
   },
   {
+    "Disabled": false,
+    "Testing": false,
+    "InstalledFromUrl": null,
+    "IsThirdParty": false,
     "Author": "Bluefissure",
     "Name": "No Kill Plugin",
     "Punchline": "Lobby error saver",
     "Description": "A simple plugin that prevent the game from killing itself after a lobby error.",
+    "Changelog": null,
+    "Tags": null,
     "InternalName": "NoKillPlugin",
     "AssemblyVersion": "1.0.2.1",
     "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": null,
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null,
     "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.2.1",
@@ -2910,7 +2926,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1634000297",
+    "LastUpdate": "1638634578",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/NoKillPlugin/latest.zip"
