@@ -450,9 +450,9 @@
     "Description": "This plugin shows the destination zone's concept art while loading.",
     "Punchline": "Shows the destination zone's concept art while loading",
     "InternalName": "Dalamud.LoadingImage",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.0.6",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
@@ -460,7 +460,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1635391927",
+    "LastUpdate": "1638635117",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Dalamud.LoadingImage/latest.zip"
