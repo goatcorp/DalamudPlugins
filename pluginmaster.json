@@ -464,22 +464,23 @@
   {
     "Author": "goat",
     "Name": "Discord Rich Presence",
-    "Description": "This plugin allows you to show your zone, job, name and world in your Discord status.",
-    "Punchline": "Show your zone, job, name and world in your Discord status",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "1.7.0.0",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
     "ApplicableVersion": "any",
     "Tags": [
       "Discord"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Show your zone, job, level, name, and world in your Discord status",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 27918,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1630352464",
+    "LastUpdate": "1638630367",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=api4",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True&branch=api4",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Dalamud.RichPresence/latest.zip"
