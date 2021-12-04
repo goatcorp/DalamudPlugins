@@ -2,13 +2,13 @@
   "Author": "Eternita",
   "Name": "NotificationMaster",
   "InternalName": "NotificationMaster",
-  "AssemblyVersion": "2.0.0.5",
+  "AssemblyVersion": "2.0.0.6",
   "Description": "Notifies you about various events while your game is minimized.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
   "Tags": [
     "notification"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }
