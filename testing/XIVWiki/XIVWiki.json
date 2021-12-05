@@ -1,0 +1,20 @@
+{
+  "Author": "MidoriKami",
+  "Name": "XIV Wiki",
+  "InternalName": "XIVWiki",
+  "AssemblyVersion": "1.1.4.0",
+  "Description": "Adds /wiki command, allowing you to quick search the wiki for instances and bosses",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/MidoriKami/XIVWiki",
+  "Tags": [
+    "wiki",
+    "utility"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/MidoriKami/XIVWiki/blob/master/images/icon.png",
+  "Punchline": "Quickly look up things from ingame"
+}
