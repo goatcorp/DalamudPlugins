@@ -594,7 +594,7 @@
     "Author": "Dante Souza e Souza - aka lokinmodar",
     "Name": "Echoglossian",
     "InternalName": "Echoglossian",
-    "AssemblyVersion": "2.0.2110.649",
+    "AssemblyVersion": "2.1.2112.174",
     "Description": "Realtime game text translator",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
@@ -606,20 +606,20 @@
       "UI",
       "Utility"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       ""
     ],
     "IconUrl": "https://raw.githubusercontent.com/lokinmodar/Echoglossian/APIv4/images/icon.png",
-    "Punchline": "Dialogue and other in-game text translations? Yes we have! Known Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
+    "Punchline": "Dialogue and other in-game text translations? Yes we have!\n Known Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1547,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1635419574",
+    "LastUpdate": "1638673744",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Echoglossian/latest.zip"
