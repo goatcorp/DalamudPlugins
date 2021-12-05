@@ -2169,11 +2169,11 @@
     "Author": "Pohky",
     "Name": "Teleporter",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "2.0.1.1",
+    "AssemblyVersion": "2.0.1.2",
     "Description": "Adds Chat Commands to Teleport to Aetherytes or Areas by Name.\ne.g. /tp Quarrymill or /tpm South Shroud\nSupports setting up an Alias for Aetherytes to be used with Teleporter Commands\ne.g. /tp home instead of /tp Estate Hall (Free Company)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
@@ -2183,7 +2183,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638544202",
+    "LastUpdate": "1638666924",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TeleporterPlugin/latest.zip"
