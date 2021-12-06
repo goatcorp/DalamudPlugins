@@ -1444,7 +1444,7 @@
     "Author": "Eternita",
     "Name": "NotificationMaster",
     "InternalName": "NotificationMaster",
-    "AssemblyVersion": "2.0.0.6",
+    "AssemblyVersion": "2.0.0.7",
     "Description": "Notifies you about various events while your game is minimized.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
@@ -1456,7 +1456,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1638649037",
+    "LastUpdate": "1638772478",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NotificationMaster/latest.zip"
