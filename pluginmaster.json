@@ -1693,6 +1693,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PixelPerfect/latest.zip"
   },
   {
+    "Author": "r00telement",
+    "Name": "Player Tags",
+    "InternalName": "PlayerTags",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/r00telement/PlayerTags",
+    "Tags": [
+      "Jobs",
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
+      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
+    ],
+    "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.1.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 519,
+    "LastUpdate": "1638833448",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
+  },
+  {
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
@@ -3055,34 +3083,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
-  },
-  {
-    "Author": "r00telement",
-    "Name": "Player Tags",
-    "InternalName": "PlayerTags",
-    "AssemblyVersion": "1.0.1.0",
-    "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/r00telement/PlayerTags",
-    "Tags": [
-      "Jobs",
-      "UI"
-    ],
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
-      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
-    ],
-    "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.1.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1638691833",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
   },
   {
     "Author": "srkizer",
