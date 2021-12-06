@@ -5,10 +5,10 @@
   "Description": "Keep track of retainer, airship, submersible, aetherial wheel and crop timers as well as several miscallaneous tasks of multiple characters.",
   "Tags": [ "Airship", "Gardening", "Crops", "Retainer", "Multiple Characters", "Account", "Timer", "Submarine", "Submersible", "Tasks", "Cactpot" ],
   "InternalName": "Accountant",
-  "AssemblyVersion": "1.2.0.4",
+  "AssemblyVersion": "1.2.2.0",
   "RepoUrl": "https://github.com/Ottermandias/Accountant",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "ImageUrls": null,
   "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png"
