@@ -519,11 +519,11 @@
     "Author": "perchbird",
     "Name": "Damage Info",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.3.8.1",
+    "AssemblyVersion": "1.3.8.2",
     "Description": "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
@@ -532,7 +532,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630723049",
+    "LastUpdate": "1638750765",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DamageInfoPlugin/latest.zip"
@@ -1028,11 +1028,11 @@
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
-    "AssemblyVersion": "1.0.2.2",
+    "AssemblyVersion": "1.0.2.3",
     "Description": "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/Housemate",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
@@ -1041,7 +1041,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636337908",
+    "LastUpdate": "1638751839",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Housemate/latest.zip"
@@ -1488,7 +1488,7 @@
     "Author": "Meli & perchbird",
     "Name": "Orchestrion Plugin",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.6.0.2",
+    "AssemblyVersion": "1.6.0.3",
     "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
@@ -1496,7 +1496,7 @@
       "bgm",
       "music"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
@@ -1505,7 +1505,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1634245548",
+    "LastUpdate": "1638750630",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/orchestrion/latest.zip"
@@ -1730,11 +1730,11 @@
     "Author": "perchbird",
     "Name": "PrefPro",
     "InternalName": "PrefPro",
-    "AssemblyVersion": "1.1.1.1",
+    "AssemblyVersion": "1.1.1.2",
     "Description": "Your character is personal, so you should be able to have NPCs refer to them\nthe way that you want. With PrefPro, you can control which text option\nwill appear when an NPC uses dialogue meant for a specific in-game gender.\nThis allows you to use a female player model and be referred to as male, and\nvice versa. In addition, there are a few name customization options - if you\nwant to only be referred to by your last name, so be it.\nNote: This plugin currently will not swap voiced cutscene dialogue.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/PrefPro",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
@@ -1743,7 +1743,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630723116",
+    "LastUpdate": "1638751129",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PrefPro/latest.zip"
