@@ -24,7 +24,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | This plugin highlights tiles in Faux Hollows that represent the best potential action you can take. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
-| Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | You need to configure patterns and triggers before it will work, <br>open the configuration window to do that. <br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | ascclemens | [Glamaholic](https://git.sr.ht/~jkcclemens/Glamaholic) | Create and save as many glamour plates as you want. Activate up to 15 of them<br>at once at the Glamour Dresser. Supports exporting and importing plates for<br>easy sharing.<br> |
 | ascclemens | [Globetrotter](https://git.sr.ht/~jkcclemens/Globetrotter) | Automatically shows where treasure maps are located.<br><br>Icon: Map by Adrien Coquet from the Noun Project |
@@ -54,7 +53,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | UI for showing countdowns for status effects and ability cooldowns. |
 | ascclemens | [Remote Party Finder Uploader](https://git.sr.ht/~jkcclemens/remote-party-finder) | Uploads the PF listings you retrieve to the crowdsourced Remote<br>Party Finder website (https://xivpf.com/). |
 | Chalkos | [RepairMe](https://github.com/chalkos/RepairMe) | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
-| Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Allows you to translate player and NPC chat messages/bubbles.<br>Supported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey. |
 | ocealot | [SkillSwap](https://github.com/0ceal0t/SkillSwap) | Create animation replacement mods for Textools or Penumbra. Icon by PAPACHIN |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
