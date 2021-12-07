@@ -2,11 +2,11 @@
   "Author": "ascclemens",
   "Name": "Peeping Tom",
   "InternalName": "PeepingTom",
-  "AssemblyVersion": "1.7.7",
+  "AssemblyVersion": "1.7.8",
   "Description": "Shows who is currently or was previously targeting you.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Shows who is currently or was previously targeting you."
 }
