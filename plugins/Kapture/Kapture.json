@@ -2,7 +2,7 @@
   "Author": "kalilistic",
   "Name": "Kapture",
   "InternalName": "Kapture",
-  "AssemblyVersion": "1.2.22.0",
+  "AssemblyVersion": "1.3.0.0",
   "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -11,8 +11,8 @@
     "track",
     "roll"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Kapture/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/images/icon.png",
   "Punchline": "Track your loot."
 }

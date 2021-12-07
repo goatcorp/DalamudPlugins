@@ -2,10 +2,11 @@
   "Author": "ascclemens",
   "Name": "The Great Separator",
   "InternalName": "TheGreatSeparator",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "1.2.2.0",
   "Description": "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4,
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Add separators to various numbers."
 }

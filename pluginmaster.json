@@ -18,17 +18,17 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.0.4",
+    "AssemblyVersion": "1.2.2.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10319,
-    "LastUpdate": "1638107392",
+    "DownloadCount": 10361,
+    "LastUpdate": "1638830333",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Accountant/latest.zip"
@@ -50,7 +50,7 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28808,
+    "DownloadCount": 28809,
     "CategoryTags": [
       "UI"
     ],
@@ -122,21 +122,21 @@
       "Glasses"
     ],
     "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.2.0.2",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1093,
+    "DownloadCount": 1102,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1633780793",
+    "LastUpdate": "1638835478",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AutoVisor/latest.zip"
@@ -153,7 +153,7 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11091,
+    "DownloadCount": 11092,
     "CategoryTags": [
       "UI"
     ],
@@ -161,6 +161,28 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BetterPartyFinder/latest.zip"
+  },
+  {
+    "Author": "d87",
+    "Name": "BigPlayerDebuffs",
+    "InternalName": "BigPlayerDebuffs",
+    "AssemblyVersion": "1.1.0.2",
+    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
+    "LastUpdate": "1638836972",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
     "Author": "ackwell",
@@ -179,7 +201,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11479,
+    "DownloadCount": 11481,
     "CategoryTags": [
       "UI"
     ],
@@ -200,7 +222,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5116,
+    "DownloadCount": 5117,
     "CategoryTags": [
       "UI"
     ],
@@ -257,7 +279,7 @@
     "Changelog": "Fixed custom emotes. Added images to browser.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 49871,
+    "DownloadCount": 49874,
     "CategoryTags": [
       "social"
     ],
@@ -313,7 +335,7 @@
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2641,
+    "DownloadCount": 2642,
     "CategoryTags": [
       "social"
     ],
@@ -364,7 +386,7 @@
     "Punchline": "This is still mostly a dev tool for debugging, but people like it?",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 110,
+    "DownloadCount": 117,
     "LastUpdate": "1638646309",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=api5",
@@ -384,7 +406,7 @@
     "Changelog": "- fix: Missing ImGui.End() when 'Drawing Cardinals only'\n- feat: Expose minimal scaling factor as an option\n- feat: Add filtering ids (thanks for the reports!):\n  - Various in residential Area\n  - Delivery Moogle\n  - Settlement\n  - Ferry",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1498,
+    "DownloadCount": 1501,
     "CategoryTags": [
       "UI"
     ],
@@ -408,7 +430,7 @@
     "Punchline": "Sync your character data from your main character to all others",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18700,
+    "DownloadCount": 18807,
     "CategoryTags": [
       "utility"
     ],
@@ -435,7 +457,7 @@
     "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14344,
+    "DownloadCount": 14420,
     "CategoryTags": [
       "utility"
     ],
@@ -456,7 +478,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31893,
+    "DownloadCount": 32111,
     "CategoryTags": [
       "other"
     ],
@@ -480,7 +502,7 @@
     "Punchline": "Show your zone, job, level, name, and world in your Discord status",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27979,
+    "DownloadCount": 28177,
     "CategoryTags": [
       "utility"
     ],
@@ -506,7 +528,7 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27,
+    "DownloadCount": 30,
     "CategoryTags": [
       "utility"
     ],
@@ -519,20 +541,20 @@
     "Author": "perchbird",
     "Name": "Damage Info",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.3.8.1",
+    "AssemblyVersion": "1.3.8.2",
     "Description": "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 40871,
+    "DownloadCount": 41169,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630723049",
+    "LastUpdate": "1638750765",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DamageInfoPlugin/latest.zip"
@@ -550,16 +572,16 @@
       "achievements",
       "battle"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21109,
+    "DownloadCount": 21119,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638385613",
+    "LastUpdate": "1638850833",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeepDungeonDex/latest.zip"
@@ -581,7 +603,7 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4260,
+    "DownloadCount": 4262,
     "CategoryTags": [
       "UI"
     ],
@@ -594,7 +616,7 @@
     "Author": "Dante Souza e Souza - aka lokinmodar",
     "Name": "Echoglossian",
     "InternalName": "Echoglossian",
-    "AssemblyVersion": "2.0.2110.649",
+    "AssemblyVersion": "2.1.2112.174",
     "Description": "Realtime game text translator",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
@@ -606,20 +628,20 @@
       "UI",
       "Utility"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       ""
     ],
     "IconUrl": "https://raw.githubusercontent.com/lokinmodar/Echoglossian/APIv4/images/icon.png",
-    "Punchline": "Dialogue and other in-game text translations? Yes we have! Known Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
+    "Punchline": "Dialogue and other in-game text translations? Yes we have!\n Known Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1547,
+    "DownloadCount": 1595,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1635419574",
+    "LastUpdate": "1638673744",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Echoglossian/latest.zip"
@@ -636,7 +658,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2378,
+    "DownloadCount": 2379,
     "CategoryTags": [
       "UI"
     ],
@@ -649,7 +671,7 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.1.1.3",
+    "AssemblyVersion": "2.1.1.4",
     "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -663,7 +685,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image1.png",
@@ -674,8 +696,8 @@
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4160,
-    "LastUpdate": "1634751001",
+    "DownloadCount": 4328,
+    "LastUpdate": "1638749711",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EngageTimer/latest.zip"
@@ -684,20 +706,20 @@
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
-    "AssemblyVersion": "1.3.7",
+    "AssemblyVersion": "1.3.8",
     "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.\n\nIcon: expand by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8729,
+    "DownloadCount": 8731,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630648717",
+    "LastUpdate": "1638862474",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ExpandedSearchInfo/latest.zip"
@@ -718,7 +740,7 @@
     "IconUrl": "https://github.com/shdwp/DalamudPlugins/raw/api5/plugins/faderPlugin/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 542,
+    "DownloadCount": 596,
     "LastUpdate": "1638629517",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api5",
@@ -749,11 +771,11 @@
     "Author": "daemitus",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
@@ -762,11 +784,11 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14582,
+    "DownloadCount": 14583,
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1634346604",
+    "LastUpdate": "1638847408",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FauxHollowsSolver/latest.zip"
@@ -775,7 +797,7 @@
     "Author": "CFG",
     "Name": "FC Name Color",
     "InternalName": "FCNameColor",
-    "AssemblyVersion": "2.0.2.2",
+    "AssemblyVersion": "2.0.2.3",
     "Description": "Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
@@ -789,14 +811,14 @@
       "ui",
       "social"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IconUrl": "https://github.com/WesselKuipers/FCNameColor/raw/main/images/icon.png",
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19404,
-    "LastUpdate": "1638273087",
+    "DownloadCount": 19509,
+    "LastUpdate": "1638805596",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FCNameColor/latest.zip"
@@ -813,7 +835,7 @@
     "Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1552,
+    "DownloadCount": 1619,
     "CategoryTags": [
       "social",
       "utility"
@@ -859,7 +881,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39308,
+    "DownloadCount": 39315,
     "CategoryTags": [
       "UI"
     ],
@@ -883,20 +905,20 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.2.0.1",
+    "AssemblyVersion": "2.2.1.1",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35938,
+    "DownloadCount": 36186,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1637758437",
+    "LastUpdate": "1638790852",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
@@ -928,17 +950,17 @@
     "Author": "ascclemens",
     "Name": "Glamaholic",
     "InternalName": "Glamaholic",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.6.1.0",
     "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/Glamaholic",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/Glamaholic",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Save and swap your glamour plates.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1637641984",
+    "LastUpdate": "1638842538",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Glamaholic/latest.zip"
@@ -947,20 +969,20 @@
     "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.2.3",
+    "AssemblyVersion": "1.2.4",
     "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/Globetrotter",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/Globetrotter",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42794,
+    "DownloadCount": 42857,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1635037190",
+    "LastUpdate": "1638836667",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Globetrotter/latest.zip"
@@ -969,21 +991,21 @@
     "Author": "ascclemens",
     "Name": "Good Memory",
     "InternalName": "GoodMemory",
-    "AssemblyVersion": "1.0.9",
+    "AssemblyVersion": "1.0.10",
     "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.\n\nThis indicator is in the item's description near the bottom and only appears for\nitems that are unlockable, such as orchestrion rolls, minions, etc.\n\nSquare Enix say this plugin is impossible!\n\nIcon: Server by Vectorstall from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/GoodMemory",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42865,
+    "DownloadCount": 42952,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1630261152",
+    "LastUpdate": "1638836667",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GoodMemory/latest.zip"
@@ -992,7 +1014,7 @@
     "Author": "MgAl2O4",
     "Name": "Harp Hero",
     "InternalName": "HarpHero",
-    "AssemblyVersion": "1.0.3.2",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/HarpHeroDalamud",
@@ -1003,7 +1025,7 @@
       "midi",
       "harp"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/MgAl2O4/HarpHeroDalamud/main/assets/image1.png",
@@ -1013,13 +1035,13 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1820,
+    "DownloadCount": 1875,
     "CategoryTags": [
       "jobs",
       "utility",
       "sound"
     ],
-    "LastUpdate": "1634484763",
+    "LastUpdate": "1638731390",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HarpHero/latest.zip"
@@ -1028,20 +1050,20 @@
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
-    "AssemblyVersion": "1.0.2.2",
+    "AssemblyVersion": "1.0.2.3",
     "Description": "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/Housemate",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11389,
+    "DownloadCount": 11479,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1636337908",
+    "LastUpdate": "1638751839",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Housemate/latest.zip"
@@ -1059,7 +1081,7 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 33016,
+    "DownloadCount": 33039,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1085,7 +1107,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24639,
+    "DownloadCount": 24644,
     "CategoryTags": [
       "jobs"
     ],
@@ -1106,7 +1128,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25873,
+    "DownloadCount": 25874,
     "CategoryTags": [
       "jobs"
     ],
@@ -1119,7 +1141,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.2.22.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1128,9 +1150,9 @@
       "track",
       "roll"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Kapture/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/images/icon.png",
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1139,7 +1161,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1635128284",
+    "LastUpdate": "1638851093",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/latest.zip"
@@ -1214,7 +1236,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11376,
+    "DownloadCount": 11390,
     "CategoryTags": [
       "UI"
     ],
@@ -1235,7 +1257,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58903,
+    "DownloadCount": 58909,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1267,11 +1289,11 @@
     "Author": "daemitus",
     "Name": "ezMiniCactpot",
     "InternalName": "MiniCactpotSolver",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
@@ -1285,7 +1307,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1634346315",
+    "LastUpdate": "1638847155",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MiniCactpotSolver/latest.zip"
@@ -1306,7 +1328,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27198,
+    "DownloadCount": 27200,
     "CategoryTags": [
       "jobs"
     ],
@@ -1364,7 +1386,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.0.3.0",
+    "AssemblyVersion": "2.1.0.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1374,17 +1396,17 @@
       "tool",
       "overlay"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/NeatNoter/images/icon.png",
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/NeatNoter/images/icon.png",
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16833,
+    "DownloadCount": 16835,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1637362218",
+    "LastUpdate": "1638852010",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NeatNoter/latest.zip"
@@ -1393,21 +1415,21 @@
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "3.0.1",
+    "AssemblyVersion": "3.0.2",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/NoSoliciting",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/NoSoliciting",
+    "DalamudApiLevel": 5,
     "LoadPriority": 100,
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29624,
+    "DownloadCount": 29673,
     "CategoryTags": [
       "UI",
       "social"
     ],
-    "LastUpdate": "1635537140",
+    "LastUpdate": "1638836667",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoSoliciting/latest.zip"
@@ -1434,7 +1456,7 @@
     "Punchline": "Warns you if none of your tanks have their tank stance on",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 212,
+    "DownloadCount": 319,
     "LastUpdate": "1638653213",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api5",
@@ -1444,7 +1466,7 @@
     "Author": "Eternita",
     "Name": "NotificationMaster",
     "InternalName": "NotificationMaster",
-    "AssemblyVersion": "2.0.0.6",
+    "AssemblyVersion": "2.0.0.7",
     "Description": "Notifies you about various events while your game is minimized.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
@@ -1456,7 +1478,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1638649037",
+    "LastUpdate": "1638772478",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NotificationMaster/latest.zip"
@@ -1475,7 +1497,7 @@
     "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28605,
+    "DownloadCount": 28607,
     "CategoryTags": [
       "other"
     ],
@@ -1488,7 +1510,7 @@
     "Author": "Meli & perchbird",
     "Name": "Orchestrion Plugin",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.6.0.2",
+    "AssemblyVersion": "1.6.0.3",
     "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
@@ -1496,16 +1518,16 @@
       "bgm",
       "music"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21451,
+    "DownloadCount": 21675,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1634245548",
+    "LastUpdate": "1638750630",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/orchestrion/latest.zip"
@@ -1576,21 +1598,21 @@
     "Author": "ascclemens",
     "Name": "Peeping Tom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.7.7",
+    "AssemblyVersion": "1.7.8",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68265,
+    "DownloadCount": 68270,
     "CategoryTags": [
       "UI",
       "social"
     ],
-    "LastUpdate": "1637468151",
+    "LastUpdate": "1638862474",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PeepingTom/latest.zip"
@@ -1599,7 +1621,7 @@
     "Author": "tesu",
     "Name": "Penny Pincher",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.4.0.1",
+    "AssemblyVersion": "1.4.0.2",
     "Description": "Plugin for simplifying \"pennying\" (undercutting current lowest offer by 1).\n\nThe usual workflow for this is the following:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Take a mental note of what the current lowest offer is\n4. Subtract one from it\n5. Close the current listings window\n6. Update your item's price with the number you noted\n7. Confirm your new price\n\nThis plugin eliminates the mental notekeeping steps in the middle by automatically copying the number you want onto your clipboard when you open the current listings window.  \n\nTherefore, your new workflow becomes this:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Close the current listings window\n4. Paste the undercut value in\n5. Confirm your new price\n\nThis both speeds up the process and reduces room for error from typos.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
@@ -1609,7 +1631,7 @@
       "penny",
       "clipboard"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [],
     "IconUrl": "https://github.com/tesu/PennyPincher/raw/master/images/icon.png",
@@ -1618,11 +1640,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 38366,
+    "DownloadCount": 38501,
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1634004541",
+    "LastUpdate": "1638827709",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PennyPincher/latest.zip"
@@ -1650,7 +1672,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41968,
+    "DownloadCount": 42253,
     "CategoryTags": [
       "UI"
     ],
@@ -1683,7 +1705,7 @@
     "Changelog": "Really for real fixed the slowdown on having the hitbox leave the screen view.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44863,
+    "DownloadCount": 44866,
     "CategoryTags": [
       "UI"
     ],
@@ -1693,10 +1715,38 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PixelPerfect/latest.zip"
   },
   {
+    "Author": "r00telement",
+    "Name": "Player Tags",
+    "InternalName": "PlayerTags",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/r00telement/PlayerTags",
+    "Tags": [
+      "Jobs",
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
+      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
+    ],
+    "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.1.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 556,
+    "LastUpdate": "1638833448",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
+  },
+  {
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.2.1.0",
+    "AssemblyVersion": "2.3.1.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1705,7 +1755,7 @@
       "track",
       "orwell"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/PlayerTrack/images/image1.png",
@@ -1716,12 +1766,12 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16292,
+    "DownloadCount": 16299,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1638314805",
+    "LastUpdate": "1638849080",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTrack/latest.zip"
@@ -1730,20 +1780,20 @@
     "Author": "perchbird",
     "Name": "PrefPro",
     "InternalName": "PrefPro",
-    "AssemblyVersion": "1.1.1.1",
+    "AssemblyVersion": "1.1.1.2",
     "Description": "Your character is personal, so you should be able to have NPCs refer to them\nthe way that you want. With PrefPro, you can control which text option\nwill appear when an NPC uses dialogue meant for a specific in-game gender.\nThis allows you to use a female player model and be referred to as male, and\nvice versa. In addition, there are a few name customization options - if you\nwant to only be referred to by your last name, so be it.\nNote: This plugin currently will not swap voiced cutscene dialogue.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/PrefPro",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5890,
+    "DownloadCount": 5930,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630723116",
+    "LastUpdate": "1638751129",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PrefPro/latest.zip"
@@ -1752,7 +1802,7 @@
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "2.0.66.0",
+    "AssemblyVersion": "2.1.0.0",
     "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
@@ -1761,7 +1811,7 @@
       "marketboard",
       "universalis"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PriceCheck/images/image1.png",
@@ -1775,7 +1825,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1633815110",
+    "LastUpdate": "1638850779",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PriceCheck/latest.zip"
@@ -1795,15 +1845,15 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.2.1.1",
+    "AssemblyVersion": "2.2.1.2",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24598,
-    "LastUpdate": "1634515762",
+    "DownloadCount": 24655,
+    "LastUpdate": "1638835717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QoLBar/latest.zip"
@@ -1812,11 +1862,11 @@
     "Author": "ascclemens",
     "Name": "Quest Map",
     "InternalName": "Quest Map",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.1.0",
     "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.\n\nIcons: treasure map by Anthony Ledoux from the Noun Project and\nlocked book by Anthony Ledoux from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/QuestMap",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/QuestMap",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Explore quests and their rewards.",
     "IsHide": "False",
@@ -1825,7 +1875,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1631638704",
+    "LastUpdate": "1638836667",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Quest Map/latest.zip"
@@ -1844,7 +1894,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1599,
+    "DownloadCount": 1605,
     "CategoryTags": [
       "UI"
     ],
@@ -1866,7 +1916,7 @@
     "Punchline": "Cooldown and Status tracking.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30303,
+    "DownloadCount": 30304,
     "CategoryTags": [
       "UI"
     ],
@@ -1879,17 +1929,17 @@
     "Author": "ascclemens",
     "Name": "Remote Party Finder Uploader",
     "InternalName": "RemotePartyFinder",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.4.0",
     "Description": "Uploads the PF listings you retrieve to the crowdsourced Remote\nParty Finder website (https://xivpf.com/).",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/remote-party-finder",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/remote-party-finder",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Crowdsourced PF website (upload PF listings to xivpf.com)",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1633819542",
+    "LastUpdate": "1638862474",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemotePartyFinder&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemotePartyFinder&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RemotePartyFinder/latest.zip"
@@ -1921,7 +1971,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2776,
+    "DownloadCount": 2779,
     "CategoryTags": [
       "inventory"
     ],
@@ -1947,20 +1997,20 @@
       "Interface"
     ],
     "InternalName": "RezPls",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/Ottermandias/RezPls",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18726,
+    "DownloadCount": 18932,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630245300",
+    "LastUpdate": "1638786041",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RezPls/latest.zip"
@@ -1969,19 +2019,19 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
     "Tags": [
       "chat"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/SillyChat/images/image1.png"
+      "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/SillyChat/images/image1.png"
     ],
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/SillyChat/images/icon.png",
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/SillyChat/images/icon.png",
     "Punchline": "Make chat more fun with translations like pirate and urianger.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1990,7 +2040,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1634688456",
+    "LastUpdate": "1638851873",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
@@ -1999,24 +2049,24 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.4.1",
+    "AssemblyVersion": "1.6.4.3",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "This was supposed to be simple...",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 114136,
+    "DownloadCount": 115097,
     "CategoryTags": [
       "UI",
       "other",
       "utility",
       "social"
     ],
-    "LastUpdate": "1637060504",
+    "LastUpdate": "1638749765",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2128,7 +2178,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3239,
+    "DownloadCount": 3240,
     "CategoryTags": [
       "sound"
     ],
@@ -2156,7 +2206,7 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9667,
+    "DownloadCount": 9674,
     "CategoryTags": [
       "sound"
     ],
@@ -2169,7 +2219,7 @@
     "Author": "Pohky",
     "Name": "Teleporter",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "2.0.1.2",
+    "AssemblyVersion": "2.0.1.3",
     "Description": "Adds Chat Commands to Teleport to Aetherytes or Areas by Name.\ne.g. /tp Quarrymill or /tpm South Shroud\nSupports setting up an Alias for Aetherytes to be used with Teleporter Commands\ne.g. /tp home instead of /tp Estate Hall (Free Company)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
@@ -2178,12 +2228,12 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 34000,
+    "DownloadCount": 34520,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638666924",
+    "LastUpdate": "1638791447",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TeleporterPlugin/latest.zip"
@@ -2232,7 +2282,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.9.9.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6559,
+    "DownloadCount": 6597,
     "CategoryTags": [
       "UI"
     ],
@@ -2245,19 +2295,20 @@
     "Author": "ascclemens",
     "Name": "The Great Separator",
     "InternalName": "TheGreatSeparator",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.2.0",
     "Description": "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14316,
+    "DownloadCount": 14319,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630261152",
+    "LastUpdate": "1638862474",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TheGreatSeparator/latest.zip"
@@ -2299,7 +2350,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14679,
+    "DownloadCount": 14684,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2359,7 +2410,7 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8679,
+    "DownloadCount": 8681,
     "CategoryTags": [
       "UI"
     ],
@@ -2390,7 +2441,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17267,
+    "DownloadCount": 17273,
     "CategoryTags": [
       "UI"
     ],
@@ -2451,7 +2502,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13079,
+    "DownloadCount": 13080,
     "CategoryTags": [
       "UI"
     ],
@@ -2509,11 +2560,11 @@
     "Author": "daemitus",
     "Name": "ezWondrousTails",
     "InternalName": "WondrousTailsSolver",
-    "AssemblyVersion": "2.1.0.0",
+    "AssemblyVersion": "2.1.0.3",
     "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
@@ -2526,7 +2577,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1629832670",
+    "LastUpdate": "1638846479",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WondrousTailsSolver/latest.zip"
@@ -2535,11 +2586,11 @@
     "Author": "ascclemens",
     "Name": "XIVChat Server",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.7.0",
+    "AssemblyVersion": "1.7.1",
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://xiv.chat/",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -2547,7 +2598,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1631381253",
+    "LastUpdate": "1638862474",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVChat/latest.zip"
@@ -2567,7 +2618,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39183,
+    "DownloadCount": 39203,
     "CategoryTags": [
       "jobs"
     ],
@@ -2580,19 +2631,19 @@
     "Author": "daemitus",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.0.10",
+    "AssemblyVersion": "0.0.0.11",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
     "Punchline": "Complete your Zodiac relic with style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2751,
-    "LastUpdate": "1635546825",
+    "DownloadCount": 2752,
+    "LastUpdate": "1638845719",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ZodiacBuddy/latest.zip"
@@ -2676,29 +2727,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/autoSweep/latest.zip"
-  },
-  {
-    "Author": "d87",
-    "Name": "BigPlayerDebuffs",
-    "InternalName": "BigPlayerDebuffs",
-    "AssemblyVersion": "1.1.0.0",
-    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI",
-      "jobs"
-    ],
-    "LastUpdate": "1632534217",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
     "Author": "Sl0nderman",
@@ -2814,7 +2842,7 @@
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.0.6",
     "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
@@ -2823,7 +2851,7 @@
       "Sorting",
       "Filtering"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
@@ -2832,13 +2860,13 @@
     "Punchline": "Clean up your sloppppy inventories.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.5",
+    "TestingAssemblyVersion": "1.0.0.6",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1634633462",
+    "LastUpdate": "1638775748",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
@@ -2927,35 +2955,22 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MPTimer/latest.zip"
   },
   {
-    "Disabled": false,
-    "Testing": false,
-    "InstalledFromUrl": null,
-    "IsThirdParty": false,
     "Author": "Bluefissure",
     "Name": "No Kill Plugin",
-    "Punchline": "Lobby error saver",
-    "Description": "A simple plugin that prevent the game from killing itself after a lobby error.",
-    "Changelog": null,
-    "Tags": null,
+    "Description": "A simple plugin that prevent the game from killing itself.",
     "InternalName": "NoKillPlugin",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.3",
     "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
-    "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": null,
-    "AcceptsFeedback": true,
-    "FeedbackMessage": null,
-    "FeedbackWebhook": null,
+    "ApplicableVersion": "any",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.1",
+    "TestingAssemblyVersion": "1.0.2.3",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1638634578",
+    "LastUpdate": "1638727821",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoKillPlugin/latest.zip"
@@ -3070,34 +3085,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
   },
   {
-    "Author": "r00telement",
-    "Name": "Player Tags",
-    "InternalName": "PlayerTags",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/r00telement/PlayerTags",
-    "Tags": [
-      "Jobs",
-      "UI"
-    ],
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
-      "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
-    ],
-    "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1635553733",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
-  },
-  {
     "Author": "srkizer",
     "Name": "Quote of the Lobby",
     "InternalName": "QuoteOfTheLobby",
@@ -3202,21 +3189,21 @@
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "0.0.2.6",
+    "AssemblyVersion": "0.1.0.0",
     "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
     "Tags": [
       "UI"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customizable ring-shaped hotbars",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.2.6",
+    "TestingAssemblyVersion": "0.1.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1638304668",
+    "LastUpdate": "1638739737",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TPie/latest.zip"
