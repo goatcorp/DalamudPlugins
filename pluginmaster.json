@@ -572,7 +572,7 @@
       "achievements",
       "battle"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
@@ -581,7 +581,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638385613",
+    "LastUpdate": "1638850833",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeepDungeonDex/latest.zip"
@@ -771,11 +771,11 @@
     "Author": "daemitus",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
@@ -788,7 +788,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1634346604",
+    "LastUpdate": "1638847408",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FauxHollowsSolver/latest.zip"
@@ -1141,7 +1141,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.2.22.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1150,9 +1150,9 @@
       "track",
       "roll"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Kapture/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/images/icon.png",
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1161,7 +1161,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1635128284",
+    "LastUpdate": "1638851093",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/latest.zip"
@@ -1289,11 +1289,11 @@
     "Author": "daemitus",
     "Name": "ezMiniCactpot",
     "InternalName": "MiniCactpotSolver",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
@@ -1307,7 +1307,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1634346315",
+    "LastUpdate": "1638847155",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MiniCactpotSolver/latest.zip"
@@ -1386,7 +1386,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.0.3.0",
+    "AssemblyVersion": "2.1.0.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1396,9 +1396,9 @@
       "tool",
       "overlay"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/NeatNoter/images/icon.png",
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/NeatNoter/images/icon.png",
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1406,7 +1406,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1637362218",
+    "LastUpdate": "1638852010",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NeatNoter/latest.zip"
@@ -1802,7 +1802,7 @@
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "2.0.66.0",
+    "AssemblyVersion": "2.1.0.0",
     "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
@@ -1811,7 +1811,7 @@
       "marketboard",
       "universalis"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PriceCheck/images/image1.png",
@@ -1825,7 +1825,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1633815110",
+    "LastUpdate": "1638850779",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PriceCheck/latest.zip"
@@ -2019,19 +2019,19 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
     "Tags": [
       "chat"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/SillyChat/images/image1.png"
+      "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/SillyChat/images/image1.png"
     ],
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/SillyChat/images/icon.png",
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/SillyChat/images/icon.png",
     "Punchline": "Make chat more fun with translations like pirate and urianger.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -2040,7 +2040,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1634688456",
+    "LastUpdate": "1638851873",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
