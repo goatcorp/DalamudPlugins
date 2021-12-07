@@ -13,7 +13,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
-| kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | A plugin which can hide any VFX. Icon by PAPACHIN |
 | aers | [EnemyListDebuffs](https://github.com/aers/EnemyListDebuffs) | Displays your debuffs on the enemy list. |
