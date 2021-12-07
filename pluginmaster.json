@@ -2842,7 +2842,7 @@
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.6",
+    "AssemblyVersion": "1.0.0.7",
     "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
@@ -2860,13 +2860,13 @@
     "Punchline": "Clean up your sloppppy inventories.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.6",
+    "TestingAssemblyVersion": "1.0.0.7",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1638775748",
+    "LastUpdate": "1638872091",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
