@@ -27,7 +27,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10320,
+    "DownloadCount": 10361,
     "LastUpdate": "1638830333",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api5",
@@ -131,7 +131,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1093,
+    "DownloadCount": 1102,
     "CategoryTags": [
       "UI",
       "utility"
@@ -153,7 +153,7 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11091,
+    "DownloadCount": 11092,
     "CategoryTags": [
       "UI"
     ],
@@ -222,7 +222,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5116,
+    "DownloadCount": 5117,
     "CategoryTags": [
       "UI"
     ],
@@ -279,7 +279,7 @@
     "Changelog": "Fixed custom emotes. Added images to browser.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 49872,
+    "DownloadCount": 49874,
     "CategoryTags": [
       "social"
     ],
@@ -386,7 +386,7 @@
     "Punchline": "This is still mostly a dev tool for debugging, but people like it?",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 112,
+    "DownloadCount": 117,
     "LastUpdate": "1638646309",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=api5",
@@ -406,7 +406,7 @@
     "Changelog": "- fix: Missing ImGui.End() when 'Drawing Cardinals only'\n- feat: Expose minimal scaling factor as an option\n- feat: Add filtering ids (thanks for the reports!):\n  - Various in residential Area\n  - Delivery Moogle\n  - Settlement\n  - Ferry",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1500,
+    "DownloadCount": 1501,
     "CategoryTags": [
       "UI"
     ],
@@ -430,7 +430,7 @@
     "Punchline": "Sync your character data from your main character to all others",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18745,
+    "DownloadCount": 18807,
     "CategoryTags": [
       "utility"
     ],
@@ -457,7 +457,7 @@
     "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14386,
+    "DownloadCount": 14420,
     "CategoryTags": [
       "utility"
     ],
@@ -478,7 +478,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31984,
+    "DownloadCount": 32111,
     "CategoryTags": [
       "other"
     ],
@@ -502,7 +502,7 @@
     "Punchline": "Show your zone, job, level, name, and world in your Discord status",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28074,
+    "DownloadCount": 28177,
     "CategoryTags": [
       "utility"
     ],
@@ -528,7 +528,7 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29,
+    "DownloadCount": 30,
     "CategoryTags": [
       "utility"
     ],
@@ -550,7 +550,7 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 40890,
+    "DownloadCount": 41169,
     "CategoryTags": [
       "UI"
     ],
@@ -577,7 +577,7 @@
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21115,
+    "DownloadCount": 21119,
     "CategoryTags": [
       "UI"
     ],
@@ -603,7 +603,7 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4260,
+    "DownloadCount": 4262,
     "CategoryTags": [
       "UI"
     ],
@@ -637,7 +637,7 @@
     "Punchline": "Dialogue and other in-game text translations? Yes we have!\n Known Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1572,
+    "DownloadCount": 1595,
     "CategoryTags": [
       "UI"
     ],
@@ -658,7 +658,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2378,
+    "DownloadCount": 2379,
     "CategoryTags": [
       "UI"
     ],
@@ -696,7 +696,7 @@
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4177,
+    "DownloadCount": 4328,
     "LastUpdate": "1638749711",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api5",
@@ -740,7 +740,7 @@
     "IconUrl": "https://github.com/shdwp/DalamudPlugins/raw/api5/plugins/faderPlugin/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 562,
+    "DownloadCount": 596,
     "LastUpdate": "1638629517",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api5",
@@ -784,7 +784,7 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14582,
+    "DownloadCount": 14583,
     "CategoryTags": [
       "minigames"
     ],
@@ -817,7 +817,7 @@
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19406,
+    "DownloadCount": 19509,
     "LastUpdate": "1638805596",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=api5",
@@ -835,7 +835,7 @@
     "Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1583,
+    "DownloadCount": 1619,
     "CategoryTags": [
       "social",
       "utility"
@@ -881,7 +881,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39313,
+    "DownloadCount": 39315,
     "CategoryTags": [
       "UI"
     ],
@@ -914,7 +914,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35938,
+    "DownloadCount": 36186,
     "CategoryTags": [
       "jobs"
     ],
@@ -978,7 +978,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42794,
+    "DownloadCount": 42857,
     "CategoryTags": [
       "utility"
     ],
@@ -1000,7 +1000,7 @@
     "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42867,
+    "DownloadCount": 42952,
     "CategoryTags": [
       "UI",
       "utility"
@@ -1035,7 +1035,7 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1831,
+    "DownloadCount": 1875,
     "CategoryTags": [
       "jobs",
       "utility",
@@ -1059,7 +1059,7 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11396,
+    "DownloadCount": 11479,
     "CategoryTags": [
       "UI"
     ],
@@ -1081,7 +1081,7 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 33031,
+    "DownloadCount": 33039,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1107,7 +1107,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24641,
+    "DownloadCount": 24644,
     "CategoryTags": [
       "jobs"
     ],
@@ -1236,7 +1236,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11382,
+    "DownloadCount": 11390,
     "CategoryTags": [
       "UI"
     ],
@@ -1257,7 +1257,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58904,
+    "DownloadCount": 58909,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1424,7 +1424,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29624,
+    "DownloadCount": 29673,
     "CategoryTags": [
       "UI",
       "social"
@@ -1456,7 +1456,7 @@
     "Punchline": "Warns you if none of your tanks have their tank stance on",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 263,
+    "DownloadCount": 319,
     "LastUpdate": "1638653213",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api5",
@@ -1497,7 +1497,7 @@
     "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28605,
+    "DownloadCount": 28607,
     "CategoryTags": [
       "other"
     ],
@@ -1523,7 +1523,7 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21472,
+    "DownloadCount": 21675,
     "CategoryTags": [
       "sound"
     ],
@@ -1607,7 +1607,7 @@
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68268,
+    "DownloadCount": 68270,
     "CategoryTags": [
       "UI",
       "social"
@@ -1640,7 +1640,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 38370,
+    "DownloadCount": 38501,
     "CategoryTags": [
       "inventory"
     ],
@@ -1672,7 +1672,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42085,
+    "DownloadCount": 42253,
     "CategoryTags": [
       "UI"
     ],
@@ -1736,7 +1736,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 519,
+    "DownloadCount": 556,
     "LastUpdate": "1638833448",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
@@ -1766,7 +1766,7 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16295,
+    "DownloadCount": 16299,
     "CategoryTags": [
       "social",
       "utility"
@@ -1789,7 +1789,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5897,
+    "DownloadCount": 5930,
     "CategoryTags": [
       "UI"
     ],
@@ -1852,7 +1852,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24600,
+    "DownloadCount": 24655,
     "LastUpdate": "1638835717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api5",
@@ -1894,7 +1894,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1602,
+    "DownloadCount": 1605,
     "CategoryTags": [
       "UI"
     ],
@@ -2006,7 +2006,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18726,
+    "DownloadCount": 18932,
     "CategoryTags": [
       "UI"
     ],
@@ -2059,7 +2059,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 114523,
+    "DownloadCount": 115097,
     "CategoryTags": [
       "UI",
       "other",
@@ -2178,7 +2178,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3239,
+    "DownloadCount": 3240,
     "CategoryTags": [
       "sound"
     ],
@@ -2206,7 +2206,7 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9672,
+    "DownloadCount": 9674,
     "CategoryTags": [
       "sound"
     ],
@@ -2228,7 +2228,7 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 34180,
+    "DownloadCount": 34520,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2282,7 +2282,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.9.9.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6579,
+    "DownloadCount": 6597,
     "CategoryTags": [
       "UI"
     ],
@@ -2303,7 +2303,7 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14317,
+    "DownloadCount": 14319,
     "CategoryTags": [
       "UI"
     ],
@@ -2349,7 +2349,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14680,
+    "DownloadCount": 14684,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2409,7 +2409,7 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8680,
+    "DownloadCount": 8681,
     "CategoryTags": [
       "UI"
     ],
@@ -2440,7 +2440,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17270,
+    "DownloadCount": 17273,
     "CategoryTags": [
       "UI"
     ],
@@ -2501,7 +2501,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13079,
+    "DownloadCount": 13080,
     "CategoryTags": [
       "UI"
     ],
@@ -2617,7 +2617,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39191,
+    "DownloadCount": 39203,
     "CategoryTags": [
       "jobs"
     ],
