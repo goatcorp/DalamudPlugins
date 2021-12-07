@@ -37,7 +37,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat, modded by Franz | owo plugin | This plugin uwu's your chat. |
 | ascclemens | [Peeping Tom](https://sr.ht/~jkcclemens/PeepingTom) | Shows who is currently or was previously targeting you. |
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Showing exactly where to stand since 2020. |
-| kalilistic | [PlayerTrack](https://github.com/kalilistic/PlayerTrack) | PlayerTrack helps you keep a record of who you meet and the content you played together.<br>Organize players into categories, keep notes, and track them across name/world changes.<br>Customization options include colors, icons, nameplates, and alerts. |
 | kalilistic | [PriceCheck](https://github.com/kalilistic/PriceCheck) | To check prices, hold your keybind and then hover over an item or via the item's context menu.<br>The prices are pulled from the crowd-sourced site Universalis. |
 | Eternita | [QuestAWAY](https://github.com/Eternita-S/QuestAWAY) | Removes unwanted icons from your map. Not only quests, any icons. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | UI for showing countdowns for status effects and ability cooldowns. |
