@@ -1823,15 +1823,15 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.2.1.1",
+    "AssemblyVersion": "2.2.1.2",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 24600,
-    "LastUpdate": "1634515762",
+    "LastUpdate": "1638835717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QoLBar/latest.zip"
