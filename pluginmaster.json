@@ -163,6 +163,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BetterPartyFinder/latest.zip"
   },
   {
+    "Author": "d87",
+    "Name": "BigPlayerDebuffs",
+    "InternalName": "BigPlayerDebuffs",
+    "AssemblyVersion": "1.1.0.2",
+    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
+    "LastUpdate": "1638836972",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BigPlayerDebuffs/latest.zip"
+  },
+  {
     "Author": "ackwell",
     "Name": "Browser Host",
     "Punchline": "Dalamud plugin for in-game browser rendering.",
@@ -2704,29 +2726,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/autoSweep/latest.zip"
-  },
-  {
-    "Author": "d87",
-    "Name": "BigPlayerDebuffs",
-    "InternalName": "BigPlayerDebuffs",
-    "AssemblyVersion": "1.1.0.0",
-    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI",
-      "jobs"
-    ],
-    "LastUpdate": "1632534217",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
     "Author": "Sl0nderman",
