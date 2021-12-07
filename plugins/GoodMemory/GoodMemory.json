@@ -2,11 +2,11 @@
   "Author": "ascclemens",
   "Name": "Good Memory",
   "InternalName": "GoodMemory",
-  "AssemblyVersion": "1.0.9",
+  "AssemblyVersion": "1.0.10",
   "Description": "Adds an indicator in item tooltips to show whether you have acquired that item.\n\nThis indicator is in the item's description near the bottom and only appears for\nitems that are unlockable, such as orchestrion rolls, minions, etc.\n\nSquare Enix say this plugin is impossible!\n\nIcon: Server by Vectorstall from the Noun Project",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://git.sr.ht/~jkcclemens/GoodMemory",
-  "DalamudApiLevel": 4,
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/GoodMemory",
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item."
 }
