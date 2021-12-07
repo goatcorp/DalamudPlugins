@@ -2,11 +2,11 @@
   "Author": "ascclemens",
   "Name": "Quest Map",
   "InternalName": "Quest Map",
-  "AssemblyVersion": "1.4.0.0",
+  "AssemblyVersion": "1.4.1.0",
   "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.\n\nIcons: treasure map by Anthony Ledoux from the Noun Project and\nlocked book by Anthony Ledoux from the Noun Project",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://git.sr.ht/~jkcclemens/QuestMap",
-  "DalamudApiLevel": 4,
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/QuestMap",
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Explore quests and their rewards."
 }
