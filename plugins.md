@@ -57,7 +57,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
 | Haplo064 | [WOLdo](https://github.com/Haplo064/WheresWOLdo) | Movable text overlay of the current location name. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
-| daemitus | [ezWondrousTails](https://github.com/daemitus/WondrousTailsSolver) | This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled. |
 | ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 
