@@ -1438,7 +1438,7 @@
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Displays a warning if none of the tanks in your party have their tank stance on. Helpful for learning tank yourself, or helping friends learn tank.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
@@ -1457,7 +1457,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 319,
-    "LastUpdate": "1638653213",
+    "LastUpdate": "1638870155",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoTankYou/latest.zip"
