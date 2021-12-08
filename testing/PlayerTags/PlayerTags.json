@@ -2,12 +2,16 @@
   "Author": "r00telement",
   "Name": "Player Tags",
   "InternalName": "PlayerTags",
-  "AssemblyVersion": "1.0.1.0",
-  "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "See player jobs and roles in nameplates and chat. Create custom tags and add them to players by right clicking them.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/r00telement/PlayerTags",
   "Tags": [
     "Jobs",
+    "UI"
+  ],
+  "CategoryTags": [
+    "jobs",
     "UI"
   ],
   "DalamudApiLevel": 5,
