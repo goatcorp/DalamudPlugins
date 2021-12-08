@@ -2196,11 +2196,11 @@
     "Author": "ascclemens",
     "Name": "Sound Filter",
     "InternalName": "SoundFilter",
-    "AssemblyVersion": "1.4.5.0",
+    "AssemblyVersion": "1.4.6.0",
     "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/jkcclemens/SoundFilter",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/SoundFilter",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
@@ -2209,7 +2209,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1637342836",
+    "LastUpdate": "1638961950",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SoundFilter/latest.zip"
