@@ -2,10 +2,11 @@
   "Author": "ascclemens",
   "Name": "Better Party Finder",
   "InternalName": "BetterPartyFinder",
-  "AssemblyVersion": "1.2.1",
+  "AssemblyVersion": "1.2.2",
   "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4,
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/BetterPartyFinder",
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Use advanced Party Finder filter presets."
 }
