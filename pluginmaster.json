@@ -562,7 +562,7 @@
     "Author": "Strati",
     "Name": "DeepDungeonDex",
     "InternalName": "DeepDungeonDex",
-    "AssemblyVersion": "1.1.8.2",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
@@ -580,7 +580,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638850833",
+    "LastUpdate": "1638988487",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeepDungeonDex/latest.zip"
