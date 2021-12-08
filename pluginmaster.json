@@ -1247,13 +1247,14 @@
   {
     "Author": "fmauNeko",
     "Name": "Market board",
-    "Punchline": "Browse the market board from anywhere.",
-    "Description": "Browse the market board. /pmb to open.",
     "InternalName": "MarketBoardPlugin",
-    "AssemblyVersion": "0.4.0.11",
-    "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
+    "AssemblyVersion": "0.5.1.0",
+    "Description": "Browse the market board. /pmb to open.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Browse the market board from anywhere.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 58909,
@@ -1261,7 +1262,7 @@
       "UI",
       "inventory"
     ],
-    "LastUpdate": "1630667044",
+    "LastUpdate": "1638976657",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MarketBoardPlugin/latest.zip"
