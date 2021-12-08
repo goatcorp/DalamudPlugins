@@ -1071,11 +1071,11 @@
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.8.2.0",
+    "AssemblyVersion": "1.8.2.1",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
@@ -1085,7 +1085,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1638574980",
+    "LastUpdate": "1639001249",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemSearchPlugin/latest.zip"
