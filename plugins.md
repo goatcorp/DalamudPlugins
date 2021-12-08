@@ -8,9 +8,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Author | Name | Description |
 |---------------|---------------|-----------------|
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
-| ascclemens | Better Party Finder | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | ackwell | [Browser Host](https://github.com/ackwell/BrowserHost) | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
-| ascclemens | [Burnt Toast](https://git.sr.ht/~jkcclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
@@ -25,7 +23,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | aers | [NamePlateDebuffs](https://github.com/aers/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
-| ascclemens | [Namingway](https://git.sr.ht/~jkcclemens/Namingway) | Rename abilities and status effects. |
 | Avaflow | [Oops, All Lalafells!](https://ava.dev/oops-all-lalafells/) | Turn everyone around you into Lalafells (or other races!)<br><br>Use /poal to open settings. |
 | goat, modded by Franz | owo plugin | This plugin uwu's your chat. |
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Showing exactly where to stand since 2020. |
@@ -36,7 +33,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | ascclemens | [Sound Filter](https://git.sr.ht/jkcclemens/SoundFilter) | Filters any sound or set of sounds from the game.<br><br>- Remove a battle sound effect you don't like<br>- Remove specific emote sounds<br>- Remove specific background music<br><br>Icons: filter by Kirby Wu from the Noun Project<br>and Sound by Gregor Cresnar from the Noun Project |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
-| ascclemens | [Text Box Styler](https://git.sr.ht/~jkcclemens/TextBoxStyler) | Allows replacing every text box with the background of your choice. |
 | attick & perchbird | [Title Edit](https://github.com/lmcintyre/TitleEditPlugin) | Create your own custom title screen of your favorite location in-game, and open the game right up to that spot every time.<br>Includes a number of preinstalled title screens for you to use or get inspiration from, and an easy to use importer to<br>use title screens that others have shared! |
 | ascclemens | [Tourist](https://git.sr.ht/~jkcclemens/Tourist) | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista<br><br>Icon: sightseeing by muhammad from the Noun Project |
 | ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | View and modify vfxs, as well as create mods for them. Icon by PAPACHIN |
