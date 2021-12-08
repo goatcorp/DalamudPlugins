@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.2.1",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -28,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10361,
-    "LastUpdate": "1638830333",
+    "LastUpdate": "1638954948",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Accountant/latest.zip"
@@ -122,7 +122,7 @@
       "Glasses"
     ],
     "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.1.1",
     "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -136,7 +136,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638835478",
+    "LastUpdate": "1638954948",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AutoVisor/latest.zip"
@@ -2023,7 +2023,7 @@
       "Interface"
     ],
     "InternalName": "RezPls",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.1.1",
     "RepoUrl": "https://github.com/Ottermandias/RezPls",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -2036,7 +2036,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638786041",
+    "LastUpdate": "1638954948",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RezPls/latest.zip"
