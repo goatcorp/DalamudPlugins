@@ -9,7 +9,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 |---------------|---------------|-----------------|
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | ackwell | [Browser Host](https://github.com/ackwell/BrowserHost) | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
-| Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | A plugin which can hide any VFX. Icon by PAPACHIN |
