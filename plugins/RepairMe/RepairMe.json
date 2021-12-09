@@ -2,7 +2,7 @@
   "Author": "Chalkos",
   "Name": "RepairMe",
   "InternalName": "RepairMe",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.4",
   "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -12,7 +12,7 @@
     "Spiritbond",
     "Alert"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image1.png",
@@ -21,5 +21,6 @@
     "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image4.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
-  "Punchline": "Never forget to repair & extract materia again!"
+  "Punchline": "Never forget to repair & extract materia again!",
+  "Changelog": "v1.0.0.4\n  set api5 (no code changes)\nv1.0.0.3\n  Now supports more than 100% condition\nv1.0.0.2\n  Fix `System.AccessViolationException` in `GetConditionInfo()`\n    shouldn't crash on logout/disconnect anymore"
 }
