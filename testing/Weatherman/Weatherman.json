@@ -1,0 +1,11 @@
+{
+  "Author": "Eternita",
+  "Name": "Weatherman",
+  "InternalName": "Weatherman",
+  "AssemblyVersion": "2.3.0.1",
+  "Description": "Allows precise control over time and weather zone by zone or globally.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eternita-S/Weatherman",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0
+}
