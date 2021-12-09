@@ -17,7 +17,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | You need to configure patterns and triggers before it will work, <br>open the configuration window to do that. <br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
-| Gotest | [Kingdom Hearts UI Bars](https://github.com/Arrenton/KingdomHeartsPlugin) | A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.<br>If you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord! |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | aers | [NamePlateDebuffs](https://github.com/aers/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
 | Avaflow | [Oops, All Lalafells!](https://ava.dev/oops-all-lalafells/) | Turn everyone around you into Lalafells (or other races!)<br><br>Use /poal to open settings. |
@@ -26,7 +25,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Eternita | [QuestAWAY](https://github.com/Eternita-S/QuestAWAY) | Removes unwanted icons from your map. Not only quests, any icons. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | UI for showing countdowns for status effects and ability cooldowns. |
 | ocealot | [SkillSwap](https://github.com/0ceal0t/SkillSwap) | Create animation replacement mods for Textools or Penumbra. Icon by PAPACHIN |
-| Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | ascclemens | [Tourist](https://git.sr.ht/~jkcclemens/Tourist) | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista<br><br>Icon: sightseeing by muhammad from the Noun Project |
 | ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | View and modify vfxs, as well as create mods for them. Icon by PAPACHIN |
