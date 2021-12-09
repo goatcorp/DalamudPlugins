@@ -25,7 +25,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Showing exactly where to stand since 2020. |
 | Eternita | [QuestAWAY](https://github.com/Eternita-S/QuestAWAY) | Removes unwanted icons from your map. Not only quests, any icons. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | UI for showing countdowns for status effects and ability cooldowns. |
-| Chalkos | [RepairMe](https://github.com/chalkos/RepairMe) | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
 | ocealot | [SkillSwap](https://github.com/0ceal0t/SkillSwap) | Create animation replacement mods for Textools or Penumbra. Icon by PAPACHIN |
 | Sonar Team | [Sonar](https://discord.gg/K7y24Rr) | Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord. |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
