@@ -5,8 +5,8 @@
   "Description": "",
   "Tags": [ "Chat", "Highlight", "Alert", "Alarm", "Ping", "Roleplay", "Sound" ],
   "InternalName": "ChatAlerts",
-  "AssemblyVersion": "2.0.0.1",
+  "AssemblyVersion": "2.0.0.2",
   "RepoUrl": "https://github.com/Ottermandias/ChatAlerts",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4
+  "DalamudApiLevel": 5
 }
