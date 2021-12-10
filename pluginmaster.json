@@ -3212,7 +3212,7 @@
     "Author": "Cadaeix",
     "Name": "XIVLogger",
     "InternalName": "XIVLogger",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.3.1",
     "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cadaeix/XIVLogger",
@@ -3222,16 +3222,18 @@
       "chat",
       "chat log"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/cadaeix/XIVLogger/master/Assets/icon.png",
+    "Punchline": "Save chat logs to your computer as text files or copy them!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.3.0",
+    "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1637021671",
+    "LastUpdate": "1639111664",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVLogger/latest.zip"
