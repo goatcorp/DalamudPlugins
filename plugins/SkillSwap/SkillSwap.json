@@ -4,9 +4,9 @@
   "Punchline": "Skill mod creator",
   "Description": "Create animation replacement mods for Textools or Penumbra. Icon by PAPACHIN",
   "InternalName": "SkillSwap",
-  "AssemblyVersion": "1.1.0.1",
+  "AssemblyVersion": "1.2.0.0",
   "Tags": [ "Mods", "Skills" ],
   "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4
+  "DalamudApiLevel": 5
 }
