@@ -4,10 +4,10 @@
     "Punchline": "Hide annoying or distracting VFXs",
     "Description": "A plugin which can hide any VFX. Icon by PAPACHIN",
     "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
     "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
     "ApplicableVersion": "any",
     "Tags": [ "VFX", "AVFX" ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 69419
 }
