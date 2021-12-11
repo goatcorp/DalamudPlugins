@@ -591,14 +591,14 @@
     "Punchline": "Hide annoying or distracting VFXs",
     "Description": "A plugin which can hide any VFX. Icon by PAPACHIN",
     "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
     "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
     "ApplicableVersion": "any",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -606,7 +606,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1630677717",
+    "LastUpdate": "1639204156",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EasyEyes/latest.zip"
@@ -2084,21 +2084,21 @@
     "Punchline": "Skill mod creator",
     "Description": "Create animation replacement mods for Textools or Penumbra. Icon by PAPACHIN",
     "InternalName": "SkillSwap",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.2.0.0",
     "Tags": [
       "Mods",
       "Skills"
     ],
     "RepoUrl": "https://github.com/0ceal0t/SkillSwap",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1630677590",
+    "LastUpdate": "1639203582",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SkillSwap/latest.zip"
@@ -2406,14 +2406,14 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.5.2.1",
+    "AssemblyVersion": "1.6.0.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -2421,7 +2421,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1637764593",
+    "LastUpdate": "1639203431",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VFXEditor/latest.zip"
