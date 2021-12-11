@@ -22,7 +22,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | ascclemens | [Tourist](https://git.sr.ht/~jkcclemens/Tourist) | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista<br><br>Icon: sightseeing by muhammad from the Noun Project |
 | Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |
-| PunishedPineapple | [Waymark Preset Plugin](https://github.com/PunishedPineapple/WaymarkPresetPlugin) | Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets. |
 | Haplo064 | [WOLdo](https://github.com/Haplo064/WheresWOLdo) | Movable text overlay of the current location name. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 
