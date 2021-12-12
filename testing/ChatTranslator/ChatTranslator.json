@@ -3,7 +3,7 @@
   "Name": "Chat Translator",
   "Punchline": "Enables in-game chat translation.",
   "Description": "Automatically translating text in your chat-box, from various languages to one you specify.",
-  "Changelog": "Updated for API4",
+  "Changelog": "Updated for API5, and now better (re: less crashes).",
   "Tags": [
     "UI",
     "Translator",
@@ -12,9 +12,9 @@
     "Chat"
   ],
   "InternalName": "ChatTranslator",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.2.0.0",
   "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 5,
   "LoadPriority": 100
 }
