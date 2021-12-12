@@ -1989,6 +1989,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RepairMe/latest.zip"
   },
   {
+    "Author": "akira0245",
+    "Name": "Reset enmity command",
+    "InternalName": "Reset enmity command",
+    "AssemblyVersion": "0.0.1.1",
+    "Description": "Add a reset striking dummy enmity command.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+    "Tags": [
+      "akira",
+      "striking",
+      "battle",
+      "train"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
+    "Punchline": "Add a reset striking dummy enmity command.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+      "jobs"
+    ],
+    "LastUpdate": "1639267622",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Reset enmity command/latest.zip"
+  },
+  {
     "Author": "Ottermandias",
     "Name": "RezPls",
     "Punchline": "Highlighting of Raises and detrimental status effects.",
@@ -3111,36 +3140,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuoteOfTheLobby/latest.zip"
-  },
-  {
-    "Author": "akira0245",
-    "Name": "Reset enmity command",
-    "InternalName": "Reset enmity command",
-    "AssemblyVersion": "0.0.1.0",
-    "Description": "Add a reset striking dummy enmity command.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
-    "Tags": [
-      "akira",
-      "striking",
-      "battle",
-      "train"
-    ],
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
-    "Punchline": "Add a reset striking dummy enmity command.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.1.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "jobs"
-    ],
-    "LastUpdate": "1632566794",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Reset enmity command/latest.zip"
   },
   {
     "Author": "Dragon",
