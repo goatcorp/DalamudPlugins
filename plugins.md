@@ -14,7 +14,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | aers | [NamePlateDebuffs](https://github.com/aers/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
-| Avaflow | [Oops, All Lalafells!](https://ava.dev/oops-all-lalafells/) | Turn everyone around you into Lalafells (or other races!)<br><br>Use /poal to open settings. |
 | goat, modded by Franz | owo plugin | This plugin uwu's your chat. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | UI for showing countdowns for status effects and ability cooldowns. |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
