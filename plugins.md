@@ -17,7 +17,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | aers | [NamePlateDebuffs](https://github.com/aers/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
 | Avaflow | [Oops, All Lalafells!](https://ava.dev/oops-all-lalafells/) | Turn everyone around you into Lalafells (or other races!)<br><br>Use /poal to open settings. |
 | goat, modded by Franz | owo plugin | This plugin uwu's your chat. |
-| Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | Showing exactly where to stand since 2020. |
 | Caraxi | [Remind Me](https://github.com/Caraxi/RemindMe) | UI for showing countdowns for status effects and ability cooldowns. |
 | karashiiro | [SoundSetter](https://github.com/karashiiro/SoundSetter) | A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. |
 | ascclemens | [Tourist](https://git.sr.ht/~jkcclemens/Tourist) | Tourist adds a window to assist with the sightseeing log.<br><br>- Show when sightseeing log vistas are available<br>- Add markers for ARR vistas<br>- Open vista locations on your map<br>- Hide already completed or unavailable vistas<br>- Show the command needed for each vista<br><br>Icon: sightseeing by muhammad from the Noun Project |
