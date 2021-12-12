@@ -2,12 +2,16 @@
   "Author": "r00telement",
   "Name": "Player Tags",
   "InternalName": "PlayerTags",
-  "AssemblyVersion": "1.0.1.0",
-  "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+  "AssemblyVersion": "1.1.3.0",
+  "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/r00telement/PlayerTags",
   "Tags": [
     "Jobs",
+    "UI"
+  ],
+  "CategoryTags": [
+    "jobs",
     "UI"
   ],
   "DalamudApiLevel": 5,
@@ -16,5 +20,6 @@
     "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
     "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
   ],
-  "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png"
+  "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+  "Changelog": "- Overhauled tag editor.\n- Added visibility properties for activities: pve duties, pvp duties, others.\n- Added visibility properties for players: self, friends, party members, alliance members, enemies, others.\n- Added text glow color property.\n- Added Quick Tag feature to quickly tag nearby players.\n- Added Tagged Players feature to see a list of all players you have tagged.\n- Added context menu integration to add and remove custom tags for players when right clicking them."
 }
