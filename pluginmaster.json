@@ -344,36 +344,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatExtender/latest.zip"
   },
   {
-    "Author": "Haplo064",
-    "Name": "Chat Translator",
-    "Punchline": "Enables in-game chat translation.",
-    "Description": "Automatically translating text in your chat-box, from various languages to one you specify.",
-    "Changelog": "Updated for API4",
-    "Tags": [
-      "UI",
-      "Translator",
-      "Translate",
-      "Translation",
-      "Chat"
-    ],
-    "InternalName": "ChatTranslator",
-    "AssemblyVersion": "1.1.0.0",
-    "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 3,
-    "LoadPriority": 100,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 3036,
-    "CategoryTags": [
-      "social"
-    ],
-    "LastUpdate": "1633928790",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
-  },
-  {
     "Author": "Franz",
     "Name": "ChatTyper",
     "InternalName": "ChatTyper",
@@ -2825,6 +2795,37 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatEmoteColor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatEmoteColor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatEmoteColor/latest.zip"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Chat Translator",
+    "Punchline": "Enables in-game chat translation.",
+    "Description": "Automatically translating text in your chat-box, from various languages to one you specify.",
+    "Changelog": "Updated for API5, and now better (re: less crashes).",
+    "Tags": [
+      "UI",
+      "Translator",
+      "Translate",
+      "Translation",
+      "Chat"
+    ],
+    "InternalName": "ChatTranslator",
+    "AssemblyVersion": "1.2.0.0",
+    "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 100,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.2.0.0",
+    "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "social"
+    ],
+    "LastUpdate": "1639281352",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
   },
   {
     "Author": "jdsmith2816",
