@@ -9,6 +9,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 |---------------|---------------|-----------------|
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | ackwell | [Browser Host](https://github.com/ackwell/BrowserHost) | Dalamud plugin for in-game browser rendering. Think OverlayPlugin, but it's in the game itself.<br>Use the settings button below or the '/bh config' command to configure. |
+| goat | [Character Data Sync](https://github.com/goaaats/Dalamud.CharacterSync) | This plugin allows you to use your character data from your main character on all others.<br><br>In-game, use the configuration menu to choose your main character, the restart the game to start syncing! |
 | aers | [EnemyListDebuffs](https://github.com/aers/EnemyListDebuffs) | Displays your debuffs on the enemy list. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
