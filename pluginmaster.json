@@ -1694,12 +1694,16 @@
     "Author": "r00telement",
     "Name": "Player Tags",
     "InternalName": "PlayerTags",
-    "AssemblyVersion": "1.0.1.0",
-    "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+    "AssemblyVersion": "1.1.3.0",
+    "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/r00telement/PlayerTags",
     "Tags": [
       "Jobs",
+      "UI"
+    ],
+    "CategoryTags": [
+      "jobs",
       "UI"
     ],
     "DalamudApiLevel": 5,
@@ -1709,11 +1713,12 @@
       "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
     ],
     "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+    "Changelog": "- Overhauled tag editor.\n- Added visibility properties for activities: pve duties, pvp duties, others.\n- Added visibility properties for players: self, friends, party members, alliance members, enemies, others.\n- Added text glow color property.\n- Added Quick Tag feature to quickly tag nearby players.\n- Added Tagged Players feature to see a list of all players you have tagged.\n- Added context menu integration to add and remove custom tags for players when right clicking them.",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.2.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 2028,
-    "LastUpdate": "1638833448",
+    "LastUpdate": "1639336192",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
@@ -2002,7 +2007,7 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.3.1.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
@@ -2023,7 +2028,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1638851873",
+    "LastUpdate": "1639321208",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
@@ -2032,7 +2037,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.5.1",
+    "AssemblyVersion": "1.6.5.2",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2049,7 +2054,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1639347928",
+    "LastUpdate": "1639360974",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2114,7 +2119,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.2.1",
+    "AssemblyVersion": "0.4.2.3",
     "DalamudApiLevel": 5,
     "Tags": [
       "Sonar",
@@ -2143,7 +2148,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1639039247",
+    "LastUpdate": "1639328845",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SonarPlugin/latest.zip"
