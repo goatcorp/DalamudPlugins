@@ -46,6 +46,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Gotest | [Kingdom Hearts UI Bars](https://github.com/Arrenton/KingdomHeartsPlugin) | A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.<br>If you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord! |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.<br>Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02<br>Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11<br>Also allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
+| fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
 | Eternita | [Mini](https://github.com/Eternita-S/Mini) | Adds a button and a command to minimize your game into taskbar |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | ascclemens | [Namingway](https://git.sr.ht/~jkcclemens/Namingway) | Rename abilities and status effects. |

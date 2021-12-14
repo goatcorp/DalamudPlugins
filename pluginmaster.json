@@ -1215,6 +1215,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MapLinker/latest.zip"
   },
   {
+    "Author": "fmauNeko",
+    "Name": "Market board",
+    "InternalName": "MarketBoardPlugin",
+    "AssemblyVersion": "0.5.3.0",
+    "Description": "Browse the market board. /pmb to open.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Browse the market board from anywhere.",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.5.2.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 66277,
+    "CategoryTags": [
+      "UI",
+      "inventory"
+    ],
+    "LastUpdate": "1639525582",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MarketBoardPlugin/latest.zip"
+  },
+  {
     "Author": "Eternita",
     "Name": "Mini",
     "InternalName": "Mini",
@@ -2914,30 +2938,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
-  },
-  {
-    "Author": "fmauNeko",
-    "Name": "Market board",
-    "InternalName": "MarketBoardPlugin",
-    "AssemblyVersion": "0.5.2.0",
-    "Description": "Browse the market board. /pmb to open.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "Punchline": "Browse the market board from anywhere.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.5.2.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI",
-      "inventory"
-    ],
-    "LastUpdate": "1639225931",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MarketBoardPlugin/latest.zip"
   },
   {
     "Author": "Gotest",
