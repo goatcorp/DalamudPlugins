@@ -2836,7 +2836,7 @@
     "Author": "goat",
     "Name": "Wotsit",
     "InternalName": "Dalamud.FindAnything",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.9",
     "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2849,9 +2849,9 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.8",
+    "TestingAssemblyVersion": "0.0.0.9",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1639504460",
+    "LastUpdate": "1639505927",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.FindAnything/latest.zip"
