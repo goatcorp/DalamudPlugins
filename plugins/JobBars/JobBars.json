@@ -4,9 +4,9 @@
   "Punchline": "Extra job gauges",
   "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
   "InternalName": "JobBars",
-  "AssemblyVersion": "1.1.3.2",
+  "AssemblyVersion": "1.2.0.0",
   "Tags": [ "UI", "Bars" ],
   "RepoUrl": "https://github.com/0ceal0t/JobBars",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 4
+  "DalamudApiLevel": 5
 }
