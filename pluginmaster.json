@@ -273,7 +273,7 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.3.2.1",
+    "AssemblyVersion": "1.3.2.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
@@ -284,7 +284,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1639274997",
+    "LastUpdate": "1639447283",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatBubbles/latest.zip"
@@ -1066,21 +1066,21 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.3.2",
+    "AssemblyVersion": "1.2.0.0",
     "Tags": [
       "UI",
       "Bars"
     ],
     "RepoUrl": "https://github.com/0ceal0t/JobBars",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 24692,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1637519217",
+    "LastUpdate": "1639456042",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobBars/latest.zip"
@@ -1192,7 +1192,7 @@
     "Changelog": null,
     "Tags": null,
     "InternalName": "MapLinker",
-    "AssemblyVersion": "1.1.2.1",
+    "AssemblyVersion": "1.1.3.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "ApplicableVersion": "any",
@@ -1209,7 +1209,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638634578",
+    "LastUpdate": "1639457252",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MapLinker/latest.zip"
@@ -1469,7 +1469,7 @@
     "LoadPriority": 0,
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.7.0.1",
+    "TestingAssemblyVersion": "1.7.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 41143,
     "CategoryTags": [
@@ -2806,7 +2806,7 @@
     "Name": "Chat Translator",
     "Punchline": "Enables in-game chat translation.",
     "Description": "Automatically translating text in your chat-box, from various languages to one you specify.",
-    "Changelog": "Updated for API5, and now better (re: less crashes).",
+    "Changelog": "Fixed certain languages.",
     "Tags": [
       "UI",
       "Translator",
@@ -2815,19 +2815,19 @@
       "Chat"
     ],
     "InternalName": "ChatTranslator",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/Haplo064/ChatTranslator",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "LoadPriority": 100,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.0.0",
+    "TestingAssemblyVersion": "1.2.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1639281352",
+    "LastUpdate": "1639446947",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
