@@ -2037,7 +2037,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.5.2",
+    "AssemblyVersion": "1.6.5.3",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2054,7 +2054,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1639360974",
+    "LastUpdate": "1639482810",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2836,7 +2836,7 @@
     "Author": "goat",
     "Name": "Wotsit",
     "InternalName": "Dalamud.FindAnything",
-    "AssemblyVersion": "0.0.0.9",
+    "AssemblyVersion": "0.0.0.10",
     "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2849,9 +2849,9 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.9",
+    "TestingAssemblyVersion": "0.0.0.10",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1639505927",
+    "LastUpdate": "1639506654",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.FindAnything/latest.zip"
@@ -3072,7 +3072,7 @@
     "Author": "Sl0nderman",
     "Name": "Ocean Fishin'",
     "InternalName": "OceanFishin",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.2.0.0",
     "Description": "Automatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
@@ -3084,7 +3084,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/preview1.png"
@@ -3093,9 +3093,9 @@
     "Punchline": "Suggests bait for ocean fishing.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.0.0.0",
+    "TestingAssemblyVersion": "2.2.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1634596908",
+    "LastUpdate": "1639505750",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OceanFishin/latest.zip"
