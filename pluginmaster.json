@@ -1453,6 +1453,7 @@
     "IconUrl": "https://github.com/MidoriKami/NoTankYou/blob/master/images/icon.png",
     "Punchline": "Warns you if none of your tanks have their tank stance on",
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 9933,
     "LastUpdate": "1639212188",
@@ -3238,7 +3239,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1639272055",
+    "LastUpdate": "1639540349",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TPie/latest.zip"
