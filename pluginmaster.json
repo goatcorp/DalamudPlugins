@@ -82,32 +82,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AdventurerInNeed/latest.zip"
   },
   {
-    "Author": "Ms.Tress",
-    "Name": "Aether Sense (18+)",
-    "Description": "Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/",
-    "InternalName": "AetherSense",
-    "AssemblyVersion": "1.0.0.10",
-    "RepoUrl": "https://github.com/Ms-Tress/AetherSense",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Ms.Tress",
-      "Intimate",
-      "Toys"
-    ],
-    "DalamudApiLevel": 3,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 7763,
-    "CategoryTags": [
-      "other",
-      "utility"
-    ],
-    "LastUpdate": "1620730989",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherSense&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AetherSense/latest.zip"
-  },
-  {
     "Author": "Ottermandias",
     "Name": "AutoVisor",
     "Punchline": "Change Visor and Stance based on State and Job.",
@@ -734,7 +708,7 @@
     ],
     "DalamudApiLevel": 5,
     "IconUrl": "https://github.com/shdwp/DalamudPlugins/raw/api5/plugins/faderPlugin/images/icon.png",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 5545,
     "LastUpdate": "1639736216",
@@ -1324,7 +1298,7 @@
       "Macro"
     ],
     "DalamudApiLevel": 4,
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 27221,
     "CategoryTags": [
@@ -2183,7 +2157,7 @@
     "AssemblyVersion": "0.7.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 46923,
     "CategoryTags": [
