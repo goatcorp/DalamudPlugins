@@ -984,7 +984,7 @@
     "Author": "MgAl2O4",
     "Name": "Harp Hero",
     "InternalName": "HarpHero",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/HarpHeroDalamud",
@@ -1011,7 +1011,7 @@
       "utility",
       "sound"
     ],
-    "LastUpdate": "1638731390",
+    "LastUpdate": "1640041356",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HarpHero/latest.zip"
