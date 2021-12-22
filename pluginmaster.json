@@ -1749,7 +1749,7 @@
     "Author": "r00telement",
     "Name": "Player Tags",
     "InternalName": "PlayerTags",
-    "AssemblyVersion": "1.1.4.1",
+    "AssemblyVersion": "1.1.5.0",
     "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/r00telement/PlayerTags",
@@ -1768,11 +1768,11 @@
       "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
     ],
     "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
-    "Changelog": "- Overhauled tag editor.\n- Added visibility properties for activities: pve duties, pvp duties, others.\n- Added visibility properties for players: self, friends, party members, alliance members, enemies, others.\n- Added text glow color property.\n- Added Quick Tag feature to quickly tag nearby players.\n- Added Tagged Players feature to see a list of all players you have tagged.\n- Added context menu integration to add and remove custom tags for players when right clicking them.",
+    "Changelog": "- Added experimental option to apply tags to self in chat.\n- Added separate melee and ranged inheritance under dps.\n- Added separate magical and physical inheritance under ranged dps.\n- Added separate land and hand inheritance under land/land.\n- Added option to reset a selected item to its defaults.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5835,
-    "LastUpdate": "1639959748",
+    "LastUpdate": "1640208265",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
