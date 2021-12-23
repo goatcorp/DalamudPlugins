@@ -1513,7 +1513,7 @@
     "Author": "Meli & perchbird",
     "Name": "Orchestrion Plugin",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.6.0.3",
+    "AssemblyVersion": "1.7.0.2",
     "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
@@ -1525,13 +1525,12 @@
     "LoadPriority": 0,
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.7.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 49204,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1638750630",
+    "LastUpdate": "1640291165",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/orchestrion/latest.zip"
