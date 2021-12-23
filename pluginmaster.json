@@ -1365,10 +1365,10 @@
     "Author": "ascclemens",
     "Name": "Namingway",
     "InternalName": "Namingway",
-    "AssemblyVersion": "1.1.4.0",
+    "AssemblyVersion": "1.1.5.0",
     "Description": "Rename abilities and status effects.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/Namingway",
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/Namingway",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Rename abilities and status effects.",
@@ -1379,7 +1379,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1638961008",
+    "LastUpdate": "1640242492",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Namingway&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Namingway&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Namingway/latest.zip"
