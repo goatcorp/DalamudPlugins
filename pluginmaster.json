@@ -1916,6 +1916,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Quest Map/latest.zip"
   },
   {
+    "Author": "srkizer",
+    "Name": "Quote of the Lobby",
+    "InternalName": "QuoteOfTheLobby",
+    "AssemblyVersion": "1.0.0.7",
+    "Description": "Displays a random dialogue, and/or the datacenter you'll be connecting to when you press GAME START.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Soreepeong/QuoteOfTheLobby.json",
+    "Tags": [
+      "qotd",
+      "lobby",
+      "datacenter"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Simmer does the light before every login.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1640326609",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuoteOfTheLobby/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Remind Me",
     "InternalName": "RemindMe",
@@ -2323,7 +2347,7 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.9.11.2",
+    "TestingAssemblyVersion": "1.9.12.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 9713,
     "CategoryTags": [
@@ -3143,31 +3167,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
-  },
-  {
-    "Author": "srkizer",
-    "Name": "Quote of the Lobby",
-    "InternalName": "QuoteOfTheLobby",
-    "AssemblyVersion": "1.0.0.1",
-    "Description": "Displays a random dialogue, and/or the datacenter you'll be connecting to when you press GAME START.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Soreepeong/QuoteOfTheLobby.json",
-    "Tags": [
-      "qotd",
-      "lobby",
-      "datacenter"
-    ],
-    "DalamudApiLevel": 4,
-    "LoadPriority": 99,
-    "Punchline": "Simmer does the light before every login.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1638173827",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuoteOfTheLobby/latest.zip"
   },
   {
     "Author": "Dragon",
