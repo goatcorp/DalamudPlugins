@@ -15,5 +15,5 @@
   "ApplicableVersion": "any",
   "Tags": [ "Waymark", "Marker", "Preset", "Tool" ],
   "DalamudApiLevel": 5,
-  "Changelog": "1.3.1.2: Fixed an omission that caused the "Save Current Waymarks" button to not actually save to disk without taking other actions."
+  "Changelog": "1.3.1.2: Fixed an omission that caused the \"Save Current Waymarks\" button to not actually save to disk without taking other actions."
 }
