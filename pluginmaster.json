@@ -875,7 +875,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.2.1.3",
+    "AssemblyVersion": "2.2.1.4",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -888,7 +888,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1639511789",
+    "LastUpdate": "1640443396",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
@@ -1916,6 +1916,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Quest Map/latest.zip"
   },
   {
+    "Author": "Eternita",
+    "Name": "QuestAWAY",
+    "InternalName": "QuestAWAY",
+    "AssemblyVersion": "1.0.0.3",
+    "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Removes unwanted icons from your map.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 3745,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1640444729",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
+  },
+  {
     "Author": "srkizer",
     "Name": "Quote of the Lobby",
     "InternalName": "QuoteOfTheLobby",
@@ -2631,17 +2653,17 @@
     "Name": "Window Title Changer",
     "Description": "Allows you to change your game window title",
     "InternalName": "WinTitle",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633390245",
+    "LastUpdate": "1640442460",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WinTitle/latest.zip"
@@ -3144,29 +3166,6 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
-  },
-  {
-    "Author": "Eternita",
-    "Name": "QuestAWAY",
-    "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.3",
-    "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "Punchline": "Removes unwanted icons from your map.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.3",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1638649439",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
   },
   {
     "Author": "Dragon",
