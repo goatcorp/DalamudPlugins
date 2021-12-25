@@ -2,10 +2,10 @@
   "Author": "ascclemens",
   "Name": "Namingway",
   "InternalName": "Namingway",
-  "AssemblyVersion": "1.1.4.0",
+  "AssemblyVersion": "1.1.5.0",
   "Description": "Rename abilities and status effects.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://git.sr.ht/~jkcclemens/Namingway",
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/Namingway",
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Rename abilities and status effects."

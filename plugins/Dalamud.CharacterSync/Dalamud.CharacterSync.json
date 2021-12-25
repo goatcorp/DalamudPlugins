@@ -2,7 +2,7 @@
   "Author": "goat",
   "Name": "Character Data Sync",
   "InternalName": "Dalamud.CharacterSync",
-  "AssemblyVersion": "2.0.0.3",
+  "AssemblyVersion": "2.0.0.4",
   "Description": "This plugin allows you to use your character data from your main character on all others.\n\nIn-game, use the configuration menu to choose your main character, the restart the game to start syncing!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/goaaats/Dalamud.CharacterSync",

@@ -2,12 +2,16 @@
   "Author": "r00telement",
   "Name": "Player Tags",
   "InternalName": "PlayerTags",
-  "AssemblyVersion": "1.0.1.0",
-  "Description": "See tags for players in nameplates and chat, such as their role and job, or custom tags for players you know.",
+  "AssemblyVersion": "1.1.5.1",
+  "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/r00telement/PlayerTags",
   "Tags": [
     "Jobs",
+    "UI"
+  ],
+  "CategoryTags": [
+    "jobs",
     "UI"
   ],
   "DalamudApiLevel": 5,
@@ -16,5 +20,6 @@
     "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
     "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
   ],
-  "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png"
+  "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+  "Changelog": "- Fix for nameplates sometimes disappearing when changing a player's title color when they have no title."
 }

@@ -2,10 +2,14 @@
   "Author": "d87",
   "Name": "BigPlayerDebuffs",
   "InternalName": "BigPlayerDebuffs",
-  "AssemblyVersion": "1.1.0.2",
+  "AssemblyVersion": "1.1.0.3",
   "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
   "DalamudApiLevel": 5,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png"
 }
