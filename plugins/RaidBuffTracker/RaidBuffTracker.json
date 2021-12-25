@@ -1,0 +1,17 @@
+{
+  "Author": "shdwp",
+  "Name": "RaidBuffTracker",
+  "Punchline": "Keep track of your party raid buff cooldowns!",
+  "Description": "Adds a widget keeping track of your party actions cooldowns and state, this includes raid buffs, utility and other stuff you might be interested in.\n\nPlugin shows when abilities are active, and where their cooldown is at, helping you to align your burst windows.\n\nDevelopment: shdwp; advisor, UX and QA: Theihe.",
+  "InternalName": "RaidBuffTracker",
+  "DalamudApiLevel": 5,
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+    "ImageUrls": [
+    "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/RaidBuffTracker/images/image1.png"
+  ],
+  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/RaidBuffTracker/images/icon.png",
+  "Tags": [
+    "ui"
+  ]
+}
