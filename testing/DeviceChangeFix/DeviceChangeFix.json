@@ -1,0 +1,16 @@
+{
+  "Author": "PGGB",
+  "Name": "DeviceChangeFix",
+  "InternalName": "DeviceChangeFix",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Stops controller input from freezing randomly.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PGGB/DeviceChangeFix",
+  "Tags": [
+    "fix",
+    "gamepad"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Stops controller input from freezing randomly."
+}
