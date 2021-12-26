@@ -2,7 +2,7 @@
   "Author": "Tischel",
   "Name": "TPie",
   "InternalName": "TPie",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.0.1",
   "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Tischel/TPie",
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Customizable ring-shaped hotbars",
-  "Changelog": "1.1.0.0\n- Added support for nested rings.\n    + Nested Rings are activated by hovering on them for a set amount of time.\n    + On Toggle Mode, Nested Rings can also be activated by clicking on them.\n    + Nested Rings are linked by name. If there are multiple rings with the same name, one will be picked \"randomly\".\n- Toggle Mode is now a keybind setting instead of a global one.\n- Actions now show the remaining charges when applicable.\n- Fixed actions cooldowns not calculating properly for actions with multiple charges.\n- Fixed crash that could happen when creating a new ring."
+  "Changelog": "1.1.0.1\n- Fixed ring elements not being clickable on toggle mode."
 }
