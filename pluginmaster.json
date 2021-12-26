@@ -1457,7 +1457,7 @@
     "IconUrl": "https://github.com/MidoriKami/NoTankYou/blob/master/images/icon.png",
     "Punchline": "Warns you if players are missing critical role actions",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.2.0.0",
+    "TestingAssemblyVersion": "2.3.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 27383,
     "LastUpdate": "1640142372",
@@ -1919,7 +1919,7 @@
     "Author": "Eternita",
     "Name": "QuestAWAY",
     "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
     "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
@@ -1932,7 +1932,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640444729",
+    "LastUpdate": "1640480636",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
@@ -2594,7 +2594,7 @@
     "Punchline": "Improved Waymark Management",
     "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.3.1.1",
+    "AssemblyVersion": "1.3.1.2",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
     "ImageUrls": [
@@ -2610,7 +2610,7 @@
       "Tool"
     ],
     "DalamudApiLevel": 5,
-    "Changelog": "1.3.1.1: Updated for Endwalker.",
+    "Changelog": "1.3.1.2: Fixed an omission that caused the \"Save Current Waymarks\" button to not actually save to disk without taking other actions.",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
@@ -2618,7 +2618,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639214692",
+    "LastUpdate": "1640474024",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WaymarkPresetPlugin/latest.zip"
@@ -2959,7 +2959,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.6.1.1",
+    "AssemblyVersion": "0.6.1.2",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -2971,12 +2971,12 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.6.1.1",
+    "TestingAssemblyVersion": "0.6.1.2",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640185171",
+    "LastUpdate": "1640445032",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
