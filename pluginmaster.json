@@ -2943,7 +2943,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "LoadPriority": 100,
-    "IsHide": "False",
+    "IsHide": "True",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.2.1.0",
     "IsTestingExclusive": "True",
