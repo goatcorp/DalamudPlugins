@@ -12,5 +12,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Customizable ring-shaped hotbars",
-  "Changelog": "1.1.0.1\n- Fixed ring elements not being clickable on toggle mode."
+  "Changelog": "1.1.0.1\n- Fixed ring elements not being clickable on toggle mode.\n- Nested Rings elements text can now be hidden."
 }
