@@ -1290,21 +1290,21 @@
     "Punchline": "Mo' actions no problems",
     "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "4.0.11",
+    "AssemblyVersion": "4.2.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
       "Macro"
     ],
-    "DalamudApiLevel": 4,
-    "IsHide": "True",
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 27222,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1634667547",
+    "LastUpdate": "1640886258",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MOAction/latest.zip"
