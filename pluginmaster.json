@@ -1576,7 +1576,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "DalamudApiLevel": "5",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
     "ApplicableVersion": "any",
@@ -1593,7 +1593,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10489,
-    "LastUpdate": "1639736216",
+    "LastUpdate": "1640874483",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyIcons/latest.zip"
@@ -2453,7 +2453,7 @@
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.1.0.2",
     "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
@@ -2463,11 +2463,11 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customizable ring-shaped hotbars",
-    "Changelog": "1.1.0.1\n- Fixed ring elements not being clickable on toggle mode.\n- Nested Rings elements text can now be hidden.",
+    "Changelog": "1.1.0.2\n- Fixed save errors / crashes with nested rings.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10899,
-    "LastUpdate": "1640611392",
+    "LastUpdate": "1640891354",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TPie/latest.zip"
@@ -2511,7 +2511,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.0.1",
+    "AssemblyVersion": "1.6.0.2",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2526,7 +2526,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639602530",
+    "LastUpdate": "1640886590",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VFXEditor/latest.zip"
