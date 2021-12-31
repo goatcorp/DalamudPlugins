@@ -1111,7 +1111,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.3.1.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1131,7 +1131,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638851093",
+    "LastUpdate": "1640966482",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/latest.zip"
@@ -1290,7 +1290,7 @@
     "Punchline": "Mo' actions no problems",
     "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "4.2.1",
+    "AssemblyVersion": "4.2.2",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
@@ -1298,13 +1298,13 @@
       "Macro"
     ],
     "DalamudApiLevel": 4,
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28798,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1640891679",
+    "LastUpdate": "1640967225",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MOAction/latest.zip"
@@ -1388,7 +1388,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.1.1.0",
+    "AssemblyVersion": "2.1.2.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1408,7 +1408,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639412685",
+    "LastUpdate": "1640966407",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NeatNoter/latest.zip"
@@ -2107,7 +2107,7 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.3.2.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
@@ -2128,7 +2128,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1639321208",
+    "LastUpdate": "1640967381",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
