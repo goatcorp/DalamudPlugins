@@ -4,7 +4,7 @@
   "Punchline": "Replace names with job icons, raid role positions and more!",
   "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
   "InternalName": "PartyIcons",
-  "AssemblyVersion": "1.0.3.0",
+  "AssemblyVersion": "1.0.3.1",
   "DalamudApiLevel": "5",
   "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
   "ApplicableVersion": "any",
