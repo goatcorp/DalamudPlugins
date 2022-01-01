@@ -2535,7 +2535,7 @@
     "Author": "Dragon",
     "Name": "Visibility",
     "InternalName": "Visibility",
-    "AssemblyVersion": "1.1.1.2",
+    "AssemblyVersion": "1.1.1.4",
     "Description": "Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
@@ -2558,7 +2558,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639579755",
+    "LastUpdate": "1641018585",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Visibility/latest.zip"
