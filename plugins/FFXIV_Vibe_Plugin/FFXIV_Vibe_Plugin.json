@@ -1,0 +1,19 @@
+{
+  "Author": "Kaciexx",
+  "Name": "FFXIV Vibe Plugin",
+  "InternalName": "FFXIV_Vibe_Plugin",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "Plugin that let you vibe your controller or toys",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
+  "Tags": [
+    "vibe",
+    "vibration",
+    "buttplug",
+    "lovense",
+    "wave"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Vibe controllers or toys"
+}
