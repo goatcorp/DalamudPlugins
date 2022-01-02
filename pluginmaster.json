@@ -1067,7 +1067,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.2.0.2",
+    "AssemblyVersion": "1.2.0.3",
     "Tags": [
       "UI",
       "Bars"
@@ -1081,7 +1081,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1640704040",
+    "LastUpdate": "1641154035",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobBars/latest.zip"
@@ -1478,7 +1478,7 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.8",
+    "TestingAssemblyVersion": "2.0.0.9",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1638772478",
@@ -1576,7 +1576,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.3.1",
     "DalamudApiLevel": "5",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
     "ApplicableVersion": "any",
@@ -1593,7 +1593,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13987,
-    "LastUpdate": "1640874483",
+    "LastUpdate": "1640967576",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyIcons/latest.zip"
@@ -2511,7 +2511,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.0.2",
+    "AssemblyVersion": "1.6.0.3",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2526,7 +2526,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640886590",
+    "LastUpdate": "1641154154",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VFXEditor/latest.zip"
@@ -2960,7 +2960,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "0.6.2.1",
+    "AssemblyVersion": "0.6.3.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -2972,12 +2972,12 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.6.2.1",
+    "TestingAssemblyVersion": "0.6.3.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640989277",
+    "LastUpdate": "1641148859",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
