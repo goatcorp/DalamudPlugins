@@ -1,16 +1,18 @@
 {
-  "Author": "Tama Gotchi",
+  "Author": "digital pet",
   "Name": "AetherSense Redux (18+)",
   "InternalName": "AetherSenseRedux",
-  "AssemblyVersion": "0.7.8036.39608",
-  "Description": "An advanced haptic feedback plugin using the Buttplug.io library.",
+  "AssemblyVersion": "0.7.8037.2602",
+  "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/digital-pet/AetherSenseRedux",
   "Tags": [
+    "parsing",
     "buttplug",
-    "haptic"
+    "haptic",
+    "erp"
   ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Buttplugs on the moon"
+  "Punchline": "Advanced haptic feedback using Intiface"
 }
