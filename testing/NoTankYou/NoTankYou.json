@@ -1,0 +1,21 @@
+{
+  "Author": "MidoriKami",
+  "Name": "No Tank You",
+  "InternalName": "NoTankYou",
+  "AssemblyVersion": "2.3.1.4",
+  "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
+  "Tags": [
+    "utility",
+    "tanking"
+  ],
+  "CategoryTags": [
+    "utility",
+    "ui"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/MidoriKami/NoTankYou/blob/master/images/icon.png",
+  "Punchline": "Warns you if players are missing critical role actions"
+}
