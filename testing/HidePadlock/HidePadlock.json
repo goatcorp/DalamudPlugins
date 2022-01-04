@@ -1,0 +1,13 @@
+{
+  "Author": "Fr4nsson",
+  "Name": "Hide Padlock",
+  "InternalName": "HidePadlock",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Allows you to toggle the visibility of the padlock that is next to hotbar one.\n\nUse /padlock to toggle visibility.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Fr4nsson/MyDalamudPlugins/tree/main/src/HidePadlock",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/plugins/HidePadlock/images/icon.png",
+  "Punchline": "Hides the padlock."
+}
