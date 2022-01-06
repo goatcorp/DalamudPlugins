@@ -2,7 +2,7 @@
   "Author": "Tischel",
   "Name": "TPie",
   "InternalName": "TPie",
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.2.0.1",
   "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Tischel/TPie",
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Customizable ring-shaped hotbars",
-  "Changelog": "1.2.0.0\n- Added quick actions for rings:\n\t+ Quick actions are placed on the center of a ring and can be executed even if the ring is not fully opened.\n\t+ If the keybind is held, any of the ring elements can be chosen, including the quick action in the center.\n\t+ On Toggle Mode, there's no way to activate a quick action without double tapping or tap & click."
+  "Changelog": "1.2.0.1\n- Making it clearer that nested rings can't be used as quick actions (due to how nested rings are activated, it doesn't work well with quick actions).\n- Fixed ring elements' labels cutting off."
 }
