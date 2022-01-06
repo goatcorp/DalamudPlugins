@@ -2,7 +2,7 @@
   "Author": "r00telement",
   "Name": "Player Tags",
   "InternalName": "PlayerTags",
-  "AssemblyVersion": "1.1.3.0",
+  "AssemblyVersion": "1.1.5.1",
   "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/r00telement/PlayerTags",
@@ -21,5 +21,5 @@
     "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
   ],
   "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
-  "Changelog": "- Overhauled tag editor.\n- Added visibility properties for activities: pve duties, pvp duties, others.\n- Added visibility properties for players: self, friends, party members, alliance members, enemies, others.\n- Added text glow color property.\n- Added Quick Tag feature to quickly tag nearby players.\n- Added Tagged Players feature to see a list of all players you have tagged.\n- Added context menu integration to add and remove custom tags for players when right clicking them."
+  "Changelog": "- Fix for nameplates sometimes disappearing when changing a player's title color when they have no title."
 }

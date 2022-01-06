@@ -6,6 +6,11 @@ $notInclude = "sdgfdsgfgdfs", "sdfgdfg", "XIVStats", "bffbbf", "VoidList", "asdf
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 $categoryFallbacksMap = Get-Content "categoryfallbacks.json" | ConvertFrom-Json
 
+$pluginBlacklistUrl = "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplugin.json"
+
+$wc = New-Object system.Net.WebClient
+$blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
+
 $dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=api5"
 $dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/{0}/{1}/latest.zip"
 
@@ -15,11 +20,28 @@ $thisPath = Get-Location
 
 $table = ""
 
+function Is-Banned {
+    param (
+        $PluginName,
+        $AssemblyVersion
+    )
+
+    foreach ($blackItem in $blackList) {
+        if ($blackItem.Name -eq $PluginName) {
+            if ([System.Version]$blackItem.AssemblyVersion -ge [System.Version]$AssemblyVersion) {
+                return $true
+            }
+        }
+    }
+    return $false
+}
+
 Get-ChildItem -Path plugins -File -Recurse -Include *.json |
 Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
-    if ($notInclude.Contains($content.InternalName)) { 
+    $isBanned = Is-Banned -PluginName $content.InternalName -AssemblyVersion $content.AssemblyVersion
+    if ($notInclude.Contains($content.InternalName) -or $isBanned) { 
     	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
     else
@@ -87,7 +109,8 @@ Get-ChildItem -Path testing -File -Recurse -Include *.json |
 Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
-    if ($notInclude.Contains($content.InternalName)) { 
+    $isBanned = Is-Banned -PluginName $content.InternalName -AssemblyVersion $content.AssemblyVersion
+    if ($notInclude.Contains($content.InternalName) -or $isBanned) { 
     	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
     else
@@ -136,7 +159,6 @@ Foreach-Object {
 }
 
 $outputStr = $output | ConvertTo-Json
-Write-Output $outputStr
 
 Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
 
