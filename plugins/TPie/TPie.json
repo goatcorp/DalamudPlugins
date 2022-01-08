@@ -12,5 +12,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Customizable ring-shaped hotbars",
-  "Changelog": "1.2.0.3\n- Fixed quick actions executing when they shouldn't."
+  "Changelog": "1.2.0.3\n- Fixed quick actions executing when they shouldn't.\n- Fixed ring settings window freezing when for rings with toggle mode activated."
 }
