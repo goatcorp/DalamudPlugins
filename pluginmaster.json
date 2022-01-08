@@ -1068,7 +1068,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.2.0.3",
+    "AssemblyVersion": "1.2.1.0",
     "Tags": [
       "UI",
       "Bars"
@@ -1082,7 +1082,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1641154035",
+    "LastUpdate": "1641579828",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobBars/latest.zip"
@@ -3057,6 +3057,25 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HidePadlock&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HidePadlock&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HidePadlock/latest.zip"
+  },
+  {
+    "Author": "necoz (prev. ascclemens)",
+    "Name": "HUD Manager",
+    "InternalName": "HUDManager",
+    "AssemblyVersion": "2.1.1.0",
+    "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Edit HUD elements precisely without /hudlayout\n- Export and import layouts",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.1.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641432285",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HUDManager&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HUDManager&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HUDManager/latest.zip"
   },
   {
     "Author": "Critical_Impact",
