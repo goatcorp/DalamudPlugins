@@ -1,0 +1,16 @@
+{
+  "Author": "Lharz",
+  "Name": "Currency Alert",
+  "InternalName": "CurrencyAlert",
+  "AssemblyVersion": "0.2.2.0",
+  "Description": "/currencyalert: show the configuration panel.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "currency",
+    "tomestones"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Configure alerts thresholds for various currencies."
+}
