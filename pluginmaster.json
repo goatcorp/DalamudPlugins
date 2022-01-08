@@ -2988,6 +2988,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
   },
   {
+    "Author": "Lharz",
+    "Name": "Currency Alert",
+    "InternalName": "CurrencyAlert",
+    "AssemblyVersion": "0.2.2.0",
+    "Description": "/currencyalert: show the configuration panel.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "currency",
+      "tomestones"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Configure alerts thresholds for various currencies.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.2.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641474482",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
+  },
+  {
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
