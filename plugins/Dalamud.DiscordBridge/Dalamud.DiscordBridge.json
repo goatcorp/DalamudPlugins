@@ -2,7 +2,7 @@
   "Author": "goat, modded by Franz",
   "Name": "Discord Chat Bridge",
   "InternalName": "Dalamud.DiscordBridge",
-  "AssemblyVersion": "1.2.1.2",
+  "AssemblyVersion": "1.2.2.0",
   "Description": "This plugin allows you to receive your chat messages via Discord.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -10,7 +10,7 @@
     "discord",
     "chat"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "Punchline": "Receive your chat messages via Discord.",
   "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail."
