@@ -8,5 +8,6 @@
 	"ApplicableVersion": "any",
 	"RepoUrl":"https://github.com/attickdoor/MOActionPlugin",
 	"Tags":["Mouseover", "Macro"],
+	"AcceptsFeedback":false,
 	"DalamudApiLevel":5
 }
