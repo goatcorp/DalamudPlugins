@@ -3102,6 +3102,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HUDManager/latest.zip"
   },
   {
+    "Author": "Dragon",
+    "Name": "Hunt Buddy",
+    "InternalName": "HuntBuddy",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "A daily hunt bill tracker",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
+    "Tags": [
+      "Hunt",
+      "Daily",
+      "Utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Helps you track your daily hunt bills",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641662052",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HuntBuddy/latest.zip"
+  },
+  {
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
