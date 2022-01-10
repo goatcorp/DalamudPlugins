@@ -390,7 +390,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.2.1",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -398,7 +398,7 @@
       "discord",
       "chat"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Receive your chat messages via Discord.",
     "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
@@ -408,7 +408,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1641693630",
+    "LastUpdate": "1641848530",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -2222,7 +2222,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.3.0",
+    "AssemblyVersion": "0.4.3.1",
     "DalamudApiLevel": 5,
     "Tags": [
       "Sonar",
@@ -2251,7 +2251,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1641323086",
+    "LastUpdate": "1641824982",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SonarPlugin/latest.zip"
