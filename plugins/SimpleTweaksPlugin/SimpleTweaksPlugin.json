@@ -2,12 +2,11 @@
   "Author": "Caraxi",
   "Name": "Simple Tweaks Plugin",
   "InternalName": "SimpleTweaksPlugin",
-  "AssemblyVersion": "1.6.6.0",
-  "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
+  "AssemblyVersion": "1.6.6.1",
+  "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "This was supposed to be simple...",
-  "Changelog": "1.6.6.0\n- [Hide Mouse After Inactivity] Fixed showing gamepad cursor when hiding mouse.\n- [Chat Name Colour] Added colour picker instead of number input.\n- [Large Cooldown Counter] Removed Simple Mode\n- [Custom Free Company Tags] Italic Support\n- [Custom Free Company Tags] Allow for any icon.\n- [Adjust Equipment Positions] Fixed position of glamour error icons.\n- [Fix Target] Fix bug causing tweak to attempt targeting untargetable objects.\n- [Auto Open Loot Window] Fixed loot window opening during cutscenes.\n- New Experimental Tweak: Character Window Job Switcher - Click jobs in the Character window to switch.\n- New Tweak: Show Process ID Command\n- New Tweak: Duplicate Keybind Hints Between Hotbars"
+  "Punchline": "This was supposed to be simple..."
 }
