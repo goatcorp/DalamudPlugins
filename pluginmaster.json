@@ -519,7 +519,7 @@
     "LoadPriority": 0,
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.5",
+    "TestingAssemblyVersion": "2.0.0.6",
     "IsTestingExclusive": "False",
     "DownloadCount": 84025,
     "CategoryTags": [
@@ -556,6 +556,31 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeepDungeonDex/latest.zip"
+  },
+  {
+    "Author": "jdsmith2816",
+    "Name": "DelvUI",
+    "InternalName": "DelvUI",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/delvui/delvui",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "A modern HUD replacement built for customization.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 56245,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1641934162",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -1443,7 +1468,7 @@
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "2.4.0.0",
+    "AssemblyVersion": "2.4.1.0",
     "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
@@ -1462,7 +1487,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 53794,
-    "LastUpdate": "1641764472",
+    "LastUpdate": "1641901475",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoTankYou/latest.zip"
@@ -3012,32 +3037,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
   },
   {
-    "Author": "jdsmith2816",
-    "Name": "DelvUI",
-    "InternalName": "DelvUI",
-    "AssemblyVersion": "0.6.3.4",
-    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/delvui/delvui",
-    "Tags": [
-      "UI"
-    ],
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "Punchline": "A modern HUD replacement built for customization.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.6.3.4",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1641687828",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
-  },
-  {
     "Author": "PGGB",
     "Name": "DeviceChangeFix",
     "InternalName": "DeviceChangeFix",
@@ -3065,7 +3064,7 @@
     "Author": "Fr4nsson",
     "Name": "Hide Padlock",
     "InternalName": "HidePadlock",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Allows you to toggle the visibility of the padlock that is next to hotbar one.\n\nUse /padlock to toggle visibility.\nUse //padlock to open settings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Fr4nsson/MyDalamudPlugins/tree/main/src/HidePadlock",
@@ -3075,9 +3074,9 @@
     "Punchline": "Hides the padlock.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.0.0",
+    "TestingAssemblyVersion": "1.3.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1641560787",
+    "LastUpdate": "1641897544",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HidePadlock&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HidePadlock&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HidePadlock/latest.zip"
