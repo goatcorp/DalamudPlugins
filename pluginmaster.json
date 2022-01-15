@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.2.3",
+    "AssemblyVersion": "1.2.3.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -28,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 32931,
-    "LastUpdate": "1640088269",
+    "LastUpdate": "1642248554",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Accountant/latest.zip"
@@ -867,7 +867,7 @@
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.5.0.1",
+    "AssemblyVersion": "1.5.1.0",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
@@ -880,7 +880,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640649590",
+    "LastUpdate": "1642238746",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FPSPlugin/latest.zip"
@@ -2481,7 +2481,7 @@
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.1.1",
     "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
@@ -2491,11 +2491,11 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customizable ring-shaped hotbars",
-    "Changelog": "1.2.1.0\n- Added setting for nested rings to keep it centered with the previous ring.\n\t+ This will move your cursor to the center automatically after activating a nested ring.\n\t+ Enabled by default.",
+    "Changelog": "1.2.1.1\n- Fixed \"Keep Previous Ring Center\" not working properly in some multi-monitor situations.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 26753,
-    "LastUpdate": "1641944363",
+    "LastUpdate": "1642124269",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TPie/latest.zip"
