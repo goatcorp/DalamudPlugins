@@ -560,7 +560,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -576,7 +576,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1642086673",
+    "LastUpdate": "1642291846",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
@@ -1807,7 +1807,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.4.1.0",
+    "AssemblyVersion": "2.4.3.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1826,14 +1826,13 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api4/plugins/PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.4.2.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 37133,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1639933009",
+    "LastUpdate": "1642290961",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTrack/latest.zip"
