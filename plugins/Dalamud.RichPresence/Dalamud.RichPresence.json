@@ -2,7 +2,7 @@
   "Author": "goat",
   "Name": "Discord Rich Presence",
   "InternalName": "Dalamud.RichPresence",
-  "AssemblyVersion": "2.0.0.0",
+  "AssemblyVersion": "2.0.0.2",
   "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,5 +10,6 @@
   ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Show your zone, job, level, name, and world in your Discord status"
+  "Punchline": "Show your zone, job, level, name, and world in your Discord status",
+  "Changelog": "* Added party grouping support, will show people you group with on Discord if they also use the plugin\n* Now shows AFK status by default, can be disabled\n* Now shows queue position if Waitingway is installed"
 }
