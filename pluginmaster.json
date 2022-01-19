@@ -391,6 +391,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Compass/latest.zip"
   },
   {
+    "Author": "Lharz",
+    "Name": "Currency Alert",
+    "InternalName": "CurrencyAlert",
+    "AssemblyVersion": "0.2.3.0",
+    "Description": "/currencyalert: show the configuration panel.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "currency",
+      "tomestones"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Configure alerts thresholds for various currencies.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1642587641",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
+  },
+  {
     "Author": "goat",
     "Name": "Character Data Sync",
     "InternalName": "Dalamud.CharacterSync",
@@ -3012,30 +3035,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
   },
   {
-    "Author": "Lharz",
-    "Name": "Currency Alert",
-    "InternalName": "CurrencyAlert",
-    "AssemblyVersion": "0.2.2.0",
-    "Description": "/currencyalert: show the configuration panel.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "plugin",
-      "currency",
-      "tomestones"
-    ],
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "Punchline": "Configure alerts thresholds for various currencies.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.2.2.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1641474482",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
-  },
-  {
     "Author": "PGGB",
     "Name": "DeviceChangeFix",
     "InternalName": "DeviceChangeFix",
@@ -3291,7 +3290,7 @@
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
-    "AssemblyVersion": "0.3.1.0",
+    "AssemblyVersion": "0.3.2.0",
     "Description": "Customize the layout of the party list.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
@@ -3300,12 +3299,12 @@
     "Punchline": "Customize the layout of the party list.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.1.0",
+    "TestingAssemblyVersion": "0.3.2.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1642336548",
+    "LastUpdate": "1642602042",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
