@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.2.3",
+    "AssemblyVersion": "1.2.3.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -27,8 +27,8 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27280,
-    "LastUpdate": "1640088269",
+    "DownloadCount": 40179,
+    "LastUpdate": "1642248554",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Accountant/latest.zip"
@@ -50,7 +50,7 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28823,
+    "DownloadCount": 28831,
     "CategoryTags": [
       "UI"
     ],
@@ -72,7 +72,7 @@
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21792,
+    "DownloadCount": 27536,
     "CategoryTags": [
       "UI"
     ],
@@ -105,7 +105,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5888,
+    "DownloadCount": 7914,
     "CategoryTags": [
       "UI",
       "utility"
@@ -128,7 +128,7 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18824,
+    "DownloadCount": 22246,
     "CategoryTags": [
       "UI"
     ],
@@ -180,7 +180,7 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11492,
+    "DownloadCount": 11520,
     "CategoryTags": [
       "UI"
     ],
@@ -188,6 +188,34 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BrowserHost.Plugin/latest.zip"
+  },
+  {
+    "Author": "Styr1x",
+    "Name": "Browsingway",
+    "InternalName": "Browsingway",
+    "AssemblyVersion": "1.0.0.2",
+    "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Styr1x/Browsingway",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay",
+      "overlay",
+      "chromium",
+      "act"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Browser overlays rendered in-game.",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.0.2",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1642446339",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Browsingway&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Browsingway&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Browsingway/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -201,7 +229,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7919,
+    "DownloadCount": 9508,
     "CategoryTags": [
       "UI"
     ],
@@ -258,7 +286,7 @@
     "Changelog": "Fixed custom emotes (again). Added better colour picker ui.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 112812,
+    "DownloadCount": 132382,
     "CategoryTags": [
       "social"
     ],
@@ -283,7 +311,7 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27485,
+    "DownloadCount": 30439,
     "CategoryTags": [
       "social",
       "utility"
@@ -312,7 +340,7 @@
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2658,
+    "DownloadCount": 2666,
     "CategoryTags": [
       "social"
     ],
@@ -333,7 +361,7 @@
     "Punchline": "This is still mostly a dev tool for debugging, but people like it?",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 830,
+    "DownloadCount": 1351,
     "LastUpdate": "1638646309",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=api5",
@@ -353,7 +381,7 @@
     "Changelog": "- Add 'Crafting (Synthesis)' window to hiding options\n- Add option to not prio MouseOver targets for target distance",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8797,
+    "DownloadCount": 12313,
     "CategoryTags": [
       "UI"
     ],
@@ -377,7 +405,7 @@
     "Punchline": "Sync your character data from your main character to all others",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 34410,
+    "DownloadCount": 40878,
     "CategoryTags": [
       "utility"
     ],
@@ -390,7 +418,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.1.2",
+    "AssemblyVersion": "1.2.2.1",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -404,11 +432,11 @@
     "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19720,
+    "DownloadCount": 25585,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1638628727",
+    "LastUpdate": "1641848530",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -417,7 +445,7 @@
     "Author": "goat",
     "Name": "Wotsit",
     "InternalName": "Dalamud.FindAnything",
-    "AssemblyVersion": "1.0.0.7",
+    "AssemblyVersion": "1.0.1.3",
     "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
     "ApplicableVersion": "any",
     "Tags": [
@@ -430,8 +458,8 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10909,
-    "LastUpdate": "1640090708",
+    "DownloadCount": 25884,
+    "LastUpdate": "1640994777",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.FindAnything/latest.zip"
@@ -448,7 +476,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58063,
+    "DownloadCount": 70335,
     "CategoryTags": [
       "other"
     ],
@@ -461,7 +489,7 @@
     "Author": "goat",
     "Name": "Discord Rich Presence",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.2",
     "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -470,13 +498,14 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Show your zone, job, level, name, and world in your Discord status",
+    "Changelog": "* Added party grouping support, will show people you group with on Discord if they also use the plugin\n* Now shows AFK status by default, can be disabled\n* Now shows queue position if Waitingway is installed",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 49884,
+    "DownloadCount": 70525,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1638630367",
+    "LastUpdate": "1642431142",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.RichPresence/latest.zip"
@@ -498,7 +527,7 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37,
+    "DownloadCount": 43,
     "CategoryTags": [
       "utility"
     ],
@@ -511,7 +540,7 @@
     "Author": "perchbird",
     "Name": "Damage Info",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.3.8.2",
+    "AssemblyVersion": "2.0.1.0",
     "Description": "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
@@ -520,11 +549,11 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 62455,
+    "DownloadCount": 113710,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638750765",
+    "LastUpdate": "1642095629",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DamageInfoPlugin/latest.zip"
@@ -547,7 +576,7 @@
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36018,
+    "DownloadCount": 40719,
     "CategoryTags": [
       "UI"
     ],
@@ -555,6 +584,31 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeepDungeonDex/latest.zip"
+  },
+  {
+    "Author": "jdsmith2816",
+    "Name": "DelvUI",
+    "InternalName": "DelvUI",
+    "AssemblyVersion": "1.0.0.2",
+    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/delvui/delvui",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "A modern HUD replacement built for customization.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 80915,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1642291846",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -573,7 +627,7 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10171,
+    "DownloadCount": 13619,
     "CategoryTags": [
       "UI"
     ],
@@ -607,7 +661,7 @@
     "Punchline": "Dialogue and other in-game text translations? Yes we have!\nKnown Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7616,
+    "DownloadCount": 10552,
     "CategoryTags": [
       "UI"
     ],
@@ -617,22 +671,22 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Echoglossian/latest.zip"
   },
   {
-    "Author": "aers",
+    "Author": "Felys",
     "Name": "EnemyListDebuffs",
     "InternalName": "EnemyListDebuffs",
-    "AssemblyVersion": "0.3.0.0",
-    "Description": "Displays your debuffs on the enemy list.",
+    "AssemblyVersion": "0.3.0.1",
+    "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/aers/EnemyListDebuffs",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2404,
+    "DownloadCount": 12773,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633269106",
+    "LastUpdate": "1640508962",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EnemyListDebuffs/latest.zip"
@@ -641,7 +695,7 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.1.1.4",
+    "AssemblyVersion": "2.1.2.1",
     "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -666,8 +720,8 @@
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17590,
-    "LastUpdate": "1638749711",
+    "DownloadCount": 37571,
+    "LastUpdate": "1641988626",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EngageTimer/latest.zip"
@@ -685,7 +739,7 @@
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17346,
+    "DownloadCount": 19867,
     "CategoryTags": [
       "UI"
     ],
@@ -700,7 +754,7 @@
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
     "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.0.2.2",
+    "AssemblyVersion": "1.0.3.0",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -710,8 +764,8 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/faderPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8903,
-    "LastUpdate": "1640099406",
+    "DownloadCount": 15095,
+    "LastUpdate": "1641391914",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/faderPlugin/latest.zip"
@@ -728,7 +782,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1784,
+    "DownloadCount": 1789,
     "CategoryTags": [
       "UI"
     ],
@@ -754,7 +808,7 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31086,
+    "DownloadCount": 35091,
     "CategoryTags": [
       "minigames"
     ],
@@ -787,7 +841,7 @@
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35088,
+    "DownloadCount": 40695,
     "LastUpdate": "1638805596",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=api5",
@@ -805,7 +859,7 @@
     "Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7500,
+    "DownloadCount": 9955,
     "CategoryTags": [
       "social",
       "utility"
@@ -842,20 +896,20 @@
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.5.0.0",
+    "AssemblyVersion": "1.5.1.0",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39373,
+    "DownloadCount": 75061,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1632830845",
+    "LastUpdate": "1642238746",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FPSPlugin/latest.zip"
@@ -875,7 +929,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.2.1.3",
+    "AssemblyVersion": "2.2.1.4",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -884,11 +938,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 92593,
+    "DownloadCount": 132107,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1639511789",
+    "LastUpdate": "1640443396",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
@@ -907,7 +961,7 @@
     "Changelog": "Update to API 5 and EW + Now works with DS4 (maybe even DS5?) thanks to the game adding support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1636,
+    "DownloadCount": 2292,
     "CategoryTags": [
       "utility"
     ],
@@ -920,7 +974,7 @@
     "Author": "ascclemens",
     "Name": "Glamaholic",
     "InternalName": "Glamaholic",
-    "AssemblyVersion": "1.9.2.0",
+    "AssemblyVersion": "1.9.3.0",
     "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Glamaholic",
@@ -930,7 +984,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1639965094",
+    "LastUpdate": "1641788633",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Glamaholic/latest.zip"
@@ -948,7 +1002,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 77567,
+    "DownloadCount": 92114,
     "CategoryTags": [
       "utility"
     ],
@@ -970,7 +1024,7 @@
     "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83063,
+    "DownloadCount": 96502,
     "CategoryTags": [
       "UI",
       "utility"
@@ -984,7 +1038,7 @@
     "Author": "MgAl2O4",
     "Name": "Harp Hero",
     "InternalName": "HarpHero",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.3.0",
     "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/HarpHeroDalamud",
@@ -1005,13 +1059,13 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13515,
+    "DownloadCount": 21180,
     "CategoryTags": [
       "jobs",
       "utility",
       "sound"
     ],
-    "LastUpdate": "1640184626",
+    "LastUpdate": "1640536871",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HarpHero/latest.zip"
@@ -1020,7 +1074,7 @@
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
-    "AssemblyVersion": "1.0.2.3",
+    "AssemblyVersion": "1.0.2.4",
     "Description": "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/Housemate",
@@ -1029,11 +1083,11 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18380,
+    "DownloadCount": 26206,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638751839",
+    "LastUpdate": "1641913135",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Housemate/latest.zip"
@@ -1042,7 +1096,7 @@
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.8.2.2",
+    "AssemblyVersion": "1.8.2.3",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
@@ -1051,12 +1105,12 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 69792,
+    "DownloadCount": 95269,
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1639212136",
+    "LastUpdate": "1641538562",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemSearchPlugin/latest.zip"
@@ -1067,7 +1121,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.1.0",
     "Tags": [
       "UI",
       "Bars"
@@ -1077,11 +1131,11 @@
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44619,
+    "DownloadCount": 89534,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1639543599",
+    "LastUpdate": "1641579828",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobBars/latest.zip"
@@ -1098,7 +1152,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25887,
+    "DownloadCount": 25901,
     "CategoryTags": [
       "jobs"
     ],
@@ -1111,7 +1165,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.3.3.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1126,12 +1180,12 @@
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 22899,
+    "DownloadCount": 40453,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638851093",
+    "LastUpdate": "1642286541",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/latest.zip"
@@ -1206,7 +1260,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17486,
+    "DownloadCount": 19920,
     "CategoryTags": [
       "UI"
     ],
@@ -1229,7 +1283,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.5.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 108315,
+    "DownloadCount": 134572,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1275,7 +1329,7 @@
     "Punchline": "Shows the next best move in Mini Cactpot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 93651,
+    "DownloadCount": 110735,
     "CategoryTags": [
       "minigames"
     ],
@@ -1290,21 +1344,22 @@
     "Punchline": "Mo' actions no problems",
     "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "4.0.11",
+    "AssemblyVersion": "4.2.4",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
       "Macro"
     ],
-    "DalamudApiLevel": 4,
-    "IsHide": "True",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27222,
+    "DownloadCount": 46834,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1634667547",
+    "LastUpdate": "1641147771",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MOAction/latest.zip"
@@ -1313,7 +1368,7 @@
     "Author": "Marconsou",
     "Name": "MP Tick Bar",
     "InternalName": "MPTickBar",
-    "AssemblyVersion": "1.4.0.1",
+    "AssemblyVersion": "1.4.0.4",
     "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
@@ -1330,24 +1385,24 @@
     "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5255,
+    "DownloadCount": 13262,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1640078141",
+    "LastUpdate": "1642465738",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MPTickBar/latest.zip"
   },
   {
-    "Author": "aers",
+    "Author": "aers, JHerig",
     "Name": "NamePlateDebuffs",
     "InternalName": "NamePlateDebuffs",
-    "AssemblyVersion": "0.5.0.0",
+    "AssemblyVersion": "0.5.1.0",
     "Description": "Displays your debuffs on enemy nameplates.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1356,7 +1411,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1633269106",
+    "LastUpdate": "1641262251",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NamePlateDebuffs/latest.zip"
@@ -1388,7 +1443,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.1.1.0",
+    "AssemblyVersion": "2.1.4.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1404,11 +1459,11 @@
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30004,
+    "DownloadCount": 46552,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639412685",
+    "LastUpdate": "1642286821",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NeatNoter/latest.zip"
@@ -1426,7 +1481,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44042,
+    "DownloadCount": 46979,
     "CategoryTags": [
       "UI",
       "social"
@@ -1440,7 +1495,7 @@
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "2.0.5.2",
+    "AssemblyVersion": "2.4.2.0",
     "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
@@ -1457,10 +1512,9 @@
     "IconUrl": "https://github.com/MidoriKami/NoTankYou/blob/master/images/icon.png",
     "Punchline": "Warns you if players are missing critical role actions",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.2.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27383,
-    "LastUpdate": "1640142372",
+    "DownloadCount": 71060,
+    "LastUpdate": "1642444382",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoTankYou/latest.zip"
@@ -1479,6 +1533,7 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.0.0.9",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1638772478",
@@ -1500,7 +1555,7 @@
     "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37023,
+    "DownloadCount": 44371,
     "CategoryTags": [
       "other"
     ],
@@ -1526,7 +1581,7 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58180,
+    "DownloadCount": 70718,
     "CategoryTags": [
       "sound"
     ],
@@ -1561,7 +1616,7 @@
     "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32272,
+    "DownloadCount": 32273,
     "CategoryTags": [
       "social"
     ],
@@ -1576,7 +1631,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.1",
     "DalamudApiLevel": "5",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
     "ApplicableVersion": "any",
@@ -1592,8 +1647,8 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9524,
-    "LastUpdate": "1639736216",
+    "DownloadCount": 21699,
+    "LastUpdate": "1640967576",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyIcons/latest.zip"
@@ -1638,7 +1693,7 @@
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 101700,
+    "DownloadCount": 114079,
     "CategoryTags": [
       "UI",
       "social"
@@ -1671,7 +1726,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68045,
+    "DownloadCount": 78202,
     "CategoryTags": [
       "inventory"
     ],
@@ -1684,7 +1739,7 @@
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.15.1.0",
+    "AssemblyVersion": "1.15.4.0",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -1703,11 +1758,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 118925,
+    "DownloadCount": 180495,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640024997",
+    "LastUpdate": "1642476744",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PingPlugin/latest.zip"
@@ -1736,7 +1791,7 @@
     "Changelog": "Updated for Endwalker.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 70375,
+    "DownloadCount": 83664,
     "CategoryTags": [
       "UI"
     ],
@@ -1749,7 +1804,7 @@
     "Author": "r00telement",
     "Name": "Player Tags",
     "InternalName": "PlayerTags",
-    "AssemblyVersion": "1.1.5.1",
+    "AssemblyVersion": "1.1.6.1",
     "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/r00telement/PlayerTags",
@@ -1768,11 +1823,11 @@
       "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
     ],
     "IconUrl": "https://github.com/r00telement/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
-    "Changelog": "- Fix for nameplates sometimes disappearing when changing a player's title color when they have no title.",
+    "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7546,
-    "LastUpdate": "1640234258",
+    "DownloadCount": 13260,
+    "LastUpdate": "1640629879",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
@@ -1781,7 +1836,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.4.1.0",
+    "AssemblyVersion": "2.4.4.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1801,12 +1856,12 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 33505,
+    "DownloadCount": 44860,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1639933009",
+    "LastUpdate": "1642473433",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTrack/latest.zip"
@@ -1824,7 +1879,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8972,
+    "DownloadCount": 9923,
     "CategoryTags": [
       "UI"
     ],
@@ -1856,7 +1911,7 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 80838,
+    "DownloadCount": 91975,
     "CategoryTags": [
       "inventory"
     ],
@@ -1887,7 +1942,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 33132,
+    "DownloadCount": 37760,
     "LastUpdate": "1638835717",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api5",
@@ -1914,6 +1969,28 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Quest Map/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "QuestAWAY",
+    "InternalName": "QuestAWAY",
+    "AssemblyVersion": "1.0.0.4",
+    "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Removes unwanted icons from your map.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 12133,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1640480636",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
   },
   {
     "Author": "srkizer",
@@ -1952,7 +2029,7 @@
     "Punchline": "Cooldown and Status tracking.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30363,
+    "DownloadCount": 30385,
     "CategoryTags": [
       "UI"
     ],
@@ -2008,7 +2085,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14443,
+    "DownloadCount": 22544,
     "CategoryTags": [
       "inventory"
     ],
@@ -2072,7 +2149,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39162,
+    "DownloadCount": 44287,
     "CategoryTags": [
       "UI"
     ],
@@ -2085,7 +2162,7 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.3.2.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
@@ -2106,7 +2183,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1639321208",
+    "LastUpdate": "1640967381",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
@@ -2115,25 +2192,24 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.6.0",
-    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
+    "AssemblyVersion": "1.6.6.1",
+    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "This was supposed to be simple...",
-    "Changelog": "1.6.6.0\n- [Hide Mouse After Inactivity] Fixed showing gamepad cursor when hiding mouse.\n- [Chat Name Colour] Added colour picker instead of number input.\n- [Large Cooldown Counter] Removed Simple Mode\n- [Custom Free Company Tags] Italic Support\n- [Custom Free Company Tags] Allow for any icon.\n- [Adjust Equipment Positions] Fixed position of glamour error icons.\n- [Fix Target] Fix bug causing tweak to attempt targeting untargetable objects.\n- [Auto Open Loot Window] Fixed loot window opening during cutscenes.\n- New Experimental Tweak: Character Window Job Switcher - Click jobs in the Character window to switch.\n- New Tweak: Show Process ID Command\n- New Tweak: Duplicate Keybind Hints Between Hotbars",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 365007,
+    "DownloadCount": 449663,
     "CategoryTags": [
       "UI",
       "other",
       "utility",
       "social"
     ],
-    "LastUpdate": "1640245186",
+    "LastUpdate": "1641811847",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2198,7 +2274,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.2.5",
+    "AssemblyVersion": "0.4.3.1",
     "DalamudApiLevel": 5,
     "Tags": [
       "Sonar",
@@ -2227,7 +2303,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1640077856",
+    "LastUpdate": "1641824982",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SonarPlugin/latest.zip"
@@ -2245,7 +2321,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6191,
+    "DownloadCount": 7775,
     "CategoryTags": [
       "sound"
     ],
@@ -2273,7 +2349,7 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13546,
+    "DownloadCount": 15485,
     "CategoryTags": [
       "sound"
     ],
@@ -2295,7 +2371,7 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 56829,
+    "DownloadCount": 61487,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2318,7 +2394,7 @@
     "Punchline": "Allows replacing every text box with the background of your choice.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7961,
+    "DownloadCount": 8994,
     "CategoryTags": [
       "UI"
     ],
@@ -2331,7 +2407,7 @@
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.9.12.1",
+    "AssemblyVersion": "1.10.0.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -2349,11 +2425,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.9.12.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10114,
+    "DownloadCount": 14083,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640374187",
+    "LastUpdate": "1642197902",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TextToTalk/latest.zip"
@@ -2371,7 +2447,7 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24178,
+    "DownloadCount": 27255,
     "CategoryTags": [
       "UI"
     ],
@@ -2394,7 +2470,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20123,
+    "DownloadCount": 23895,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2417,7 +2493,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 26388,
+    "DownloadCount": 34202,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2431,7 +2507,7 @@
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.2.1.1",
     "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
@@ -2441,10 +2517,11 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customizable ring-shaped hotbars",
+    "Changelog": "1.2.1.1\n- Fixed \"Keep Previous Ring Center\" not working properly in some multi-monitor situations.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7583,
-    "LastUpdate": "1640119571",
+    "DownloadCount": 30394,
+    "LastUpdate": "1642124269",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TPie/latest.zip"
@@ -2488,7 +2565,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.0.1",
+    "AssemblyVersion": "1.6.0.3",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2499,11 +2576,11 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11942,
+    "DownloadCount": 16515,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639602530",
+    "LastUpdate": "1641154154",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VFXEditor/latest.zip"
@@ -2512,7 +2589,7 @@
     "Author": "Dragon",
     "Name": "Visibility",
     "InternalName": "Visibility",
-    "AssemblyVersion": "1.1.1.2",
+    "AssemblyVersion": "1.1.1.4",
     "Description": "Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
@@ -2529,13 +2606,13 @@
     "LoadPriority": 0,
     "Punchline": "Allows you to hide players, pets, chocobos and minions.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.1.1.3",
+    "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39868,
+    "DownloadCount": 54823,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639579755",
+    "LastUpdate": "1641018585",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Visibility/latest.zip"
@@ -2572,7 +2649,7 @@
     "Punchline": "Improved Waymark Management",
     "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.3.1.1",
+    "AssemblyVersion": "1.3.1.2",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
     "ImageUrls": [
@@ -2588,15 +2665,15 @@
       "Tool"
     ],
     "DalamudApiLevel": 5,
-    "Changelog": "1.3.1.1: Updated for Endwalker.",
+    "Changelog": "1.3.1.2: Fixed an omission that caused the \"Save Current Waymarks\" button to not actually save to disk without taking other actions.",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 23331,
+    "DownloadCount": 37760,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639214692",
+    "LastUpdate": "1640474024",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WaymarkPresetPlugin/latest.zip"
@@ -2631,17 +2708,17 @@
     "Name": "Window Title Changer",
     "Description": "Allows you to change your game window title",
     "InternalName": "WinTitle",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633390245",
+    "LastUpdate": "1640442460",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WinTitle/latest.zip"
@@ -2663,7 +2740,7 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 65299,
+    "DownloadCount": 78779,
     "CategoryTags": [
       "minigames"
     ],
@@ -2684,7 +2761,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4502,
+    "DownloadCount": 4948,
     "CategoryTags": [
       "social"
     ],
@@ -2699,20 +2776,21 @@
     "Punchline": "PvP, but in PvE.",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.7.10",
+    "AssemblyVersion": "1.7.11",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
       "Combo"
     ],
+    "AcceptsFeedback": false,
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 109063,
+    "DownloadCount": 148135,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1639308150",
+    "LastUpdate": "1641772079",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVCombo/latest.zip"
@@ -2732,7 +2810,7 @@
     "Punchline": "Complete your Zodiac relic with style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8812,
+    "DownloadCount": 12462,
     "LastUpdate": "1638845719",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api5",
@@ -2887,17 +2965,17 @@
     "Author": "Arrest Everybody",
     "Name": "ChatEmoteColor",
     "InternalName": "ChatEmoteColor",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "A simple plugin that recolors emote chat lines depending on who is executing the emote and their target.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chrisk699/ffxiv-chatemotecolor-plugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1636812838",
+    "LastUpdate": "1642086708",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatEmoteColor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatEmoteColor&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatEmoteColor/latest.zip"
@@ -2921,7 +2999,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "LoadPriority": 100,
-    "IsHide": "False",
+    "IsHide": "True",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.2.1.0",
     "IsTestingExclusive": "True",
@@ -2934,36 +3012,123 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
   },
   {
-    "Author": "jdsmith2816",
-    "Name": "DelvUI",
-    "InternalName": "DelvUI",
-    "AssemblyVersion": "0.6.1.1",
-    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "Author": "Lharz",
+    "Name": "Currency Alert",
+    "InternalName": "CurrencyAlert",
+    "AssemblyVersion": "0.2.2.0",
+    "Description": "/currencyalert: show the configuration panel.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/delvui/delvui",
     "Tags": [
-      "UI"
+      "plugin",
+      "currency",
+      "tomestones"
     ],
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "Punchline": "A modern HUD replacement built for customization.",
+    "Punchline": "Configure alerts thresholds for various currencies.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.6.1.1",
+    "TestingAssemblyVersion": "0.2.2.0",
     "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
+    "LastUpdate": "1641474482",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CurrencyAlert&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
+  },
+  {
+    "Author": "PGGB",
+    "Name": "DeviceChangeFix",
+    "InternalName": "DeviceChangeFix",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Stops controller input from freezing randomly.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PGGB/DeviceChangeFix",
+    "Tags": [
+      "fix",
+      "gamepad"
     ],
-    "LastUpdate": "1640185171",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Stops controller input from freezing randomly.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1640450773",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeviceChangeFix&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeviceChangeFix&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeviceChangeFix/latest.zip"
+  },
+  {
+    "Author": "Fr4nsson",
+    "Name": "Hide Padlock",
+    "InternalName": "HidePadlock",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "Allows you to toggle the visibility of the padlock that is next to hotbar one.\n\nUse /padlock to toggle visibility.\nUse //padlock to open settings.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Fr4nsson/MyDalamudPlugins/tree/main/src/HidePadlock",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/plugins/HidePadlock/images/icon.png",
+    "Punchline": "Hides the padlock.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.3.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641897544",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HidePadlock&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HidePadlock&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HidePadlock/latest.zip"
+  },
+  {
+    "Author": "necoz (prev. ascclemens)",
+    "Name": "HUD Manager",
+    "InternalName": "HUDManager",
+    "AssemblyVersion": "2.2.0.0",
+    "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Edit HUD elements precisely without /hudlayout\n- Export and import layouts",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.2.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1642571976",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HUDManager&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HUDManager&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HUDManager/latest.zip"
+  },
+  {
+    "Author": "Dragon",
+    "Name": "Hunt Buddy",
+    "InternalName": "HuntBuddy",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "A daily hunt bill tracker",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
+    "Tags": [
+      "Hunt",
+      "Daily",
+      "Utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Helps you track your daily hunt bills",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1642087799",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HuntBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HuntBuddy/latest.zip"
   },
   {
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.7",
+    "AssemblyVersion": "1.0.0.9",
     "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
@@ -2981,13 +3146,13 @@
     "Punchline": "Clean up your sloppppy inventories.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.7",
+    "TestingAssemblyVersion": "1.0.0.9",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1638872091",
+    "LastUpdate": "1641969380",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
@@ -3126,47 +3291,24 @@
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.1.0",
     "Description": "Customize the layout of the party list.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customize the layout of the party list.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633692566",
+    "LastUpdate": "1642336548",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
-  },
-  {
-    "Author": "Eternita",
-    "Name": "QuestAWAY",
-    "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.3",
-    "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "Punchline": "Removes unwanted icons from your map.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.3",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1638649439",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
   },
   {
     "Author": "Dragon",

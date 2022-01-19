@@ -1,11 +1,11 @@
 {
-  "Author": "aers",
+  "Author": "Felys",
   "Name": "EnemyListDebuffs",
   "InternalName": "EnemyListDebuffs",
-  "AssemblyVersion": "0.3.0.0",
-  "Description": "Displays your debuffs on the enemy list.",
+  "AssemblyVersion": "0.3.0.1",
+  "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/aers/EnemyListDebuffs",
-  "DalamudApiLevel": 4,
+  "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }
