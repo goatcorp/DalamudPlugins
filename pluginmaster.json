@@ -2705,26 +2705,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WaymarkPresetPlugin/latest.zip"
   },
   {
-    "Author": "Haplo064",
+    "Author": "Haplo064, modified by Franz",
     "Name": "WOLdo",
     "InternalName": "WheresWOLdo",
-    "AssemblyVersion": "1.3.0.1",
+    "AssemblyVersion": "1.3.2.0",
+    "Description": "Movable text overlay of the current location name.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
-    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "RepoUrl": "https://github.com/reiichi001/WheresWOLdo",
     "Tags": [
       "Location",
       "UI",
       "Overlay"
     ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Making it easier to know where you are.",
-    "Description": "Movable text overlay of the current location name.",
-    "Changelog": "Updated for API4.",
+    "Changelog": "Updated for API5. Will be maintained by Franz now.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1633978616",
+    "LastUpdate": "1642740005",
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WheresWOLdo/latest.zip"
@@ -3038,6 +3041,32 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
   },
   {
+    "Author": "MidoriKami",
+    "Name": "Daily Duty",
+    "InternalName": "DailyDuty",
+    "AssemblyVersion": "0.1.0.1",
+    "Description": "Automatically track and complete many daily and weekly tasks.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
+    "Tags": [
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Easily Track Daily and Weekly tasks.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1642802574",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DailyDuty&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DailyDuty&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DailyDuty/latest.zip"
+  },
+  {
     "Author": "PGGB",
     "Name": "DeviceChangeFix",
     "InternalName": "DeviceChangeFix",
@@ -3158,6 +3187,31 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
+  },
+  {
+    "Author": "electr0sheep",
+    "Name": "Item Vendor Location",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
+    "Tags": [
+      "vendor",
+      "plugin",
+      "item"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Shows you where to buy vendor items",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641940938",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemVendorLocation&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemVendorLocation&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemVendorLocation/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -3333,6 +3387,30 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SideHUDPlugin/latest.zip"
+  },
+  {
+    "Author": "rennerdo30",
+    "Name": "SimpleCompare",
+    "InternalName": "SimpleCompare",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Show simple item comparison when pressing SHIFT and hovering over item",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "compare",
+      "plugin"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Simple item comparison",
+    "RepoUrl": "https://github.com/Rennerdo30/ffxiv-simplecompare",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1642423255",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleCompare&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleCompare&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleCompare/latest.zip"
   },
   {
     "Author": "Avaflow",
