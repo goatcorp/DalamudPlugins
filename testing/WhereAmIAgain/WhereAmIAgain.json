@@ -1,0 +1,20 @@
+{
+  "ApplicableVersion": "any",
+  "AssemblyVersion": "0.0.0.2",
+  "Author": "Qasi Molkot",
+  "CategoryTags": ["UI"],
+  "DalamudApiLevel": 5,
+  "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia. Does not play nicely with Orchestrion Plugin when the 'Show current song in the server info UI element in-game' is enabled, since it uses the same element.",
+  "InternalName": "WhereAmIAgain",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "LoadPriority": 0,
+  "Name": "Where am I again?",
+  "Punchline": "Shows what zone/region/territory you are in next to the server info.",
+  "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain-Release",
+  "Tags": ["Area", "Info", "Location", "Overlay", "UI", "Zone"],
+  "DownloadLinkInstall": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.1.zip",
+  "DownloadLinkTesting": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.1.zip",
+  "DownloadLinkUpdate": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.1.zip",
+  "IconUrl": "https://raw.githubusercontent.com/cassandra308/WhereAmIAgain-Release/main/icon.png"
+}
