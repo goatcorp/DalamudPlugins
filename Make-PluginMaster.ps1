@@ -69,7 +69,7 @@ Foreach-Object {
     }
     $content | add-member -Force -Name "IsTestingExclusive" -value "False" -MemberType NoteProperty
 
-    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName | Select-Object -ExpandProperty "count" 
+    $dlCount = $counts | Select-Object -ExpandProperty $content.InternalName
     if ($dlCount -eq $null){
         $dlCount = 0;
     }
