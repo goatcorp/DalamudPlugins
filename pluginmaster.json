@@ -796,27 +796,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/faderPlugin/latest.zip"
   },
   {
-    "Author": "BiscuitUmU, Kazumi",
-    "Name": "Fantasy Player",
-    "InternalName": "FantasyPlayer.Dalamud",
-    "AssemblyVersion": "2.2.0.0",
-    "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 1790,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1621021219",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FantasyPlayer.Dalamud/latest.zip"
-  },
-  {
     "Author": "daemitus",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
@@ -3088,6 +3067,28 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeviceChangeFix/latest.zip"
+  },
+  {
+    "Author": "BiscuitUmU, Kazumi",
+    "Name": "Fantasy Player",
+    "InternalName": "FantasyPlayer.Dalamud",
+    "AssemblyVersion": "2.9.6.0",
+    "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.9.6.0",
+    "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1642975617",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FantasyPlayer.Dalamud/latest.zip"
   },
   {
     "Author": "Fr4nsson",
