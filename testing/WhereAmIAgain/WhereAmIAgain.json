@@ -1,6 +1,6 @@
 {
   "ApplicableVersion": "any",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Author": "Qasi Molkot",
   "CategoryTags": ["UI"],
   "DalamudApiLevel": 5,
@@ -11,10 +11,10 @@
   "LoadPriority": 0,
   "Name": "Where am I again?",
   "Punchline": "Shows what zone/region/territory you are in next to the server info.",
-  "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain-Release",
+  "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
   "Tags": ["Area", "Info", "Location", "Overlay", "UI", "Zone"],
-  "DownloadLinkInstall": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.1.zip",
-  "DownloadLinkTesting": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.1.zip",
-  "DownloadLinkUpdate": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.1.zip",
+  "DownloadLinkInstall": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.2.zip",
+  "DownloadLinkTesting": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.2.zip",
+  "DownloadLinkUpdate": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.2.zip",
   "IconUrl": "https://raw.githubusercontent.com/cassandra308/WhereAmIAgain-Release/main/icon.png"
 }
