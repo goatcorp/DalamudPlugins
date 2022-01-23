@@ -11,7 +11,7 @@ $pluginBlacklistUrl = "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplug
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin={0}&isUpdate=False&isTesting={1}&branch=api5"
+$dlTemplateInstall = "https://kamori.goats.dev/Plugin/Download/{0}?isUpdate=False&isTesting={1}&branch=api5"
 $dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/{0}/{1}/latest.zip"
 
 $apiLevel = 5
