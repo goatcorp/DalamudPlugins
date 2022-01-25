@@ -699,19 +699,19 @@
     "Author": "Felys",
     "Name": "EnemyListDebuffs",
     "InternalName": "EnemyListDebuffs",
-    "AssemblyVersion": "0.3.0.1",
+    "AssemblyVersion": "0.3.1.0",
     "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13560,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640508962",
+    "LastUpdate": "1643130616",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EnemyListDebuffs/latest.zip"
@@ -1499,7 +1499,7 @@
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "2.4.2.1",
+    "AssemblyVersion": "3.0.0.0",
     "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
@@ -1518,7 +1518,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 76770,
-    "LastUpdate": "1642843228",
+    "LastUpdate": "1643139190",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoTankYou/latest.zip"
@@ -2196,7 +2196,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.6.1",
+    "AssemblyVersion": "1.6.6.2",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2213,7 +2213,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1641811847",
+    "LastUpdate": "1643124190",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2351,7 +2351,7 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 15794,
     "CategoryTags": [
