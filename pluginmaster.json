@@ -2648,6 +2648,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VoidList/latest.zip"
   },
   {
+    "Author": "Avaflow",
+    "Name": "Waitingway",
+    "InternalName": "Waitingway.Dalamud",
+    "AssemblyVersion": "1.2.1",
+    "Description": "Contributes and utilizes crowdsourced login queue information for the benefit of everyone.\n\nCurrent features include queue notifications via Discord, so you can know when you make it into the game, as\nwell as anonymously collecting and reporting statistics about your login queue times to crowdsource information\nabout FFXIV server load. This information will be publicly available in the future; check the Discord for updates!\n\nFuture planned features include login wait time estimates, as well as duty queue time statistics, and a website\nshowing all of this information.\n\nDiscord URL: https://discord.waitingway.com",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://waitingway.com",
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://repo.waitingway.com/waitingway.png",
+    "Punchline": "Crowdsourced FFXIV login queue times, now with Discord queue notification features.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1643099947",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Waitingway.Dalamud/latest.zip"
+  },
+  {
     "Author": "PunishedPineapple",
     "Name": "Waymark Preset Plugin",
     "Punchline": "Improved Waymark Management",
@@ -3022,7 +3045,7 @@
     "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
-    "AssemblyVersion": "0.1.0.3",
+    "AssemblyVersion": "0.1.0.4",
     "Description": "Automatically track and complete many daily and weekly tasks.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
@@ -3037,9 +3060,9 @@
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.0.3",
+    "TestingAssemblyVersion": "0.1.0.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1642944284",
+    "LastUpdate": "1643023147",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DailyDuty/latest.zip"
@@ -3072,7 +3095,7 @@
     "Author": "BiscuitUmU, Kazumi",
     "Name": "Fantasy Player",
     "InternalName": "FantasyPlayer.Dalamud",
-    "AssemblyVersion": "2.9.6.0",
+    "AssemblyVersion": "2.9.6.1",
     "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
@@ -3080,12 +3103,12 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.9.6.0",
+    "TestingAssemblyVersion": "2.9.6.1",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1642975617",
+    "LastUpdate": "1643070227",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FantasyPlayer.Dalamud/latest.zip"
