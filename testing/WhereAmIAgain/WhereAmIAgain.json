@@ -1,20 +1,23 @@
 {
-  "ApplicableVersion": "any",
-  "AssemblyVersion": "0.0.0.3",
-  "Author": "Qasi Molkot",
-  "CategoryTags": ["UI"],
-  "DalamudApiLevel": 5,
-  "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia. Does not play nicely with Orchestrion Plugin when the 'Show current song in the server info UI element in-game' is enabled, since it uses the same element.",
-  "InternalName": "WhereAmIAgain",
-  "IsHide": "False",
-  "IsTestingExclusive": "False",
-  "LoadPriority": 0,
+  "Author": "cassandra308",
   "Name": "Where am I again?",
-  "Punchline": "Shows what zone/region/territory you are in next to the server info.",
+  "InternalName": "WhereAmIAgain",
+  "AssemblyVersion": "0.0.0.3",
+  "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia. Does not play nicely with Orchestrion Plugin when the 'Show current song in the server info UI element in-game' is enabled, since it uses the same element.",
+  "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
-  "Tags": ["Area", "Info", "Location", "Overlay", "UI", "Zone"],
-  "DownloadLinkInstall": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.2.zip",
-  "DownloadLinkTesting": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.2.zip",
-  "DownloadLinkUpdate": "https://github.com/cassandra308/WhereAmIAgain-Release/archive/refs/tags/v0.0.2.zip",
-  "IconUrl": "https://raw.githubusercontent.com/cassandra308/WhereAmIAgain-Release/main/icon.png"
+  "Tags": [
+    "Area",
+    "Info",
+    "Location",
+    "Overlay",
+    "UI",
+    "Zone"
+  ],
+  "CategoryTags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Shows what zone/region/territory you are in next to the server info."
 }
