@@ -193,7 +193,7 @@
     "Author": "Styr1x",
     "Name": "Browsingway",
     "InternalName": "Browsingway",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Styr1x/Browsingway",
@@ -212,7 +212,7 @@
     "TestingAssemblyVersion": "1.0.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 1197,
-    "LastUpdate": "1642446339",
+    "LastUpdate": "1643278235",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Browsingway/latest.zip"
@@ -1620,20 +1620,13 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/orchestrion/latest.zip"
   },
   {
-    "Disabled": true,
-    "Testing": false,
-    "InstalledFromUrl": null,
     "Author": "goat, modded by Franz",
-    "Name": "owo plugin",
-    "Punchline": "owo for your chat",
-    "Description": "This plugin uwu's your chat.",
-    "Tags": null,
+    "Name": "OwO",
     "InternalName": "owofy",
-    "AssemblyVersion": "1.4.0.0",
-    "TestingAssemblyVersion": null,
-    "RepoUrl": null,
+    "AssemblyVersion": "1.4.1.0",
+    "Description": "This plugin uwu's your chat.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
@@ -1643,13 +1636,14 @@
       "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
     ],
     "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png",
+    "Punchline": "owo for your chat",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 32274,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1629723118",
+    "LastUpdate": "1643261858",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/owofy?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/owofy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/owofy/latest.zip"
@@ -2303,7 +2297,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.3.1",
+    "AssemblyVersion": "0.4.3.3",
     "DalamudApiLevel": 5,
     "Tags": [
       "Sonar",
@@ -2328,11 +2322,13 @@
       "https://assets.ffxivsonar.com/dalamud/image4.png",
       "https://assets.ffxivsonar.com/dalamud/image5.png"
     ],
+    "AcceptsFeedback": false,
+    "FeedbackWebhook": "(not used)",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 1485,
-    "LastUpdate": "1641824982",
+    "LastUpdate": "1643261973",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SonarPlugin/latest.zip"
@@ -2854,7 +2850,7 @@
     "Author": "daemitus",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.0.11",
+    "AssemblyVersion": "0.0.0.12",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -2866,7 +2862,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13409,
-    "LastUpdate": "1638845719",
+    "LastUpdate": "1643254942",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ZodiacBuddy/latest.zip"
