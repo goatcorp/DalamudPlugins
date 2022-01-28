@@ -2359,7 +2359,7 @@
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.5.5.0",
+    "AssemblyVersion": "1.5.6.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -2372,13 +2372,13 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15837,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1639773316",
+    "LastUpdate": "1643398560",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SoundSetter/latest.zip"
