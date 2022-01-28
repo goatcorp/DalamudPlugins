@@ -2,7 +2,7 @@
   "Author": "necoz (prev. ascclemens)",
   "Name": "HUD Manager",
   "InternalName": "HUDManager",
-  "AssemblyVersion": "2.2.0.0",
+  "AssemblyVersion": "2.2.1.0",
   "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Edit HUD elements precisely without /hudlayout\n- Export and import layouts",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
