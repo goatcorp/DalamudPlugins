@@ -2485,7 +2485,7 @@
     "Author": "attick & perchbird",
     "Name": "Title Edit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.2.5.1",
+    "AssemblyVersion": "2.2.6.0",
     "Description": "Create your own custom title screen of your favorite location in-game, and open the game right up to that spot every time.\nIncludes a number of preinstalled title screens for you to use or get inspiration from, and an easy to use importer to\nuse title screens that others have shared!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
@@ -2500,7 +2500,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1640365369",
+    "LastUpdate": "1643664644",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TitleEdit/latest.zip"
