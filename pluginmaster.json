@@ -3404,6 +3404,25 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
   },
   {
+    "Author": "perchbird",
+    "Name": "ResLogger2.Plugin",
+    "InternalName": "ResLogger2.Plugin",
+    "AssemblyVersion": "0.0.1.1",
+    "Description": "A path logger with optional crowdsourcing functionality.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lmcintyre/reslogger2",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 69421,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.1.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1643593822",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ResLogger2.Plugin/latest.zip"
+  },
+  {
     "Author": "Dragon",
     "Name": "Side HUD",
     "InternalName": "SideHUDPlugin",
