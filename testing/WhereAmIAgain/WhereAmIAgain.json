@@ -2,8 +2,8 @@
   "Author": "cassandra308",
   "Name": "Where am I again?",
   "InternalName": "WhereAmIAgain",
-  "AssemblyVersion": "0.0.0.5",
-  "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia. Does not play nicely with Orchestrion Plugin when the 'Show current song in the server info UI element in-game' is enabled, since it uses the same element.",
+  "AssemblyVersion": "0.0.0.6",
+  "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
   "Tags": [
