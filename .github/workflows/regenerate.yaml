@@ -37,6 +37,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ steps.extract_branch.outputs.branch }}
       - name: Clear Web Services cache
-        run: curl --fail https://kamori.goats.dev/Plugin/ClearCache?key=$CACHE_CLEAR_KEY
+        run: curl --fail https://kamori.goats.dev/Plugin/ClearCache?key=$env:CACHE_CLEAR_KEY
         env:
           CACHE_CLEAR_KEY: ${{ secrets.CACHE_CLEAR_KEY }}
