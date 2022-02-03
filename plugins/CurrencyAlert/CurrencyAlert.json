@@ -2,15 +2,17 @@
   "Author": "Lharz",
   "Name": "Currency Alert",
   "InternalName": "CurrencyAlert",
-  "AssemblyVersion": "0.2.2.0",
+  "AssemblyVersion": "0.3.1.0",
   "Description": "/currencyalert: show the configuration panel.",
   "ApplicableVersion": "any",
   "Tags": [
     "plugin",
     "currency",
-    "tomestones"
+    "tomestones",
+    "utility",
+    "other"
   ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Configure alerts thresholds for various currencies."
+  "Punchline": "Lets you setup alerts upon reaching certain currencies amount (such as Poetics or PVP marks)."
 }
