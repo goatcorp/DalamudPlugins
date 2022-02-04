@@ -433,7 +433,7 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.0.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 15872,
     "LastUpdate": "1643802898",
@@ -926,7 +926,7 @@
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.5.1.0",
+    "AssemblyVersion": "1.6.0.0",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
@@ -939,7 +939,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1642238746",
+    "LastUpdate": "1643959183",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FPSPlugin/latest.zip"
@@ -2779,7 +2779,7 @@
     "Author": "daemitus",
     "Name": "ezWondrousTails",
     "InternalName": "WondrousTailsSolver",
-    "AssemblyVersion": "2.1.0.3",
+    "AssemblyVersion": "2.1.1.0",
     "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
@@ -2796,7 +2796,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1638846479",
+    "LastUpdate": "1643945066",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WondrousTailsSolver/latest.zip"
@@ -3153,7 +3153,7 @@
     "Author": "necoz (prev. ascclemens)",
     "Name": "HUD Manager",
     "InternalName": "HUDManager",
-    "AssemblyVersion": "2.2.1.0",
+    "AssemblyVersion": "2.2.2.0",
     "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Edit HUD elements precisely without /hudlayout\n- Export and import layouts",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
@@ -3161,9 +3161,9 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.2.1.0",
+    "TestingAssemblyVersion": "2.2.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1643334908",
+    "LastUpdate": "1643930840",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HUDManager/latest.zip"
