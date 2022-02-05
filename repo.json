@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Nana",
+    "Name": "NoEmoteWalls",
+    "Description": "Filters out emote chat messages caused by other players unless the player is targeting you. Works for EN only.",
+    "InternalName": "NoEmoteWalls",
+    "AssemblyVersion": "1.4.1",
+    "RepoUrl": "https://github.com/NadyaNayme/NoEmoteWalls",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Chat",
+     "Filter",
+     "Emote",
+     "Spam"
+    ],
+    "DalamudApiLevel": 5,
+    "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/NoEmoteWalls/master/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1644076610,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/NadyaNayme/NoEmoteWalls/blob/master/Release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NadyaNayme/NoEmoteWalls/blob/master/Release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NadyaNayme/NoEmoteWalls/blob/master/Release/latest.zip"
+  }
+]
