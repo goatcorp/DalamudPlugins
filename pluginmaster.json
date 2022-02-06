@@ -1150,7 +1150,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.2.1.1",
+    "AssemblyVersion": "1.2.1.2",
     "Tags": [
       "UI",
       "Bars"
@@ -1164,7 +1164,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1643142282",
+    "LastUpdate": "1644177325",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobBars/latest.zip"
@@ -2590,7 +2590,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.0.3",
+    "AssemblyVersion": "1.6.0.4",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2605,7 +2605,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1641154154",
+    "LastUpdate": "1644177380",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VFXEditor/latest.zip"
