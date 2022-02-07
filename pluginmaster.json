@@ -433,6 +433,7 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 15872,
     "LastUpdate": "1644059616",
@@ -3448,7 +3449,7 @@
     "Author": "rennerdo30",
     "Name": "SimpleCompare",
     "InternalName": "SimpleCompare",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "Show simple item comparison when pressing SHIFT and hovering over item",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3461,9 +3462,9 @@
     "RepoUrl": "https://github.com/Rennerdo30/ffxiv-simplecompare",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.2",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1642423255",
+    "LastUpdate": "1644226707",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleCompare/latest.zip"
