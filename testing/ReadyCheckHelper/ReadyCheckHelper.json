@@ -4,11 +4,12 @@
   "Punchline": "Extends the game's built-in ready check.",
   "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check.",
   "InternalName": "ReadyCheckHelper",
-  "AssemblyVersion": "0.9.0.0",
+  "AssemblyVersion": "0.9.1.0",
   "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
   "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
   "ImageUrls": [
-  	"https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png"
+    "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
+    "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
   ],
   "ApplicableVersion": "any",
   "Tags": [ "Ready Check", "Ready", "Check" ],
