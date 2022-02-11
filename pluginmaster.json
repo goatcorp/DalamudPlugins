@@ -3302,6 +3302,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MPTimer/latest.zip"
   },
   {
+    "Author": "Kaminaris",
+    "Name": "NextUIPlugin",
+    "InternalName": "NextUIPlugin",
+    "AssemblyVersion": "0.4.2.0",
+    "Description": "OverlayPlugin replacement for Dalamud, works similarly to BrowserHost with addition to having more options and built in websocket server.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
+    "Punchline": "OverlayPlugin for Dalamud with built in HUD replacement",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.4.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1643352578",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NextUIPlugin/latest.zip"
+  },
+  {
     "Author": "Bluefissure",
     "Name": "No Kill Plugin",
     "Description": "A simple plugin that prevent the game from killing itself.",
@@ -3495,6 +3519,27 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleCompare/latest.zip"
+  },
+  {
+    "Author": "joshua.software.dev",
+    "Name": "Size Matters when Fishing",
+    "InternalName": "SizeMattersFishing",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Provides labels to tell exactly how large fish are and how quickly they are moving while spearfishing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/joshua-software-dev/SizeMattersFishing",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/SizeMattersFishing/master/image/icon.png",
+    "Punchline": "For the size evaluation challenged.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644444142",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SizeMattersFishing/latest.zip"
   },
   {
     "Author": "Avaflow",
