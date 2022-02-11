@@ -2,7 +2,7 @@
   "Author": "Tischel",
   "Name": "TPie",
   "InternalName": "TPie",
-  "AssemblyVersion": "1.1.0.1",
+  "AssemblyVersion": "1.2.1.1",
   "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Tischel/TPie",
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "Punchline": "Customizable ring-shaped hotbars",
-  "Changelog": "1.1.0.1\n- Fixed ring elements not being clickable on toggle mode.\n- Nested Rings elements text can now be hidden."
+  "Changelog": "1.2.1.1\n- Fixed \"Keep Previous Ring Center\" not working properly in some multi-monitor situations."
 }

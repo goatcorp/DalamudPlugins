@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.2.3",
+    "AssemblyVersion": "1.2.3.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -27,10 +27,10 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28624,
-    "LastUpdate": "1640088269",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Accountant&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 43935,
+    "LastUpdate": "1642248554",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Accountant/latest.zip"
   },
   {
@@ -50,13 +50,13 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28824,
+    "DownloadCount": 28839,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1618369127",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AccurateCountDown&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AccurateCountDown/latest.zip"
   },
   {
@@ -72,13 +72,13 @@
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 22799,
+    "DownloadCount": 30039,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639454218",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AdventurerInNeed&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AdventurerInNeed/latest.zip"
   },
   {
@@ -105,14 +105,14 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6227,
+    "DownloadCount": 8924,
     "CategoryTags": [
       "UI",
       "utility"
     ],
     "LastUpdate": "1638954948",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AutoVisor&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AutoVisor?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AutoVisor?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AutoVisor/latest.zip"
   },
   {
@@ -128,13 +128,13 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19365,
+    "DownloadCount": 23705,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638961008",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BetterPartyFinder&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BetterPartyFinder/latest.zip"
   },
   {
@@ -153,14 +153,14 @@
     "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 4114,
     "CategoryTags": [
       "UI",
       "jobs"
     ],
     "LastUpdate": "1639530678",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BigPlayerDebuffs&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
@@ -180,14 +180,42 @@
     "DalamudApiLevel": 4,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11497,
+    "DownloadCount": 11526,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1633321448",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BrowserHost.Plugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BrowserHost.Plugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BrowserHost.Plugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BrowserHost.Plugin/latest.zip"
+  },
+  {
+    "Author": "Styr1x",
+    "Name": "Browsingway",
+    "InternalName": "Browsingway",
+    "AssemblyVersion": "1.0.0.3",
+    "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Styr1x/Browsingway",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay",
+      "overlay",
+      "chromium",
+      "act"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Browser overlays rendered in-game.",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.0.2",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 3869,
+    "LastUpdate": "1643278235",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Browsingway/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -201,13 +229,13 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8175,
+    "DownloadCount": 10307,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638961008",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BurntToast&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BurntToast?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BurntToast?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BurntToast/latest.zip"
   },
   {
@@ -225,16 +253,16 @@
       "Sound"
     ],
     "InternalName": "ChatAlerts",
-    "AssemblyVersion": "2.0.0.3",
+    "AssemblyVersion": "2.0.0.4",
     "RepoUrl": "https://github.com/Ottermandias/ChatAlerts",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1639147368",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatAlerts&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatAlerts&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 743,
+    "LastUpdate": "1643844862",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatAlerts/latest.zip"
   },
   {
@@ -258,13 +286,13 @@
     "Changelog": "Fixed custom emotes (again). Added better colour picker ui.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 116218,
+    "DownloadCount": 141634,
     "CategoryTags": [
       "social"
     ],
     "LastUpdate": "1639447283",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatBubbles&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatBubbles/latest.zip"
   },
   {
@@ -283,14 +311,14 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28035,
+    "DownloadCount": 31734,
     "CategoryTags": [
       "social",
       "utility"
     ],
     "LastUpdate": "1638878909",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatCoordinates&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatCoordinates?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatCoordinates?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatCoordinates/latest.zip"
   },
   {
@@ -312,13 +340,13 @@
     "DalamudApiLevel": 1,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2658,
+    "DownloadCount": 2674,
     "CategoryTags": [
       "social"
     ],
     "LastUpdate": "1594007235",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatExtender&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatExtender?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatExtender?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatExtender/latest.zip"
   },
   {
@@ -333,10 +361,10 @@
     "Punchline": "This is still mostly a dev tool for debugging, but people like it?",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 918,
+    "DownloadCount": 1607,
     "LastUpdate": "1638646309",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTyper&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTyper/latest.zip"
   },
   {
@@ -353,14 +381,65 @@
     "Changelog": "- Add 'Crafting (Synthesis)' window to hiding options\n- Add option to not prio MouseOver targets for target distance",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9420,
+    "DownloadCount": 14380,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639934024",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Compass&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Compass/latest.zip"
+  },
+  {
+    "Author": "Lharz",
+    "Name": "Currency Alert",
+    "InternalName": "CurrencyAlert",
+    "AssemblyVersion": "0.3.1.0",
+    "Description": "/currencyalert: show the configuration panel.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "currency",
+      "tomestones",
+      "utility",
+      "other"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Lets you setup alerts upon reaching certain currencies amount (such as Poetics or PVP marks).",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1877,
+    "LastUpdate": "1642883059",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
+  },
+  {
+    "Author": "MidoriKami",
+    "Name": "Daily Duty",
+    "InternalName": "DailyDuty",
+    "AssemblyVersion": "1.0.1.7",
+    "Description": "Automatically track and complete many daily and weekly tasks.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
+    "Tags": [
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Easily Track Daily and Weekly tasks.",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.2.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 15872,
+    "LastUpdate": "1644562541",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DailyDuty/latest.zip"
   },
   {
     "Author": "goat",
@@ -377,20 +456,20 @@
     "Punchline": "Sync your character data from your main character to all others",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35470,
+    "DownloadCount": 45843,
     "CategoryTags": [
       "utility"
     ],
     "LastUpdate": "1639440077",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.CharacterSync&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.CharacterSync/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.1.2",
+    "AssemblyVersion": "1.2.2.1",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -404,20 +483,20 @@
     "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20181,
+    "DownloadCount": 27254,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1638628727",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.DiscordBridge&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1641848530",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.DiscordBridge/latest.zip"
   },
   {
     "Author": "goat",
     "Name": "Wotsit",
     "InternalName": "Dalamud.FindAnything",
-    "AssemblyVersion": "1.0.0.9",
+    "AssemblyVersion": "1.0.1.3",
     "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
     "ApplicableVersion": "any",
     "Tags": [
@@ -430,10 +509,10 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14739,
-    "LastUpdate": "1640689509",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.FindAnything&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 26899,
+    "LastUpdate": "1640994777",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.FindAnything/latest.zip"
   },
   {
@@ -448,20 +527,20 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 59850,
+    "DownloadCount": 76041,
     "CategoryTags": [
       "other"
     ],
     "LastUpdate": "1638635117",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.LoadingImage&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.LoadingImage/latest.zip"
   },
   {
     "Author": "goat",
     "Name": "Discord Rich Presence",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.2",
     "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -470,15 +549,16 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Show your zone, job, level, name, and world in your Discord status",
+    "Changelog": "* Added party grouping support, will show people you group with on Discord if they also use the plugin\n* Now shows AFK status by default, can be disabled\n* Now shows queue position if Waitingway is installed",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 51228,
+    "DownloadCount": 79315,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1638630367",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Dalamud.RichPresence&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642431142",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.RichPresence/latest.zip"
   },
   {
@@ -498,20 +578,20 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37,
+    "DownloadCount": 49,
     "CategoryTags": [
       "utility"
     ],
     "LastUpdate": "1604857638",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DalamudVox&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DalamudVox?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DalamudVox?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DalamudVox/latest.zip"
   },
   {
     "Author": "perchbird",
     "Name": "Damage Info",
     "InternalName": "DamageInfoPlugin",
-    "AssemblyVersion": "1.3.8.2",
+    "AssemblyVersion": "2.0.1.1",
     "Description": "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
@@ -520,13 +600,13 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 63757,
+    "DownloadCount": 136175,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638750765",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DamageInfoPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642789181",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DamageInfoPlugin/latest.zip"
   },
   {
@@ -547,14 +627,62 @@
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36737,
+    "DownloadCount": 43042,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638988487",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DeepDungeonDex&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeepDungeonDex/latest.zip"
+  },
+  {
+    "Author": "jdsmith2816",
+    "Name": "DelvUI",
+    "InternalName": "DelvUI",
+    "AssemblyVersion": "1.0.1.2",
+    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/delvui/delvui",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "A modern HUD replacement built for customization.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 109648,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1644498959",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
+  },
+  {
+    "Author": "PGGB",
+    "Name": "DeviceChangeFix",
+    "InternalName": "DeviceChangeFix",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Stops controller input from freezing randomly.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PGGB/DeviceChangeFix",
+    "Tags": [
+      "fix",
+      "gamepad"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Stops controller input from freezing randomly.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 179,
+    "LastUpdate": "1643902731",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeviceChangeFix/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -573,13 +701,13 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10797,
+    "DownloadCount": 15081,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639204156",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EasyEyes&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EasyEyes?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EasyEyes?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EasyEyes/latest.zip"
   },
   {
@@ -607,20 +735,20 @@
     "Punchline": "Dialogue and other in-game text translations? Yes we have!\nKnown Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8249,
+    "DownloadCount": 12380,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639361798",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Echoglossian&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Echoglossian?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Echoglossian?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Echoglossian/latest.zip"
   },
   {
     "Author": "Felys",
     "Name": "EnemyListDebuffs",
     "InternalName": "EnemyListDebuffs",
-    "AssemblyVersion": "0.3.0.1",
+    "AssemblyVersion": "0.3.1.0",
     "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
@@ -628,20 +756,20 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7222,
+    "DownloadCount": 22785,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640508962",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EnemyListDebuffs&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643130616",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EnemyListDebuffs/latest.zip"
   },
   {
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.1.1.4",
+    "AssemblyVersion": "2.2.0.1",
     "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
@@ -666,10 +794,10 @@
     "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18535,
-    "LastUpdate": "1638749711",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=EngageTimer&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 57271,
+    "LastUpdate": "1644582211",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/EngageTimer/latest.zip"
   },
   {
@@ -685,13 +813,13 @@
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17832,
+    "DownloadCount": 21107,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638862474",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ExpandedSearchInfo&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ExpandedSearchInfo/latest.zip"
   },
   {
@@ -700,7 +828,7 @@
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
     "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.0.2.2",
+    "AssemblyVersion": "1.0.3.0",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -710,32 +838,11 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/faderPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9865,
-    "LastUpdate": "1640099406",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=faderPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 17377,
+    "LastUpdate": "1641391914",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/faderPlugin/latest.zip"
-  },
-  {
-    "Author": "BiscuitUmU, Kazumi",
-    "Name": "Fantasy Player",
-    "InternalName": "FantasyPlayer.Dalamud",
-    "AssemblyVersion": "2.2.0.0",
-    "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
-    "DalamudApiLevel": 3,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 1785,
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1621021219",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FantasyPlayer.Dalamud&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FantasyPlayer.Dalamud/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -754,20 +861,20 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31778,
+    "DownloadCount": 36998,
     "CategoryTags": [
       "minigames"
     ],
     "LastUpdate": "1638847408",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FauxHollowsSolver&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FauxHollowsSolver?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FauxHollowsSolver?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FauxHollowsSolver/latest.zip"
   },
   {
     "Author": "CFG",
     "Name": "FC Name Color",
     "InternalName": "FCNameColor",
-    "AssemblyVersion": "2.0.2.3",
+    "AssemblyVersion": "2.0.2.4",
     "Description": "Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
@@ -787,10 +894,10 @@
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36027,
-    "LastUpdate": "1638805596",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FCNameColor&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 57067,
+    "LastUpdate": "1642684535",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FCNameColor/latest.zip"
   },
   {
@@ -805,14 +912,14 @@
     "Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7947,
+    "DownloadCount": 11136,
     "CategoryTags": [
       "social",
       "utility"
     ],
     "LastUpdate": "1638646166",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlashOnTell&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FlashOnTell?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FlashOnTell?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FlashOnTell/latest.zip"
   },
   {
@@ -829,20 +936,20 @@
     "Changelog": "Fixed an issue with fly text types after Endwalker. If you have already made changes around weird type issues, you will have to undo them, sorry about that.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 667,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639096147",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FlyTextFilter&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FlyTextFilter/latest.zip"
   },
   {
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.5.0.1",
+    "AssemblyVersion": "1.6.0.0",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
@@ -851,13 +958,13 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45388,
+    "DownloadCount": 82813,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640649590",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=FPSPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643959183",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FPSPlugin/latest.zip"
   },
   {
@@ -875,7 +982,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.2.1.4",
+    "AssemblyVersion": "2.2.1.5",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -884,13 +991,13 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 112313,
+    "DownloadCount": 139090,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1640443396",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1644183412",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
   },
   {
@@ -907,20 +1014,20 @@
     "Changelog": "Update to API 5 and EW + Now works with DS4 (maybe even DS5?) thanks to the game adding support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1731,
+    "DownloadCount": 2548,
     "CategoryTags": [
       "utility"
     ],
     "LastUpdate": "1639058444",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GentleTouch&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GentleTouch?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GentleTouch?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GentleTouch/latest.zip"
   },
   {
     "Author": "ascclemens",
     "Name": "Glamaholic",
     "InternalName": "Glamaholic",
-    "AssemblyVersion": "1.9.2.0",
+    "AssemblyVersion": "1.9.3.0",
     "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Glamaholic",
@@ -929,10 +1036,10 @@
     "Punchline": "Save and swap your glamour plates.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1639965094",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Glamaholic&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 2786,
+    "LastUpdate": "1641788633",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Glamaholic/latest.zip"
   },
   {
@@ -948,13 +1055,13 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 79330,
+    "DownloadCount": 98190,
     "CategoryTags": [
       "utility"
     ],
     "LastUpdate": "1638836667",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Globetrotter&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Globetrotter?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Globetrotter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Globetrotter/latest.zip"
   },
   {
@@ -970,14 +1077,14 @@
     "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 85270,
+    "DownloadCount": 102890,
     "CategoryTags": [
       "UI",
       "utility"
     ],
     "LastUpdate": "1638836667",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GoodMemory&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GoodMemory?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GoodMemory?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GoodMemory/latest.zip"
   },
   {
@@ -1005,22 +1112,22 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17350,
+    "DownloadCount": 23004,
     "CategoryTags": [
       "jobs",
       "utility",
       "sound"
     ],
     "LastUpdate": "1640536871",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=HarpHero&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HarpHero?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HarpHero?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HarpHero/latest.zip"
   },
   {
     "Author": "perchbird",
     "Name": "Housemate",
     "InternalName": "Housemate",
-    "AssemblyVersion": "1.0.2.3",
+    "AssemblyVersion": "1.0.2.4",
     "Description": "Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you're looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you're interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \"glitching\" housing items.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/Housemate",
@@ -1029,20 +1136,20 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18701,
+    "DownloadCount": 27982,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638751839",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Housemate&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1641913135",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Housemate?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Housemate?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Housemate/latest.zip"
   },
   {
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.8.2.2",
+    "AssemblyVersion": "1.9.0.0",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
@@ -1051,14 +1158,14 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 71195,
+    "DownloadCount": 99928,
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1639212136",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ItemSearchPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1644387133",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemSearchPlugin/latest.zip"
   },
   {
@@ -1067,7 +1174,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.1.2",
     "Tags": [
       "UI",
       "Bars"
@@ -1077,13 +1184,13 @@
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 47154,
+    "DownloadCount": 110748,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1639543599",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1644177325",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobBars/latest.zip"
   },
   {
@@ -1098,20 +1205,20 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25887,
+    "DownloadCount": 25908,
     "CategoryTags": [
       "jobs"
     ],
     "LastUpdate": "1618736205",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobIcons&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JobIcons?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JobIcons?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobIcons/latest.zip"
   },
   {
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.3.0.0",
+    "AssemblyVersion": "1.3.3.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1126,14 +1233,14 @@
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 23864,
+    "DownloadCount": 44162,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638851093",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Kapture&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642286541",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Kapture?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Kapture?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/latest.zip"
   },
   {
@@ -1150,13 +1257,13 @@
     "Changelog": "Endwalker update, added option to disable reddening of the portrait when taking damage or low on HP.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 1277,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639032150",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=KingdomHeartsPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/KingdomHeartsPlugin/latest.zip"
   },
   {
@@ -1172,13 +1279,13 @@
     "Punchline": "Run multiple macros one after the other.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 1376,
     "CategoryTags": [
       "utility"
     ],
     "LastUpdate": "1639002272",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MacroChain&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MacroChain?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MacroChain?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MacroChain/latest.zip"
   },
   {
@@ -1193,7 +1300,7 @@
     "Changelog": null,
     "Tags": null,
     "InternalName": "MapLinker",
-    "AssemblyVersion": "1.1.3.0",
+    "AssemblyVersion": "1.1.4.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "ApplicableVersion": "any",
@@ -1206,13 +1313,13 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17845,
+    "DownloadCount": 25845,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639457252",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MapLinker&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642815228",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MapLinker?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MapLinker?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MapLinker/latest.zip"
   },
   {
@@ -1229,14 +1336,14 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.5.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 112594,
+    "DownloadCount": 144491,
     "CategoryTags": [
       "UI",
       "inventory"
     ],
     "LastUpdate": "1639525582",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MarketBoardPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MarketBoardPlugin/latest.zip"
   },
   {
@@ -1251,10 +1358,10 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 586,
     "LastUpdate": "1638648748",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Mini&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Mini&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Mini/latest.zip"
   },
   {
@@ -1275,13 +1382,13 @@
     "Punchline": "Shows the next best move in Mini Cactpot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 96426,
+    "DownloadCount": 118786,
     "CategoryTags": [
       "minigames"
     ],
     "LastUpdate": "1638847155",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MiniCactpotSolver&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MiniCactpotSolver?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MiniCactpotSolver?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MiniCactpotSolver/latest.zip"
   },
   {
@@ -1290,30 +1397,31 @@
     "Punchline": "Mo' actions no problems",
     "Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
     "InternalName": "MOAction",
-    "AssemblyVersion": "4.0.11",
+    "AssemblyVersion": "4.2.4",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
     "Tags": [
       "Mouseover",
       "Macro"
     ],
-    "DalamudApiLevel": 4,
-    "IsHide": "True",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27222,
+    "DownloadCount": 50605,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1634667547",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MOAction&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1641147771",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MOAction?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MOAction?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MOAction/latest.zip"
   },
   {
     "Author": "Marconsou",
     "Name": "MP Tick Bar",
     "InternalName": "MPTickBar",
-    "AssemblyVersion": "1.4.0.2",
+    "AssemblyVersion": "1.4.0.4",
     "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
@@ -1330,35 +1438,35 @@
     "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6803,
+    "DownloadCount": 15830,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1640561883",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTickBar&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642465738",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MPTickBar/latest.zip"
   },
   {
-    "Author": "aers",
+    "Author": "aers, JHerig",
     "Name": "NamePlateDebuffs",
     "InternalName": "NamePlateDebuffs",
-    "AssemblyVersion": "0.5.0.0",
+    "AssemblyVersion": "0.5.1.0",
     "Description": "Displays your debuffs on enemy nameplates.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
-    "DalamudApiLevel": 4,
+    "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 2205,
     "CategoryTags": [
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1633269106",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1641262251",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NamePlateDebuffs?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NamePlateDebuffs?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NamePlateDebuffs/latest.zip"
   },
   {
@@ -1374,21 +1482,21 @@
     "Punchline": "Rename abilities and status effects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 553,
     "CategoryTags": [
       "UI",
       "jobs"
     ],
     "LastUpdate": "1640242492",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Namingway&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Namingway&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Namingway?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Namingway?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Namingway/latest.zip"
   },
   {
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.1.1.0",
+    "AssemblyVersion": "2.1.4.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1404,13 +1512,13 @@
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30609,
+    "DownloadCount": 49358,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639412685",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NeatNoter&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642286821",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NeatNoter/latest.zip"
   },
   {
@@ -1426,21 +1534,21 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44570,
+    "DownloadCount": 48338,
     "CategoryTags": [
       "UI",
       "social"
     ],
     "LastUpdate": "1638836667",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoSoliciting&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoSoliciting/latest.zip"
   },
   {
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "2.3.1.1",
+    "AssemblyVersion": "3.0.0.2",
     "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
@@ -1458,17 +1566,17 @@
     "Punchline": "Warns you if players are missing critical role actions",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36186,
-    "LastUpdate": "1640639855",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoTankYou&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 97682,
+    "LastUpdate": "1643442382",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoTankYou/latest.zip"
   },
   {
     "Author": "Eternita",
     "Name": "NotificationMaster",
     "InternalName": "NotificationMaster",
-    "AssemblyVersion": "2.0.0.7",
+    "AssemblyVersion": "2.0.1.0",
     "Description": "Notifies you about various events while your game is minimized.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/NotificationMaster",
@@ -1478,12 +1586,12 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.8",
+    "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1638772478",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NotificationMaster&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 1077,
+    "LastUpdate": "1642684313",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NotificationMaster/latest.zip"
   },
   {
@@ -1500,20 +1608,20 @@
     "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 38150,
+    "DownloadCount": 47920,
     "CategoryTags": [
       "other"
     ],
     "LastUpdate": "1639300451",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OopsAllLalafells&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OopsAllLalafells?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OopsAllLalafells?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/latest.zip"
   },
   {
     "Author": "Meli & perchbird",
     "Name": "Orchestrion Plugin",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.7.0.2",
+    "AssemblyVersion": "1.7.1.0",
     "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
@@ -1526,30 +1634,23 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 62385,
+    "DownloadCount": 92676,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1640291165",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=orchestrion&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643664752",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/orchestrion?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/orchestrion?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/orchestrion/latest.zip"
   },
   {
-    "Disabled": true,
-    "Testing": false,
-    "InstalledFromUrl": null,
     "Author": "goat, modded by Franz",
-    "Name": "owo plugin",
-    "Punchline": "owo for your chat",
-    "Description": "This plugin uwu's your chat.",
-    "Tags": null,
+    "Name": "OwO",
     "InternalName": "owofy",
-    "AssemblyVersion": "1.4.0.0",
-    "TestingAssemblyVersion": null,
-    "RepoUrl": null,
+    "AssemblyVersion": "1.4.1.0",
+    "Description": "This plugin uwu's your chat.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
@@ -1559,15 +1660,16 @@
       "https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
     ],
     "IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png",
+    "Punchline": "owo for your chat",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32272,
+    "DownloadCount": 33992,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1629723118",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=owofy&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643261858",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/owofy?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/owofy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/owofy/latest.zip"
   },
   {
@@ -1576,7 +1678,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.1",
     "DalamudApiLevel": "5",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
     "ApplicableVersion": "any",
@@ -1592,17 +1694,17 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10276,
-    "LastUpdate": "1639736216",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyIcons&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 24787,
+    "LastUpdate": "1640967576",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyIcons/latest.zip"
   },
   {
     "Author": "MgAl2O4",
     "Name": "Pat Me",
     "InternalName": "PatMe",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.0.2",
     "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/PatMeDalamud",
@@ -1619,10 +1721,10 @@
     "Punchline": "Pat counter",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1639579404",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PatMe&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PatMe&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 7432,
+    "LastUpdate": "1643154896",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PatMe/latest.zip"
   },
   {
@@ -1638,14 +1740,14 @@
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 103737,
+    "DownloadCount": 120400,
     "CategoryTags": [
       "UI",
       "social"
     ],
     "LastUpdate": "1638862474",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PeepingTom&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PeepingTom?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PeepingTom?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PeepingTom/latest.zip"
   },
   {
@@ -1671,20 +1773,20 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 69651,
+    "DownloadCount": 82161,
     "CategoryTags": [
       "inventory"
     ],
     "LastUpdate": "1638827709",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PennyPincher&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PennyPincher/latest.zip"
   },
   {
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "1.15.1.0",
+    "AssemblyVersion": "2.2.0.3",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -1703,13 +1805,13 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 122534,
+    "DownloadCount": 267919,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640024997",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PingPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643883606",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PingPlugin/latest.zip"
   },
   {
@@ -1736,13 +1838,13 @@
     "Changelog": "Updated for Endwalker.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 72560,
+    "DownloadCount": 89548,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1639273417",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PixelPerfect&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PixelPerfect/latest.zip"
   },
   {
@@ -1771,17 +1873,17 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9114,
+    "DownloadCount": 15511,
     "LastUpdate": "1640629879",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTags&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTags/latest.zip"
   },
   {
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.4.1.0",
+    "AssemblyVersion": "2.4.4.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1801,14 +1903,14 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 34105,
+    "DownloadCount": 48293,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1639933009",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PlayerTrack&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642473433",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PlayerTrack/latest.zip"
   },
   {
@@ -1824,13 +1926,13 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9154,
+    "DownloadCount": 10378,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638751129",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PrefPro&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PrefPro?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PrefPro?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PrefPro/latest.zip"
   },
   {
@@ -1856,13 +1958,13 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 82696,
+    "DownloadCount": 96496,
     "CategoryTags": [
       "inventory"
     ],
     "LastUpdate": "1638850779",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PriceCheck&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PriceCheck/latest.zip"
   },
   {
@@ -1887,10 +1989,10 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 33880,
+    "DownloadCount": 40489,
     "LastUpdate": "1638835717",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QoLBar&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QoLBar/latest.zip"
   },
   {
@@ -1906,13 +2008,13 @@
     "Punchline": "Explore quests and their rewards.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 1190,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638836667",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Quest Map&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Quest Map?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Quest Map?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Quest Map/latest.zip"
   },
   {
@@ -1928,13 +2030,13 @@
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7638,
+    "DownloadCount": 13891,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1640480636",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuestAWAY&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuestAWAY/latest.zip"
   },
   {
@@ -1955,10 +2057,10 @@
     "Punchline": "Simmer does the light before every login.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 345,
     "LastUpdate": "1640326609",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=QuoteOfTheLobby&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuoteOfTheLobby/latest.zip"
   },
   {
@@ -1974,13 +2076,13 @@
     "Punchline": "Cooldown and Status tracking.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30367,
+    "DownloadCount": 30396,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1633186612",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemindMe&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemindMe?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemindMe?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RemindMe/latest.zip"
   },
   {
@@ -1996,10 +2098,10 @@
     "Punchline": "Crowdsourced PF website (upload PF listings to xivpf.com)",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 100,
     "LastUpdate": "1638862474",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemotePartyFinder&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RemotePartyFinder&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RemotePartyFinder/latest.zip"
   },
   {
@@ -2030,13 +2132,13 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15748,
+    "DownloadCount": 25722,
     "CategoryTags": [
       "inventory"
     ],
     "LastUpdate": "1639014047",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RepairMe&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RepairMe/latest.zip"
   },
   {
@@ -2059,13 +2161,13 @@
     "Punchline": "Add a reset striking dummy enmity command.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 713,
     "CategoryTags": [
       "jobs"
     ],
     "LastUpdate": "1639267622",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Reset enmity command&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Reset enmity command?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Reset enmity command?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Reset enmity command/latest.zip"
   },
   {
@@ -2094,20 +2196,20 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 40061,
+    "DownloadCount": 46609,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638954948",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=RezPls&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/RezPls/latest.zip"
   },
   {
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.3.2.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
@@ -2123,41 +2225,40 @@
     "Punchline": "Make chat more fun with translations like pirate and urianger.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 334,
     "CategoryTags": [
       "other",
       "social"
     ],
-    "LastUpdate": "1639321208",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SillyChat&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1640967381",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SillyChat?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SillyChat?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
   },
   {
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.6.0",
-    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
+    "AssemblyVersion": "1.6.7.1",
+    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "This was supposed to be simple...",
-    "Changelog": "1.6.6.0\n- [Hide Mouse After Inactivity] Fixed showing gamepad cursor when hiding mouse.\n- [Chat Name Colour] Added colour picker instead of number input.\n- [Large Cooldown Counter] Removed Simple Mode\n- [Custom Free Company Tags] Italic Support\n- [Custom Free Company Tags] Allow for any icon.\n- [Adjust Equipment Positions] Fixed position of glamour error icons.\n- [Fix Target] Fix bug causing tweak to attempt targeting untargetable objects.\n- [Auto Open Loot Window] Fixed loot window opening during cutscenes.\n- New Experimental Tweak: Character Window Job Switcher - Click jobs in the Character window to switch.\n- New Tweak: Show Process ID Command\n- New Tweak: Duplicate Keybind Hints Between Hotbars",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 375698,
+    "DownloadCount": 516493,
     "CategoryTags": [
       "UI",
       "other",
       "utility",
       "social"
     ],
-    "LastUpdate": "1640245186",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SimpleTweaksPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643973765",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
   },
   {
@@ -2176,13 +2277,13 @@
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 558,
     "CategoryTags": [
       "utility"
     ],
     "LastUpdate": "1639203582",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SkillSwap&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SkillSwap?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SkillSwap?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SkillSwap/latest.zip"
   },
   {
@@ -2204,13 +2305,13 @@
     "DalamudApiLevel": 3,
     "IsHide": "True",
     "IsTestingExclusive": "False",
-    "DownloadCount": 46923,
+    "DownloadCount": 46925,
     "CategoryTags": [
       "jobs"
     ],
     "LastUpdate": "1618376375",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SlideCast&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SlideCast?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SlideCast?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SlideCast/latest.zip"
   },
   {
@@ -2220,7 +2321,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.2.5",
+    "AssemblyVersion": "0.4.3.4",
     "DalamudApiLevel": 5,
     "Tags": [
       "Sonar",
@@ -2245,13 +2346,15 @@
       "https://assets.ffxivsonar.com/dalamud/image4.png",
       "https://assets.ffxivsonar.com/dalamud/image5.png"
     ],
+    "AcceptsFeedback": false,
+    "FeedbackWebhook": "(not used)",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1640077856",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 20302,
+    "LastUpdate": "1644205074",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SonarPlugin/latest.zip"
   },
   {
@@ -2267,20 +2370,20 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6489,
+    "DownloadCount": 8778,
     "CategoryTags": [
       "sound"
     ],
     "LastUpdate": "1638961950",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundFilter&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundFilter?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundFilter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SoundFilter/latest.zip"
   },
   {
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.5.5.0",
+    "AssemblyVersion": "1.5.6.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -2295,13 +2398,13 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13998,
+    "DownloadCount": 19766,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1639773316",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SoundSetter&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643398560",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SoundSetter/latest.zip"
   },
   {
@@ -2317,14 +2420,14 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57676,
+    "DownloadCount": 63680,
     "CategoryTags": [
       "UI",
       "utility"
     ],
     "LastUpdate": "1639062758",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TeleporterPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TeleporterPlugin/latest.zip"
   },
   {
@@ -2340,20 +2443,20 @@
     "Punchline": "Allows replacing every text box with the background of your choice.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8136,
+    "DownloadCount": 9508,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638961008",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextBoxStyler&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TextBoxStyler/latest.zip"
   },
   {
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.9.13.0",
+    "AssemblyVersion": "1.10.2.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -2371,13 +2474,13 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.9.12.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11151,
+    "DownloadCount": 15132,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640659618",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TextToTalk&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1644083124",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TextToTalk/latest.zip"
   },
   {
@@ -2393,20 +2496,20 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24695,
+    "DownloadCount": 28500,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1638862474",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TheGreatSeparator&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TheGreatSeparator/latest.zip"
   },
   {
     "Author": "attick & perchbird",
     "Name": "Title Edit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.2.5.1",
+    "AssemblyVersion": "2.2.6.0",
     "Description": "Create your own custom title screen of your favorite location in-game, and open the game right up to that spot every time.\nIncludes a number of preinstalled title screens for you to use or get inspiration from, and an easy to use importer to\nuse title screens that others have shared!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
@@ -2416,14 +2519,14 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 22066,
+    "DownloadCount": 28120,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1640365369",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TitleEdit&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643664644",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TitleEdit/latest.zip"
   },
   {
@@ -2439,21 +2542,21 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28049,
+    "DownloadCount": 37243,
     "CategoryTags": [
       "UI",
       "utility"
     ],
     "LastUpdate": "1639875299",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Tourist&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tourist?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tourist?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Tourist/latest.zip"
   },
   {
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "1.1.0.1",
+    "AssemblyVersion": "1.2.1.1",
     "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets or Macros.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
@@ -2463,13 +2566,13 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customizable ring-shaped hotbars",
-    "Changelog": "1.1.0.1\n- Fixed ring elements not being clickable on toggle mode.\n- Nested Rings elements text can now be hidden.",
+    "Changelog": "1.2.1.1\n- Fixed \"Keep Previous Ring Center\" not working properly in some multi-monitor situations.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10589,
-    "LastUpdate": "1640611392",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TPie&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 32919,
+    "LastUpdate": "1642124269",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TPie/latest.zip"
   },
   {
@@ -2496,13 +2599,13 @@
     "Punchline": "Triple triad solver",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 3382,
     "CategoryTags": [
       "minigames"
     ],
     "LastUpdate": "1638623090",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TriadBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TriadBuddy/latest.zip"
   },
   {
@@ -2511,7 +2614,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.0.1",
+    "AssemblyVersion": "1.6.0.4",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2522,20 +2625,20 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12241,
+    "DownloadCount": 17615,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639602530",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VFXEditor&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1644177380",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VFXEditor/latest.zip"
   },
   {
     "Author": "Dragon",
     "Name": "Visibility",
     "InternalName": "Visibility",
-    "AssemblyVersion": "1.1.1.2",
+    "AssemblyVersion": "1.1.1.4",
     "Description": "Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
@@ -2552,15 +2655,15 @@
     "LoadPriority": 0,
     "Punchline": "Allows you to hide players, pets, chocobos and minions.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.1.1.3",
+    "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41103,
+    "DownloadCount": 57026,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639579755",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Visibility&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1641018585",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Visibility?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Visibility?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Visibility/latest.zip"
   },
   {
@@ -2580,14 +2683,37 @@
     "DalamudApiLevel": 1,
     "IsHide": "True",
     "IsTestingExclusive": "False",
-    "DownloadCount": 742,
+    "DownloadCount": 744,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1594726916",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=VoidList&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VoidList?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VoidList?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/VoidList/latest.zip"
+  },
+  {
+    "Author": "Avaflow",
+    "Name": "Waitingway",
+    "InternalName": "Waitingway.Dalamud",
+    "AssemblyVersion": "1.2.1",
+    "Description": "Contributes and utilizes crowdsourced login queue information for the benefit of everyone.\n\nCurrent features include queue notifications via Discord, so you can know when you make it into the game, as\nwell as anonymously collecting and reporting statistics about your login queue times to crowdsource information\nabout FFXIV server load. This information will be publicly available in the future; check the Discord for updates!\n\nFuture planned features include login wait time estimates, as well as duty queue time statistics, and a website\nshowing all of this information.\n\nDiscord URL: https://discord.waitingway.com",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://waitingway.com",
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://repo.waitingway.com/waitingway.png",
+    "Punchline": "Crowdsourced FFXIV login queue times, now with Discord queue notification features.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1131,
+    "LastUpdate": "1643099947",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Waitingway.Dalamud/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -2615,38 +2741,41 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31828,
+    "DownloadCount": 40152,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1640474024",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WaymarkPresetPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WaymarkPresetPlugin/latest.zip"
   },
   {
-    "Author": "Haplo064",
+    "Author": "Haplo064, maintained by Franz",
     "Name": "WOLdo",
     "InternalName": "WheresWOLdo",
-    "AssemblyVersion": "1.3.0.1",
+    "AssemblyVersion": "1.3.3.0",
+    "Description": "Movable text overlay of the current location name.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
-    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "RepoUrl": "https://github.com/reiichi001/WheresWOLdo",
     "Tags": [
       "Location",
       "UI",
       "Overlay"
     ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Making it easier to know where you are.",
-    "Description": "Movable text overlay of the current location name.",
-    "Changelog": "Updated for API4.",
+    "Changelog": "Uses Dalamud's shiny new DtrBar for native \"server info\" bar support.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1633978616",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WheresWOLdo&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 2802,
+    "LastUpdate": "1643676018",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WheresWOLdo/latest.zip"
   },
   {
@@ -2660,20 +2789,20 @@
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 144,
     "CategoryTags": [
       "UI"
     ],
     "LastUpdate": "1640442460",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WinTitle&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WinTitle?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WinTitle?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WinTitle/latest.zip"
   },
   {
     "Author": "daemitus",
     "Name": "ezWondrousTails",
     "InternalName": "WondrousTailsSolver",
-    "AssemblyVersion": "2.1.0.3",
+    "AssemblyVersion": "2.1.1.1",
     "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
@@ -2686,13 +2815,13 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 67480,
+    "DownloadCount": 84925,
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1638846479",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WondrousTailsSolver&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643985500",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WondrousTailsSolver/latest.zip"
   },
   {
@@ -2707,13 +2836,13 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4577,
+    "DownloadCount": 5152,
     "CategoryTags": [
       "social"
     ],
     "LastUpdate": "1638862474",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVChat&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVChat?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVChat?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVChat/latest.zip"
   },
   {
@@ -2722,29 +2851,30 @@
     "Punchline": "PvP, but in PvE.",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.7.10",
+    "AssemblyVersion": "1.7.11",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
       "Combo"
     ],
+    "AcceptsFeedback": false,
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 111526,
+    "DownloadCount": 157611,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1639308150",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVCombo&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1641772079",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVCombo/latest.zip"
   },
   {
     "Author": "daemitus",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.0.11",
+    "AssemblyVersion": "0.0.0.12",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -2755,10 +2885,10 @@
     "Punchline": "Complete your Zodiac relic with style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9401,
-    "LastUpdate": "1638845719",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ZodiacBuddy&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadCount": 19035,
+    "LastUpdate": "1643254942",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ZodiacBuddy/latest.zip"
   },
   {
@@ -2780,8 +2910,8 @@
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1633893198",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ACTEndcounter&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ACTEndcounter&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ACTEndcounter/latest.zip"
   },
   {
@@ -2809,8 +2939,8 @@
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1637594482",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherCompass&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=AetherCompass&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/AetherCompass/latest.zip"
   },
   {
@@ -2837,15 +2967,15 @@
       "other"
     ],
     "LastUpdate": "1639208954",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=autoSweep&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/autoSweep/latest.zip"
   },
   {
     "Author": "Sl0nderman",
     "Name": "Blue Mage Helper",
     "InternalName": "BlueMageHelper",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Adds monster names and coordinates to the \"Where to Learn\" section of your blue mage spellbook.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/markjsosnowski/BlueMageHelper",
@@ -2857,17 +2987,17 @@
     "CategoryTags": [
       "jobs"
     ],
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/BlueMageHelper/master/icon.png",
     "Punchline": "Helps you fill our your Blue Mage Spellbook",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1635383896",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BlueMageHelper&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=BlueMageHelper&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643593973",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BlueMageHelper?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BlueMageHelper?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BlueMageHelper/latest.zip"
   },
   {
@@ -2902,27 +3032,27 @@
     "TestingAssemblyVersion": "0.1.0.2",
     "IsTestingExclusive": "True",
     "LastUpdate": "1634803020",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CharSyncPlugin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=CharSyncPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CharSyncPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CharSyncPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CharSyncPlugin/latest.zip"
   },
   {
     "Author": "Arrest Everybody",
     "Name": "ChatEmoteColor",
     "InternalName": "ChatEmoteColor",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "A simple plugin that recolors emote chat lines depending on who is executing the emote and their target.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chrisk699/ffxiv-chatemotecolor-plugin",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1636812838",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatEmoteColor&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatEmoteColor&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1642086708",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatEmoteColor?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatEmoteColor?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatEmoteColor/latest.zip"
   },
   {
@@ -2952,41 +3082,121 @@
       "social"
     ],
     "LastUpdate": "1639446947",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=ChatTranslator&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
   },
   {
-    "Author": "jdsmith2816",
-    "Name": "DelvUI",
-    "InternalName": "DelvUI",
-    "AssemblyVersion": "0.6.1.2",
-    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "Author": "Kouzukii",
+    "Name": "Death Recap",
+    "InternalName": "DeathRecap",
+    "AssemblyVersion": "1.5.0.0",
+    "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/delvui/delvui",
-    "Tags": [
-      "UI"
-    ],
+    "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.6.1.2",
+    "TestingAssemblyVersion": "1.5.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1643737819",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DeathRecap/latest.zip"
+  },
+  {
+    "Author": "BiscuitUmU, Kazumi",
+    "Name": "Fantasy Player",
+    "InternalName": "FantasyPlayer.Dalamud",
+    "AssemblyVersion": "2.9.6.1",
+    "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.9.6.1",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640445032",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=DelvUI&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DelvUI/latest.zip"
+    "LastUpdate": "1643070227",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FantasyPlayer.Dalamud/latest.zip"
+  },
+  {
+    "Author": "Fr4nsson",
+    "Name": "Hide Padlock",
+    "InternalName": "HidePadlock",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "Allows you to toggle the visibility of the padlock that is next to hotbar one.\n\nUse /padlock to toggle visibility.\nUse //padlock to open settings.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Fr4nsson/MyDalamudPlugins/tree/main/src/HidePadlock",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/plugins/HidePadlock/images/icon.png",
+    "Punchline": "Hides the padlock.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.3.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641897544",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HidePadlock?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HidePadlock?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HidePadlock/latest.zip"
+  },
+  {
+    "Author": "necoz (prev. ascclemens)",
+    "Name": "HUD Manager",
+    "InternalName": "HUDManager",
+    "AssemblyVersion": "2.2.3.0",
+    "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Make child layouts that only affect desired HUD elements\n- Change visibility of job gauges\n- Export and import layouts from text",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.2.3.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644451522",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HUDManager/latest.zip"
+  },
+  {
+    "Author": "Dragon",
+    "Name": "Hunt Buddy",
+    "InternalName": "HuntBuddy",
+    "AssemblyVersion": "0.1.2.0",
+    "Description": "A daily hunt bill tracker",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
+    "Tags": [
+      "Hunt",
+      "Daily",
+      "Utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Helps you track your daily hunt bills",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1643473167",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HuntBuddy?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HuntBuddy?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HuntBuddy/latest.zip"
   },
   {
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.7",
+    "AssemblyVersion": "1.0.0.11",
     "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
@@ -3004,16 +3214,41 @@
     "Punchline": "Clean up your sloppppy inventories.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.7",
+    "TestingAssemblyVersion": "1.0.0.11",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1638872091",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=InventoryTools&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643461425",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
+  },
+  {
+    "Author": "electr0sheep",
+    "Name": "Item Vendor Location",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
+    "Tags": [
+      "vendor",
+      "plugin",
+      "item"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Shows you where to buy vendor items",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1641940938",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemVendorLocation/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -3036,8 +3271,8 @@
     "TestingAssemblyVersion": "0.0.1.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1636336392",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MouseTargetTooltip&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MouseTargetTooltip&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MouseTargetTooltip?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MouseTargetTooltip?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MouseTargetTooltip/latest.zip"
   },
   {
@@ -3063,29 +3298,53 @@
       "jobs"
     ],
     "LastUpdate": "1629050803",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=MPTimer&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MPTimer?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MPTimer?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/MPTimer/latest.zip"
+  },
+  {
+    "Author": "Kaminaris",
+    "Name": "NextUIPlugin",
+    "InternalName": "NextUIPlugin",
+    "AssemblyVersion": "0.4.2.0",
+    "Description": "OverlayPlugin replacement for Dalamud, works similarly to BrowserHost with addition to having more options and built in websocket server.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
+    "Punchline": "OverlayPlugin for Dalamud with built in HUD replacement",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.4.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1643352578",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NextUIPlugin/latest.zip"
   },
   {
     "Author": "Bluefissure",
     "Name": "No Kill Plugin",
     "Description": "A simple plugin that prevent the game from killing itself.",
     "InternalName": "NoKillPlugin",
-    "AssemblyVersion": "1.0.3.1",
+    "AssemblyVersion": "1.0.4.3",
     "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
     "DalamudApiLevel": 5,
     "ApplicableVersion": "any",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.3.1",
+    "TestingAssemblyVersion": "1.0.4.3",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1639884264",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NoKillPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1644504653",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/NoKillPlugin/latest.zip"
   },
   {
@@ -3109,8 +3368,8 @@
     "TestingAssemblyVersion": "1.0.0.4",
     "IsTestingExclusive": "True",
     "LastUpdate": "1636869492",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OBSPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OBSPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OBSPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OBSPlugin/latest.zip"
   },
   {
@@ -3141,32 +3400,80 @@
     "TestingAssemblyVersion": "2.2.0.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1639505750",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=OceanFishin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OceanFishin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OceanFishin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OceanFishin/latest.zip"
   },
   {
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.2.1",
     "Description": "Customize the layout of the party list.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
-    "DalamudApiLevel": 4,
+    "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Customize the layout of the party list.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.2.1",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633692566",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=PartyListLayout&isUpdate=False&isTesting=True&branch=api5",
+    "LastUpdate": "1643153554",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Ready Check Helper",
+    "Punchline": "Extends the game's built-in ready check.",
+    "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check.",
+    "InternalName": "ReadyCheckHelper",
+    "AssemblyVersion": "0.9.2.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
+    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Ready Check",
+      "Ready",
+      "Check"
+    ],
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.9.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644449362",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ReadyCheckHelper/latest.zip"
+  },
+  {
+    "Author": "perchbird",
+    "Name": "ResLogger2.Plugin",
+    "InternalName": "ResLogger2.Plugin",
+    "AssemblyVersion": "0.0.1.3",
+    "Description": "A path logger with optional crowdsourcing functionality.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lmcintyre/reslogger2",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 1,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.1.3",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1643989411",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ResLogger2.Plugin/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -3186,9 +3493,54 @@
       "UI"
     ],
     "LastUpdate": "1635806954",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=SideHUDPlugin&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SideHUDPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SideHUDPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SideHUDPlugin/latest.zip"
+  },
+  {
+    "Author": "rennerdo30",
+    "Name": "SimpleCompare",
+    "InternalName": "SimpleCompare",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "Show simple item comparison when pressing SHIFT and hovering over item",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "compare",
+      "plugin"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Simple item comparison",
+    "RepoUrl": "https://github.com/Rennerdo30/ffxiv-simplecompare",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.2",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644226707",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleCompare/latest.zip"
+  },
+  {
+    "Author": "joshua.software.dev",
+    "Name": "Size Matters when Fishing",
+    "InternalName": "SizeMattersFishing",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Provides labels to tell exactly how large fish are and how quickly they are moving while spearfishing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/joshua-software-dev/SizeMattersFishing",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/SizeMattersFishing/master/image/icon.png",
+    "Punchline": "For the size evaluation challenged.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644444142",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SizeMattersFishing/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -3210,9 +3562,70 @@
     "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1618383582",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TabTab/latest.zip"
+  },
+  {
+    "Author": "Nana",
+    "Name": "Tidy Chat",
+    "InternalName": "TidyChat",
+    "AssemblyVersion": "0.0.2.9",
+    "Description": "Various chat filters for a less cluttered chat (EN Only)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
+    "Tags": [
+      "Chat",
+      "Filter",
+      "Emote",
+      "Spam"
+    ],
+    "CategoryTags": [
+      "Social"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/TidyChat/master/images/icon.png",
+    "Punchline": "Keeps your chat tidy. (EN Only)",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.2.9",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644502140",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TidyChat/latest.zip"
+  },
+  {
+    "Author": "cassandra308",
+    "Name": "Where am I again?",
+    "InternalName": "WhereAmIAgain",
+    "AssemblyVersion": "0.0.0.8",
+    "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
+    "Tags": [
+      "Area",
+      "Info",
+      "Location",
+      "Overlay",
+      "UI",
+      "Zone"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Shows what zone/region/territory you are in next to the server info.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.8",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644207778",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WhereAmIAgain/latest.zip"
   },
   {
     "Author": "Cadaeix",
@@ -3240,8 +3653,8 @@
       "UI"
     ],
     "LastUpdate": "1639111664",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=XIVLogger&isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVLogger?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVLogger?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVLogger/latest.zip"
   }
 ]

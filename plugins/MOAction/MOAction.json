@@ -4,9 +4,10 @@
 	"Punchline": "Mo' actions no problems",
 	"Description": "This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration.",
 	"InternalName": "MOAction",
-	"AssemblyVersion": "4.0.11",
+	"AssemblyVersion": "4.2.4",
 	"ApplicableVersion": "any",
 	"RepoUrl":"https://github.com/attickdoor/MOActionPlugin",
 	"Tags":["Mouseover", "Macro"],
-	"DalamudApiLevel":4
+	"AcceptsFeedback":false,
+	"DalamudApiLevel":5
 }
