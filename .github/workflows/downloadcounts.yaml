@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@v1
     - name: Update download counts
       run: |
-        wget -O downloadcounts.json https://kamori.goats.dev/Plugin/GetDownloadCounts
+        wget -O downloadcounts.json https://kamori.goats.dev/Plugin/DownloadCounts
     - name: Commit files
       continue-on-error: true
       run: |
