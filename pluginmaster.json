@@ -3432,7 +3432,7 @@
     "Punchline": "Extends the game's built-in ready check.",
     "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check.",
     "InternalName": "ReadyCheckHelper",
-    "AssemblyVersion": "0.9.2.0",
+    "AssemblyVersion": "0.9.3.0",
     "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
     "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
     "ImageUrls": [
@@ -3448,9 +3448,9 @@
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.2.0",
+    "TestingAssemblyVersion": "0.9.3.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1644449362",
+    "LastUpdate": "1644810167",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ReadyCheckHelper/latest.zip"
