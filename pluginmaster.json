@@ -441,30 +441,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DailyDuty/latest.zip"
   },
   {
-    "Author": "goat",
-    "Name": "Character Data Sync",
-    "InternalName": "Dalamud.CharacterSync",
-    "AssemblyVersion": "2.0.0.4",
-    "Description": "This plugin allows you to use your character data from your main character on all others.\n\nIn-game, use the configuration menu to choose your main character, the restart the game to start syncing!",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/goaaats/Dalamud.CharacterSync",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "IconUrl": "https://github.com/goaaats/Dalamud.CharacterSync/raw/master/res/icon.png",
-    "Punchline": "Sync your character data from your main character to all others",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 47919,
-    "CategoryTags": [
-      "utility"
-    ],
-    "LastUpdate": "1639440077",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=False&branch=api5",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.CharacterSync/latest.zip"
-  },
-  {
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
@@ -3084,6 +3060,31 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
+  },
+  {
+    "Author": "goat",
+    "Name": "Character Data Sync",
+    "InternalName": "Dalamud.CharacterSync",
+    "AssemblyVersion": "2.0.0.4",
+    "Description": "This plugin allows you to use your character data from your main character on all others.\n\nIn-game, use the configuration menu to choose your main character, the restart the game to start syncing!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/goaaats/Dalamud.CharacterSync",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "IconUrl": "https://github.com/goaaats/Dalamud.CharacterSync/raw/master/res/icon.png",
+    "Punchline": "Sync your character data from your main character to all others",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.4",
+    "IsTestingExclusive": "True",
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": "1644813675",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.CharacterSync/latest.zip"
   },
   {
     "Author": "Kouzukii",
