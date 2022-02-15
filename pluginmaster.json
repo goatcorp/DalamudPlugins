@@ -3510,6 +3510,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ReadyCheckHelper/latest.zip"
   },
   {
+    "Author": "Cair",
+    "Name": "Redirect",
+    "InternalName": "Redirect",
+    "AssemblyVersion": "1.0.2.4",
+    "Description": "Allows you to customize target priorities for individual actions. Type /redirect to configure.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "redirect",
+      "action",
+      "cair",
+      "mouseover"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Change where your actions are going, queue macros, and queue sprint!",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.2.4",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1644840955",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Redirect/latest.zip"
+  },
+  {
     "Author": "perchbird",
     "Name": "ResLogger2.Plugin",
     "InternalName": "ResLogger2.Plugin",
