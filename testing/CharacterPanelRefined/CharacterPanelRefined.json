@@ -1,0 +1,16 @@
+{
+  "Author": "Kouzukii",
+  "Name": "Character Panel Refined",
+  "InternalName": "CharacterPanelRefined",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Refine the character panel to display useful information like crit and direct hit chance",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
+    "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png"
+}
