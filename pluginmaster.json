@@ -1121,6 +1121,39 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Housemate/latest.zip"
   },
   {
+    "Author": "Critical_Impact",
+    "Name": "Inventory Tools",
+    "InternalName": "InventoryTools",
+    "AssemblyVersion": "1.0.0.11",
+    "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
+    "Tags": [
+      "Inventory",
+      "Sorting",
+      "Filtering"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
+    "Punchline": "Clean up your sloppppy inventories.",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.0.11",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 15210,
+    "CategoryTags": [
+      "inventory",
+      "utility"
+    ],
+    "LastUpdate": "1644997239",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
@@ -2184,7 +2217,7 @@
     "Author": "kalilistic",
     "Name": "SillyChat",
     "InternalName": "SillyChat",
-    "AssemblyVersion": "1.3.2.0",
+    "AssemblyVersion": "1.3.3.0",
     "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/SillyChat",
@@ -2205,7 +2238,7 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1640967381",
+    "LastUpdate": "1645017011",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SillyChat?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SillyChat?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SillyChat/latest.zip"
@@ -2484,7 +2517,7 @@
     "Author": "Nana",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.0.2",
     "Description": "Various chat filters for a less cluttered chat (EN Only)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
@@ -2504,7 +2537,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1808,
-    "LastUpdate": "1644940419",
+    "LastUpdate": "1645044602",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TidyChat/latest.zip"
@@ -2758,7 +2791,7 @@
     "Author": "Haplo064, maintained by Franz",
     "Name": "WOLdo",
     "InternalName": "WheresWOLdo",
-    "AssemblyVersion": "1.3.3.0",
+    "AssemblyVersion": "1.3.3.2",
     "Description": "Movable text overlay of the current location name.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/WheresWOLdo",
@@ -2773,11 +2806,10 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Making it easier to know where you are.",
-    "Changelog": "Uses Dalamud's shiny new DtrBar for native \"server info\" bar support.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4370,
-    "LastUpdate": "1643676018",
+    "LastUpdate": "1644978762",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WheresWOLdo/latest.zip"
@@ -3246,39 +3278,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HuntBuddy/latest.zip"
   },
   {
-    "Author": "Critical_Impact",
-    "Name": "Inventory Tools",
-    "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.11",
-    "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-    "Tags": [
-      "Inventory",
-      "Sorting",
-      "Filtering"
-    ],
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-    "Punchline": "Clean up your sloppppy inventories.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.11",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "inventory",
-      "utility"
-    ],
-    "LastUpdate": "1643461425",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/InventoryTools/latest.zip"
-  },
-  {
     "Author": "electr0sheep",
     "Name": "Item Vendor Location",
     "InternalName": "ItemVendorLocation",
@@ -3513,7 +3512,7 @@
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
-    "AssemblyVersion": "1.0.2.4",
+    "AssemblyVersion": "1.0.2.7",
     "Description": "Allows you to customize target priorities for individual actions. Type /redirect to configure.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3527,9 +3526,9 @@
     "Punchline": "Change where your actions are going, queue macros, and queue sprint!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.4",
+    "TestingAssemblyVersion": "1.0.2.7",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1644840955",
+    "LastUpdate": "1645019963",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Redirect/latest.zip"
@@ -3579,7 +3578,7 @@
     "Author": "rennerdo30",
     "Name": "SimpleCompare",
     "InternalName": "SimpleCompare",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "Description": "Show simple item comparison when pressing SHIFT and hovering over item",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3592,9 +3591,9 @@
     "RepoUrl": "https://github.com/Rennerdo30/ffxiv-simplecompare",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.2",
+    "TestingAssemblyVersion": "0.0.0.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1644226707",
+    "LastUpdate": "1645046793",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleCompare/latest.zip"
