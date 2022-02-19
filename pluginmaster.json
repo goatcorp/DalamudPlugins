@@ -2331,7 +2331,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.3.4",
+    "AssemblyVersion": "0.4.4.0",
     "DalamudApiLevel": 5,
     "Tags": [
       "Sonar",
@@ -2362,7 +2362,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 40810,
-    "LastUpdate": "1644205074",
+    "LastUpdate": "1645234520",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SonarPlugin/latest.zip"
@@ -3514,7 +3514,7 @@
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
-    "AssemblyVersion": "1.0.2.8",
+    "AssemblyVersion": "1.0.2.9",
     "Description": "Allows you to customize target priorities for individual actions. Additionally, lets some actions enter the game's queue system that normally wouldn't. Type /redirect to configure.",
     "ApplicableVersion": "any",
     "RepoUrl": "https//github.com/cairthenn/Redirect",
@@ -3530,9 +3530,9 @@
     "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.8",
+    "TestingAssemblyVersion": "1.0.2.9",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1645186023",
+    "LastUpdate": "1645278433",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Redirect/latest.zip"
