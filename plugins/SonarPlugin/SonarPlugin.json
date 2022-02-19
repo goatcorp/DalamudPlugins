@@ -5,7 +5,7 @@
   "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
   "Changelog": "See the Sonar Support discord #announcements channel for more information",
   "InternalName": "SonarPlugin",
-  "AssemblyVersion": "0.4.3.4",
+  "AssemblyVersion": "0.4.4.0",
   "DalamudApiLevel": 5,
   "Tags": [
     "Sonar",
