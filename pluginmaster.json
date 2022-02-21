@@ -2248,7 +2248,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.8.0",
+    "AssemblyVersion": "1.6.8.1",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2265,7 +2265,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1645356345",
+    "LastUpdate": "1645431668",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SimpleTweaksPlugin/latest.zip"
