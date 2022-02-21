@@ -2,16 +2,15 @@
   "Author": "Bluefissure",
   "Name": "OBSPlugin",
   "InternalName": "OBSPlugin",
-  "AssemblyVersion": "1.0.0.4",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "A plugin to control OBS by websocket.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Bluefissure/Dalamud-OBS",
-  "IconUrl": "https://raw.githubusercontent.com/Bluefissure/Dalamud-OBS/master/releases/image/icon.png",
   "Tags": [
     "OBS",
     "UI",
     "Util"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }
