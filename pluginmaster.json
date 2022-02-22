@@ -2518,7 +2518,7 @@
     "Author": "Nana",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.1.0.7",
+    "AssemblyVersion": "0.1.0.8",
     "Description": "Various chat filters for a less cluttered chat (EN Only)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
@@ -2538,7 +2538,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3938,
-    "LastUpdate": "1645327434",
+    "LastUpdate": "1645502667",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TidyChat/latest.zip"
@@ -2839,7 +2839,7 @@
     "Author": "daemitus",
     "Name": "ezWondrousTails",
     "InternalName": "WondrousTailsSolver",
-    "AssemblyVersion": "2.1.1.1",
+    "AssemblyVersion": "2.1.1.2",
     "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
@@ -2856,7 +2856,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1643985500",
+    "LastUpdate": "1645457344",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WondrousTailsSolver/latest.zip"
@@ -3512,7 +3512,7 @@
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
-    "AssemblyVersion": "1.0.2.11",
+    "AssemblyVersion": "1.0.2.12",
     "Description": "Allows you to customize target priorities for individual actions. Additionally, lets some actions enter the game's queue system that normally wouldn't. Type /redirect to configure.",
     "ApplicableVersion": "any",
     "RepoUrl": "https//github.com/cairthenn/Redirect",
@@ -3528,9 +3528,9 @@
     "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.2.11",
+    "TestingAssemblyVersion": "1.0.2.12",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1645355249",
+    "LastUpdate": "1645451440",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Redirect/latest.zip"
