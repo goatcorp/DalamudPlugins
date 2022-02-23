@@ -2,7 +2,7 @@
   "Author": "Cair",
   "Name": "Redirect",
   "InternalName": "Redirect",
-  "AssemblyVersion": "1.0.2.11",
+  "AssemblyVersion": "1.0.2.12",
   "Description": "Allows you to customize target priorities for individual actions. Additionally, lets some actions enter the game's queue system that normally wouldn't. Type /redirect to configure.",
   "ApplicableVersion": "any",
   "RepoUrl": "https//github.com/cairthenn/Redirect",
