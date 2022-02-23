@@ -2,8 +2,8 @@
   "Author": "Nana",
   "Name": "Tidy Chat",
   "InternalName": "TidyChat",
-  "AssemblyVersion": "0.1.0.8",
-  "Description": "Various chat filters for a less cluttered chat (EN Only)",
+  "AssemblyVersion": "0.1.0.9",
+  "Description": "In-depth filters for a less cluttered chat.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
   "Tags": [
@@ -18,5 +18,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/TidyChat/master/images/icon.png",
-  "Punchline": "Keeps your chat tidy. (EN Only)"
+  "Punchline": "Keeps your chat tidy."
 }
