@@ -803,7 +803,7 @@
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
     "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.3.1",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -814,7 +814,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 19785,
-    "LastUpdate": "1641391914",
+    "LastUpdate": "1646057767",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/faderPlugin/latest.zip"
@@ -1686,7 +1686,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.3.1",
+    "AssemblyVersion": "1.0.3.2",
     "DalamudApiLevel": "5",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
     "ApplicableVersion": "any",
@@ -1703,7 +1703,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28371,
-    "LastUpdate": "1640967576",
+    "LastUpdate": "1646074055",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyIcons/latest.zip"
@@ -2517,7 +2517,7 @@
     "Author": "Nana",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.1.1.2",
+    "AssemblyVersion": "0.1.1.3",
     "Description": "In-depth filters for a less cluttered chat.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
@@ -2537,7 +2537,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6843,
-    "LastUpdate": "1646030301",
+    "LastUpdate": "1646091684",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/TidyChat/latest.zip"
