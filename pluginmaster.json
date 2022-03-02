@@ -433,6 +433,7 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.7.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 64911,
     "LastUpdate": "1646187518",
@@ -1683,16 +1684,16 @@
   {
     "Author": "shdwp",
     "Name": "PartyIcons",
-    "Punchline": "Replace names with job icons, raid role positions and more!",
-    "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.3.2",
-    "DalamudApiLevel": "5",
-    "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
+    "AssemblyVersion": "1.0.3.3",
+    "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
     "Tags": [
       "UI"
     ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image1.png",
       "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image2.png",
@@ -1700,10 +1701,11 @@
       "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image4.png"
     ],
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/icon.png",
+    "Punchline": "Replace names with job icons, raid role positions and more!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 32885,
-    "LastUpdate": "1646074055",
+    "LastUpdate": "1646208096",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyIcons/latest.zip"
@@ -1990,7 +1992,7 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.2.1.2",
+    "AssemblyVersion": "2.2.1.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
@@ -1998,7 +2000,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 43321,
-    "LastUpdate": "1638835717",
+    "LastUpdate": "1646221140",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QoLBar/latest.zip"
@@ -3621,6 +3623,26 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SizeMattersFishing/latest.zip"
   },
   {
+    "Author": "SupineSnail (Tinuviel)",
+    "Name": "Job Gauge Adjustments",
+    "InternalName": "SupineSnail.JobGaugeAdjustments",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Just a simple plugin to allow you to tweak parts of job gauges.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SupineSnail/SupineSnail.JobGaugeAdjustments",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Simple Job Gauges... but you can tweak them now!",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1645591640",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SupineSnail.JobGaugeAdjustments/latest.zip"
+  },
+  {
     "Author": "Avaflow",
     "Name": "TabTab",
     "Description": "Customise the behaviour of tab targeting. Use /ptab to open configuration.",
@@ -3674,6 +3696,25 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/WhereAmIAgain/latest.zip"
+  },
+  {
+    "Author": "Kaz Wolfe",
+    "Name": "XIVDeck Game Plugin",
+    "InternalName": "XIVDeckPlugin",
+    "AssemblyVersion": "0.0.1.0",
+    "Description": "This plugin is the game-side component of XIVDeck, helping bring Final Fantasy XIV integration natively to the Stream Deck.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kazwolfe/XIVDeck",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeckPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeckPlugin?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVDeckPlugin/latest.zip"
   },
   {
     "Author": "Cadaeix",
