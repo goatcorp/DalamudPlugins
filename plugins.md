@@ -108,6 +108,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064, maintained by Franz | [WOLdo](https://github.com/reiichi001/WheresWOLdo) | Movable text overlay of the current location name. |
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | daemitus | [ezWondrousTails](https://github.com/daemitus/WondrousTailsSolver) | This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled. |
+| Lady Defile | Wordsmith | Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus. |
 | ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 | daemitus | [ZodiacBuddy](https://github.com/daemitus/ZodiacBuddy) | This plugin attempts to help you complete your Zodiac weapon in various ways. |
