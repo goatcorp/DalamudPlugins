@@ -1,0 +1,17 @@
+{
+  "Author": "Lady Defile",
+  "Name": "Wordsmith",
+  "InternalName": "Wordsmith",
+  "AssemblyVersion": "0.3.0",
+  "Description": "Wordsmith aims to make it so that you don't need outside tools to write your roleplays then tab back and forth to copy paste. It comes with a thesaurus and multi-post capable scratch pads for writing with spell checking and custom dictionary support. Open with /wordsmith'",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "roleplay",
+    "thesaurus",
+    "notepad",
+    "notes"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "A roleplay thesaurus and scratch pad."
+}
