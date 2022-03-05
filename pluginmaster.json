@@ -957,7 +957,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.0.1.0",
+    "AssemblyVersion": "3.0.1.1",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -970,7 +970,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1646485745",
+    "LastUpdate": "1646508825",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
