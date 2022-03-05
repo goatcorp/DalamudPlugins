@@ -445,7 +445,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.3.0",
+    "AssemblyVersion": "1.2.3.2",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -456,14 +456,13 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Receive your chat messages via Discord.",
-    "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 31561,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1646106536",
+    "LastUpdate": "1646443578",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -958,7 +957,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.2.1.5",
+    "AssemblyVersion": "3.0.1.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -966,13 +965,12 @@
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
-    "TestingAssemblyVersion": "3.0.0.7",
     "IsTestingExclusive": "False",
     "DownloadCount": 177498,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1644183412",
+    "LastUpdate": "1646485745",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
@@ -3329,6 +3327,25 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemVendorLocation/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "JustBackup",
+    "InternalName": "JustBackup",
+    "AssemblyVersion": "1.0.0.3",
+    "Description": "Automatically backup your game and plugin configuration (upon game starting).",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/JustBackup",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.3",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1645467404",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JustBackup/latest.zip"
   },
   {
     "Author": "Gotest",
