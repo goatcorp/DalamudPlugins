@@ -445,7 +445,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.3.2",
+    "AssemblyVersion": "1.2.3.4",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -462,7 +462,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1646443578",
+    "LastUpdate": "1646623622",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -957,7 +957,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.0.2.0",
+    "AssemblyVersion": "3.0.3.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -970,7 +970,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1646673295",
+    "LastUpdate": "1646835912",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/GatherBuddy/latest.zip"
@@ -2073,6 +2073,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/QuoteOfTheLobby/latest.zip"
   },
   {
+    "Author": "PunishedPineapple",
+    "Name": "Ready Check Helper",
+    "Punchline": "Extends the game's built-in ready check.",
+    "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
+    "InternalName": "ReadyCheckHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
+    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Ready Check",
+      "Ready",
+      "Check"
+    ],
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.9.5.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 3938,
+    "LastUpdate": "1646803975",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ReadyCheckHelper/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Remind Me",
     "InternalName": "RemindMe",
@@ -2878,7 +2907,7 @@
     "LoadPriority": 0,
     "Punchline": "A roleplay thesaurus and scratch pad.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "0.3.0",
+    "TestingAssemblyVersion": "1.3.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 455,
     "LastUpdate": "1645907498",
@@ -3263,7 +3292,7 @@
     "Author": "necoz (prev. ascclemens)",
     "Name": "HUD Manager",
     "InternalName": "HUDManager",
-    "AssemblyVersion": "2.4.0.0",
+    "AssemblyVersion": "2.4.1.1",
     "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Make child layouts that only affect desired HUD elements\n- Change visibility of job gauges\n- Export and import layouts from text",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
@@ -3271,9 +3300,9 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.4.0.0",
+    "TestingAssemblyVersion": "2.4.1.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1646553923",
+    "LastUpdate": "1646692970",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/HUDManager/latest.zip"
@@ -3524,35 +3553,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/PartyListLayout/latest.zip"
   },
   {
-    "Author": "PunishedPineapple",
-    "Name": "Ready Check Helper",
-    "Punchline": "Extends the game's built-in ready check.",
-    "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
-    "InternalName": "ReadyCheckHelper",
-    "AssemblyVersion": "0.9.5.0",
-    "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
-    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
-    "ImageUrls": [
-      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
-      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
-    ],
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Ready Check",
-      "Ready",
-      "Check"
-    ],
-    "DalamudApiLevel": 5,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.5.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1645594811",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ReadyCheckHelper/latest.zip"
-  },
-  {
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
@@ -3669,7 +3669,7 @@
     "Author": "SupineSnail (Tinuviel)",
     "Name": "Job Gauge Adjustments",
     "InternalName": "SupineSnail.JobGaugeAdjustments",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Just a simple plugin to allow you to tweak parts of job gauges.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SupineSnail/SupineSnail.JobGaugeAdjustments",
@@ -3678,9 +3678,9 @@
     "Punchline": "Simple Job Gauges... but you can tweak them now!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1645591640",
+    "LastUpdate": "1646624294",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/SupineSnail.JobGaugeAdjustments/latest.zip"
@@ -3744,8 +3744,8 @@
     "Author": "Kaz Wolfe",
     "Name": "XIVDeck Game Plugin",
     "InternalName": "XIVDeck.FFXIVPlugin",
-    "AssemblyVersion": "0.0.3.0",
-    "Description": "***THIS PLUGIN IS IN THE PRERELEASE/TESTING PHASE. EXPECT BUGS. YOU HAVE BEEN WARNED.***\n\nThis plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe in the Dalamud Support server or by opening an Issue on GitHub.",
+    "AssemblyVersion": "0.0.4.0",
+    "Description": "***THIS PLUGIN IS IN THE PRERELEASE/TESTING PHASE. EXPECT BUGS. YOU HAVE BEEN WARNED.***\n\nThis plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
     "Tags": [
@@ -3760,12 +3760,11 @@
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
-    "Changelog": "***THIS PLUGIN IS IN THE PRERELEASE/TESTING PHASE***\n\nRelease 0.0.3 fixes the following problems:\n  - Combo actions (e.g. PVP and XIVCombo) did not update icons properly.\n  - Switching to/from PVP would cause black icons to appear.\n\nRelease 0.0.3 does not modify the XIVDeck Stream Deck Plugin. \nFull Release Notes: https://github.com/KazWolfe/XIVDeck/releases/tag/v0.0.3",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.3.0",
+    "TestingAssemblyVersion": "0.0.4.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1646603461",
+    "LastUpdate": "1646888985",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/XIVDeck.FFXIVPlugin/latest.zip"
