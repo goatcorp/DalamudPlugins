@@ -433,7 +433,7 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.7.4",
+    "TestingAssemblyVersion": "1.0.7.6",
     "IsTestingExclusive": "False",
     "DownloadCount": 73232,
     "LastUpdate": "1646187518",
@@ -445,7 +445,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.3.4",
+    "AssemblyVersion": "1.2.3.5",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -462,7 +462,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1646623622",
+    "LastUpdate": "1646975123",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Dalamud.DiscordBridge/latest.zip"
