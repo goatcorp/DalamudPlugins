@@ -1222,6 +1222,24 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JobIcons/latest.zip"
   },
   {
+    "Author": "Eternita",
+    "Name": "JustBackup",
+    "InternalName": "JustBackup",
+    "AssemblyVersion": "1.0.0.3",
+    "Description": "Automatically backup your game and plugin configuration (upon game starting).",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/JustBackup",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 256,
+    "LastUpdate": "1647292134",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JustBackup/latest.zip"
+  },
+  {
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
@@ -3355,25 +3373,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ItemVendorLocation/latest.zip"
-  },
-  {
-    "Author": "Eternita",
-    "Name": "JustBackup",
-    "InternalName": "JustBackup",
-    "AssemblyVersion": "1.0.0.3",
-    "Description": "Automatically backup your game and plugin configuration (upon game starting).",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/JustBackup",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.3",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1645467404",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/JustBackup/latest.zip"
   },
   {
     "Author": "Gotest",
