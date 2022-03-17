@@ -1,0 +1,16 @@
+{
+  "Author": "NotNite",
+  "Name": "cl_showpos",
+  "InternalName": "cl_showpos",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "the source engine convar, implemented into FFXIV",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "ui"
+  ],
+  "CategoryTags": [
+    "ui"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0
+}
