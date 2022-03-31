@@ -368,6 +368,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTyper/latest.zip"
   },
   {
+    "Author": "MidoriKami",
+    "Name": "Chill Frames",
+    "InternalName": "ChillFrames",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
+    "Tags": [
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Limit Framerate while out of combat",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 201,
+    "LastUpdate": "1648751751",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=False&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChillFrames/latest.zip"
+  },
+  {
     "Author": "Chivalrik",
     "Name": "Compass",
     "InternalName": "Compass",
@@ -3246,32 +3271,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChatTranslator/latest.zip"
-  },
-  {
-    "Author": "MidoriKami",
-    "Name": "Chill Frames",
-    "InternalName": "ChillFrames",
-    "AssemblyVersion": "0.0.0.4",
-    "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat!",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
-    "Tags": [
-      "utility"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "Punchline": "Limit Framerate while out of combat",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.4",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1648387438",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api5",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/ChillFrames/latest.zip"
   },
   {
     "Author": "NotNite",
