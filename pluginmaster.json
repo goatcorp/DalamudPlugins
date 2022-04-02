@@ -444,7 +444,7 @@
     "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
-    "AssemblyVersion": "1.3.1.2",
+    "AssemblyVersion": "1.3.2.3",
     "Description": "Automatically track and complete many daily and weekly tasks.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
@@ -458,10 +458,9 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.3.2.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 115063,
-    "LastUpdate": "1648683677",
+    "LastUpdate": "1648929478",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/DailyDuty/latest.zip"
@@ -2937,7 +2936,7 @@
     "Author": "Lady Defile",
     "Name": "Wordsmith",
     "InternalName": "Wordsmith",
-    "AssemblyVersion": "1.2.0",
+    "AssemblyVersion": "1.4.0",
     "Description": "Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2953,7 +2952,7 @@
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": "False",
     "DownloadCount": 1953,
-    "LastUpdate": "1645907498",
+    "LastUpdate": "1648928628",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Wordsmith/latest.zip"
