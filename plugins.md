@@ -18,6 +18,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
+| MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | Lharz | Currency Alert | /currencyalert: show the configuration panel. |
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks. |
@@ -49,13 +50,13 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Critical_Impact | [Inventory Tools](https://github.com/Critical-Impact/InventoryTools) | Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go. |
 | Caraxi | [Item Search](https://github.com/Caraxi/ItemSearchPlugin) | Filterable search for Items and Key Items.<br>Try on any item without having to find someone to link it. |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
-| Eternita | [JustBackup](https://github.com/Eternita-S/JustBackup) | Automatically backup your game and plugin configuration (upon game starting). |
+| Eternita | [JustBackup](https://github.com/Eternita-S/JustBackup) | This plugin automatically backups your game and plugin configurations upon game/plugin starting. |
 | kalilistic | [Kapture](https://github.com/kalilistic/Dalamud.Kapture) | Kapture is a loot tracker to capture drops, obtained items, rolls, and more.<br>Use the roll monitor to see who you are waiting on to roll. |
 | Gotest | [Kingdom Hearts UI Bars](https://github.com/Arrenton/KingdomHeartsPlugin) | A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.<br>If you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord! |
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.<br>Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02<br>Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11<br>Also allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
-| Eternita | [Mini](https://github.com/Eternita-S/Mini) | Adds a button and a command to minimize your game into taskbar |
+| Eternita | [Mini](https://github.com/Eternita-S/Mini) | Additionally can minimize game to tray or create game's tray icon |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Marconsou | [MP Tick Bar](https://github.com/marconsou/mp-tick-bar) | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
@@ -112,5 +113,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Lady Defile | Wordsmith | Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus. |
 | ascclemens | [XIVChat Server](https://xiv.chat/) | XIVChat is a suite of software allowing you to use FFXIV's chat from<br>different devices. This is the server component required to do so.<br><br>For information about clients to use with this server, see the website. |
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
+| Cadaeix | [XIVLogger](https://github.com/cadaeix/XIVLogger) | Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs. |
 | daemitus | [ZodiacBuddy](https://github.com/daemitus/ZodiacBuddy) | This plugin attempts to help you complete your Zodiac weapon in various ways. |
 
