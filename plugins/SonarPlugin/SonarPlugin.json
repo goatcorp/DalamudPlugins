@@ -1,13 +1,12 @@
-{
-  "Disabled": false,
-  "Testing": false,
-  "InstalledFromUrl": null,
-  "IsThirdParty": false,
+﻿{
   "Author": "Sonar Team",
   "Name": "Sonar",
   "Punchline": "Automatically send and receive hunt and fate relays.",
   "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
   "Changelog": "See the Sonar Support discord #announcements channel for more information",
+  "InternalName": "SonarPlugin",
+  "AssemblyVersion": "0.4.5.3",
+  "DalamudApiLevel": 5,
   "Tags": [
     "Sonar",
     "Hunt",
@@ -22,20 +21,8 @@
   "CategoryTags": [
     "utility"
   ],
-  "IsHide": false,
-  "InternalName": "SonarPlugin",
-  "AssemblyVersion": "0.4.5.3",
-  "TestingAssemblyVersion": null,
-  "IsTestingExclusive": false,
   "RepoUrl": "https://discord.gg/K7y24Rr",
-  "ApplicableVersion": "any",
-  "DalamudApiLevel": 5,
-  "DownloadCount": 0,
-  "LastUpdate": 0,
-  "DownloadLinkInstall": null,
-  "DownloadLinkUpdate": null,
-  "DownloadLinkTesting": null,
-  "LoadPriority": 0,
+  "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
   "ImageUrls": [
     "https://assets.ffxivsonar.com/dalamud/image1.png",
     "https://assets.ffxivsonar.com/dalamud/image2.png",
@@ -43,8 +30,6 @@
     "https://assets.ffxivsonar.com/dalamud/image4.png",
     "https://assets.ffxivsonar.com/dalamud/image5.png"
   ],
-  "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
   "AcceptsFeedback": false,
-  "FeedbackMessage": null,
   "FeedbackWebhook": "(not used)"
 }
