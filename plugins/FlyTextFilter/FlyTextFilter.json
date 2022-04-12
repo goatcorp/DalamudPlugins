@@ -2,12 +2,11 @@
   "Author": "Aireil",
   "Name": "FlyTextFilter",
   "InternalName": "FlyTextFilter",
-  "AssemblyVersion": "3.3.0.0",
+  "AssemblyVersion": "3.3.0.1",
   "Description": "Allows the filtering of the different fly text types.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Allows the filtering of the different fly text types.",
-  "Changelog": "Fixed an issue with fly text types after Endwalker. If you have already made changes around weird type issues, you will have to undo them, sorry about that."
+  "Punchline": "Allows the filtering of the different fly text types."
 }
