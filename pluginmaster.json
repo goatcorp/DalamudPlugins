@@ -926,21 +926,20 @@
     "Author": "Aireil",
     "Name": "FlyTextFilter",
     "InternalName": "FlyTextFilter",
-    "AssemblyVersion": "3.3.0.0",
+    "AssemblyVersion": "3.3.0.1",
     "Description": "Allows the filtering of the different fly text types.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "Punchline": "Allows the filtering of the different fly text types.",
-    "Changelog": "Fixed an issue with fly text types after Endwalker. If you have already made changes around weird type issues, you will have to undo them, sorry about that.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2224,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639096147",
+    "LastUpdate": "1649778223",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/FlyTextFilter/latest.zip"
@@ -1659,7 +1658,7 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
     "Punchline": "That one funny plugin your friend told you about.",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 55225,
     "CategoryTags": [
@@ -3135,6 +3134,33 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/autoSweep/latest.zip"
+  },
+  {
+    "Author": "Kaz Wolfe",
+    "Name": "BatteryGauge",
+    "InternalName": "BatteryGauge",
+    "AssemblyVersion": "0.0.1.0",
+    "Description": "Hey, you! Yes, you! Do you play FFXIV on your laptop or Steam Deck? Or are you so addicted to FFXIV that you have a UPS on your desktop just so you can keep playing through power outages? Then this is the plugin for you!\n\nBatteryGauge adds a battery indicator to your server info bar showing your current battery percentage and expected remaining lifespan (as reported by Windows).",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KazWolfe/XIVBatteryGauge/",
+    "Tags": [
+      "battery",
+      "server info bar"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "Punchline": "Keep track of your FFXIV device's battery.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1649294712",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BatteryGauge?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BatteryGauge?isUpdate=False&isTesting=True&branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/BatteryGauge/latest.zip"
   },
   {
     "Author": "Sl0nderman",
