@@ -2211,7 +2211,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.0.0.5",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -2221,7 +2221,7 @@
       "Spiritbond",
       "Alert"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/image1.png",
@@ -2231,7 +2231,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
-    "Changelog": "v1.0.0.4\n  set api5 (no code changes)\nv1.0.0.3\n  Now supports more than 100% condition\nv1.0.0.2\n  Fix `System.AccessViolationException` in `GetConditionInfo()`\n    shouldn't crash on logout/disconnect anymore",
+    "Changelog": "v1.0.0.5\n  set api6 (no code changes)\nv1.0.0.4\n  set api5 (no code changes)\nv1.0.0.3\n  Now supports more than 100% condition\nv1.0.0.2\n  Fix `System.AccessViolationException` in `GetConditionInfo()`\n    shouldn't crash on logout/disconnect anymore",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.3",
     "IsTestingExclusive": "False",
@@ -2239,7 +2239,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1639014047",
+    "LastUpdate": "1649957090",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
@@ -2746,14 +2746,14 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.0.7",
+    "AssemblyVersion": "1.6.1.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -2761,7 +2761,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1648411061",
+    "LastUpdate": "1649954476",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
