@@ -2913,17 +2913,17 @@
     "Name": "Window Title Changer",
     "Description": "Allows you to change your game window title",
     "InternalName": "WinTitle",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rreminy/FFXIV.WinTitle",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 556,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640442460",
+    "LastUpdate": "1649969323",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WinTitle?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WinTitle?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WinTitle/latest.zip"
