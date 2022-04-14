@@ -2095,11 +2095,11 @@
     "Author": "Eternita",
     "Name": "QuestAWAY",
     "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.0.0.5",
     "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
@@ -2108,7 +2108,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1640480636",
+    "LastUpdate": "1649974404",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip"
