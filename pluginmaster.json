@@ -2612,7 +2612,7 @@
     "Author": "Nana",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.1.1.11",
+    "AssemblyVersion": "0.1.1.12",
     "Description": "In-depth filters for a less cluttered chat.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
@@ -2625,14 +2625,14 @@
     "CategoryTags": [
       "Social"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/TidyChat/master/images/icon.png",
     "Punchline": "Keeps your chat tidy.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 17055,
-    "LastUpdate": "1647498786",
+    "LastUpdate": "1649961773",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TidyChat/latest.zip"
