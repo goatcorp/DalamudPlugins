@@ -1,11 +1,11 @@
 {
-  "Author": "necoz (prev. ascclemens)",
+  "Author": "Necoji (prev. ascclemens)",
   "Name": "HUD Manager",
   "InternalName": "HUDManager",
-  "AssemblyVersion": "2.5.2.5",
+  "AssemblyVersion": "2.5.3.0",
   "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Make child layouts that only affect desired HUD elements\n- Change visibility of job gauges\n- Export and import layouts from text",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0
 }
