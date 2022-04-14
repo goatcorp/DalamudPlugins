@@ -2,10 +2,10 @@
   "Author": "Franz",
   "Name": "ChatTyper",
   "InternalName": "ChatTyper",
-  "AssemblyVersion": "0.0.2.1",
+  "AssemblyVersion": "0.0.2.3",
   "Description": "Prefixes all chatbox messages with their chat type number and name, if known.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "This is still mostly a dev tool for debugging, but people like it?"
 }
