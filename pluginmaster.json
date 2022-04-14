@@ -711,14 +711,14 @@
     "Punchline": "Hide annoying or distracting VFXs",
     "Description": "A plugin which can hide any VFX. Icon by PAPACHIN",
     "InternalName": "EasyEyes",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/0ceal0t/EasyEyes",
     "ApplicableVersion": "any",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -726,7 +726,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639204156",
+    "LastUpdate": "1649971187",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EasyEyes?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EasyEyes?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EasyEyes/latest.zip"
