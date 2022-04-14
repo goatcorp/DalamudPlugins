@@ -1227,7 +1227,7 @@
     "Punchline": "Extra job gauges",
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.2.1",
     "Tags": [
       "UI",
       "Bars"
@@ -1241,7 +1241,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1649954542",
+    "LastUpdate": "1649970232",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/JobBars/latest.zip"
