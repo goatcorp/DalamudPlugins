@@ -38,7 +38,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | This plugin highlights tiles in Faux Hollows that represent the best potential action you can take. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config. |
 | Franz | FlashOnTell | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
-| Aireil | [FlyTextFilter](https://github.com/Aireil/FlyTextFilter) | Allows the filtering of the different fly text types. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
 | Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. |
 | Chivalrik | [GentleTouch](https://github.com/fitzchivalrik/gentletouch) | You need to configure patterns and triggers before it will work, <br>open the configuration window to do that. <br>Currently supported triggers are:<br>- Cooldowns<br>- Near Aether Current |
