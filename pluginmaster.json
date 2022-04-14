@@ -1005,10 +1005,10 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.0.4.0",
+    "AssemblyVersion": "3.0.5.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
@@ -1018,7 +1018,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1649236775",
+    "LastUpdate": "1649939465",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -2293,10 +2293,10 @@
       "Interface"
     ],
     "InternalName": "RezPls",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.3.0",
     "RepoUrl": "https://github.com/Ottermandias/RezPls",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
@@ -2306,7 +2306,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649237431",
+    "LastUpdate": "1649941018",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RezPls/latest.zip"
