@@ -2,7 +2,7 @@
   "Author": "MidoriKami",
   "Name": "Chill Frames",
   "InternalName": "ChillFrames",
-  "AssemblyVersion": "1.3.0.0",
+  "AssemblyVersion": "1.3.0.1",
   "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
@@ -12,7 +12,7 @@
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Limit Framerate while out of combat"
 }
