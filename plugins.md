@@ -7,6 +7,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 
 | Author | Name | Description |
 |---------------|---------------|-----------------|
+| Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
 | Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
 | NotNite | cl_showpos | the source engine convar, implemented into FFXIV |
@@ -14,9 +15,11 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | Felys | [EnemyListDebuffs](https://github.com/Felys1998/EnemyListDebuffs) | Displays your debuffs on the enemy list. Original implementation credit to aers. |
+| Xorus | [EngageTimer](https://github.com/xorus/EngageTimer) | Finally, display all the numbers when starting a countdown!<br><br>Features :<br>- Big countdown that displays all the numbers<br>- Customizable big-number textures (default, yellow, WoW style or custom files)<br>- Floating window with combat timer and countdown<br>- OBS browser-source compatible page<br><br>Why the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.<br>See repository for more info.<br><br>Feel free so send me feedback, bugs and potential improvements! |
 | Franz | FlashOnTell | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
 | Aireil | [FlyTextFilter](https://github.com/Aireil/FlyTextFilter) | Allows the filtering of the different fly text types. |
 | perchbird | [Housemate](https://github.com/lmcintyre/Housemate) | Housemate offers multiple features that help you gain inspiration from other homes in XIV.<br>If you're looking for a specific home or outdoor item, you can check the exterior list<br>when running around a ward. If you're interested in seeing what items make up a<br>structure in a home - turn on the item overlay to see what they are!<br><br>Note: This plugin is purely informational, and does not assist you in placing<br>or "glitching" housing items. |
+| Critical_Impact | [Inventory Tools](https://github.com/Critical-Impact/InventoryTools) | Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go. |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Marconsou | [MP Tick Bar](https://github.com/marconsou/mp-tick-bar) | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
