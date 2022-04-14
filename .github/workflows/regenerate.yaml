@@ -2,7 +2,7 @@ name: Regenerate PluginMaster
 on:
   push:
     branches:
-      - api5
+      - api6
   page_build:
   workflow_run:
     workflows: ["Update download counts"]
