@@ -2,7 +2,7 @@
   "Author": "Kaz Wolfe",
   "Name": "XIVDeck Game Plugin",
   "InternalName": "XIVDeck.FFXIVPlugin",
-  "AssemblyVersion": "0.1.3.0",
+  "AssemblyVersion": "0.1.4.0",
   "Description": "***THIS PLUGIN IS IN THE PRERELEASE/TESTING PHASE. EXPECT BUGS. YOU HAVE BEEN WARNED.***\n\nThis plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
@@ -15,7 +15,7 @@
   "CategoryTags": [
     "UI"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!"
 }

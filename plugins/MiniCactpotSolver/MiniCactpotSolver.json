@@ -2,11 +2,11 @@
   "Author": "daemitus",
   "Name": "ezMiniCactpot",
   "InternalName": "MiniCactpotSolver",
-  "AssemblyVersion": "1.1.0.2",
+  "AssemblyVersion": "1.1.1.0",
   "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
