@@ -8,7 +8,9 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Author | Name | Description |
 |---------------|---------------|-----------------|
 | Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
+| MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
 | NotNite | cl_showpos | the source engine convar, implemented into FFXIV |
+| MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks. |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | Felys | [EnemyListDebuffs](https://github.com/Felys1998/EnemyListDebuffs) | Displays your debuffs on the enemy list. Original implementation credit to aers. |
@@ -18,6 +20,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Marconsou | [MP Tick Bar](https://github.com/marconsou/mp-tick-bar) | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
+| MidoriKami | [No Tank You](https://github.com/MidoriKami/NoTankYou) | Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions. |
 | Meli & perchbird | [Orchestrion Plugin](https://github.com/lmcintyre/OrchestrionPlugin) | Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes<br>a curated list of the most accurate in-game song titles, so you know exactly what's playing,<br>if you want to know later! Add favorite songs to separate them from the rest.<br>Note: This plugin does not currently allow you to play actual orchestrion songs. |
 | goat, modded by Franz | OwO | This plugin uwu's your chat. |
 | perchbird | [PrefPro](https://github.com/lmcintyre/PrefPro) | Your character is personal, so you should be able to have NPCs refer to them<br>the way that you want. With PrefPro, you can control which text option<br>will appear when an NPC uses dialogue meant for a specific in-game gender.<br>This allows you to use a female player model and be referred to as male, and<br>vice versa. In addition, there are a few name customization options - if you<br>want to only be referred to by your last name, so be it.<br>Note: This plugin currently will not swap voiced cutscene dialogue. |
