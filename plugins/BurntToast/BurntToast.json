@@ -2,10 +2,10 @@
   "Author": "ascclemens",
   "Name": "Burnt Toast",
   "InternalName": "BurntToast",
-  "AssemblyVersion": "1.2.3",
+  "AssemblyVersion": "1.2.4",
   "Description": "Hides toast notifications you don't want to see.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.annaclemens.io/ascclemens/BurntToast",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0
 }
