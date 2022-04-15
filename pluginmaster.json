@@ -82,40 +82,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"
   },
   {
-    "Author": "Ottermandias",
-    "Name": "AutoVisor",
-    "Punchline": "Change Visor and Stance based on State and Job.",
-    "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job.",
-    "Tags": [
-      "Visor",
-      "Headslot",
-      "Hat",
-      "CPose",
-      "Stance",
-      "State",
-      "Glasses"
-    ],
-    "InternalName": "AutoVisor",
-    "AssemblyVersion": "1.2.1.1",
-    "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 11163,
-    "CategoryTags": [
-      "UI",
-      "utility"
-    ],
-    "LastUpdate": "1638954948",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AutoVisor?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AutoVisor?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AutoVisor/latest.zip"
-  },
-  {
     "Author": "ascclemens",
     "Name": "Better Party Finder",
     "InternalName": "BetterPartyFinder",
