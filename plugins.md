@@ -22,6 +22,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks. |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | goat | Wotsit | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
+| Not Cara | [Ultrawide Cutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | This plugin removes the "letterboxing" bars when watching cutscenes on ultrawide monitors.<br>Beware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.<br><br>Thanks to aers for finding this. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | jdsmith2816 | [DelvUI](https://github.com/delvui/delvui) | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | A plugin which can hide any VFX. Icon by PAPACHIN |

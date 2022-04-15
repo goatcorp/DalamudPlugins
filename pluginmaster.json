@@ -503,6 +503,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.FindAnything/latest.zip"
   },
   {
+    "Author": "Not Cara",
+    "Name": "Ultrawide Cutscenes",
+    "InternalName": "Dalamud.FullscreenCutscenes",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "This plugin removes the \"letterboxing\" bars when watching cutscenes on ultrawide monitors.\nBeware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.\n\nThanks to aers for finding this.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/goaaats/Dalamud.FullscreenCutscenes",
+    "Tags": [
+      "ultrawide",
+      "cutscene",
+      "fullscreen"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Remove letterboxing from cutscenes on ultrawide monitors.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1650060943",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.FullscreenCutscenes/latest.zip"
+  },
+  {
     "Author": "goat",
     "Name": "Fancy Loading Screens",
     "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
