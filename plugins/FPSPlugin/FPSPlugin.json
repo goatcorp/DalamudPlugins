@@ -2,11 +2,11 @@
   "Author": "Caraxi",
   "Name": "FPS Plugin",
   "InternalName": "FPSPlugin",
-  "AssemblyVersion": "1.6.0.0",
+  "AssemblyVersion": "1.6.0.1",
   "Description": "Display game FPS. It really is that simple.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Display game FPS."
 }
