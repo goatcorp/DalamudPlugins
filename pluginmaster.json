@@ -3702,8 +3702,8 @@
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
-    "AssemblyVersion": "1.0.3.0",
-    "Description": "Allows you to customize target priorities for individual actions. Additionally, lets some actions enter the game's queue system that normally wouldn't. Type /redirect to configure.",
+    "AssemblyVersion": "1.0.3.1",
+    "Description": "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
     "ApplicableVersion": "any",
     "RepoUrl": "https//github.com/cairthenn/Redirect",
     "Tags": [
@@ -3718,9 +3718,9 @@
     "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.3.0",
+    "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649964572",
+    "LastUpdate": "1650008262",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Redirect/latest.zip"
