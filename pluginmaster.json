@@ -63,11 +63,11 @@
     "Author": "Caraxi",
     "Name": "Adventurer in Need",
     "InternalName": "AdventurerInNeed",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.0.2",
     "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
@@ -76,7 +76,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1639454218",
+    "LastUpdate": "1650001104",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"

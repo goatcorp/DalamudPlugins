@@ -8,6 +8,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Author | Name | Description |
 |---------------|---------------|-----------------|
 | Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | Keep track of retainer, airship, submersible, aetherial wheel and crop timers as well as several miscallaneous tasks of multiple characters. |
+| Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | ascclemens | [Better Party Finder](https://git.annaclemens.io/ascclemens/BetterPartyFinder) | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
 | ascclemens | [Burnt Toast](https://git.annaclemens.io/ascclemens/BurntToast) | Hides toast notifications you don't want to see. |
