@@ -2,11 +2,11 @@
   "Author": "ascclemens",
   "Name": "Text Box Styler",
   "InternalName": "TextBoxStyler",
-  "AssemblyVersion": "1.1.2.0",
+  "AssemblyVersion": "1.1.3.0",
   "Description": "Allows replacing every text box with the background of your choice.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.annaclemens.io/ascclemens/TextBoxStyler",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Allows replacing every text box with the background of your choice."
 }
