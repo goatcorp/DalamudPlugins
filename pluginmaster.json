@@ -1559,7 +1559,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.2.0.0",
+    "AssemblyVersion": "2.2.1.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1579,7 +1579,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649990382",
+    "LastUpdate": "1650062926",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NeatNoter/latest.zip"
