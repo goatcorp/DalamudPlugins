@@ -3131,26 +3131,25 @@
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.3.0",
     "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
     "Tags": [
       "housing"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "ImageUrls": [],
+    "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
     "Punchline": "Chat alerts for player housing.",
-    "Changelog": "Updated for Endwalker.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.1.0",
+    "TestingAssemblyVersion": "1.2.3.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1639208954",
+    "LastUpdate": "1649981276",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
