@@ -2,7 +2,7 @@
   "Author": "karashiiro",
   "Name": "PingPlugin",
   "InternalName": "PingPlugin",
-  "AssemblyVersion": "2.2.2.0",
+  "AssemblyVersion": "2.2.2.1",
   "Description": "A ping display plugin for Dalamud.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -12,7 +12,7 @@
     "utility",
     "tool"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
