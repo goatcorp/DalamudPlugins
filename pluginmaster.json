@@ -2290,7 +2290,7 @@
       "Interface"
     ],
     "InternalName": "RezPls",
-    "AssemblyVersion": "1.2.3.0",
+    "AssemblyVersion": "1.2.3.1",
     "RepoUrl": "https://github.com/Ottermandias/RezPls",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -2303,7 +2303,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649941018",
+    "LastUpdate": "1650020213",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RezPls/latest.zip"
