@@ -2972,7 +2972,7 @@
     "Punchline": "PvP, but in PvE.",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
     "InternalName": "XIVCombo",
-    "AssemblyVersion": "1.7.12",
+    "AssemblyVersion": "1.7.13",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
     "Tags": [
@@ -2986,7 +2986,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1649908157",
+    "LastUpdate": "1650050604",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVCombo/latest.zip"
