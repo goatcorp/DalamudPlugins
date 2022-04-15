@@ -2,10 +2,10 @@
   "Author": "Kouzukii",
   "Name": "Death Recap",
   "InternalName": "DeathRecap",
-  "AssemblyVersion": "1.5.2.0",
+  "AssemblyVersion": "1.5.2.1",
   "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0
 }
