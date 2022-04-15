@@ -1290,7 +1290,7 @@
     "Author": "kalilistic",
     "Name": "Kapture",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.3.4.0",
+    "AssemblyVersion": "1.4.0.0",
     "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
@@ -1299,9 +1299,9 @@
       "track",
       "roll"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Kapture/images/icon.png",
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1310,7 +1310,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1646506941",
+    "LastUpdate": "1649991445",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Kapture?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Kapture?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Kapture/latest.zip"
@@ -1569,7 +1569,7 @@
     "Author": "kalilistic, karashiiro",
     "Name": "NeatNoter",
     "InternalName": "NeatNoter",
-    "AssemblyVersion": "2.1.6.0",
+    "AssemblyVersion": "2.2.0.0",
     "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/NeatNoter",
@@ -1579,9 +1579,9 @@
       "tool",
       "overlay"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api5/plugins/NeatNoter/images/icon.png",
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api6/plugins/NeatNoter/images/icon.png",
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1589,7 +1589,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1648593091",
+    "LastUpdate": "1649990382",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NeatNoter/latest.zip"
