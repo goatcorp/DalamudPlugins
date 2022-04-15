@@ -1826,7 +1826,7 @@
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "2.2.2.0",
+    "AssemblyVersion": "2.2.2.1",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -1836,7 +1836,7 @@
       "utility",
       "tool"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
@@ -1849,7 +1849,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1644948898",
+    "LastUpdate": "1650041194",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PingPlugin/latest.zip"
