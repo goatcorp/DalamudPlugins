@@ -119,11 +119,11 @@
     "Author": "ascclemens",
     "Name": "Better Party Finder",
     "InternalName": "BetterPartyFinder",
-    "AssemblyVersion": "1.2.2",
+    "AssemblyVersion": "1.2.3",
     "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/BetterPartyFinder",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
@@ -132,7 +132,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638961008",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BetterPartyFinder/latest.zip"
@@ -222,11 +222,11 @@
     "Author": "ascclemens",
     "Name": "Burnt Toast",
     "InternalName": "BurntToast",
-    "AssemblyVersion": "1.2.3",
+    "AssemblyVersion": "1.2.4",
     "Description": "Hides toast notifications you don't want to see.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/BurntToast",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -234,7 +234,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638961008",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BurntToast?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BurntToast?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BurntToast/latest.zip"
@@ -825,11 +825,11 @@
     "Author": "ascclemens",
     "Name": "Expanded Search Info",
     "InternalName": "ExpandedSearchInfo",
-    "AssemblyVersion": "1.3.8",
+    "AssemblyVersion": "1.3.9",
     "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n- Refsheet\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.\n\nIcon: expand by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.sr.ht/~jkcclemens/ExpandedSearchInfo",
-    "DalamudApiLevel": 5,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/ExpandedSearchInfo",
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
@@ -838,7 +838,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638862474",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ExpandedSearchInfo/latest.zip"
@@ -969,11 +969,11 @@
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.6.0.0",
+    "AssemblyVersion": "1.6.0.1",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Display game FPS.",
     "IsHide": "False",
@@ -982,7 +982,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1643959183",
+    "LastUpdate": "1649986927",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
@@ -1047,17 +1047,17 @@
     "Author": "ascclemens",
     "Name": "Glamaholic",
     "InternalName": "Glamaholic",
-    "AssemblyVersion": "1.9.3.0",
+    "AssemblyVersion": "1.9.4.0",
     "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Glamaholic",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Save and swap your glamour plates.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11752,
-    "LastUpdate": "1641788633",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Glamaholic/latest.zip"
@@ -1066,11 +1066,11 @@
     "Author": "ascclemens",
     "Name": "Globetrotter",
     "InternalName": "Globetrotter",
-    "AssemblyVersion": "1.2.4",
+    "AssemblyVersion": "1.2.5",
     "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Globetrotter",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
@@ -1079,7 +1079,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1638836667",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Globetrotter?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Globetrotter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Globetrotter/latest.zip"
@@ -1546,11 +1546,11 @@
     "Author": "ascclemens",
     "Name": "Namingway",
     "InternalName": "Namingway",
-    "AssemblyVersion": "1.1.5.0",
+    "AssemblyVersion": "1.1.6.0",
     "Description": "Rename abilities and status effects.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Namingway",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Rename abilities and status effects.",
     "IsHide": "False",
@@ -1560,7 +1560,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1640242492",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Namingway?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Namingway?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Namingway/latest.zip"
@@ -1598,11 +1598,11 @@
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "3.0.2",
+    "AssemblyVersion": "3.0.3",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/NoSoliciting",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 100,
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
@@ -1612,7 +1612,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1638836667",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoSoliciting/latest.zip"
@@ -1805,11 +1805,11 @@
     "Author": "ascclemens",
     "Name": "Peeping Tom",
     "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.7.8",
+    "AssemblyVersion": "1.7.9",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
-    "DalamudApiLevel": 5,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/PeepingTom",
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
@@ -1819,7 +1819,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1638862474",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PeepingTom?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PeepingTom?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PeepingTom/latest.zip"
@@ -2013,7 +2013,7 @@
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "2.1.0.0",
+    "AssemblyVersion": "2.2.0.0",
     "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
@@ -2036,7 +2036,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1638850779",
+    "LastUpdate": "1649986883",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PriceCheck/latest.zip"
@@ -2073,11 +2073,11 @@
     "Author": "ascclemens",
     "Name": "Quest Map",
     "InternalName": "Quest Map",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.2.0",
     "Description": "Explore quests and their rewards.\n- Search for quest names or their rewards, including instances,\n  beast tribes, minions, etc.\n- See an interactive map of quest requirements and unlocks.\n- Open a quest info window even for quests you haven't completed.\n- Open quest starting locations on the map or open quests in the journal.\n\nIcons: treasure map by Anthony Ledoux from the Noun Project and\nlocked book by Anthony Ledoux from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/QuestMap",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Explore quests and their rewards.",
     "IsHide": "False",
@@ -2086,7 +2086,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638836667",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Quest Map?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Quest Map?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Quest Map/latest.zip"
@@ -2464,11 +2464,11 @@
     "Author": "ascclemens",
     "Name": "Sound Filter",
     "InternalName": "SoundFilter",
-    "AssemblyVersion": "1.4.6.0",
+    "AssemblyVersion": "1.4.7.0",
     "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/SoundFilter",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
@@ -2477,7 +2477,7 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1638961950",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundFilter?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundFilter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SoundFilter/latest.zip"
@@ -2537,11 +2537,11 @@
     "Author": "ascclemens",
     "Name": "Text Box Styler",
     "InternalName": "TextBoxStyler",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.3.0",
     "Description": "Allows replacing every text box with the background of your choice.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/TextBoxStyler",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Allows replacing every text box with the background of your choice.",
     "IsHide": "False",
@@ -2550,7 +2550,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638961008",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TextBoxStyler/latest.zip"
@@ -2590,11 +2590,11 @@
     "Author": "ascclemens",
     "Name": "The Great Separator",
     "InternalName": "TheGreatSeparator",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.3.0",
     "Description": "Add separators to various numbers.\n\n- Damage/healing numbers (not DoTs or other players' numbers)\n- Party list HP\n- Ability costs on hotbars\n- Ability costs in tooltips",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/TheGreatSeparator",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
@@ -2603,7 +2603,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638862474",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheGreatSeparator/latest.zip"
@@ -2665,11 +2665,11 @@
     "Author": "ascclemens",
     "Name": "Tourist",
     "InternalName": "Tourist",
-    "AssemblyVersion": "1.2.5",
+    "AssemblyVersion": "1.2.6",
     "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista\n\nIcon: sightseeing by muhammad from the Noun Project",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Tourist",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
@@ -2679,7 +2679,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1639875299",
+    "LastUpdate": "1649987015",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tourist?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tourist?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tourist/latest.zip"
