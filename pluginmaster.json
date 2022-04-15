@@ -1364,11 +1364,11 @@
     "Author": "fmauNeko",
     "Name": "Market board",
     "InternalName": "MarketBoardPlugin",
-    "AssemblyVersion": "0.5.3.0",
+    "AssemblyVersion": "0.6.0.0",
     "Description": "Browse the market board. /pmb to open.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Browse the market board from anywhere.",
     "IsHide": "False",
@@ -1379,7 +1379,7 @@
       "UI",
       "inventory"
     ],
-    "LastUpdate": "1639525582",
+    "LastUpdate": "1650039350",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MarketBoardPlugin/latest.zip"
