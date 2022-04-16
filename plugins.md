@@ -19,6 +19,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
 | NotNite | cl_showpos | the source engine convar, implemented into FFXIV |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
+| Lharz | [Currency Alert](https://github.com/Lharz/xiv-currency-alert) | /currencyalert: shows the configuration panel. |
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks. |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | goat | Wotsit | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
