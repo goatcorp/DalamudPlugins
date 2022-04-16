@@ -419,9 +419,10 @@
     "Author": "Lharz",
     "Name": "Currency Alert",
     "InternalName": "CurrencyAlert",
-    "AssemblyVersion": "0.3.1.0",
-    "Description": "/currencyalert: show the configuration panel.",
+    "AssemblyVersion": "0.3.2.0",
+    "Description": "/currencyalert: shows the configuration panel.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Lharz/xiv-currency-alert",
     "Tags": [
       "plugin",
       "currency",
@@ -429,13 +430,13 @@
       "utility",
       "other"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Punchline": "Lets you setup alerts upon reaching certain currencies amount (such as Poetics or PVP marks).",
+    "Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5741,
-    "LastUpdate": "1642883059",
+    "LastUpdate": "1650093783",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api5",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/CurrencyAlert/latest.zip"
@@ -754,7 +755,7 @@
     "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 27807,
     "CategoryTags": [
@@ -2276,7 +2277,7 @@
     "LoadPriority": 0,
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 65280,
     "CategoryTags": [
