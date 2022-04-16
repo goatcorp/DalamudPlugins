@@ -1192,11 +1192,11 @@
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.9.0.0",
+    "AssemblyVersion": "1.9.0.1",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
@@ -1206,7 +1206,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1644387133",
+    "LastUpdate": "1650115794",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip"
@@ -2688,7 +2688,7 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Finish your sightseeing log.",
-    "IsHide": "False",
+    "IsHide": "True",
     "IsTestingExclusive": "False",
     "DownloadCount": 45182,
     "CategoryTags": [
