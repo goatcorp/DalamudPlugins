@@ -89,5 +89,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Azure Gem | [Window Title Changer](https://github.com/rreminy/FFXIV.WinTitle) | Allows you to change your game window title |
 | daemitus | [ezWondrousTails](https://github.com/daemitus/WondrousTailsSolver) | This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled. |
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
+| Cadaeix | [XIVLogger](https://github.com/cadaeix/XIVLogger) | Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs. |
 | daemitus | [ZodiacBuddy](https://github.com/daemitus/ZodiacBuddy) | This plugin attempts to help you complete your Zodiac weapon in various ways. |
 
