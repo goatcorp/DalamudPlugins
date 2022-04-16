@@ -2869,7 +2869,7 @@
     "Punchline": "Improved Waymark Management",
     "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.3.2.1",
+    "AssemblyVersion": "1.3.2.2",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
     "ImageUrls": [
@@ -2892,7 +2892,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649913021",
+    "LastUpdate": "1650075799",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip"
