@@ -27,7 +27,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60392,
+    "DownloadCount": 60393,
     "LastUpdate": "1650130833",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
@@ -196,7 +196,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12076,
+    "DownloadCount": 12077,
     "CategoryTags": [
       "UI"
     ],
@@ -275,7 +275,7 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35788,
+    "DownloadCount": 35789,
     "CategoryTags": [
       "social",
       "utility"
@@ -422,7 +422,7 @@
     "Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5750,
+    "DownloadCount": 5751,
     "LastUpdate": "1650129121",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
@@ -471,7 +471,7 @@
     "Punchline": "Receive your chat messages via Discord.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41780,
+    "DownloadCount": 41781,
     "CategoryTags": [
       "utility"
     ],
@@ -612,7 +612,7 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 147894,
+    "DownloadCount": 147895,
     "CategoryTags": [
       "UI"
     ],
@@ -850,7 +850,7 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/faderPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24303,
+    "DownloadCount": 24304,
     "LastUpdate": "1646057767",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -873,7 +873,7 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41333,
+    "DownloadCount": 41334,
     "CategoryTags": [
       "minigames"
     ],
@@ -969,7 +969,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 115654,
+    "DownloadCount": 115655,
     "CategoryTags": [
       "UI"
     ],
@@ -1066,7 +1066,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 117300,
+    "DownloadCount": 117301,
     "CategoryTags": [
       "utility"
     ],
@@ -1179,7 +1179,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24293,
+    "DownloadCount": 24294,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1202,7 +1202,7 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 129496,
+    "DownloadCount": 129497,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1446,7 +1446,7 @@
     "Punchline": "Shows the next best move in Mini Cactpot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 142747,
+    "DownloadCount": 142748,
     "CategoryTags": [
       "minigames"
     ],
@@ -1598,7 +1598,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 53021,
+    "DownloadCount": 53022,
     "CategoryTags": [
       "UI",
       "social"
@@ -1698,7 +1698,7 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 147100,
+    "DownloadCount": 147101,
     "CategoryTags": [
       "sound"
     ],
@@ -1870,7 +1870,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 325036,
+    "DownloadCount": 325037,
     "CategoryTags": [
       "UI"
     ],
@@ -1968,7 +1968,7 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 51467,
+    "DownloadCount": 51468,
     "CategoryTags": [
       "social",
       "utility"
@@ -1991,7 +1991,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15364,
+    "DownloadCount": 15365,
     "CategoryTags": [
       "UI"
     ],
@@ -2054,7 +2054,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57479,
+    "DownloadCount": 57480,
     "LastUpdate": "1649963196",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
@@ -2250,7 +2250,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32758,
+    "DownloadCount": 32759,
     "CategoryTags": [
       "inventory"
     ],
@@ -2314,7 +2314,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68526,
+    "DownloadCount": 68527,
     "CategoryTags": [
       "UI"
     ],
@@ -2369,7 +2369,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 769674,
+    "DownloadCount": 769675,
     "CategoryTags": [
       "UI",
       "other",
@@ -2471,7 +2471,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83744,
+    "DownloadCount": 83750,
     "LastUpdate": "1649952960",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2540,7 +2540,7 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 70649,
+    "DownloadCount": 70650,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2668,7 +2668,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36059,
+    "DownloadCount": 36060,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2748,7 +2748,7 @@
     "Punchline": "Triple triad solver",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17260,
+    "DownloadCount": 17261,
     "CategoryTags": [
       "minigames"
     ],
@@ -2806,7 +2806,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 61564,
+    "DownloadCount": 61565,
     "CategoryTags": [
       "UI"
     ],
@@ -2962,7 +2962,7 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 182055,
+    "DownloadCount": 182056,
     "CategoryTags": [
       "minigames"
     ],
@@ -3033,7 +3033,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 176335,
+    "DownloadCount": 176336,
     "CategoryTags": [
       "jobs"
     ],
