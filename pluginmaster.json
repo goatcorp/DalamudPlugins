@@ -1359,14 +1359,14 @@
     "Name": "MapLinker",
     "Punchline": "Record the maplinks in chat",
     "Description": "Automatically record the maplinks in chat and retrieval later.",
-    "Changelog": null,
+    "Changelog": "- Update for api6, patch 6.1.",
     "Tags": null,
     "InternalName": "MapLinker",
-    "AssemblyVersion": "1.1.4.0",
+    "AssemblyVersion": "1.1.5.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Bluefissure/MapLinker",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
@@ -1379,7 +1379,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1642815228",
+    "LastUpdate": "1650115996",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MapLinker?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MapLinker?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MapLinker/latest.zip"
@@ -2247,7 +2247,7 @@
     "Punchline": "Never forget to repair & extract materia again!",
     "Changelog": "v1.0.0.5\n  set api6 (no code changes)\nv1.0.0.4\n  set api5 (no code changes)\nv1.0.0.3\n  Now supports more than 100% condition\nv1.0.0.2\n  Fix `System.AccessViolationException` in `GetConditionInfo()`\n    shouldn't crash on logout/disconnect anymore",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.1.2",
+    "TestingAssemblyVersion": "1.0.1.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 32758,
     "CategoryTags": [
@@ -3147,7 +3147,7 @@
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
-    "AssemblyVersion": "1.2.3.0",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
@@ -3160,12 +3160,12 @@
     "Punchline": "Chat alerts for player housing.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.2.3.0",
+    "TestingAssemblyVersion": "1.3.0.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1649981276",
+    "LastUpdate": "1650101766",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
