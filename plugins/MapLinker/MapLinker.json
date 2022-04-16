@@ -7,7 +7,7 @@
   "Name": "MapLinker",
   "Punchline": "Record the maplinks in chat",
   "Description": "Automatically record the maplinks in chat and retrieval later.",
-  "Changelog": "- Fix a case where `%s` in the maplink message crash the game\r\n- Fix the Del button delete the wrong entry when the list is reversed",
+  "Changelog": "- Update for api6, patch 6.1.",
   "Tags": null,
   "CategoryTags": null,
   "IsHide": false,
