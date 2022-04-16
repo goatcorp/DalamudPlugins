@@ -1,0 +1,12 @@
+{
+  "Author": "NotJuliee",
+  "Name": "Bridgemud.Client",
+  "InternalName": "Bridgemud.Client",
+  "AssemblyVersion": "0.0.2.0",
+  "Description": "Sends you discord DMs on configurable events (currently /tell and cf pop)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/notjuliee/Bridgemud",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Get notifications via discord"
+}
