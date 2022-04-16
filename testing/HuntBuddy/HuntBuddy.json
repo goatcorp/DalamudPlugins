@@ -1,0 +1,17 @@
+{
+  "Author": "Dragon",
+  "Name": "Hunt Buddy",
+  "InternalName": "HuntBuddy",
+  "AssemblyVersion": "0.1.2.0",
+  "Description": "A daily hunt bill tracker",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SheepGoMeh/HuntBuddy",
+  "Tags": [
+    "Hunt",
+    "Daily",
+    "Utility"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Helps you track your daily hunt bills"
+}

@@ -1,0 +1,19 @@
+{
+  "Author": "Cair",
+  "Name": "Redirect",
+  "InternalName": "Redirect",
+  "AssemblyVersion": "1.0.3.0",
+  "Description": "Allows you to customize target priorities for individual actions. Additionally, lets some actions enter the game's queue system that normally wouldn't. Type /redirect to configure.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https//github.com/cairthenn/Redirect",
+  "Tags": [
+    "redirect",
+    "action",
+    "cair",
+    "mouseover",
+    "macros"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!"
+}

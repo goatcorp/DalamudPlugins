@@ -1,0 +1,16 @@
+{
+  "Author": "rennerdo30",
+  "Name": "SimpleCompare",
+  "InternalName": "SimpleCompare",
+  "AssemblyVersion": "0.0.0.3",
+  "Description": "Show simple item comparison when pressing SHIFT and hovering over item",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "compare",
+    "plugin"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Simple item comparison",
+  "RepoUrl": "https://github.com/Rennerdo30/ffxiv-simplecompare"
+}
