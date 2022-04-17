@@ -1740,7 +1740,7 @@
     "Author": "shdwp, maintained by Avaflow",
     "Name": "PartyIcons",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.6",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
@@ -1760,7 +1760,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 44393,
-    "LastUpdate": "1650178399",
+    "LastUpdate": "1650236892",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PartyIcons/latest.zip"
