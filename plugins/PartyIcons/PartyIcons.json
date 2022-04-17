@@ -1,22 +1,22 @@
 {
-  "Author": "shdwp",
+  "Author": "shdwp, maintained by Avaflow",
   "Name": "PartyIcons",
   "InternalName": "PartyIcons",
-  "AssemblyVersion": "1.0.3.3",
+  "AssemblyVersion": "1.0.4.0",
   "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
   "Tags": [
     "UI"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image1.png",
-    "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image2.png",
-    "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image3.png",
-    "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/image4.png"
+    "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image1.png",
+    "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image2.png",
+    "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image3.png",
+    "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image4.png"
   ],
-  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/PartyIcons/images/icon.png",
+  "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/icon.png",
   "Punchline": "Replace names with job icons, raid role positions and more!"
 }
