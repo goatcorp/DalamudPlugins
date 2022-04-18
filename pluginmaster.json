@@ -726,7 +726,7 @@
     "Author": "Dante Souza e Souza - aka lokinmodar",
     "Name": "Echoglossian",
     "InternalName": "Echoglossian",
-    "AssemblyVersion": "2.99.2204.218",
+    "AssemblyVersion": "2.99.2204.920",
     "Description": "Realtime game text translator",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
@@ -751,7 +751,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650253700",
+    "LastUpdate": "1650295430",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Echoglossian?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Echoglossian?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Echoglossian/latest.zip"
@@ -3603,22 +3603,22 @@
     "Author": "Kaminaris",
     "Name": "NextUIPlugin",
     "InternalName": "NextUIPlugin",
-    "AssemblyVersion": "0.5.3.0",
+    "AssemblyVersion": "0.6.0.3",
     "Description": "OverlayPlugin replacement for Dalamud, works similarly to BrowserHost with addition to having more options and built in websocket server.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
     "Tags": [
       "UI"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
     "Punchline": "OverlayPlugin for Dalamud with built in HUD replacement",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.5.3.0",
+    "TestingAssemblyVersion": "0.6.0.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1645079894",
+    "LastUpdate": "1650295577",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NextUIPlugin/latest.zip"
