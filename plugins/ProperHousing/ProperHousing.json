@@ -3,7 +3,7 @@
   "Name": "Better Housing",
   "InternalName": "ProperHousing",
   "AssemblyVersion": "1.0.1.0",
-  "Description": "Furniture selection that actually works properly",
+  "Description": "Select furniture based on what you see instead of a massive box. Always active for both indoors and outdoors, there's no config menu.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Sevii77/properhousing",
   "Tags": [
