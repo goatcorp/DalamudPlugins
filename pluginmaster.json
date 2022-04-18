@@ -760,19 +760,19 @@
     "Author": "Felys",
     "Name": "EnemyListDebuffs",
     "InternalName": "EnemyListDebuffs",
-    "AssemblyVersion": "0.3.3.0",
+    "AssemblyVersion": "0.3.4.0",
     "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28355,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649914492",
+    "LastUpdate": "1650322450",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EnemyListDebuffs/latest.zip"
