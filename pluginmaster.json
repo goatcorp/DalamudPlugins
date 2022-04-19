@@ -2435,6 +2435,32 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SlideCast/latest.zip"
   },
   {
+    "Author": "Vielle Janlenoux",
+    "Name": "Snooper",
+    "InternalName": "Snooper",
+    "AssemblyVersion": "0.1.0.3",
+    "Description": "Adds a /snooper command that shows a separate window that shows only say/emote/party messages from the player you're currently targeting. Useful for keeping track of different conversations during crowded RP events.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Maia-Everett/dalamud-snooper",
+    "Tags": [
+      "chat",
+      "rp",
+      "roleplay",
+      "listener",
+      "snooper"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "See chat messages said, shouted, yelled and emoted by your current target.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1650037731",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Snooper/latest.zip"
+  },
+  {
     "Author": "Sonar Team",
     "Name": "Sonar",
     "Punchline": "Automatically send and receive hunt and fate relays.",
@@ -3879,6 +3905,26 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TabTab/latest.zip"
+  },
+  {
+    "Author": "kalilistic",
+    "Name": "Tippy",
+    "InternalName": "Tippy",
+    "AssemblyVersion": "1.2.0.0",
+    "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kalilistic/tippy",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Tippy, your new FFXIV virtual assistant.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.2.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1650327323",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
   },
   {
     "Author": "Eternita",
