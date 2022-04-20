@@ -2,8 +2,8 @@
   "Author": "Sevii",
   "Name": "Better Housing",
   "InternalName": "ProperHousing",
-  "AssemblyVersion": "1.0.1.0",
-  "Description": "Select furniture based on what you see instead of a massive box. Always active for both indoors and outdoors, there's no config menu.",
+  "AssemblyVersion": "1.0.2.0",
+  "Description": "Select furniture based on what you see instead of a massive box. Always active indoors, doens't work outdoors, there's no config menu.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Sevii77/properhousing",
   "Tags": [
