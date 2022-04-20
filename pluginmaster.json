@@ -993,7 +993,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.0.5.0",
+    "AssemblyVersion": "3.0.5.1",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -1006,7 +1006,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1649939465",
+    "LastUpdate": "1650458044",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -2359,7 +2359,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.8.4",
+    "AssemblyVersion": "1.6.8.5",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2376,7 +2376,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1649934023",
+    "LastUpdate": "1650452066",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
