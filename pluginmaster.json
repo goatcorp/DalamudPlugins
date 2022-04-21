@@ -2808,7 +2808,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.1.1",
+    "AssemblyVersion": "1.6.2.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2823,7 +2823,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650078387",
+    "LastUpdate": "1650557250",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
@@ -3794,6 +3794,30 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ProperHousing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ProperHousing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ProperHousing/latest.zip"
+  },
+  {
+    "Author": "srkizer",
+    "Name": "ResetAudio",
+    "InternalName": "ResetAudio",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Resets game audio device on demand.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Soreepeong/FFXIV-ResetAudio",
+    "Tags": [
+      "audio",
+      "reset"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Do not let the game shut up.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1650560083",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ResetAudio?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ResetAudio?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ResetAudio/latest.zip"
   },
   {
     "Author": "perchbird",
