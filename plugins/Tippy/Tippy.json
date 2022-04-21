@@ -1,0 +1,12 @@
+{
+  "Author": "kalilistic",
+  "Name": "Tippy",
+  "InternalName": "Tippy",
+  "AssemblyVersion": "1.2.4.0",
+  "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kalilistic/tippy",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Tippy, your new FFXIV virtual assistant."
+}
