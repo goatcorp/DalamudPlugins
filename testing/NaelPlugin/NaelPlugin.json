@@ -1,0 +1,15 @@
+{
+  "Author": "Eisenhuth",
+  "Name": "Nael'd it for UCOB",
+  "InternalName": "NaelPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Translates Nael's quotes into mechanics.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+  "Tags": [
+    "ui"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "because reading chat is not a mechanic"
+}
