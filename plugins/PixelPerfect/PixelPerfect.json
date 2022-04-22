@@ -6,9 +6,9 @@
 	"Description": "Showing exactly where to stand since 2020.",
 	"Tags": ["Hitbox", "Overlay", "Indicator"],
 	"RepoUrl": "https://github.com/Haplo064/PixelPerfect",
-	"AssemblyVersion": "1.4.0.2",
+	"AssemblyVersion": "1.4.0.3",
 	"ApplicableVersion": "any",
-	"DalamudApiLevel": 5,
+	"DalamudApiLevel": 6,
 	"LoadPriority": 0,
 	"ImageUrls":
 		[
@@ -16,5 +16,5 @@
 		"https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
 		],
 	"IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
-	"Changelog": "Updated for Endwalker."
+	"Changelog": "Updated for 6.1"
 }
