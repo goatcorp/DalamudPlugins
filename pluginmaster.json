@@ -2467,7 +2467,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.6.2",
+    "AssemblyVersion": "0.4.6.3",
     "DalamudApiLevel": 6,
     "Tags": [
       "Sonar",
@@ -2498,7 +2498,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 83777,
-    "LastUpdate": "1650228218",
+    "LastUpdate": "1650684469",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
@@ -2808,7 +2808,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.2.0",
+    "AssemblyVersion": "1.6.2.1",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2823,7 +2823,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650557250",
+    "LastUpdate": "1650659637",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
