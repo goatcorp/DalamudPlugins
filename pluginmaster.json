@@ -393,7 +393,7 @@
     "Changelog": "- Update to APi 6, patch 6.1\n- One more visibility option: 'Only in Combat'\n- New Filter: 'Boss Enemy'\n- New Filter: 'Poetics Vendor'\n- fix: Waymark icons (thanks Maxunit)\n- \"fix\": Dirty hack to prevent (?) Aesthetician crashes",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18525,
+    "DownloadCount": 18526,
     "CategoryTags": [
       "UI"
     ],
@@ -768,7 +768,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28356,
+    "DownloadCount": 28357,
     "CategoryTags": [
       "UI"
     ],
@@ -1025,7 +1025,7 @@
     "Changelog": "Update to API 5 and EW + Now works with DS4 (maybe even DS5?) thanks to the game adding support",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3121,
+    "DownloadCount": 3122,
     "CategoryTags": [
       "utility"
     ],
@@ -1147,7 +1147,7 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32433,
+    "DownloadCount": 32434,
     "CategoryTags": [
       "UI"
     ],
@@ -1202,7 +1202,7 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 129499,
+    "DownloadCount": 129500,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -2497,7 +2497,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83776,
+    "DownloadCount": 83777,
     "LastUpdate": "1650228218",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2713,7 +2713,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36060,
+    "DownloadCount": 36061,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2736,7 +2736,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45183,
+    "DownloadCount": 45184,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2851,7 +2851,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 61565,
+    "DownloadCount": 61566,
     "CategoryTags": [
       "UI"
     ],
@@ -3007,7 +3007,7 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 182057,
+    "DownloadCount": 182058,
     "CategoryTags": [
       "minigames"
     ],
@@ -3053,7 +3053,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5594,
+    "DownloadCount": 5595,
     "CategoryTags": [
       "social"
     ],
