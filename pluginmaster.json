@@ -422,7 +422,7 @@
     "Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5754,
+    "DownloadCount": 5755,
     "LastUpdate": "1650129121",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
@@ -497,7 +497,7 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32909,
+    "DownloadCount": 32910,
     "LastUpdate": "1650050484",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=True&branch=api6",
@@ -768,7 +768,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28357,
+    "DownloadCount": 28358,
     "CategoryTags": [
       "UI"
     ],
@@ -969,7 +969,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 115655,
+    "DownloadCount": 115656,
     "CategoryTags": [
       "UI"
     ],
@@ -1523,7 +1523,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6272,
+    "DownloadCount": 6273,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -1630,7 +1630,7 @@
     "Punchline": "Warns you if players are missing critical role actions",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 108703,
+    "DownloadCount": 108704,
     "LastUpdate": "1649915966",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api6",
@@ -1991,7 +1991,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15366,
+    "DownloadCount": 15367,
     "CategoryTags": [
       "UI"
     ],
@@ -2023,7 +2023,7 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 107001,
+    "DownloadCount": 107002,
     "CategoryTags": [
       "inventory"
     ],
@@ -2175,7 +2175,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2464,
+    "DownloadCount": 2465,
     "LastUpdate": "1650053164",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
@@ -2454,7 +2454,7 @@
     "Punchline": "See chat messages said, shouted, yelled and emoted by your current target.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1,
+    "DownloadCount": 2,
     "LastUpdate": "1650037731",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=True&branch=api6",
@@ -2497,7 +2497,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83779,
+    "DownloadCount": 83780,
     "LastUpdate": "1650684469",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2544,7 +2544,7 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21800,
+    "DownloadCount": 21801,
     "CategoryTags": [
       "sound"
     ],
@@ -3035,7 +3035,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3315,
+    "DownloadCount": 3316,
     "LastUpdate": "1650412614",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api6",
@@ -3107,7 +3107,7 @@
     "Punchline": "Save chat logs to your computer as text files or copy them!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3103,
+    "DownloadCount": 3104,
     "CategoryTags": [
       "UI"
     ],
