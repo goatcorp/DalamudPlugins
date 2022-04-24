@@ -530,12 +530,13 @@
   {
     "Author": "goat",
     "Name": "Fancy Loading Screens",
-    "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
-    "Punchline": "Shows the destination zone's concept art while loading",
     "InternalName": "Dalamud.LoadingImage",
-    "AssemblyVersion": "1.0.0.6",
+    "AssemblyVersion": "1.0.0.7",
+    "Description": "This plugin shows the destination zone's concept art while loading.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Shows the destination zone's concept art while loading",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
@@ -543,7 +544,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1638635117",
+    "LastUpdate": "1650834645",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.LoadingImage/latest.zip"
@@ -2653,6 +2654,25 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheGreatSeparator/latest.zip"
   },
   {
+    "Author": "ascclemens",
+    "Name": "The Heart of the Party",
+    "InternalName": "TheHeartOfTheParty",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "The Heart of the Party is a remake of the in-game title picker, but it\nsupports searching. Note that it doesn't add a command to set your title; use\nthe built-in /title command instead.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/TheHeartOfTheParty",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Set your character's title - now with Searchalin!",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1650234200",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheHeartOfTheParty/latest.zip"
+  },
+  {
     "Author": "Nana",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
@@ -3160,6 +3180,31 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ACTEndcounter/latest.zip"
+  },
+  {
+    "Author": "Helios",
+    "Name": "Adaptive Hud",
+    "InternalName": "AdaptiveHud",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
+    "Tags": [
+      "hudlayout",
+      "hud",
+      "settings"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1650180154",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
   },
   {
     "Author": "yomishino",
