@@ -1,10 +1,11 @@
 {
   "Author": "goat",
   "Name": "Fancy Loading Screens",
-  "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
-  "Punchline": "Shows the destination zone's concept art while loading",
   "InternalName": "Dalamud.LoadingImage",
-  "AssemblyVersion": "1.0.0.6",
+  "AssemblyVersion": "1.0.0.7",
+  "Description": "This plugin shows the destination zone's concept art while loading.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 5
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Shows the destination zone's concept art while loading"
 }
