@@ -24,7 +24,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | goat | Wotsit | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
 | Not Cara | [Ultrawide Cutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | This plugin removes the "letterboxing" bars when watching cutscenes on ultrawide monitors.<br>Beware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.<br><br>Thanks to aers for finding this. |
-| goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading. |
+| goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading.<br>NOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry! |
 | goat | Discord Rich Presence | This plugin allows you to show your zone, job, level, name, and world in your Discord status. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | jdsmith2816 | [DelvUI](https://github.com/delvui/delvui) | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |

@@ -531,8 +531,8 @@
     "Author": "goat",
     "Name": "Fancy Loading Screens",
     "InternalName": "Dalamud.LoadingImage",
-    "AssemblyVersion": "1.0.0.7",
-    "Description": "This plugin shows the destination zone's concept art while loading.",
+    "AssemblyVersion": "1.0.0.8",
+    "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -544,7 +544,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1650834645",
+    "LastUpdate": "1650836854",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.LoadingImage/latest.zip"
