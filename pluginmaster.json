@@ -635,7 +635,7 @@
       "achievements",
       "battle"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
@@ -644,7 +644,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1638988487",
+    "LastUpdate": "1650851447",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeepDungeonDex/latest.zip"
