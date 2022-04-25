@@ -906,7 +906,7 @@
     "IconUrl": "https://github.com/WesselKuipers/FCNameColor/raw/main/images/icon.png",
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.1.0.1",
+    "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 65325,
     "LastUpdate": "1650475165",
@@ -2794,7 +2794,7 @@
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
-    "AssemblyVersion": "1.4.0.2",
+    "AssemblyVersion": "1.4.0.3",
     "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud",
@@ -2818,7 +2818,7 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1650052057",
+    "LastUpdate": "1650907663",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TriadBuddy/latest.zip"
