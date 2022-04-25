@@ -2,8 +2,8 @@
   "Author": "Critical_Impact",
   "Name": "Inventory Tools",
   "InternalName": "InventoryTools",
-  "AssemblyVersion": "1.0.0.13",
-  "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+  "AssemblyVersion": "1.0.0.14",
+  "Description": "Adds in a window that allows for the searching and filtering of items across your inventories and the entire games list of items. Adds visualisation in game to see both where your items are and where you should sort them.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
   "Tags": [
@@ -17,5 +17,5 @@
     "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-  "Punchline": "Clean up your sloppppy inventories."
+  "Punchline": "Can't find an item you thought you had? Can't work out why your retainers are so full? This might help."
 }
