@@ -1,0 +1,11 @@
+{
+    "Author": "marimelon",
+    "Name": "RememberAskingPrice",
+    "InternalName": "RememberAskingPrice",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Remember the last asking price and set it as the initial value.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/marimelon/RememberAskingPrice",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 1
+}
