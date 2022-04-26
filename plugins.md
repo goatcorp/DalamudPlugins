@@ -57,6 +57,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Eternita | [Mini](https://github.com/Eternita-S/Mini) | Additionally can minimize game to tray or create game's tray icon |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | Marconsou | [MP Tick Bar](https://github.com/marconsou/mp-tick-bar) | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
+| aers, JHerig | [NamePlateDebuffs](https://github.com/jherig/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
 | ascclemens | [Namingway](https://git.annaclemens.io/ascclemens/Namingway) | Rename abilities and status effects. |
 | kalilistic, karashiiro | [NeatNoter](https://github.com/kalilistic/NeatNoter) | NeatNoter allows you to take notes without switching windows or any of that. |
 | ascclemens | [NoSoliciting](https://git.annaclemens.io/ascclemens/NoSoliciting) | Customisable chat and Party Finder filtering. In addition to letting<br>you filter anything from chat and PF, it comes with built-in filters<br>for the following:<br><br>- RMT (both gil and content)<br>- FC ads<br>- RP ads<br>- Phishing messages<br>- Static recruitment<br>- Trade ads<br>- Community ads<br>- Any PF with an item level over the max |
