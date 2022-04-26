@@ -2,10 +2,11 @@
   "Author": "aers, JHerig",
   "Name": "NamePlateDebuffs",
   "InternalName": "NamePlateDebuffs",
-  "AssemblyVersion": "0.5.1.0",
+  "AssemblyVersion": "0.5.6.0",
   "Description": "Displays your debuffs on enemy nameplates.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/jherig/NamePlateDebuffs",
-  "DalamudApiLevel": 5,
-  "LoadPriority": 0
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Displays debuffs you cast on nameplates of enemies"
 }
