@@ -653,7 +653,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -669,7 +669,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650059933",
+    "LastUpdate": "1651095567",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
