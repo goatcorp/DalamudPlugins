@@ -446,7 +446,7 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.5.0.4",
+    "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 126618,
     "LastUpdate": "1651036023",
@@ -621,6 +621,33 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DamageInfoPlugin/latest.zip"
+  },
+  {
+    "Author": "Kouzukii",
+    "Name": "Death Recap",
+    "InternalName": "DeathRecap",
+    "AssemblyVersion": "1.6.1.0",
+    "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
+    "Tags": [
+      "death",
+      "recap",
+      "log"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "1.6.1.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 10536,
+    "LastUpdate": "1651155746",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRecap/latest.zip"
   },
   {
     "Author": "Strati",
@@ -1179,7 +1206,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
     "Punchline": "Clean up your sloppppy inventories.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.0.15",
+    "TestingAssemblyVersion": "1.0.0.16",
     "IsTestingExclusive": "False",
     "DownloadCount": 24305,
     "CategoryTags": [
@@ -1592,7 +1619,7 @@
     "Author": "ascclemens",
     "Name": "NoSoliciting",
     "InternalName": "NoSoliciting",
-    "AssemblyVersion": "3.0.3",
+    "AssemblyVersion": "3.0.4",
     "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/NoSoliciting",
@@ -1606,7 +1633,7 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1649987015",
+    "LastUpdate": "1651181668",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoSoliciting/latest.zip"
@@ -2229,7 +2256,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.1.7",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -2249,7 +2276,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
-    "Changelog": "v1.0.0.5\n  set api6 (no code changes)\nv1.0.0.4\n  set api5 (no code changes)\nv1.0.0.3\n  Now supports more than 100% condition\nv1.0.0.2\n  Fix `System.AccessViolationException` in `GetConditionInfo()`\n    shouldn't crash on logout/disconnect anymore",
+    "Changelog": "* v1.0.1.7\n  * fix \"clicking condition/spiritbond alerts\" for non-english clients\n* v1.0.1.6\n  * new option: bar border (size and color)\n  * fix \"display spiritbond of all items\" for right-to-left and bottom-to-top orientations  \n  * new debug window\n* v1.0.1.5\n  * new option: clicking condition/spiritbond alerts opens repair/extract materia UI\n  * new option: plugin UI is now hidden when player is occupied\n* v1.0.1.4\n  * bugfix: checkboxes to hide decimal and percentage are working correctly now\n* v1.0.1.3\n  * new option: display spiritbond of all items in the bar (color can be changed)\n  * new option: hide % sign in percentage labels\n  * new option: hide decimal digits in percentage labels\n  * new option: show both least and most spiritbonded items in the percentage label\n  * new option: adjust bar corner roundness\n* v1.0.1.2\n  * If coming from v1.0.0.5 or below, your position settings will not be reset (apologies and thanks to the beta testers)\n  * Drag&drop is now supported again\n  * The condition alerts (low/critical) can again be positioned separately\n  * Attempt to force alerts/bars/percentages to display inside the game window\n  * Improved readability of config window\n* v1.0.1.1\n  * attempt to make it clear how to move things around\n* v1.0.1.0\n  * WARNING: all bar/alert/percentages positions will be reset\n  * replaced drag&drop positioning with X/Y precise sliders\n  * widget position is now bound to resolution\n    * the plugin will remember where you positioned the widgets across different resolutions \n    * if you change the window size/resolution you'll need to re-position everything\n      * there's also an option (bottom of config window) to copy position settings from another resolution\n* v1.0.0.5\n  * set api6 (no code changes)",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.6",
     "IsTestingExclusive": "False",
@@ -2257,7 +2284,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1649957090",
+    "LastUpdate": "1651171147",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
@@ -3067,11 +3094,11 @@
     "Author": "ascclemens",
     "Name": "XIVChat Server",
     "InternalName": "XIVChat",
-    "AssemblyVersion": "1.7.1",
+    "AssemblyVersion": "1.7.2",
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://xiv.chat/",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -3079,7 +3106,7 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1638862474",
+    "LastUpdate": "1651160616",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVChat?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVChat?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVChat/latest.zip"
@@ -3453,33 +3480,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.CharacterSync/latest.zip"
-  },
-  {
-    "Author": "Kouzukii",
-    "Name": "Death Recap",
-    "InternalName": "DeathRecap",
-    "AssemblyVersion": "1.6.0.0",
-    "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
-    "Tags": [
-      "death",
-      "recap",
-      "log"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.6.0.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1650054777",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRecap/latest.zip"
   },
   {
     "Author": "Roselyn",
