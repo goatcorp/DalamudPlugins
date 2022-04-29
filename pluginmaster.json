@@ -1031,7 +1031,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 285578,
+    "DownloadCount": 285579,
     "CategoryTags": [
       "jobs"
     ],
@@ -1257,7 +1257,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 175757,
+    "DownloadCount": 175758,
     "CategoryTags": [
       "jobs"
     ],
@@ -1349,7 +1349,7 @@
     "Changelog": "API 6 Compatibility\n-Fixed the lines in the ring bars when scaled up.\n-Fixed the positioning of the class icon and level text when scaling.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4850,
+    "DownloadCount": 4851,
     "CategoryTags": [
       "UI"
     ],
@@ -1900,7 +1900,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 325044,
+    "DownloadCount": 325045,
     "CategoryTags": [
       "UI"
     ],
@@ -1968,7 +1968,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21722,
+    "DownloadCount": 21723,
     "LastUpdate": "1640629879",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=True&branch=api6",
@@ -2455,7 +2455,7 @@
     "DalamudApiLevel": 3,
     "IsHide": "True",
     "IsTestingExclusive": "False",
-    "DownloadCount": 46929,
+    "DownloadCount": 46932,
     "CategoryTags": [
       "jobs"
     ],
@@ -2527,7 +2527,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83800,
+    "DownloadCount": 83801,
     "LastUpdate": "1651183300",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2546,7 +2546,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10792,
+    "DownloadCount": 10793,
     "CategoryTags": [
       "sound"
     ],
@@ -2812,7 +2812,7 @@
     "Changelog": "1.3.1.0\n- Added buttons to sort rings in the list.\n- Fixed quick action setting being transferred to another item when deleting or moving items.\n- Fixed quick actions showing a selection background when the setting is disabled.\n- Fixed crash when attempting to move an item without having a selected item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36478,
+    "DownloadCount": 36479,
     "LastUpdate": "1650142399",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=True&branch=api6",
