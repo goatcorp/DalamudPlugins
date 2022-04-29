@@ -360,7 +360,7 @@
     "Author": "NotNite",
     "Name": "cl_showpos",
     "InternalName": "cl_showpos",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.3.1",
     "Description": "the source engine convar, implemented into FFXIV",
     "ApplicableVersion": "any",
     "Tags": [
@@ -374,7 +374,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 393,
-    "LastUpdate": "1649910901",
+    "LastUpdate": "1651198537",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
@@ -3213,7 +3213,7 @@
     "Author": "Helios",
     "Name": "Adaptive Hud",
     "InternalName": "AdaptiveHud",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
@@ -3227,9 +3227,9 @@
     "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650180154",
+    "LastUpdate": "1651188902",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
