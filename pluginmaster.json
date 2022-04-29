@@ -72,7 +72,7 @@
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36527,
+    "DownloadCount": 36528,
     "CategoryTags": [
       "UI"
     ],
@@ -246,18 +246,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.3.2.2",
+    "AssemblyVersion": "2.0.0.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Changelog": "Fixed custom emotes (again). Added better colour picker ui.",
+    "Changelog": "COLOURS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 160933,
+    "DownloadCount": 160934,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1639447283",
+    "LastUpdate": "1651230376",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
@@ -446,9 +446,9 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.0",
+    "TestingAssemblyVersion": "2.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126618,
+    "DownloadCount": 126619,
     "LastUpdate": "1651036023",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
@@ -643,7 +643,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.6.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10536,
+    "DownloadCount": 10538,
     "LastUpdate": "1651155746",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
@@ -796,7 +796,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28358,
+    "DownloadCount": 28359,
     "CategoryTags": [
       "UI"
     ],
@@ -976,7 +976,7 @@
     "Punchline": "Allows the filtering of the different fly text types.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2600,
+    "DownloadCount": 2601,
     "CategoryTags": [
       "UI"
     ],
@@ -1208,7 +1208,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.16",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24306,
+    "DownloadCount": 24308,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1405,7 +1405,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28230,
+    "DownloadCount": 28231,
     "CategoryTags": [
       "UI"
     ],
@@ -1553,7 +1553,7 @@
     "Punchline": "Displays debuffs you cast on nameplates of enemies",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6279,
+    "DownloadCount": 6280,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -1628,7 +1628,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 53026,
+    "DownloadCount": 53028,
     "CategoryTags": [
       "UI",
       "social"
@@ -2084,7 +2084,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57483,
+    "DownloadCount": 57484,
     "LastUpdate": "1651005162",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
@@ -2124,6 +2124,7 @@
     "LoadPriority": 0,
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 18089,
     "CategoryTags": [
@@ -2191,10 +2192,10 @@
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https//github.com/cairthenn/Redirect",
+    "RepoUrl": "https://github.com/cairthenn/Redirect",
     "CategoryTags": [
       "jobs",
       "utility"
@@ -2206,7 +2207,7 @@
     "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 2472,
-    "LastUpdate": "1650969274",
+    "LastUpdate": "1651231447",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Redirect/latest.zip"
@@ -2280,7 +2281,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.6",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32763,
+    "DownloadCount": 32765,
     "CategoryTags": [
       "inventory"
     ],
@@ -2399,7 +2400,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 769691,
+    "DownloadCount": 769693,
     "CategoryTags": [
       "UI",
       "other",
@@ -2527,7 +2528,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83801,
+    "DownloadCount": 83805,
     "LastUpdate": "1651183300",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2596,7 +2597,7 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 70656,
+    "DownloadCount": 70658,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2632,7 +2633,7 @@
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.14.0.0",
+    "AssemblyVersion": "1.15.0.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -2654,7 +2655,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650089735",
+    "LastUpdate": "1651255626",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TextToTalk/latest.zip"
@@ -2723,7 +2724,7 @@
     "Punchline": "Keeps your chat tidy.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17563,
+    "DownloadCount": 17564,
     "LastUpdate": "1651208449",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
@@ -2762,7 +2763,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36061,
+    "DownloadCount": 36062,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2785,7 +2786,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45185,
+    "DownloadCount": 45186,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2842,7 +2843,7 @@
     "Punchline": "Triple triad solver",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17268,
+    "DownloadCount": 17270,
     "CategoryTags": [
       "minigames"
     ],
@@ -2900,7 +2901,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 61568,
+    "DownloadCount": 61570,
     "CategoryTags": [
       "UI"
     ],

@@ -14,6 +14,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
 | ascclemens | [Burnt Toast](https://git.annaclemens.io/ascclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
+| Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
@@ -81,7 +82,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Eternita | [QuestAWAY](https://github.com/Eternita-S/QuestAWAY) | Removes unwanted icons from your map. Not only quests, any icons. |
 | srkizer | [Quote of the Lobby](https://github.com/Soreepeong/QuoteOfTheLobby.json) | Displays a random dialogue, and/or the datacenter you'll be connecting to when you press GAME START. |
 | PunishedPineapple | [Ready Check Helper](https://github.com/PunishedPineapple/ReadyCheckHelper) | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
-| Cair | [Redirect](https//github.com/cairthenn/Redirect) | Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure. |
+| Cair | [Redirect](https://github.com/cairthenn/Redirect) | Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure. |
 | Chalkos | [RepairMe](https://github.com/chalkos/RepairMe) | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Allows you to translate player and NPC chat messages/bubbles.<br>Supported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey. |
