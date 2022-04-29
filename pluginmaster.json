@@ -246,18 +246,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "1.3.2.2",
+    "AssemblyVersion": "2.0.0.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Changelog": "Fixed custom emotes (again). Added better colour picker ui.",
+    "Changelog": "COLOURS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 160934,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1639447283",
+    "LastUpdate": "1651230376",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"

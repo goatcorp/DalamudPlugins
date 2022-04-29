@@ -14,6 +14,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
 | ascclemens | [Burnt Toast](https://git.annaclemens.io/ascclemens/BurntToast) | Hides toast notifications you don't want to see. |
 | Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
+| Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat! |
