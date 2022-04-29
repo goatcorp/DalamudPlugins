@@ -81,7 +81,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Eternita | [QuestAWAY](https://github.com/Eternita-S/QuestAWAY) | Removes unwanted icons from your map. Not only quests, any icons. |
 | srkizer | [Quote of the Lobby](https://github.com/Soreepeong/QuoteOfTheLobby.json) | Displays a random dialogue, and/or the datacenter you'll be connecting to when you press GAME START. |
 | PunishedPineapple | [Ready Check Helper](https://github.com/PunishedPineapple/ReadyCheckHelper) | Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists. |
-| Cair | [Redirect](https//github.com/cairthenn/Redirect) | Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure. |
+| Cair | [Redirect](https://github.com/cairthenn/Redirect) | Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure. |
 | Chalkos | [RepairMe](https://github.com/chalkos/RepairMe) | Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | Easy overview about who is currently resurrecting who, who is already resurrected, and who has removable detrimental status effects in the world as well as in the group or alliance interface. |
 | kalilistic | [SillyChat](https://github.com/kalilistic/SillyChat) | Allows you to translate player and NPC chat messages/bubbles.<br>Supported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey. |
