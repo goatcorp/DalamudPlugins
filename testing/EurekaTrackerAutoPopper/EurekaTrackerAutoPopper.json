@@ -1,0 +1,17 @@
+{
+  "Author": "electr0sheep",
+  "Name": "Eureka Tracker Auto Popper",
+  "InternalName": "EurekaTrackerAutoPopper",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Automatically pops NMs in the Eureka Tracker",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/electr0sheep/EurekaTrackerAutoPopper",
+  "Tags": [
+    "plugin",
+    "eureka",
+    "tracker"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Shows you where to buy vendor items"
+}
