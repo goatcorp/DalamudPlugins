@@ -2,7 +2,7 @@
   "Author": "Critical_Impact",
   "Name": "Inventory Tools",
   "InternalName": "InventoryTools",
-  "AssemblyVersion": "1.0.0.16",
+  "AssemblyVersion": "1.0.0.17",
   "Description": "Adds in a window that allows for the searching and filtering of items across your inventories and the entire games list of items. Adds visualisation in game to see both where your items are and where you should sort them.\n\nFeatures are always being added to Inventory Tools so keep up to date to receive them. Some of the currently included features are:\n\t- Market board integration \n\t- Item highlighting \n\t- Various ways to filter items including have acquired, is craftable, is housing, any many more \n\t- Browse all available game items ",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
