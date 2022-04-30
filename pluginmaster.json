@@ -2633,7 +2633,7 @@
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.15.0.0",
+    "AssemblyVersion": "1.15.1.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -2655,7 +2655,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1651255626",
+    "LastUpdate": "1651355067",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TextToTalk/latest.zip"
