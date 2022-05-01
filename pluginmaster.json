@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.4.2",
+    "AssemblyVersion": "1.2.5.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -28,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 60403,
-    "LastUpdate": "1650130833",
+    "LastUpdate": "1651395394",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Accountant/latest.zip"
