@@ -246,18 +246,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Changelog": "COLOURS.",
+    "Changelog": "Less butt talk.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 160935,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1651230376",
+    "LastUpdate": "1651375060",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
