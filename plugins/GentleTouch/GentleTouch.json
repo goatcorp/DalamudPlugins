@@ -2,12 +2,12 @@
   "Author": "Chivalrik",
   "Name": "GentleTouch",
   "InternalName": "GentleTouch",
-  "AssemblyVersion": "1.3.0",
-  "Description": "You need to configure patterns and triggers before it will work, \nopen the configuration window to do that. \nCurrently supported triggers are:\n- Cooldowns\n- Near Aether Current",
+  "AssemblyVersion": "1.5.0",
+  "Description": "You need to configure patterns and triggers before it will work, \nopen the configuration window to do that. \nDS5 is currently unsupported. \nCurrently supported triggers are:\n- Cooldowns\n- Near Aether Current",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/fitzchivalrik/gentletouch",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Create vibration patterns for the controller and specify triggers to make it vibrate.",
-  "Changelog": "Update to API 5 and EW + Now works with DS4 (maybe even DS5?) thanks to the game adding support"
+  "Changelog": "- Update to API 6\n- Reworked charged abilities, those trigger now _only_ on first charge (instead of last as previous)."
 }
