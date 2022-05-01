@@ -3291,6 +3291,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
   },
   {
+    "Author": "Icehunter",
+    "Name": "AutoTranslateXIV",
+    "InternalName": "AutoTranslateXIV",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Translates Stuff",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Icehunter/AutoTranslateXIV",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Icehunter/AutoTranslateXIV/main/images/icon.png",
+    "Punchline": "Translates From A to B where A/B are set in config.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1649918622",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AutoTranslateXIV/latest.zip"
+  },
+  {
     "Author": "Kaz Wolfe",
     "Name": "BatteryGauge",
     "InternalName": "BatteryGauge",
@@ -3528,6 +3549,33 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FantasyPlayer.Dalamud/latest.zip"
+  },
+  {
+    "Author": "Khloe Leclair",
+    "Name": "Gearset Helper Plugin",
+    "InternalName": "GearsetHelperPlugin",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "Displays extra information about a character's gearsets when Examine is open, and makes it easy to export gearsets to Etro or Ariyala.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KhloeLeclair/GearsetHelperPlugin",
+    "Tags": [
+      "UI",
+      "gearset",
+      "examine",
+      "etro",
+      "ariyala"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Display estimated stats with Examine, and export gear to Etro/Ariyala.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.3.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1651086645",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GearsetHelperPlugin/latest.zip"
   },
   {
     "Author": "Fr4nsson",
@@ -3953,6 +4001,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SizeMattersFishing/latest.zip"
   },
   {
+    "Author": "wozaiha",
+    "Name": "SkillDisplay",
+    "Punchline": "Show the skills you used in the past few seconds.",
+    "Description": "Show the skills you used in the past few seconds.",
+    "InternalName": "SkillDisplay",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "SkillDisplay",
+      "skill",
+      "Imgui",
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "RepoUrl": "https://github.com/wozaiha/SkillDisplay",
+    "AssemblyVersion": "0.0.0.2",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.2",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1651230201",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SkillDisplay/latest.zip"
+  },
+  {
     "Author": "SupineSnail (Tinuviel)",
     "Name": "Job Gauge Adjustments",
     "InternalName": "SupineSnail.JobGaugeAdjustments",
@@ -4015,6 +4088,34 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Say What?",
+    "Punchline": "Persistent NPC Flavor Text",
+    "Description": "Prints NPC chat bubbles to the chat log.",
+    "InternalName": "WhatDidYouSay",
+    "AssemblyVersion": "0.9.1.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
+    "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Chat",
+      "NPC"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.9.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1650873970",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
   },
   {
     "Author": "cassandra308",
