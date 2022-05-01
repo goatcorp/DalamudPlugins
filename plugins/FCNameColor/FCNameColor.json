@@ -2,8 +2,8 @@
   "Author": "CFG",
   "Name": "FC Name Color",
   "InternalName": "FCNameColor",
-  "AssemblyVersion": "2.0.3.1",
-  "Description": "Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+  "AssemblyVersion": "2.1.0.4",
+  "Description": "Color your FC’s tag or the entire nameplate if they are in your FC or other specified FCs.\nWorks using Lodestone data, so it can continue working inside duties as well as on different servers!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
   "Tags": [
