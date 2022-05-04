@@ -275,7 +275,7 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35792,
+    "DownloadCount": 35793,
     "CategoryTags": [
       "social",
       "utility"
@@ -373,7 +373,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 394,
+    "DownloadCount": 395,
     "LastUpdate": "1651198537",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
@@ -422,7 +422,7 @@
     "Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5756,
+    "DownloadCount": 5758,
     "LastUpdate": "1650129121",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
@@ -642,7 +642,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.6.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10541,
+    "DownloadCount": 10542,
     "LastUpdate": "1651155746",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
@@ -795,7 +795,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28359,
+    "DownloadCount": 28360,
     "CategoryTags": [
       "UI"
     ],
@@ -996,7 +996,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 115660,
+    "DownloadCount": 115661,
     "CategoryTags": [
       "UI"
     ],
@@ -1029,7 +1029,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 285580,
+    "DownloadCount": 285582,
     "CategoryTags": [
       "jobs"
     ],
@@ -1074,7 +1074,7 @@
     "Punchline": "Save and swap your glamour plates.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14521,
+    "DownloadCount": 14523,
     "LastUpdate": "1650156488",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api6",
@@ -1093,7 +1093,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 117305,
+    "DownloadCount": 117306,
     "CategoryTags": [
       "utility"
     ],
@@ -1255,7 +1255,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 175758,
+    "DownloadCount": 175759,
     "CategoryTags": [
       "jobs"
     ],
@@ -1298,7 +1298,7 @@
     "Punchline": "Automatically backup your game and plugin configuration.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7006,
+    "DownloadCount": 7007,
     "LastUpdate": "1650372646",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api6",
@@ -1323,7 +1323,7 @@
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 55856,
+    "DownloadCount": 55857,
     "CategoryTags": [
       "UI",
       "utility"
@@ -1426,7 +1426,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.5.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 163703,
+    "DownloadCount": 163704,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1680,7 +1680,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6102,
+    "DownloadCount": 6103,
     "LastUpdate": "1649954429",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=True&branch=api6",
@@ -1866,7 +1866,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 89655,
+    "DownloadCount": 89656,
     "CategoryTags": [
       "inventory"
     ],
@@ -1898,7 +1898,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.10.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 325046,
+    "DownloadCount": 325047,
     "CategoryTags": [
       "UI"
     ],
@@ -2051,7 +2051,7 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 107005,
+    "DownloadCount": 107006,
     "CategoryTags": [
       "inventory"
     ],
@@ -2082,7 +2082,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57487,
+    "DownloadCount": 57488,
     "LastUpdate": "1651005162",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
@@ -2124,7 +2124,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18093,
+    "DownloadCount": 18094,
     "CategoryTags": [
       "UI"
     ],
@@ -2279,7 +2279,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.6",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32766,
+    "DownloadCount": 32767,
     "CategoryTags": [
       "inventory"
     ],
@@ -2398,7 +2398,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 769697,
+    "DownloadCount": 769699,
     "CategoryTags": [
       "UI",
       "other",
@@ -2526,7 +2526,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83838,
+    "DownloadCount": 83841,
     "LastUpdate": "1651183300",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2671,7 +2671,7 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31870,
+    "DownloadCount": 31871,
     "CategoryTags": [
       "UI"
     ],
@@ -2899,7 +2899,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 61571,
+    "DownloadCount": 61572,
     "CategoryTags": [
       "UI"
     ],
@@ -2982,7 +2982,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.3.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 52734,
+    "DownloadCount": 52737,
     "CategoryTags": [
       "UI"
     ],
@@ -3031,7 +3031,7 @@
     "Punchline": "Making it easier to know where you are.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8964,
+    "DownloadCount": 8965,
     "LastUpdate": "1649905267",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api6",
