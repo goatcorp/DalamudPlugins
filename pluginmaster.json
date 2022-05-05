@@ -447,7 +447,7 @@
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126628,
+    "DownloadCount": 126629,
     "LastUpdate": "1651631297",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
@@ -717,7 +717,7 @@
     "Punchline": "Stops controller input from freezing randomly.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2808,
+    "DownloadCount": 2809,
     "LastUpdate": "1650099594",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api6",
@@ -1206,7 +1206,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.18",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24315,
+    "DownloadCount": 24316,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1403,7 +1403,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28231,
+    "DownloadCount": 28232,
     "CategoryTags": [
       "UI"
     ],
@@ -1426,7 +1426,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.5.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 163704,
+    "DownloadCount": 163705,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1449,7 +1449,7 @@
     "Punchline": "Adds a button and a command to minimize your game into taskbar",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5869,
+    "DownloadCount": 5870,
     "LastUpdate": "1649950514",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=True&branch=api6",
@@ -1551,7 +1551,7 @@
     "Punchline": "Displays debuffs you cast on nameplates of enemies",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6282,
+    "DownloadCount": 6283,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -2051,7 +2051,7 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 107006,
+    "DownloadCount": 107007,
     "CategoryTags": [
       "inventory"
     ],
@@ -3145,7 +3145,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 176341,
+    "DownloadCount": 176342,
     "CategoryTags": [
       "jobs"
     ],
@@ -3174,7 +3174,7 @@
     "Punchline": "Save chat logs to your computer as text files or copy them!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3105,
+    "DownloadCount": 3106,
     "CategoryTags": [
       "UI"
     ],
