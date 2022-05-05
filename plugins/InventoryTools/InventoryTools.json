@@ -2,8 +2,8 @@
   "Author": "Critical_Impact",
   "Name": "Inventory Tools",
   "InternalName": "InventoryTools",
-  "AssemblyVersion": "1.0.0.12",
-  "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "Adds in a window that allows for the searching and filtering of items across your inventories and the entire games list of items. Adds visualisation in game to see both where your items are and where you should sort them.\n\nFeatures are always being added to Inventory Tools so keep up to date to receive them. Some of the currently included features are:\n\t- Market board integration \n\t- Item highlighting \n\t- Various ways to filter items including have acquired, is craftable, is housing, any many more \n\t- Browse all available game items ",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
   "Tags": [
@@ -14,8 +14,11 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
+    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png",
+    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot1.png",
+    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
+    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-  "Punchline": "Clean up your sloppppy inventories."
+  "Punchline": "Can't find an item you thought you had? Can't work out why your retainers are so full? This might help."
 }
