@@ -432,7 +432,7 @@
     "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
-    "AssemblyVersion": "2.0.2.1",
+    "AssemblyVersion": "2.0.2.3",
     "Description": "Automatically track and complete many daily and weekly tasks.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
@@ -448,7 +448,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 126640,
-    "LastUpdate": "1651631297",
+    "LastUpdate": "1651809407",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DailyDuty/latest.zip"
@@ -1187,8 +1187,8 @@
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.12",
-    "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Adds in a window that allows for the searching and filtering of items across your inventories and the entire games list of items. Adds visualisation in game to see both where your items are and where you should sort them.\n\nFeatures are always being added to Inventory Tools so keep up to date to receive them. Some of the currently included features are:\n\t- Market board integration \n\t- Item highlighting \n\t- Various ways to filter items including have acquired, is craftable, is housing, any many more \n\t- Browse all available game items ",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
     "Tags": [
@@ -1199,10 +1199,13 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png",
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot1.png",
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-    "Punchline": "Clean up your sloppppy inventories.",
+    "Punchline": "Can't find an item you thought you had? Can't work out why your retainers are so full? This might help.",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.18",
     "IsTestingExclusive": "False",
@@ -1211,7 +1214,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1649931228",
+    "LastUpdate": "1651749375",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/InventoryTools/latest.zip"
@@ -1919,23 +1922,24 @@
       "Indicator"
     ],
     "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
-    "AssemblyVersion": "1.4.0.3",
+    "AssemblyVersion": "2.0.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image1.png",
-      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png"
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image3.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
-    "Changelog": "Updated for 6.1",
+    "Changelog": "Many new features!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 101184,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650628411",
+    "LastUpdate": "1651731293",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip"
@@ -2255,7 +2259,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.1.7",
+    "AssemblyVersion": "1.0.1.8",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -2275,7 +2279,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
-    "Changelog": "* v1.0.1.7\n  * fix \"clicking condition/spiritbond alerts\" for non-english clients\n* v1.0.1.6\n  * new option: bar border (size and color)\n  * fix \"display spiritbond of all items\" for right-to-left and bottom-to-top orientations  \n  * new debug window\n* v1.0.1.5\n  * new option: clicking condition/spiritbond alerts opens repair/extract materia UI\n  * new option: plugin UI is now hidden when player is occupied\n* v1.0.1.4\n  * bugfix: checkboxes to hide decimal and percentage are working correctly now\n* v1.0.1.3\n  * new option: display spiritbond of all items in the bar (color can be changed)\n  * new option: hide % sign in percentage labels\n  * new option: hide decimal digits in percentage labels\n  * new option: show both least and most spiritbonded items in the percentage label\n  * new option: adjust bar corner roundness\n* v1.0.1.2\n  * If coming from v1.0.0.5 or below, your position settings will not be reset (apologies and thanks to the beta testers)\n  * Drag&drop is now supported again\n  * The condition alerts (low/critical) can again be positioned separately\n  * Attempt to force alerts/bars/percentages to display inside the game window\n  * Improved readability of config window\n* v1.0.1.1\n  * attempt to make it clear how to move things around\n* v1.0.1.0\n  * WARNING: all bar/alert/percentages positions will be reset\n  * replaced drag&drop positioning with X/Y precise sliders\n  * widget position is now bound to resolution\n    * the plugin will remember where you positioned the widgets across different resolutions \n    * if you change the window size/resolution you'll need to re-position everything\n      * there's also an option (bottom of config window) to copy position settings from another resolution\n* v1.0.0.5\n  * set api6 (no code changes)",
+    "Changelog": "* v1.0.1.8\n  * fix a wrong spiritbond marker at 0% that was showing for equipment slots that have no item \n",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.6",
     "IsTestingExclusive": "False",
@@ -2283,7 +2287,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1651171147",
+    "LastUpdate": "1651795067",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
@@ -2482,6 +2486,7 @@
     "LoadPriority": 0,
     "Punchline": "See chat messages said, shouted, yelled and emoted by your current target.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 2,
     "LastUpdate": "1650037731",
@@ -3572,7 +3577,7 @@
     "Author": "Khloe Leclair",
     "Name": "Gearset Helper Plugin",
     "InternalName": "GearsetHelperPlugin",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.5.0.0",
     "Description": "Displays extra information about a character's gearsets when Examine is open, and makes it easy to export gearsets to Etro or Ariyala.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/KhloeLeclair/GearsetHelperPlugin",
@@ -3585,12 +3590,17 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image1.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image2.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image3.png"
+    ],
     "Punchline": "Display estimated stats with Examine, and export gear to Etro/Ariyala.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.4.0.0",
+    "TestingAssemblyVersion": "1.5.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651550932",
+    "LastUpdate": "1651788536",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GearsetHelperPlugin/latest.zip"
@@ -4093,7 +4103,7 @@
     "Punchline": "Persistent NPC Flavor Text",
     "Description": "Prints NPC chat bubbles to the chat log.",
     "InternalName": "WhatDidYouSay",
-    "AssemblyVersion": "0.9.1.0",
+    "AssemblyVersion": "0.9.2.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
     "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -4108,9 +4118,9 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.1.0",
+    "TestingAssemblyVersion": "0.9.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650873970",
+    "LastUpdate": "1651732571",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
