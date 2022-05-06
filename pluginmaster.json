@@ -4103,7 +4103,7 @@
     "Punchline": "Persistent NPC Flavor Text",
     "Description": "Prints NPC chat bubbles to the chat log.",
     "InternalName": "WhatDidYouSay",
-    "AssemblyVersion": "0.9.2.0",
+    "AssemblyVersion": "0.9.3.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
     "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -4118,9 +4118,9 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.2.0",
+    "TestingAssemblyVersion": "0.9.3.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651732571",
+    "LastUpdate": "1651826761",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
