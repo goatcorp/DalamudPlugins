@@ -1515,7 +1515,7 @@
     "Author": "Marconsou",
     "Name": "MP Tick Bar",
     "InternalName": "MPTickBar",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.1.1",
     "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
@@ -1536,7 +1536,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1649913758",
+    "LastUpdate": "1651958187",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MPTickBar/latest.zip"
