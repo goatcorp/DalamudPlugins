@@ -1223,7 +1223,7 @@
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.9.0.1",
+    "AssemblyVersion": "1.9.1.0",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
@@ -1237,7 +1237,7 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1650115794",
+    "LastUpdate": "1651966347",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip"
