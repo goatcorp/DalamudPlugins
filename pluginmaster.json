@@ -349,6 +349,7 @@
     "LoadPriority": 0,
     "Punchline": "Limit Framerate while out of combat",
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.4.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 3026,
     "LastUpdate": "1650237838",
@@ -3827,7 +3828,7 @@
     "InternalName": "NoKillPlugin",
     "AssemblyVersion": "1.0.4.3",
     "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "ApplicableVersion": "any",
     "IsHide": "False",
     "DownloadCount": 0,
@@ -3836,7 +3837,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1644504653",
+    "LastUpdate": "1652153257",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoKillPlugin/latest.zip"
