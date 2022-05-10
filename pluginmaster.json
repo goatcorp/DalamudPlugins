@@ -988,7 +988,7 @@
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.6.0.1",
+    "AssemblyVersion": "1.6.0.2",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
@@ -1001,7 +1001,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649986927",
+    "LastUpdate": "1652164369",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
