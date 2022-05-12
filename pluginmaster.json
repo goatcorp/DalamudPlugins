@@ -335,7 +335,7 @@
     "Author": "MidoriKami",
     "Name": "Chill Frames",
     "InternalName": "ChillFrames",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.0.1",
     "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limit the games framerate while out of combat!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
@@ -351,7 +351,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4647,
-    "LastUpdate": "1652260536",
+    "LastUpdate": "1652385760",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChillFrames/latest.zip"
@@ -809,8 +809,8 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.2.0.4",
-    "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
+    "AssemblyVersion": "2.2.1.2",
+    "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Display combat time in the Server Info Bar, and/or a floating window\n- OBS browser-source compatible page with countdown and current combat duration\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
     "Tags": [
@@ -831,11 +831,11 @@
       "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
-    "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
+    "Punchline": "Combat countdown with all numbers and pull timer (with a bonus OBS source)",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 124850,
-    "LastUpdate": "1649931322",
+    "LastUpdate": "1652383634",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EngageTimer/latest.zip"
