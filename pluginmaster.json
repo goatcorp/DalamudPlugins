@@ -433,7 +433,7 @@
     "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
-    "AssemblyVersion": "2.0.3.0",
+    "AssemblyVersion": "2.0.4.0",
     "Description": "Automatically track and complete many daily and weekly tasks.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
@@ -449,7 +449,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 156226,
-    "LastUpdate": "1652257686",
+    "LastUpdate": "1652396231",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DailyDuty/latest.zip"
