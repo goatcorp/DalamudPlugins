@@ -5,6 +5,7 @@
   "AssemblyVersion": "0.0.0.5",
   "Description": "Crashes the game so you don't have to.",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/reiichi001/CrashFFXIVPlugin",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Exactly what the name says."
