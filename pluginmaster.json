@@ -433,7 +433,7 @@
     "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
-    "AssemblyVersion": "2.0.4.3",
+    "AssemblyVersion": "2.0.4.4",
     "Description": "Automatically track and complete many daily and weekly tasks.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
@@ -449,7 +449,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 176638,
-    "LastUpdate": "1652552452",
+    "LastUpdate": "1652730162",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DailyDuty/latest.zip"
@@ -680,7 +680,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "1.1.1.1",
+    "AssemblyVersion": "1.1.2.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -696,7 +696,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1651458832",
+    "LastUpdate": "1652665435",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
@@ -2592,7 +2592,7 @@
     "Author": "Pohky",
     "Name": "Teleporter",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "2.0.1.6",
+    "AssemblyVersion": "2.0.1.7",
     "Description": "Adds Chat Commands to Teleport to Aetherytes or Areas by Name.\ne.g. /tp Quarrymill or /tpm South Shroud\nSupports setting up an Alias for Aetherytes to be used with Teleporter Commands\ne.g. /tp home instead of /tp Estate Hall (Free Company)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
@@ -2606,7 +2606,7 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1650981461",
+    "LastUpdate": "1652728705",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip"
