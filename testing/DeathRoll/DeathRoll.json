@@ -1,0 +1,20 @@
+{
+  "Author": "Infi",
+  "Name": "Death Roll Helper",
+  "InternalName": "DeathRoll",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "Plugin to help with any of your /random|/dice games \n\n    + Support for multiple sorting types (min, max, nearest to) \n    + Highlight numbers based on regex matching \n    + Block players from partaking in any of your games \n    + Accept only /random or /dice \n    + Easily remove players from the result table \n\n And alot of more planned feature in future updates",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Infiziert90/DeathRoll",
+  "Tags": [
+    "Deathrolling",
+    "plugin",
+    "random",
+    "dice",
+    "highlight",
+    "blocklist"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Easy to use deathroll/roll game helper with functions to hightlight or block players"
+}
