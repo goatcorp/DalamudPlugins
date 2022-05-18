@@ -60,6 +60,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AccurateCountDown/latest.zip"
   },
   {
+    "Author": "Helios",
+    "Name": "Adaptive Hud",
+    "InternalName": "AdaptiveHud",
+    "AssemblyVersion": "1.0.0.2",
+    "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
+    "Tags": [
+      "hudlayout",
+      "hud",
+      "settings"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 106,
+    "LastUpdate": "1652891391",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Adventurer in Need",
     "InternalName": "AdventurerInNeed",
@@ -3258,31 +3282,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ACTEndcounter/latest.zip"
-  },
-  {
-    "Author": "Helios",
-    "Name": "Adaptive Hud",
-    "InternalName": "AdaptiveHud",
-    "AssemblyVersion": "1.0.0.1",
-    "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
-    "Tags": [
-      "hudlayout",
-      "hud",
-      "settings"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1651188902",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
   },
   {
     "Author": "yomishino",
