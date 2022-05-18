@@ -2706,30 +2706,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheHeartOfTheParty/latest.zip"
   },
   {
-    "Author": "Nana",
+    "Author": "Nadya",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.1.1.19",
-    "Description": "In-depth filters for a less cluttered chat.",
+    "AssemblyVersion": "0.1.1.21",
+    "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
+    "Description": "Filters most of the game's spammy messages away. Condense earned commendations into a single line, autocopy /say text for most quests, block emote spam and more.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
     "Tags": [
-      "Chat",
-      "Filter",
       "Emote",
-      "Spam"
+      "Filter"
     ],
     "CategoryTags": [
       "Social"
     ],
+    "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/TidyChat/master/images/icon.png",
-    "Punchline": "Keeps your chat tidy.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 22392,
-    "LastUpdate": "1652316815",
+    "LastUpdate": "1652833987",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TidyChat/latest.zip"
