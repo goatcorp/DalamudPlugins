@@ -1,0 +1,18 @@
+{
+  "Author": "Midibard by akira0245 and Ori, modified by SpuriousSnail86",
+  "Name": "MidiBard-ipc",
+  "InternalName": "MidiBard-ipc",
+  "AssemblyVersion": "1.9.4.1",
+  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SpuriousSnail86/MidiBard",
+  "Tags": [
+    "bard",
+    "sound",
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.imgur.com/drMuEor.png",
+  "Punchline": "Bard performance using midi files or keyboard."
+}
