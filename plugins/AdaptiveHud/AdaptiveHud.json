@@ -2,7 +2,7 @@
   "Author": "Helios",
   "Name": "Adaptive Hud",
   "InternalName": "AdaptiveHud",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
