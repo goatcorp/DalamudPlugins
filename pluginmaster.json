@@ -1031,6 +1031,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
   },
   {
+    "Author": "XIV Tools",
+    "Name": "Fullscreen Toggle",
+    "Punchline": "Enter and leave borderless windowed mode quickly!",
+    "Description": "Enter and leave borderless windowed mode quickly! Press Alt+Enter to toggle fullscreen.",
+    "InternalName": "FullscreenToggle",
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
+    "IconUrl": "https://github.com/XIV-Tools/FullscreenToggle/raw/main/Data/icon.png",
+    "Tags": [
+      "fullscreen",
+      "XIV Tools"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1651577177",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FullscreenToggle/latest.zip"
+  },
+  {
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
     "Punchline": "Simplify Gathering and Fishing.",
@@ -2140,10 +2162,10 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Quest Map/latest.zip"
   },
   {
-    "Author": "Eternita",
+    "Author": "Eternita, Chalkos",
     "Name": "QuestAWAY",
     "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "2.0.0.0",
     "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
@@ -2151,13 +2173,12 @@
     "LoadPriority": 0,
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 19369,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649974404",
+    "LastUpdate": "1652946451",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip"
@@ -3573,6 +3594,60 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.CharacterSync/latest.zip"
   },
   {
+    "Author": "Caraxi",
+    "Name": "Desynthesis 2",
+    "InternalName": "DesynthesisTwo",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "A custom desynthesis menu to allow extra control over which items to display.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Caraxi/DesynthesisTwo",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "An alternative to the default desynthesis menu.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1652613002",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DesynthesisTwo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DesynthesisTwo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DesynthesisTwo/latest.zip"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Distance",
+    "Punchline": "Target distance widgets.",
+    "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
+    "InternalName": "Distance",
+    "AssemblyVersion": "0.9.5.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/Distance",
+    "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Distance",
+      "Range",
+      "Aggro",
+      "Enmity",
+      "Hate",
+      "Pull",
+      "Hitbox",
+      "Ring",
+      "Target"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.9.5.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1650874083",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
+  },
+  {
     "Author": "Roselyn",
     "Name": "Elden Ring April Fools",
     "Punchline": "Recreation of the Elden Ring April Fools joke.",
@@ -4090,12 +4165,12 @@
     ],
     "DalamudApiLevel": 6,
     "RepoUrl": "https://github.com/wozaiha/SkillDisplay",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.5",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.4",
+    "TestingAssemblyVersion": "0.0.0.5",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651625570",
+    "LastUpdate": "1653050971",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SkillDisplay/latest.zip"
