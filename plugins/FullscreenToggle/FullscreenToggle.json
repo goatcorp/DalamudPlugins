@@ -1,0 +1,15 @@
+{
+  "Author": "XIV Tools",
+  "Name": "Fullscreen Toggle",
+  "Punchline": "Enter and leave borderless windowed mode quickly!",
+  "Description": "Enter and leave borderless windowed mode quickly! Press Alt+Enter to toggle fullscreen.",
+  "InternalName": "FullscreenToggle",
+  "ApplicableVersion": "any",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
+  "IconUrl": "https://github.com/XIV-Tools/FullscreenToggle/raw/main/Data/icon.png",
+  "Tags": [
+    "fullscreen",
+    "XIV Tools"
+  ]
+}
