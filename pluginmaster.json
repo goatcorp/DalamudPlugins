@@ -1946,7 +1946,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.10.0.0",
+    "TestingAssemblyVersion": "2.4.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 397439,
     "CategoryTags": [
@@ -3648,7 +3648,7 @@
     "Punchline": "Target distance widgets.",
     "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
     "InternalName": "Distance",
-    "AssemblyVersion": "0.9.5.0",
+    "AssemblyVersion": "0.9.6.0",
     "RepoUrl": "https://github.com/PunishedPineapple/Distance",
     "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -3669,9 +3669,9 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.5.0",
+    "TestingAssemblyVersion": "0.9.6.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650874083",
+    "LastUpdate": "1653146637",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
