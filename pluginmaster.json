@@ -3653,26 +3653,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRoll/latest.zip"
   },
   {
-    "Author": "Caraxi",
-    "Name": "Desynthesis 2",
-    "InternalName": "DesynthesisTwo",
-    "AssemblyVersion": "0.1.1.0",
-    "Description": "A custom desynthesis menu to allow extra control over which items to display.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Caraxi/DesynthesisTwo",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "An alternative to the default desynthesis menu.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.1.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1653085548",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DesynthesisTwo?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DesynthesisTwo?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DesynthesisTwo/latest.zip"
-  },
-  {
     "Author": "PunishedPineapple",
     "Name": "Distance",
     "Punchline": "Target distance widgets.",
