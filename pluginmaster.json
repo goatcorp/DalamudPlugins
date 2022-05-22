@@ -3689,13 +3689,10 @@
   {
     "Author": "Roselyn",
     "Name": "Elden Ring April Fools",
-    "Punchline": "Recreation of the Elden Ring April Fools joke.",
-    "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
     "InternalName": "EldenRing",
+    "AssemblyVersion": "0.0.0.4",
+    "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.0.0.3",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
     "RepoUrl": "https://github.com/Roselyyn/EldenRingDalamud",
     "Tags": [
       "Elden Ring",
@@ -3703,11 +3700,14 @@
       "Death",
       "Craft"
     ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Recreation of the Elden Ring April Fools joke.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.3",
+    "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649028646",
+    "LastUpdate": "1653252844",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
