@@ -3338,6 +3338,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AetherCompass/latest.zip"
   },
   {
+    "Author": "UnknownX",
+    "Name": "A Realm Recorded",
+    "Punchline": "Allows you to use the duty recorder",
+    "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
+    ],
+    "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
+    "CategoryTags": [
+      "utility"
+    ],
+    "InternalName": "ARealmRecorded",
+    "AssemblyVersion": "0.4.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Changelog": "",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.4.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1653178640",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ARealmRecorded/latest.zip"
+  },
+  {
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
