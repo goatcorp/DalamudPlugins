@@ -665,7 +665,7 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.6.1.0",
+    "TestingAssemblyVersion": "1.7.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 19162,
     "LastUpdate": "1651155746",
@@ -1708,7 +1708,7 @@
     "IconUrl": "https://github.com/MidoriKami/NoTankYou/blob/master/images/icon.png",
     "Punchline": "Warns you if players are missing critical role actions",
     "IsHide": "False",
-    "TestingAssemblyVersion": "4.0.0.2",
+    "TestingAssemblyVersion": "4.0.1.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 114506,
     "LastUpdate": "1649915966",
@@ -2549,7 +2549,7 @@
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.6.6",
+    "AssemblyVersion": "0.4.7.0",
     "DalamudApiLevel": 6,
     "Tags": [
       "Sonar",
@@ -2580,7 +2580,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 107207,
-    "LastUpdate": "1651989771",
+    "LastUpdate": "1653411845",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
@@ -3063,6 +3063,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
   },
   {
+    "Author": "PunishedPineapple",
+    "Name": "Say What?",
+    "Punchline": "Persistent NPC Flavor Text",
+    "Description": "Prints NPC speech bubbles to the chat log.  Please check the plugin settings and your chat log filters to make sure that they are compatible with each other.",
+    "InternalName": "WhatDidYouSay",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
+    "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Chat",
+      "NPC"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.9.3.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 438,
+    "LastUpdate": "1653411787",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
+  },
+  {
     "Author": "Haplo064, maintained by Franz",
     "Name": "WOLdo",
     "InternalName": "WheresWOLdo",
@@ -3312,8 +3340,8 @@
     "Author": "yomishino",
     "Name": "Aether Compass",
     "InternalName": "AetherCompass",
-    "AssemblyVersion": "1.4.1.0",
-    "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.",
+    "AssemblyVersion": "1.4.1.1",
+    "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
     "Tags": [
@@ -3325,14 +3353,14 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
-    "Changelog": "Patch 6.1 update",
+    "Changelog": "New plugin icon by Lumas Arkfrost \n(Due to caching, icon will probably not be updated until the game client is restarted.)",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.4.1.0",
+    "TestingAssemblyVersion": "1.4.1.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650480446",
+    "LastUpdate": "1653411856",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AetherCompass/latest.zip"
@@ -4284,34 +4312,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TabTab/latest.zip"
-  },
-  {
-    "Author": "PunishedPineapple",
-    "Name": "Say What?",
-    "Punchline": "Persistent NPC Flavor Text",
-    "Description": "Prints NPC chat bubbles to the chat log.",
-    "InternalName": "WhatDidYouSay",
-    "AssemblyVersion": "0.9.3.0",
-    "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
-    "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
-    "ImageUrls": [
-      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
-      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
-    ],
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Chat",
-      "NPC"
-    ],
-    "DalamudApiLevel": 6,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.3.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1651826761",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
   },
   {
     "Author": "cassandra308",
