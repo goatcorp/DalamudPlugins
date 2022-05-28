@@ -1068,7 +1068,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.0.7.0",
+    "AssemblyVersion": "3.1.2.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -1076,13 +1076,12 @@
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
-    "TestingAssemblyVersion": "3.1.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 330541,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1652361140",
+    "LastUpdate": "1653768217",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -1692,7 +1691,7 @@
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "4.0.2.1",
+    "AssemblyVersion": "4.0.2.2",
     "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
@@ -1711,7 +1710,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 126932,
-    "LastUpdate": "1653724475",
+    "LastUpdate": "1653768207",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoTankYou/latest.zip"
