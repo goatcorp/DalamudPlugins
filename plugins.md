@@ -19,7 +19,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | Franz | ChatTyper | Prefixes all chatbox messages with their chat type number and name, if known. |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limit the games framerate while out of combat! |
-| NotNite | [cl_showpos](https://gitlab.com/jules/cl_showpos) | the source engine convar, implemented into FFXIV |
+| NotNite | [cl_showpos](https://gitlab.com/jules/cl_showpos) | Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine. |
 | Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | Check-out the repository for steps on how to report missing/wrong filter<br>and hiding options. Have a look at the FAQ tab in the config window<br>after install for common caveats. |
 | Lharz | [Currency Alert](https://github.com/Lharz/xiv-currency-alert) | /currencyalert: shows the configuration panel. |
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks. |

@@ -384,8 +384,8 @@
     "Author": "NotNite",
     "Name": "cl_showpos",
     "InternalName": "cl_showpos",
-    "AssemblyVersion": "1.0.4.0",
-    "Description": "the source engine convar, implemented into FFXIV",
+    "AssemblyVersion": "1.0.4.1",
+    "Description": "Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://gitlab.com/jules/cl_showpos",
     "Tags": [
@@ -396,10 +396,11 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
+    "Punchline": "Customizable, Source Engine-styled position info",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1670,
-    "LastUpdate": "1652243720",
+    "LastUpdate": "1653855285",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
