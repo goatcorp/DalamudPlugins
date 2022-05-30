@@ -106,6 +106,32 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"
   },
   {
+    "Author": "zhudotexe",
+    "Name": "PaissaHouse",
+    "InternalName": "autoSweep",
+    "AssemblyVersion": "1.4.0.0",
+    "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+    "Tags": [
+      "housing"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
+    "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 15095,
+    "CategoryTags": [
+      "other"
+    ],
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
+  },
+  {
     "Author": "ascclemens",
     "Name": "Better Party Finder",
     "InternalName": "BetterPartyFinder",
@@ -1849,7 +1875,7 @@
     "Author": "MgAl2O4",
     "Name": "Pat Me",
     "InternalName": "PatMe",
-    "AssemblyVersion": "1.2.0.3",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/PatMeDalamud",
@@ -1867,7 +1893,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 16962,
-    "LastUpdate": "1649968121",
+    "LastUpdate": "1653954723",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PatMe/latest.zip"
@@ -3394,33 +3420,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ARealmRecorded/latest.zip"
   },
   {
-    "Author": "zhudotexe",
-    "Name": "PaissaHouse",
-    "InternalName": "autoSweep",
-    "AssemblyVersion": "1.3.1.0",
-    "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
-    "Tags": [
-      "housing"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
-    "Punchline": "Chat alerts for player housing.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.3.1.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "other"
-    ],
-    "LastUpdate": "1650418305",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
-  },
-  {
     "Author": "Icehunter",
     "Name": "AutoTranslateXIV",
     "InternalName": "AutoTranslateXIV",
@@ -3611,7 +3610,7 @@
     "Author": "ItsBexy",
     "Name": "CrossUp",
     "InternalName": "CrossUp",
-    "AssemblyVersion": "0.2.1.0",
+    "AssemblyVersion": "0.3.0.1",
     "Description": "This plugin provides various customizations for the look and feel of the Cross Hotbar.\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions\n-Greater control over which sets your extra bars are mapped to",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ItsBexy/CrossUp",
@@ -3620,9 +3619,9 @@
     "Punchline": "Customize the Cross Hotbar!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.2.1.0",
+    "TestingAssemblyVersion": "0.3.0.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1653277150",
+    "LastUpdate": "1653954735",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CrossUp/latest.zip"
