@@ -2056,7 +2056,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.5.0.0",
+    "AssemblyVersion": "2.5.1.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -2081,7 +2081,7 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1650059851",
+    "LastUpdate": "1654043486",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTrack/latest.zip"
@@ -2112,7 +2112,7 @@
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "2.2.2.0",
+    "AssemblyVersion": "2.2.3.0",
     "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
@@ -2135,7 +2135,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1650042499",
+    "LastUpdate": "1654043492",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PriceCheck/latest.zip"
