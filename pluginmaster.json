@@ -2811,7 +2811,7 @@
     "Author": "kalilistic",
     "Name": "Tippy",
     "InternalName": "Tippy",
-    "AssemblyVersion": "1.2.4.0",
+    "AssemblyVersion": "1.2.5.0",
     "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/tippy",
@@ -2821,7 +2821,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1853,
-    "LastUpdate": "1650506046",
+    "LastUpdate": "1654046726",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
