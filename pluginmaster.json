@@ -3095,7 +3095,7 @@
     "Punchline": "Persistent NPC Flavor Text",
     "Description": "Prints NPC speech bubbles to the chat log.  Please check the plugin settings and your chat log filters to make sure that they are compatible with each other.",
     "InternalName": "WhatDidYouSay",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
     "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -3112,7 +3112,7 @@
     "TestingAssemblyVersion": "0.9.3.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 1211,
-    "LastUpdate": "1653411787",
+    "LastUpdate": "1654069197",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
