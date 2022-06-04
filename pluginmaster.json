@@ -27,7 +27,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 65271,
+    "DownloadCount": 65292,
     "LastUpdate": "1651395394",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
@@ -77,7 +77,7 @@
     "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 551,
+    "DownloadCount": 559,
     "LastUpdate": "1652891391",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
@@ -96,7 +96,7 @@
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39286,
+    "DownloadCount": 39305,
     "CategoryTags": [
       "UI"
     ],
@@ -122,7 +122,7 @@
     "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19211,
+    "DownloadCount": 19270,
     "CategoryTags": [
       "other"
     ],
@@ -144,7 +144,7 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29193,
+    "DownloadCount": 29208,
     "CategoryTags": [
       "UI"
     ],
@@ -169,7 +169,7 @@
     "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19644,
+    "DownloadCount": 19692,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -228,7 +228,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.2",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10175,
+    "DownloadCount": 10188,
     "LastUpdate": "1649931635",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api6",
@@ -246,7 +246,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12953,
+    "DownloadCount": 12958,
     "CategoryTags": [
       "UI"
     ],
@@ -276,7 +276,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4597,
+    "DownloadCount": 4602,
     "LastUpdate": "1649935803",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=True&branch=api6",
@@ -303,7 +303,7 @@
     "Changelog": "Further stability Improvements. Added Yalm distance cap. Added an easter egg for a friend.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 194725,
+    "DownloadCount": 194852,
     "CategoryTags": [
       "social"
     ],
@@ -325,7 +325,7 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37567,
+    "DownloadCount": 37582,
     "CategoryTags": [
       "social",
       "utility"
@@ -376,7 +376,7 @@
     "Punchline": "This is still mostly a dev tool for debugging, but people like it?",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2641,
+    "DownloadCount": 2654,
     "LastUpdate": "1654262838",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=True&branch=api6",
@@ -401,7 +401,7 @@
     "Punchline": "Limit Framerate while out of combat",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7743,
+    "DownloadCount": 7759,
     "LastUpdate": "1652385760",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api6",
@@ -426,7 +426,7 @@
     "Punchline": "Customizable, Source Engine-styled position info",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1965,
+    "DownloadCount": 1999,
     "LastUpdate": "1654301493",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
@@ -446,7 +446,7 @@
     "Changelog": "- Update to APi 6, patch 6.1\n- One more visibility option: 'Only in Combat'\n- New Filter: 'Boss Enemy'\n- New Filter: 'Poetics Vendor'\n- fix: Waymark icons (thanks Maxunit)\n- \"fix\": Dirty hack to prevent (?) Aesthetician crashes",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20555,
+    "DownloadCount": 20562,
     "CategoryTags": [
       "UI"
     ],
@@ -475,7 +475,7 @@
     "Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7723,
+    "DownloadCount": 7737,
     "LastUpdate": "1650129121",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
@@ -500,7 +500,7 @@
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 193086,
+    "DownloadCount": 193156,
     "LastUpdate": "1652730162",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
@@ -523,7 +523,7 @@
     "Punchline": "Receive your chat messages via Discord.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44923,
+    "DownloadCount": 45325,
     "CategoryTags": [
       "utility"
     ],
@@ -549,7 +549,7 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 34237,
+    "DownloadCount": 34248,
     "LastUpdate": "1650921585",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=True&branch=api6",
@@ -573,7 +573,7 @@
     "Punchline": "Remove letterboxing from cutscenes on ultrawide monitors.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 712,
+    "DownloadCount": 716,
     "LastUpdate": "1650060943",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=True&branch=api6",
@@ -592,7 +592,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 94966,
+    "DownloadCount": 95023,
     "CategoryTags": [
       "other"
     ],
@@ -617,7 +617,7 @@
     "Changelog": "* Added party grouping support, will show people you group with on Discord if they also use the plugin\n* Now shows AFK status by default, can be disabled\n* Now shows queue position if Waitingway is installed",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 95949,
+    "DownloadCount": 95995,
     "CategoryTags": [
       "utility"
     ],
@@ -665,7 +665,7 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 152544,
+    "DownloadCount": 152576,
     "CategoryTags": [
       "UI"
     ],
@@ -696,7 +696,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.7.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36374,
+    "DownloadCount": 36466,
     "LastUpdate": "1653584191",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
@@ -720,7 +720,7 @@
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 52188,
+    "DownloadCount": 52211,
     "CategoryTags": [
       "UI"
     ],
@@ -745,7 +745,7 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 152807,
+    "DownloadCount": 152858,
     "CategoryTags": [
       "UI"
     ],
@@ -771,7 +771,7 @@
     "Punchline": "Stops controller input from freezing randomly.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4262,
+    "DownloadCount": 4269,
     "LastUpdate": "1650099594",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api6",
@@ -794,7 +794,7 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20313,
+    "DownloadCount": 20327,
     "CategoryTags": [
       "UI"
     ],
@@ -828,7 +828,7 @@
     "Punchline": "Dialogue and other in-game text translations? Yes we have!\nKnown Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16026,
+    "DownloadCount": 16030,
     "CategoryTags": [
       "UI"
     ],
@@ -849,7 +849,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31573,
+    "DownloadCount": 31602,
     "CategoryTags": [
       "UI"
     ],
@@ -887,7 +887,7 @@
     "Punchline": "Combat countdown with all numbers and pull timer (with a bonus OBS source)",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 149943,
+    "DownloadCount": 150001,
     "LastUpdate": "1652383634",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=True&branch=api6",
@@ -906,7 +906,7 @@
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 26669,
+    "DownloadCount": 26683,
     "CategoryTags": [
       "UI"
     ],
@@ -954,7 +954,7 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 48365,
+    "DownloadCount": 48406,
     "CategoryTags": [
       "minigames"
     ],
@@ -987,7 +987,7 @@
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 72006,
+    "DownloadCount": 72035,
     "LastUpdate": "1651438795",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=True&branch=api6",
@@ -1005,7 +1005,7 @@
     "Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17343,
+    "DownloadCount": 17356,
     "CategoryTags": [
       "social",
       "utility"
@@ -1028,7 +1028,7 @@
     "Punchline": "Allows the filtering of the different fly text types.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3426,
+    "DownloadCount": 3427,
     "CategoryTags": [
       "UI"
     ],
@@ -1050,7 +1050,7 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 142423,
+    "DownloadCount": 142501,
     "CategoryTags": [
       "UI"
     ],
@@ -1105,7 +1105,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 357318,
+    "DownloadCount": 357554,
     "CategoryTags": [
       "jobs"
     ],
@@ -1128,7 +1128,7 @@
     "Changelog": "- Update to API 6\n- Reworked charged abilities, those trigger now _only_ on first charge (instead of last as previous).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3534,
+    "DownloadCount": 3536,
     "CategoryTags": [
       "utility"
     ],
@@ -1150,7 +1150,7 @@
     "Punchline": "Save and swap your glamour plates.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18328,
+    "DownloadCount": 18351,
     "LastUpdate": "1650156488",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api6",
@@ -1169,7 +1169,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 125732,
+    "DownloadCount": 125804,
     "CategoryTags": [
       "utility"
     ],
@@ -1226,7 +1226,7 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29298,
+    "DownloadCount": 29313,
     "CategoryTags": [
       "jobs",
       "utility",
@@ -1250,7 +1250,7 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 34818,
+    "DownloadCount": 34843,
     "CategoryTags": [
       "UI"
     ],
@@ -1285,7 +1285,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45002,
+    "DownloadCount": 45143,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1308,7 +1308,7 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 157450,
+    "DownloadCount": 157501,
     "CategoryTags": [
       "inventory",
       "utility"
@@ -1334,7 +1334,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 184502,
+    "DownloadCount": 184549,
     "CategoryTags": [
       "jobs"
     ],
@@ -1378,7 +1378,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10541,
+    "DownloadCount": 11122,
     "LastUpdate": "1650372646",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api6",
@@ -1403,7 +1403,7 @@
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58208,
+    "DownloadCount": 58230,
     "CategoryTags": [
       "UI",
       "utility"
@@ -1427,7 +1427,7 @@
     "Changelog": "API 6 Compatibility\n-Fixed the lines in the ring bars when scaled up.\n-Fixed the positioning of the class icon and level text when scaling.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6553,
+    "DownloadCount": 6565,
     "CategoryTags": [
       "UI"
     ],
@@ -1449,7 +1449,7 @@
     "Punchline": "Run multiple macros one after the other.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10508,
+    "DownloadCount": 10519,
     "CategoryTags": [
       "utility"
     ],
@@ -1483,7 +1483,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29664,
+    "DownloadCount": 29676,
     "CategoryTags": [
       "UI"
     ],
@@ -1506,7 +1506,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.5.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 176180,
+    "DownloadCount": 176284,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1529,7 +1529,7 @@
     "Punchline": "Adds a button and a command to minimize your game into taskbar",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6962,
+    "DownloadCount": 6972,
     "LastUpdate": "1649950514",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=True&branch=api6",
@@ -1553,7 +1553,7 @@
     "Punchline": "Shows the next best move in Mini Cactpot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 154284,
+    "DownloadCount": 154406,
     "CategoryTags": [
       "minigames"
     ],
@@ -1579,7 +1579,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 61319,
+    "DownloadCount": 61336,
     "CategoryTags": [
       "jobs"
     ],
@@ -1609,7 +1609,7 @@
     "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25626,
+    "DownloadCount": 25637,
     "CategoryTags": [
       "jobs"
     ],
@@ -1631,7 +1631,7 @@
     "Punchline": "Displays debuffs you cast on nameplates of enemies",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9125,
+    "DownloadCount": 9139,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -1654,7 +1654,7 @@
     "Punchline": "Rename abilities and status effects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3332,
+    "DownloadCount": 3340,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -1684,7 +1684,7 @@
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 70478,
+    "DownloadCount": 70497,
     "CategoryTags": [
       "UI"
     ],
@@ -1706,7 +1706,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 56670,
+    "DownloadCount": 56698,
     "CategoryTags": [
       "UI",
       "social"
@@ -1739,7 +1739,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "4.0.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 151880,
+    "DownloadCount": 152597,
     "LastUpdate": "1654113713",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api6",
@@ -1761,7 +1761,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6920,
+    "DownloadCount": 6924,
     "LastUpdate": "1649954429",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=True&branch=api6",
@@ -1807,7 +1807,7 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 179342,
+    "DownloadCount": 179410,
     "CategoryTags": [
       "sound"
     ],
@@ -1836,7 +1836,7 @@
     "Punchline": "owo for your chat",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 38529,
+    "DownloadCount": 38543,
     "CategoryTags": [
       "social"
     ],
@@ -1868,7 +1868,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 50095,
+    "DownloadCount": 50137,
     "LastUpdate": "1650236892",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api6",
@@ -1895,7 +1895,7 @@
     "Punchline": "Pat counter",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25999,
+    "DownloadCount": 26113,
     "LastUpdate": "1653954723",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=True&branch=api6",
@@ -1914,7 +1914,7 @@
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 153180,
+    "DownloadCount": 153276,
     "CategoryTags": [
       "UI",
       "social"
@@ -1947,7 +1947,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 124575,
+    "DownloadCount": 124648,
     "CategoryTags": [
       "inventory"
     ],
@@ -1979,7 +1979,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.4.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 432127,
+    "DownloadCount": 432256,
     "CategoryTags": [
       "UI"
     ],
@@ -2013,7 +2013,7 @@
     "Changelog": "Many new features!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 129157,
+    "DownloadCount": 129238,
     "CategoryTags": [
       "UI"
     ],
@@ -2078,7 +2078,7 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57553,
+    "DownloadCount": 57651,
     "CategoryTags": [
       "social",
       "utility"
@@ -2101,7 +2101,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 16121,
+    "DownloadCount": 16123,
     "CategoryTags": [
       "UI"
     ],
@@ -2133,7 +2133,7 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126029,
+    "DownloadCount": 126365,
     "CategoryTags": [
       "inventory"
     ],
@@ -2164,7 +2164,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60958,
+    "DownloadCount": 60976,
     "LastUpdate": "1651005162",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
@@ -2183,7 +2183,7 @@
     "Punchline": "Explore quests and their rewards.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8071,
+    "DownloadCount": 8083,
     "CategoryTags": [
       "UI"
     ],
@@ -2205,7 +2205,7 @@
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 23848,
+    "DownloadCount": 23875,
     "CategoryTags": [
       "UI"
     ],
@@ -2232,7 +2232,7 @@
     "Punchline": "Simmer does the light before every login.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1807,
+    "DownloadCount": 1808,
     "LastUpdate": "1650135154",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=True&branch=api6",
@@ -2261,7 +2261,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.9.5.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17082,
+    "DownloadCount": 17098,
     "LastUpdate": "1649912786",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api6",
@@ -2285,7 +2285,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5025,
+    "DownloadCount": 5044,
     "LastUpdate": "1651404128",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
@@ -2326,7 +2326,7 @@
     "Punchline": "Crowdsourced PF website (upload PF listings to xivpf.com)",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 912,
+    "DownloadCount": 914,
     "LastUpdate": "1651610783",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=True&branch=api6",
@@ -2360,7 +2360,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.6",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44554,
+    "DownloadCount": 46061,
     "CategoryTags": [
       "inventory"
     ],
@@ -2424,7 +2424,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 72005,
+    "DownloadCount": 72033,
     "CategoryTags": [
       "UI"
     ],
@@ -2455,7 +2455,7 @@
     "Punchline": "Make chat more fun with translations like pirate and urianger.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2564,
+    "DownloadCount": 2569,
     "CategoryTags": [
       "other",
       "social"
@@ -2479,7 +2479,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 944307,
+    "DownloadCount": 954869,
     "CategoryTags": [
       "UI",
       "other",
@@ -2507,7 +2507,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2679,
+    "DownloadCount": 2684,
     "CategoryTags": [
       "utility"
     ],
@@ -2565,7 +2565,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1993,
+    "DownloadCount": 1999,
     "LastUpdate": "1652513829",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=True&branch=api6",
@@ -2608,7 +2608,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126994,
+    "DownloadCount": 127091,
     "LastUpdate": "1653411845",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -2627,7 +2627,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11647,
+    "DownloadCount": 11653,
     "CategoryTags": [
       "sound"
     ],
@@ -2655,7 +2655,7 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27174,
+    "DownloadCount": 27178,
     "CategoryTags": [
       "sound"
     ],
@@ -2677,7 +2677,7 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 88514,
+    "DownloadCount": 88551,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2700,7 +2700,7 @@
     "Punchline": "Allows replacing every text box with the background of your choice.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 11203,
+    "DownloadCount": 11205,
     "CategoryTags": [
       "UI"
     ],
@@ -2731,7 +2731,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.13.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21427,
+    "DownloadCount": 21432,
     "CategoryTags": [
       "UI"
     ],
@@ -2753,7 +2753,7 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 33230,
+    "DownloadCount": 33237,
     "CategoryTags": [
       "UI"
     ],
@@ -2775,7 +2775,7 @@
     "Punchline": "Set your character's title - now with Searchalin!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 689,
+    "DownloadCount": 693,
     "LastUpdate": "1650234200",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=True&branch=api6",
@@ -2803,7 +2803,7 @@
     "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29666,
+    "DownloadCount": 29692,
     "LastUpdate": "1653085511",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
@@ -2822,7 +2822,7 @@
     "Punchline": "Tippy, your new FFXIV virtual assistant.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2331,
+    "DownloadCount": 2360,
     "LastUpdate": "1654046726",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
@@ -2842,7 +2842,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37748,
+    "DownloadCount": 37756,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2865,7 +2865,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 48780,
+    "DownloadCount": 48805,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2892,7 +2892,7 @@
     "Changelog": "1.3.1.0\n- Added buttons to sort rings in the list.\n- Fixed quick action setting being transferred to another item when deleting or moving items.\n- Fixed quick actions showing a selection background when the setting is disabled.\n- Fixed crash when attempting to move an item without having a selected item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 38142,
+    "DownloadCount": 38153,
     "LastUpdate": "1650142399",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=True&branch=api6",
@@ -2922,7 +2922,7 @@
     "Punchline": "Triple triad solver",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25278,
+    "DownloadCount": 25373,
     "CategoryTags": [
       "minigames"
     ],
@@ -2948,7 +2948,7 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27578,
+    "DownloadCount": 27593,
     "CategoryTags": [
       "UI"
     ],
@@ -2980,7 +2980,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 64338,
+    "DownloadCount": 64384,
     "CategoryTags": [
       "UI"
     ],
@@ -3032,7 +3032,7 @@
     "Punchline": "Crowdsourced FFXIV login queue times, now with Discord queue notification features.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4636,
+    "DownloadCount": 4638,
     "LastUpdate": "1649924890",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=True&branch=api6",
@@ -3063,7 +3063,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.4.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68857,
+    "DownloadCount": 68897,
     "CategoryTags": [
       "UI"
     ],
@@ -3085,7 +3085,7 @@
     "Punchline": "Allows precise control over time and weather per zone or globally.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2579,
+    "DownloadCount": 2599,
     "LastUpdate": "1651533245",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
@@ -3113,7 +3113,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.9.3.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1901,
+    "DownloadCount": 1919,
     "LastUpdate": "1654069197",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
@@ -3140,7 +3140,7 @@
     "Punchline": "Making it easier to know where you are.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10473,
+    "DownloadCount": 10480,
     "LastUpdate": "1649905267",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api6",
@@ -3157,7 +3157,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 839,
+    "DownloadCount": 841,
     "CategoryTags": [
       "UI"
     ],
@@ -3183,7 +3183,7 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 190602,
+    "DownloadCount": 190675,
     "CategoryTags": [
       "minigames"
     ],
@@ -3211,7 +3211,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4499,
+    "DownloadCount": 4510,
     "LastUpdate": "1650412614",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api6",
@@ -3229,7 +3229,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5888,
+    "DownloadCount": 5891,
     "CategoryTags": [
       "social"
     ],
@@ -3254,7 +3254,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 183595,
+    "DownloadCount": 183645,
     "CategoryTags": [
       "jobs"
     ],
@@ -3285,7 +3285,7 @@
     "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2833,
+    "DownloadCount": 2843,
     "LastUpdate": "1653970143",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -3311,7 +3311,7 @@
     "Punchline": "Save chat logs to your computer as text files or copy them!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4179,
+    "DownloadCount": 4188,
     "CategoryTags": [
       "UI"
     ],
@@ -3335,7 +3335,7 @@
     "Punchline": "Complete your Zodiac relic with style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29055,
+    "DownloadCount": 29076,
     "LastUpdate": "1649903967",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api6",
