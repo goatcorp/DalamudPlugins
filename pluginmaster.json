@@ -1928,7 +1928,7 @@
     "Author": "tesu",
     "Name": "Penny Pincher",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.4.0.4",
+    "AssemblyVersion": "1.4.1.1",
     "Description": "Plugin for simplifying \"pennying\" (undercutting current lowest offer by 1).\n\nThe usual workflow for this is the following:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Take a mental note of what the current lowest offer is\n4. Subtract one from it\n5. Close the current listings window\n6. Update your item's price with the number you noted\n7. Confirm your new price\n\nThis plugin eliminates the mental notekeeping steps in the middle by automatically copying the number you want onto your clipboard when you open the current listings window.  \n\nTherefore, your new workflow becomes this:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Close the current listings window\n4. Paste the undercut value in\n5. Confirm your new price\n\nThis both speeds up the process and reduces room for error from typos.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
@@ -1943,7 +1943,7 @@
     "ImageUrls": [],
     "IconUrl": "https://github.com/tesu/PennyPincher/raw/master/images/icon.png",
     "Punchline": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices",
-    "Changelog": "small bugfix",
+    "Changelog": "New HQ mode behavior: hold Shift when opening marketboard to undercut HQ prices",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
@@ -1951,7 +1951,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1651945125",
+    "LastUpdate": "1654400724",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PennyPincher/latest.zip"
@@ -2157,7 +2157,7 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.3.0.2",
+    "AssemblyVersion": "2.3.0.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -2165,7 +2165,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 61046,
-    "LastUpdate": "1651005162",
+    "LastUpdate": "1654400735",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QoLBar/latest.zip"
