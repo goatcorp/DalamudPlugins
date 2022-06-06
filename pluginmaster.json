@@ -2244,12 +2244,12 @@
     "Punchline": "Extends the game's built-in ready check.",
     "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
     "InternalName": "ReadyCheckHelper",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.3.0",
     "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
-    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
+    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/main/docs/Images/icon.png",
     "ImageUrls": [
-      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
-      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/main/docs/Images/image2.png"
     ],
     "ApplicableVersion": "any",
     "Tags": [
@@ -2262,7 +2262,7 @@
     "TestingAssemblyVersion": "0.9.5.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 17216,
-    "LastUpdate": "1649912786",
+    "LastUpdate": "1654494610",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip"
@@ -3612,7 +3612,7 @@
     "Author": "ItsBexy",
     "Name": "CrossUp",
     "InternalName": "CrossUp",
-    "AssemblyVersion": "0.3.1.0",
+    "AssemblyVersion": "0.3.1.1",
     "Description": "This plugin provides various customizations for the look and feel of the Cross Hotbar.\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions\n-Greater control over which sets your extra bars are mapped to",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ItsBexy/CrossUp",
@@ -3621,9 +3621,9 @@
     "Punchline": "Customize the Cross Hotbar!",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.1.0",
+    "TestingAssemblyVersion": "0.3.1.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1654468481",
+    "LastUpdate": "1654494658",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CrossUp/latest.zip"
