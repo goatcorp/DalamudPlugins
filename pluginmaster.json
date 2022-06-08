@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.5.0",
+    "AssemblyVersion": "1.3.0.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -28,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 65791,
-    "LastUpdate": "1651395394",
+    "LastUpdate": "1654700645",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Accountant/latest.zip"
@@ -694,7 +694,7 @@
     "LoadPriority": 0,
     "Punchline": "Quickly figure out what killed you or your party members!",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.7.0.1",
+    "TestingAssemblyVersion": "1.7.1.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 38034,
     "LastUpdate": "1653584191",
@@ -733,7 +733,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.3.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -749,7 +749,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1652665435",
+    "LastUpdate": "1654700633",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
@@ -1096,7 +1096,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.1.2.0",
+    "AssemblyVersion": "3.1.3.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -1109,7 +1109,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1653768217",
+    "LastUpdate": "1654700673",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -1283,7 +1283,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
     "Punchline": "Can't find an item you thought you had? Can't work out why your retainers are so full? This might help.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.1.0.3",
+    "TestingAssemblyVersion": "1.1.0.4",
     "IsTestingExclusive": "False",
     "DownloadCount": 46583,
     "CategoryTags": [
