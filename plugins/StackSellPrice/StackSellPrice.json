@@ -2,11 +2,12 @@
   "Author": "VariableVixen",
   "Name": "StackSellPrice",
   "InternalName": "StackSellPrice",
-  "AssemblyVersion": "1.0.8192.9346",
+  "AssemblyVersion": "1.0.8196.2892",
   "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/PrincessRTFM/StackSellPrice/master/icon.png",
   "Punchline": "Because multiplication is hard."
 }
