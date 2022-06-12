@@ -388,6 +388,25 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatExtender/latest.zip"
   },
   {
+    "Author": "ascclemens",
+    "Name": "Chat 2",
+    "InternalName": "ChatTwo",
+    "AssemblyVersion": "1.15.4.0",
+    "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1655002138",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTwo/latest.zip"
+  },
+  {
     "Author": "Franz",
     "Name": "ChatTyper",
     "InternalName": "ChatTyper",
