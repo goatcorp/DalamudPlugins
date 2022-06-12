@@ -2662,6 +2662,26 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SoundSetter/latest.zip"
   },
   {
+    "Author": "VariableVixen",
+    "Name": "StackSellPrice",
+    "InternalName": "StackSellPrice",
+    "AssemblyVersion": "1.0.8196.2892",
+    "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/StackSellPrice/images/icon.png",
+    "Punchline": "Because multiplication is hard.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1655001031",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/StackSellPrice/latest.zip"
+  },
+  {
     "Author": "Pohky",
     "Name": "Teleporter",
     "InternalName": "TeleporterPlugin",
