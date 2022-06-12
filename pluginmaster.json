@@ -106,6 +106,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"
   },
   {
+    "Author": "Gotest",
+    "Name": "Audible Character Status",
+    "InternalName": "AudibleCharacterStatus",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Plays a sound for certain statuses of the player. Such as low HP or MP.\nYou will need to provide your own sound files.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Arrenton/AudibleCharacterStatus",
+    "Tags": [
+      "audio",
+      "player",
+      "status"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "You like annoying low HP sounds? This is great for you!",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1655001295",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AudibleCharacterStatus/latest.zip"
+  },
+  {
     "Author": "zhudotexe",
     "Name": "PaissaHouse",
     "InternalName": "autoSweep",
