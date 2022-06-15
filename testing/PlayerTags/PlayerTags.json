@@ -1,5 +1,5 @@
 {
-  "Author": "Pilzinsel64",
+  "Author": "r00telement",
   "Name": "Player Tags",
   "InternalName": "PlayerTags",
   "AssemblyVersion": "1.2.0.0",
@@ -20,7 +20,7 @@
     "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
     "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
   ],
-  "IconUrl": "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+  "IconUrl": "",
   "Punchline": "Lightweight job visibility in nameplates and chat.",
-  "Changelog": "Version 1.2\n- Updated for API v6\n- Disabled context menus for now (will be re-added soon with an another update)\n- Updated the plugin info"
+  "Changelog": ""
 }
