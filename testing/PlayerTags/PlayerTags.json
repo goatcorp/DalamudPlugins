@@ -1,0 +1,26 @@
+{
+  "Author": "Pilzinsel64",
+  "Name": "Player Tags",
+  "InternalName": "PlayerTags",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.\n(This plugin was originally developed by r00telement but forked and continued by Pilzinsel64.)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Pilzinsel64/PlayerTags",
+  "Tags": [
+    "Jobs",
+    "UI"
+  ],
+  "CategoryTags": [
+    "jobs",
+    "UI"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
+    "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
+  ],
+  "IconUrl": "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Icon.png",
+  "Punchline": "Lightweight job visibility in nameplates and chat.",
+  "Changelog": "Version 1.3\n- Updated for API v6\n- Disabled context menus for now (will be re-added soon with a future update)\n- Updated the plugin info"
+}
