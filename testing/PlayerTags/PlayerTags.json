@@ -1,5 +1,5 @@
 {
-  "Author": "r00telement",
+  "Author": "r00telement, Pilzinsel64",
   "Name": "Player Tags",
   "InternalName": "PlayerTags",
   "AssemblyVersion": "1.2.0.0",
@@ -20,7 +20,5 @@
     "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Nameplates_1.png",
     "https://github.com/Pilzinsel64/PlayerTags/raw/main/PlayerTags/Resources/Promo/Chat_1.png"
   ],
-  "IconUrl": "",
-  "Punchline": "Lightweight job visibility in nameplates and chat.",
-  "Changelog": ""
+  "Punchline": "Lightweight job visibility in nameplates and chat."
 }
