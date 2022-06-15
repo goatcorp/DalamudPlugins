@@ -2,7 +2,7 @@
   "Author": "Gotest",
   "Name": "Audible Character Status",
   "InternalName": "AudibleCharacterStatus",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Plays a sound for certain statuses of the player. Such as low HP or MP.\nYou will need to provide your own sound files.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Arrenton/AudibleCharacterStatus",
@@ -14,5 +14,5 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "You like annoying low HP sounds? This is great for you!",
-  "Changelog": "Fixed MP sounds not playing at 0 MP."
+  "Changelog": "Fixed save crash.\nFixed MP sound from playing as a crafting class, which has no MP."
 }
