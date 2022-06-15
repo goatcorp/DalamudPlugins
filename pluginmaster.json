@@ -392,7 +392,7 @@
     "Author": "ascclemens",
     "Name": "Chat 2",
     "InternalName": "ChatTwo",
-    "AssemblyVersion": "1.15.5.0",
+    "AssemblyVersion": "1.16.0.0",
     "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
@@ -402,7 +402,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2228,
-    "LastUpdate": "1655054751",
+    "LastUpdate": "1655263972",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTwo/latest.zip"
