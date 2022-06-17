@@ -1,0 +1,16 @@
+{
+  "Author": "Fatigue",
+  "Name": "Venyou",
+  "InternalName": "Venyou",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Manage and view listings of open/closed venues",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "roleplay",
+    "venues",
+    "plugin"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Venue listings for the discerning roleplayer"
+}
