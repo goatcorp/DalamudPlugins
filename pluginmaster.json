@@ -1070,6 +1070,7 @@
     "LoadPriority": 0,
     "Punchline": "Allows the filtering of the different fly text types.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "3.3.1.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 3685,
     "CategoryTags": [
@@ -3748,7 +3749,7 @@
     "Punchline": "Target distance widgets.",
     "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
     "InternalName": "Distance",
-    "AssemblyVersion": "0.9.7.0",
+    "AssemblyVersion": "0.9.7.1",
     "RepoUrl": "https://github.com/PunishedPineapple/Distance",
     "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -3769,9 +3770,9 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.7.0",
+    "TestingAssemblyVersion": "0.9.7.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1653542532",
+    "LastUpdate": "1655481203",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
