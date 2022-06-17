@@ -1140,7 +1140,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.1.3.0",
+    "AssemblyVersion": "3.1.4.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -1153,7 +1153,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1654700673",
+    "LastUpdate": "1655508270",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -2709,7 +2709,7 @@
     "Author": "VariableVixen",
     "Name": "StackSellPrice",
     "InternalName": "StackSellPrice",
-    "AssemblyVersion": "1.0.8196.2892",
+    "AssemblyVersion": "1.0.8202.32795",
     "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
@@ -2720,7 +2720,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 455,
-    "LastUpdate": "1655001031",
+    "LastUpdate": "1655508212",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/StackSellPrice/latest.zip"
