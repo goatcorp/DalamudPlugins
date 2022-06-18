@@ -321,18 +321,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "2.1.1.0",
+    "AssemblyVersion": "2.1.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Changelog": "Fixed a breaking change. Added Echo channel.",
+    "Changelog": "Really fixed it this time.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 221411,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1655518732",
+    "LastUpdate": "1655592924",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
@@ -3328,7 +3328,7 @@
     "Author": "Kaz Wolfe",
     "Name": "XIVDeck Game Plugin",
     "InternalName": "XIVDeck.FFXIVPlugin",
-    "AssemblyVersion": "0.2.2",
+    "AssemblyVersion": "0.2.4",
     "Description": "This plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
@@ -3345,10 +3345,9 @@
     "LoadPriority": 0,
     "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
     "IsHide": "False",
-    "TestingAssemblyVersion": "0.2.4",
     "IsTestingExclusive": "False",
     "DownloadCount": 3658,
-    "LastUpdate": "1653970143",
+    "LastUpdate": "1655592909",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVDeck.FFXIVPlugin/latest.zip"
