@@ -321,18 +321,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "2.1.0.0",
+    "AssemblyVersion": "2.1.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Changelog": "Further stability Improvements. Added Yalm distance cap. Added an easter egg for a friend.",
+    "Changelog": "Fixed a breaking change. Added Echo channel.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 201862,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1651723425",
+    "LastUpdate": "1655518732",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
