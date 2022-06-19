@@ -3998,6 +3998,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MBHistory/latest.zip"
   },
   {
+    "Author": "RedMage1993",
+    "Name": "Mimicry Helper",
+    "InternalName": "MimicryHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Use /mimic to open up the menu and click on the appropriate button to automatically mimic the role you're looking for.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/RedMage1993/MimicryHelper",
+    "Tags": [
+      "blue mage",
+      "blu",
+      "mimicry"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Automatically mimic the role you're looking for.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1655648793",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MimicryHelper/latest.zip"
+  },
+  {
     "Author": "Samuelka",
     "Name": "Mount Collectioner",
     "InternalName": "MountCollectioner",
