@@ -2,7 +2,7 @@
   "Author": "daemitus",
   "Name": "ZodiacBuddy",
   "InternalName": "ZodiacBuddy",
-  "AssemblyVersion": "0.0.1.1",
+  "AssemblyVersion": "0.0.2.0",
   "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -10,5 +10,5 @@
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
-  "Punchline": "Complete your Zodiac relic with style."
+  "Changelog": "2022-06-22\nAdded a Novus light tracker (by Hiroa)\n"
 }
