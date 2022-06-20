@@ -3107,7 +3107,7 @@
     "Punchline": "Improved Waymark Management",
     "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.3.3.0",
+    "AssemblyVersion": "1.4.2.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
     "ImageUrls": [
@@ -3130,7 +3130,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650937777",
+    "LastUpdate": "1655762893",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip"
@@ -3330,7 +3330,7 @@
     "Author": "Kaz Wolfe",
     "Name": "XIVDeck Game Plugin",
     "InternalName": "XIVDeck.FFXIVPlugin",
-    "AssemblyVersion": "0.2.4",
+    "AssemblyVersion": "0.2.5",
     "Description": "This plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
@@ -3349,7 +3349,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3914,
-    "LastUpdate": "1655592909",
+    "LastUpdate": "1655762882",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVDeck.FFXIVPlugin/latest.zip"
@@ -3976,7 +3976,7 @@
     "Author": "Infi",
     "Name": "Easy MBHistory",
     "InternalName": "MBHistory",
-    "AssemblyVersion": "0.0.2.0",
+    "AssemblyVersion": "0.0.3.0",
     "Description": "Copies the marketboard transaction history into your clipboard with configurable options.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Infiziert90/MBHistory",
@@ -3992,9 +3992,9 @@
     "Punchline": "Useful for when you want to quickly export marketboard transaction history.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.2.0",
+    "TestingAssemblyVersion": "0.0.3.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1653088128",
+    "LastUpdate": "1655762918",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MBHistory/latest.zip"
@@ -4462,7 +4462,7 @@
     "Author": "cassandra308",
     "Name": "Where am I again?",
     "InternalName": "WhereAmIAgain",
-    "AssemblyVersion": "0.0.0.9",
+    "AssemblyVersion": "0.0.0.10",
     "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
@@ -4482,9 +4482,9 @@
     "Punchline": "Shows what zone/region/territory you are in next to the server info.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.9",
+    "TestingAssemblyVersion": "0.0.0.10",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651459715",
+    "LastUpdate": "1655762872",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhereAmIAgain/latest.zip"
