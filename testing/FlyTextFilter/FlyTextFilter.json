@@ -2,11 +2,11 @@
   "Author": "Aireil",
   "Name": "FlyTextFilter",
   "InternalName": "FlyTextFilter",
-  "AssemblyVersion": "3.3.1.2",
-  "Description": "Filter by type and adjust position of fly texts.",
+  "AssemblyVersion": "4.0.0.0",
+  "Description": "Filter fly texts based on multiple criteria and allow the adjustment of their position.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Punchline": "Filter by type and adjust position of fly texts."
+  "Punchline": "Filter fly texts based on multiple criteria and allow the adjustment of their position."
 }
