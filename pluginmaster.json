@@ -2379,7 +2379,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.1.9",
+    "AssemblyVersion": "1.0.1.10",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -2399,7 +2399,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
-    "Changelog": "* v1.0.1.9\n  * disable in PvP zones\n  * hide during mid-fight cutscenes\n  * fix position settings in some situations (thanks dlt111 for the help debugging this!)",
+    "Changelog": "* v1.0.1.10\n  * fix startup problem",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.1.6",
     "IsTestingExclusive": "False",
@@ -2407,7 +2407,7 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1654299090",
+    "LastUpdate": "1655782903",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
