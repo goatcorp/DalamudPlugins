@@ -182,7 +182,7 @@
     "Author": "d87",
     "Name": "BigPlayerDebuffs",
     "InternalName": "BigPlayerDebuffs",
-    "AssemblyVersion": "1.1.0.4",
+    "AssemblyVersion": "1.1.0.5",
     "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
@@ -192,6 +192,7 @@
       "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+    "Changelog": "* v1.1.0.5\n * Futureproofing for the next Dalamud update\n",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 22400,
@@ -199,7 +200,7 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1650022874",
+    "LastUpdate": "1655798927",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip"
