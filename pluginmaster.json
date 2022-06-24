@@ -2201,7 +2201,7 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.3.0.4",
+    "AssemblyVersion": "2.3.0.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -2209,7 +2209,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 71547,
-    "LastUpdate": "1654468502",
+    "LastUpdate": "1656033693",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QoLBar/latest.zip"
@@ -3348,6 +3348,7 @@
     "LoadPriority": 0,
     "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
     "IsHide": "False",
+    "TestingAssemblyVersion": "0.2.6",
     "IsTestingExclusive": "False",
     "DownloadCount": 4450,
     "LastUpdate": "1655762882",
