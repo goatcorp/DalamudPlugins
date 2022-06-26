@@ -24,7 +24,7 @@ Make sure that your plugin does not directly interact with the game servers in a
 Create a pull request with your own subfolder in the plugins directory of this folder. It should be named the "internal" name(name of the DLL) of your plugin and contain a [plugin definition file](https://github.com/goatcorp/DalamudPlugins/blob/master/plugins/owofy/owofy.json) with the same name.
 It should also contain a zip called "latest.zip" containing your plugin DLL, dependencies, resources and the plugin definition json in the same folder as the plugin DLL.
 
-An icon for your plugin has to be in "YourPlugin/images/" as "icon.png". The icon should be representative of what your plugin does, ideally have transparency and be at max, 512 by 512 pixels.
+An icon for your plugin has to be in "YourPlugin/images/" as "icon.png". The icon has to be representative of what your plugin does, ideally have transparency and be at max, 512 by 512 pixels.
 
 When the AssemblyVersion of the locally installed plugin doesn't match the "AssemblyVersion" field of the plugin definition json pushed to this repository, a redownload of the plugin is forced.
 
