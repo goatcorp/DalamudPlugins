@@ -1,0 +1,11 @@
+{
+  "Author": "X'pahtalo",
+  "Name": "FFXIV2MQTT",
+  "InternalName": "Ffxiv2Mqtt",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Send data to an MQTT broker to do all sorts of things. Change your lights with a macro, turn on the heater when you use Overheat, or start playing Rules of Nature when you switch to Gunbreaker.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Send game info over MQTT"
+}
