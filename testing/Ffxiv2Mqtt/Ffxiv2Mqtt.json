@@ -2,7 +2,7 @@
   "Author": "X'pahtalo",
   "Name": "FFXIV2MQTT",
   "InternalName": "Ffxiv2Mqtt",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "Send data to an MQTT broker to do all sorts of things. Change your lights with a macro, turn on the heater when you use Overheat, or start playing Rules of Nature when you switch to Gunbreaker.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Xpahtalo/Ffxiv2Mqtt",
