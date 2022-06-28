@@ -456,7 +456,7 @@
     "Author": "NotNite",
     "Name": "cl_showpos",
     "InternalName": "cl_showpos",
-    "AssemblyVersion": "1.0.4.2",
+    "AssemblyVersion": "1.0.5.0",
     "Description": "Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://gitlab.com/jules/cl_showpos",
@@ -472,7 +472,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2833,
-    "LastUpdate": "1654301493",
+    "LastUpdate": "1656382983",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
@@ -3752,7 +3752,7 @@
     "Punchline": "Target distance widgets.",
     "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
     "InternalName": "Distance",
-    "AssemblyVersion": "0.9.7.1",
+    "AssemblyVersion": "0.9.8.0",
     "RepoUrl": "https://github.com/PunishedPineapple/Distance",
     "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -3773,9 +3773,9 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.7.1",
+    "TestingAssemblyVersion": "0.9.8.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1655481203",
+    "LastUpdate": "1656382992",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
