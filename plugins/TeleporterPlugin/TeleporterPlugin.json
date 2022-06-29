@@ -2,7 +2,7 @@
   "Author": "Pohky",
   "Name": "Teleporter",
   "InternalName": "TeleporterPlugin",
-  "AssemblyVersion": "2.0.1.6",
+  "AssemblyVersion": "2.0.1.7",
   "Description": "Adds Chat Commands to Teleport to Aetherytes or Areas by Name.\ne.g. /tp Quarrymill or /tpm South Shroud\nSupports setting up an Alias for Aetherytes to be used with Teleporter Commands\ne.g. /tp home instead of /tp Estate Hall (Free Company)",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/pohky/TeleporterPlugin",

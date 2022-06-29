@@ -18,7 +18,7 @@
       "Cactpot"
     ],
     "InternalName": "Accountant",
-    "AssemblyVersion": "1.2.4.2",
+    "AssemblyVersion": "1.3.0.0",
     "RepoUrl": "https://github.com/Ottermandias/Accountant",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -27,8 +27,8 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60401,
-    "LastUpdate": "1650130833",
+    "DownloadCount": 77511,
+    "LastUpdate": "1654700645",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Accountant/latest.zip"
@@ -50,7 +50,7 @@
     "DalamudApiLevel": 3,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28843,
+    "DownloadCount": 28845,
     "CategoryTags": [
       "UI"
     ],
@@ -58,6 +58,30 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AccurateCountDown/latest.zip"
+  },
+  {
+    "Author": "Helios",
+    "Name": "Adaptive Hud",
+    "InternalName": "AdaptiveHud",
+    "AssemblyVersion": "1.0.0.2",
+    "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
+    "Tags": [
+      "hudlayout",
+      "hud",
+      "settings"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1054,
+    "LastUpdate": "1652891391",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -72,7 +96,7 @@
     "Punchline": "Recieve a notification when a duty roulette is in need of a role.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36528,
+    "DownloadCount": 41287,
     "CategoryTags": [
       "UI"
     ],
@@ -80,6 +104,57 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"
+  },
+  {
+    "Author": "Gotest",
+    "Name": "Audible Character Status",
+    "InternalName": "AudibleCharacterStatus",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "Plays a sound for certain statuses of the player. Such as low HP or MP.\nYou will need to provide your own sound files.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Arrenton/AudibleCharacterStatus",
+    "Tags": [
+      "audio",
+      "player",
+      "status"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "You like annoying low HP sounds? This is great for you!",
+    "Changelog": "Added a file picker for loading sound files.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 3043,
+    "LastUpdate": "1656238479",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AudibleCharacterStatus/latest.zip"
+  },
+  {
+    "Author": "zhudotexe",
+    "Name": "PaissaHouse",
+    "InternalName": "autoSweep",
+    "AssemblyVersion": "1.4.0.0",
+    "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+    "Tags": [
+      "housing"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
+    "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 23355,
+    "CategoryTags": [
+      "other"
+    ],
+    "LastUpdate": "1653993974",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -94,7 +169,7 @@
     "Punchline": "Use advanced Party Finder filter presets.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27462,
+    "DownloadCount": 30369,
     "CategoryTags": [
       "UI"
     ],
@@ -107,7 +182,7 @@
     "Author": "d87",
     "Name": "BigPlayerDebuffs",
     "InternalName": "BigPlayerDebuffs",
-    "AssemblyVersion": "1.1.0.4",
+    "AssemblyVersion": "1.1.0.5",
     "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
@@ -117,14 +192,15 @@
       "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+    "Changelog": "* v1.1.0.5\n * Futureproofing for the next Dalamud update\n",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 13296,
+    "DownloadCount": 44841,
     "CategoryTags": [
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1650022874",
+    "LastUpdate": "1655798927",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip"
@@ -178,7 +254,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.2",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8466,
+    "DownloadCount": 11229,
     "LastUpdate": "1649931635",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api6",
@@ -196,7 +272,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 12078,
+    "DownloadCount": 13555,
     "CategoryTags": [
       "UI"
     ],
@@ -226,7 +302,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3776,
+    "DownloadCount": 5212,
     "LastUpdate": "1649935803",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=True&branch=api6",
@@ -246,18 +322,18 @@
       "Chat"
     ],
     "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.1.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Changelog": "COLOURS.",
+    "Changelog": "Really fixed it this time.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 160934,
+    "DownloadCount": 273484,
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1651230376",
+    "LastUpdate": "1655592924",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
@@ -275,7 +351,7 @@
     "Punchline": "Places flag marker on map from coordinates in chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 35791,
+    "DownloadCount": 38950,
     "CategoryTags": [
       "social",
       "utility"
@@ -314,19 +390,39 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatExtender/latest.zip"
   },
   {
+    "Author": "ascclemens",
+    "Name": "Chat 2",
+    "InternalName": "ChatTwo",
+    "AssemblyVersion": "1.16.0.0",
+    "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 7445,
+    "LastUpdate": "1655263972",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTwo/latest.zip"
+  },
+  {
     "Author": "Franz",
     "Name": "ChatTyper",
     "InternalName": "ChatTyper",
-    "AssemblyVersion": "0.0.2.3",
+    "AssemblyVersion": "0.1.0.5",
     "Description": "Prefixes all chatbox messages with their chat type number and name, if known.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/reiichi001/dalamud-chattyper",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "This is still mostly a dev tool for debugging, but people like it?",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2289,
-    "LastUpdate": "1649905267",
+    "DownloadCount": 2927,
+    "LastUpdate": "1654262838",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTyper/latest.zip"
@@ -335,8 +431,8 @@
     "Author": "MidoriKami",
     "Name": "Chill Frames",
     "InternalName": "ChillFrames",
-    "AssemblyVersion": "1.3.0.2",
-    "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limite the games framerate while out of combat!",
+    "AssemblyVersion": "1.4.1.0",
+    "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limit the games framerate while out of combat!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
     "Tags": [
@@ -350,8 +446,8 @@
     "Punchline": "Limit Framerate while out of combat",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2737,
-    "LastUpdate": "1650237838",
+    "DownloadCount": 11129,
+    "LastUpdate": "1655860162",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChillFrames/latest.zip"
@@ -360,9 +456,10 @@
     "Author": "NotNite",
     "Name": "cl_showpos",
     "InternalName": "cl_showpos",
-    "AssemblyVersion": "1.0.3.1",
-    "Description": "the source engine convar, implemented into FFXIV",
+    "AssemblyVersion": "1.0.5.0",
+    "Description": "Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://gitlab.com/jules/cl_showpos",
     "Tags": [
       "ui"
     ],
@@ -371,10 +468,11 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
+    "Punchline": "Customizable, Source Engine-styled position info",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 393,
-    "LastUpdate": "1651198537",
+    "DownloadCount": 2960,
+    "LastUpdate": "1656382983",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
@@ -393,7 +491,7 @@
     "Changelog": "- Update to APi 6, patch 6.1\n- One more visibility option: 'Only in Combat'\n- New Filter: 'Boss Enemy'\n- New Filter: 'Poetics Vendor'\n- fix: Waymark icons (thanks Maxunit)\n- \"fix\": Dirty hack to prevent (?) Aesthetician crashes",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18527,
+    "DownloadCount": 21884,
     "CategoryTags": [
       "UI"
     ],
@@ -422,7 +520,7 @@
     "Punchline": "Display alerts upon reaching configurable currencies thresholds (such as Poetics or PVP marks).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5756,
+    "DownloadCount": 8973,
     "LastUpdate": "1650129121",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
@@ -432,7 +530,7 @@
     "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
-    "AssemblyVersion": "1.5.0.3",
+    "AssemblyVersion": "2.0.5.1",
     "Description": "Automatically track and complete many daily and weekly tasks.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
@@ -446,10 +544,9 @@
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126619,
-    "LastUpdate": "1651036023",
+    "DownloadCount": 252130,
+    "LastUpdate": "1656316305",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DailyDuty/latest.zip"
@@ -458,7 +555,7 @@
     "Author": "goat, modded by Franz",
     "Name": "Discord Chat Bridge",
     "InternalName": "Dalamud.DiscordBridge",
-    "AssemblyVersion": "1.2.5.0",
+    "AssemblyVersion": "1.2.6.0",
     "Description": "This plugin allows you to receive your chat messages via Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
@@ -471,11 +568,11 @@
     "Punchline": "Receive your chat messages via Discord.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41782,
+    "DownloadCount": 48978,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1649905267",
+    "LastUpdate": "1654262822",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.DiscordBridge/latest.zip"
@@ -497,7 +594,7 @@
     "Punchline": "Find anything, go anywhere, in style.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32911,
+    "DownloadCount": 35173,
     "LastUpdate": "1650921585",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=True&branch=api6",
@@ -521,7 +618,7 @@
     "Punchline": "Remove letterboxing from cutscenes on ultrawide monitors.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4,
+    "DownloadCount": 1248,
     "LastUpdate": "1650060943",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=True&branch=api6",
@@ -540,7 +637,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 86272,
+    "DownloadCount": 100300,
     "CategoryTags": [
       "other"
     ],
@@ -553,7 +650,7 @@
     "Author": "goat",
     "Name": "Discord Rich Presence",
     "InternalName": "Dalamud.RichPresence",
-    "AssemblyVersion": "2.0.0.4",
+    "AssemblyVersion": "2.0.0.5",
     "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -565,11 +662,11 @@
     "Changelog": "* Added party grouping support, will show people you group with on Discord if they also use the plugin\n* Now shows AFK status by default, can be disabled\n* Now shows queue position if Waitingway is installed",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 89818,
+    "DownloadCount": 114029,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1650834055",
+    "LastUpdate": "1656150031",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.RichPresence/latest.zip"
@@ -613,7 +710,7 @@
     "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 147897,
+    "DownloadCount": 155523,
     "CategoryTags": [
       "UI"
     ],
@@ -626,7 +723,7 @@
     "Author": "Kouzukii",
     "Name": "Death Recap",
     "InternalName": "DeathRecap",
-    "AssemblyVersion": "1.6.1.0",
+    "AssemblyVersion": "1.7.1.0",
     "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
@@ -640,11 +737,11 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
+    "Punchline": "Quickly figure out what killed you or your party members!",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.6.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10538,
-    "LastUpdate": "1651155746",
+    "DownloadCount": 59058,
+    "LastUpdate": "1655140915",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRecap/latest.zip"
@@ -667,7 +764,7 @@
     "Punchline": "Live monster data for Deep Dungeons.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 48648,
+    "DownloadCount": 54830,
     "CategoryTags": [
       "UI"
     ],
@@ -680,7 +777,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "1.1.1.0",
+    "AssemblyVersion": "1.1.3.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -692,11 +789,11 @@
     "Punchline": "A modern HUD replacement built for customization.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 139754,
+    "DownloadCount": 162595,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1651095567",
+    "LastUpdate": "1654700633",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
@@ -718,7 +815,7 @@
     "Punchline": "Stops controller input from freezing randomly.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2808,
+    "DownloadCount": 5200,
     "LastUpdate": "1650099594",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api6",
@@ -741,7 +838,7 @@
     "LoadPriority": 69419,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18558,
+    "DownloadCount": 21497,
     "CategoryTags": [
       "UI"
     ],
@@ -775,7 +872,7 @@
     "Punchline": "Dialogue and other in-game text translations? Yes we have!\nKnown Issues at: https://github.com/lokinmodar/Echoglossian/issues/12",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14566,
+    "DownloadCount": 17240,
     "CategoryTags": [
       "UI"
     ],
@@ -796,7 +893,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28359,
+    "DownloadCount": 33646,
     "CategoryTags": [
       "UI"
     ],
@@ -809,14 +906,16 @@
     "Author": "Xorus",
     "Name": "EngageTimer",
     "InternalName": "EngageTimer",
-    "AssemblyVersion": "2.2.0.4",
-    "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
+    "AssemblyVersion": "2.2.2.1",
+    "Description": "Finally, display all the numbers when starting a countdown!\nComes with an accurate pull timer that starts when you or any of your party members enter combat.\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Display combat time in the Server Info Bar, and/or a floating window\n- OBS browser-source compatible page with countdown and current combat duration\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xorus/EngageTimer",
     "Tags": [
       "countdown",
+      "pull timer",
       "stopwatch",
       "OBS",
+      "overlay",
       "streaming",
       "combat"
     ],
@@ -831,11 +930,11 @@
       "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
-    "Punchline": "Combat countdown with all numbers, stopwatch and OBS support",
+    "Punchline": "Complete combat countdown, pull timer and OBS overlay",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 123048,
-    "LastUpdate": "1649931322",
+    "DownloadCount": 174711,
+    "LastUpdate": "1655755871",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EngageTimer/latest.zip"
@@ -853,7 +952,7 @@
     "Punchline": "Displays extra information pulled from search info when examining.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25010,
+    "DownloadCount": 27823,
     "CategoryTags": [
       "UI"
     ],
@@ -878,7 +977,7 @@
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/faderPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24307,
+    "DownloadCount": 24316,
     "LastUpdate": "1646057767",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
@@ -901,7 +1000,7 @@
     "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41336,
+    "DownloadCount": 53019,
     "CategoryTags": [
       "minigames"
     ],
@@ -914,8 +1013,8 @@
     "Author": "CFG",
     "Name": "FC Name Color",
     "InternalName": "FCNameColor",
-    "AssemblyVersion": "2.0.3.1",
-    "Description": "Color your FC’s tag or the entire nameplate if they are in your FC. Use /fcnc to open up the config.",
+    "AssemblyVersion": "2.1.0.5",
+    "Description": "Color your FC’s tag or the entire nameplate if they are in your FC or other specified FCs.\nWorks using Lodestone data, so it can continue working inside duties as well as on different servers!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/WesselKuipers/FCNameColor",
     "Tags": [
@@ -933,10 +1032,9 @@
     "IconUrl": "https://github.com/WesselKuipers/FCNameColor/raw/main/images/icon.png",
     "Punchline": "Color your FC member’s FC tags",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.1.0.3",
     "IsTestingExclusive": "False",
-    "DownloadCount": 65325,
-    "LastUpdate": "1650475165",
+    "DownloadCount": 75519,
+    "LastUpdate": "1651438795",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FCNameColor/latest.zip"
@@ -953,7 +1051,7 @@
     "Punchline": "Flash FFXIV's program on the taskbar when you receive a /tell",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15467,
+    "DownloadCount": 18740,
     "CategoryTags": [
       "social",
       "utility"
@@ -975,8 +1073,9 @@
     "LoadPriority": 0,
     "Punchline": "Allows the filtering of the different fly text types.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "4.0.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2601,
+    "DownloadCount": 6258,
     "CategoryTags": [
       "UI"
     ],
@@ -989,7 +1088,7 @@
     "Author": "Caraxi",
     "Name": "FPS Plugin",
     "InternalName": "FPSPlugin",
-    "AssemblyVersion": "1.6.0.1",
+    "AssemblyVersion": "1.6.0.2",
     "Description": "Display game FPS. It really is that simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
@@ -998,14 +1097,36 @@
     "Punchline": "Display game FPS.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 115659,
+    "DownloadCount": 148244,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649986927",
+    "LastUpdate": "1652164369",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
+  },
+  {
+    "Author": "XIV Tools",
+    "Name": "Fullscreen Toggle",
+    "Punchline": "Enter and leave borderless windowed mode quickly!",
+    "Description": "Enter and leave borderless windowed mode quickly! Press Alt+Enter to toggle fullscreen.",
+    "InternalName": "FullscreenToggle",
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
+    "IconUrl": "https://github.com/XIV-Tools/FullscreenToggle/raw/main/Data/icon.png",
+    "Tags": [
+      "fullscreen",
+      "XIV Tools"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 2,
+    "LastUpdate": "1651577177",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FullscreenToggle/latest.zip"
   },
   {
     "Author": "Ottermandias",
@@ -1022,7 +1143,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.0.6.0",
+    "AssemblyVersion": "3.1.4.0",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -1031,11 +1152,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 285579,
+    "DownloadCount": 421354,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1650974549",
+    "LastUpdate": "1655508270",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -1044,21 +1165,21 @@
     "Author": "Chivalrik",
     "Name": "GentleTouch",
     "InternalName": "GentleTouch",
-    "AssemblyVersion": "1.3.0",
-    "Description": "You need to configure patterns and triggers before it will work, \nopen the configuration window to do that. \nCurrently supported triggers are:\n- Cooldowns\n- Near Aether Current",
+    "AssemblyVersion": "1.5.0",
+    "Description": "You need to configure patterns and triggers before it will work, \nopen the configuration window to do that. \nDS5 is currently unsupported. \nCurrently supported triggers are:\n- Cooldowns\n- Near Aether Current",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/fitzchivalrik/gentletouch",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Create vibration patterns for the controller and specify triggers to make it vibrate.",
-    "Changelog": "Update to API 5 and EW + Now works with DS4 (maybe even DS5?) thanks to the game adding support",
+    "Changelog": "- Update to API 6\n- Reworked charged abilities, those trigger now _only_ on first charge (instead of last as previous).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3123,
+    "DownloadCount": 3729,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1639058444",
+    "LastUpdate": "1651353561",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GentleTouch?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GentleTouch?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GentleTouch/latest.zip"
@@ -1076,7 +1197,7 @@
     "Punchline": "Save and swap your glamour plates.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14520,
+    "DownloadCount": 21221,
     "LastUpdate": "1650156488",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api6",
@@ -1095,7 +1216,7 @@
     "Punchline": "Automatically shows where treasure maps are located.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 117304,
+    "DownloadCount": 131942,
     "CategoryTags": [
       "utility"
     ],
@@ -1117,7 +1238,7 @@
     "Punchline": "Adds an indicator in item tooltips to show whether you have acquired that item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 114915,
+    "DownloadCount": 114916,
     "CategoryTags": [
       "UI",
       "utility"
@@ -1152,7 +1273,7 @@
     "Punchline": "Bard performance assistant",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27243,
+    "DownloadCount": 30802,
     "CategoryTags": [
       "jobs",
       "utility",
@@ -1176,7 +1297,7 @@
     "Punchline": "Displays information about housing fixtures and objects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32434,
+    "DownloadCount": 36504,
     "CategoryTags": [
       "UI"
     ],
@@ -1189,8 +1310,8 @@
     "Author": "Critical_Impact",
     "Name": "Inventory Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.0.0.12",
-    "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+    "AssemblyVersion": "1.1.0.6",
+    "Description": "Adds in a window that allows for the searching and filtering of items across your inventories and the entire games list of items. Adds visualisation in game to see both where your items are and where you should sort them.\n\nFeatures are always being added to Inventory Tools so keep up to date to receive them. Some of the currently included features are:\n\t- Market board integration \n\t- Item highlighting \n\t- Various ways to filter items including have acquired, is craftable, is housing, any many more \n\t- Browse all available game items ",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
     "Tags": [
@@ -1201,19 +1322,22 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png"
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png",
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot1.png",
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
+      "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-    "Punchline": "Clean up your sloppppy inventories.",
+    "Punchline": "Can't find an item you thought you had? Can't work out why your retainers are so full? This might help.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.0.16",
+    "TestingAssemblyVersion": "1.1.0.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24309,
+    "DownloadCount": 64093,
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1649931228",
+    "LastUpdate": "1655130690",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/InventoryTools/latest.zip"
@@ -1222,7 +1346,7 @@
     "Author": "Caraxi",
     "Name": "Item Search",
     "InternalName": "ItemSearchPlugin",
-    "AssemblyVersion": "1.9.0.1",
+    "AssemblyVersion": "1.9.1.0",
     "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/ItemSearchPlugin",
@@ -1231,12 +1355,12 @@
     "Punchline": "Search and link items, even if you don't have them.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 129501,
+    "DownloadCount": 161727,
     "CategoryTags": [
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1650115794",
+    "LastUpdate": "1651966347",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip"
@@ -1257,7 +1381,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 175758,
+    "DownloadCount": 189288,
     "CategoryTags": [
       "jobs"
     ],
@@ -1299,8 +1423,9 @@
     "LoadPriority": 0,
     "Punchline": "Automatically backup your game and plugin configuration.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7006,
+    "DownloadCount": 15843,
     "LastUpdate": "1650372646",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api6",
@@ -1325,7 +1450,7 @@
     "Punchline": "Track your loot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 55855,
+    "DownloadCount": 59854,
     "CategoryTags": [
       "UI",
       "utility"
@@ -1339,21 +1464,21 @@
     "Author": "Gotest",
     "Name": "Kingdom Hearts UI Bars",
     "InternalName": "KingdomHeartsPlugin",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.6.0",
     "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.\nIf you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-    "Changelog": "API 6 Compatibility\n-Fixed the lines in the ring bars when scaled up.\n-Fixed the positioning of the class icon and level text when scaling.",
+    "Changelog": "Added a file picker for setting portrait pictures.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4851,
+    "DownloadCount": 9525,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650084109",
+    "LastUpdate": "1656238470",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/KingdomHeartsPlugin/latest.zip"
@@ -1362,7 +1487,7 @@
     "Author": "Caraxi",
     "Name": "Macro Chain",
     "InternalName": "MacroChain",
-    "AssemblyVersion": "2.1.0.2",
+    "AssemblyVersion": "2.1.0.3",
     "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/MacroChain",
@@ -1371,11 +1496,11 @@
     "Punchline": "Run multiple macros one after the other.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 7671,
+    "DownloadCount": 25721,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1650000256",
+    "LastUpdate": "1655802063",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MacroChain?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MacroChain?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MacroChain/latest.zip"
@@ -1405,7 +1530,7 @@
     "FeedbackWebhook": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28231,
+    "DownloadCount": 30620,
     "CategoryTags": [
       "UI"
     ],
@@ -1428,7 +1553,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.5.2.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 163701,
+    "DownloadCount": 185386,
     "CategoryTags": [
       "UI",
       "inventory"
@@ -1451,7 +1576,7 @@
     "Punchline": "Adds a button and a command to minimize your game into taskbar",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5869,
+    "DownloadCount": 7805,
     "LastUpdate": "1649950514",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=True&branch=api6",
@@ -1475,7 +1600,7 @@
     "Punchline": "Shows the next best move in Mini Cactpot.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 142750,
+    "DownloadCount": 163567,
     "CategoryTags": [
       "minigames"
     ],
@@ -1501,7 +1626,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57902,
+    "DownloadCount": 63419,
     "CategoryTags": [
       "jobs"
     ],
@@ -1514,7 +1639,7 @@
     "Author": "Marconsou",
     "Name": "MP Tick Bar",
     "InternalName": "MPTickBar",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.1.1",
     "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
@@ -1531,11 +1656,11 @@
     "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20459,
+    "DownloadCount": 26912,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1649913758",
+    "LastUpdate": "1651958187",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MPTickBar/latest.zip"
@@ -1553,7 +1678,7 @@
     "Punchline": "Displays debuffs you cast on nameplates of enemies",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6280,
+    "DownloadCount": 10842,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -1576,7 +1701,7 @@
     "Punchline": "Rename abilities and status effects.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2330,
+    "DownloadCount": 3921,
     "CategoryTags": [
       "UI",
       "jobs"
@@ -1606,7 +1731,7 @@
     "Punchline": "A note-taking plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68294,
+    "DownloadCount": 72070,
     "CategoryTags": [
       "UI"
     ],
@@ -1628,7 +1753,7 @@
     "Punchline": "Adblock for FFXIV.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 53028,
+    "DownloadCount": 58839,
     "CategoryTags": [
       "UI",
       "social"
@@ -1642,13 +1767,12 @@
     "Author": "MidoriKami",
     "Name": "No Tank You",
     "InternalName": "NoTankYou",
-    "AssemblyVersion": "3.1.0.1",
-    "Description": "Displays a warning on your screen if any partymembers or yourself are missing a critical action such as Dance Partner, Kadrion, Scholar Faerie, or Tank Stance. Helpful for learning or teaching others how to use these actions.",
+    "AssemblyVersion": "4.0.5.1",
+    "Description": "Displays warnings when you or any party members are missing role specific actions such as partner buffs, pets, and tank stances.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MidoriKami/NoTankYou",
     "Tags": [
-      "utility",
-      "tanking"
+      "utility"
     ],
     "CategoryTags": [
       "utility",
@@ -1656,12 +1780,11 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://github.com/MidoriKami/NoTankYou/blob/master/images/icon.png",
-    "Punchline": "Warns you if players are missing critical role actions",
+    "Punchline": "Warns you when yourself or others are missing role-specific actions",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 108704,
-    "LastUpdate": "1649915966",
+    "DownloadCount": 188939,
+    "LastUpdate": "1656316260",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoTankYou/latest.zip"
@@ -1682,7 +1805,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": "False",
-    "DownloadCount": 6102,
+    "DownloadCount": 7542,
     "LastUpdate": "1649954429",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=True&branch=api6",
@@ -1702,7 +1825,7 @@
     "Punchline": "That one funny plugin your friend told you about.",
     "IsHide": "True",
     "IsTestingExclusive": "False",
-    "DownloadCount": 55227,
+    "DownloadCount": 55231,
     "CategoryTags": [
       "other"
     ],
@@ -1715,7 +1838,7 @@
     "Author": "Meli & perchbird",
     "Name": "Orchestrion Plugin",
     "InternalName": "orchestrion",
-    "AssemblyVersion": "1.8.2.4",
+    "AssemblyVersion": "1.8.3.0",
     "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
@@ -1728,11 +1851,11 @@
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 147116,
+    "DownloadCount": 185154,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1649945550",
+    "LastUpdate": "1652369431",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/orchestrion?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/orchestrion?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/orchestrion/latest.zip"
@@ -1757,7 +1880,7 @@
     "Punchline": "owo for your chat",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37305,
+    "DownloadCount": 39378,
     "CategoryTags": [
       "social"
     ],
@@ -1789,7 +1912,7 @@
     "Punchline": "Replace names with job icons, raid role positions and more!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 44395,
+    "DownloadCount": 53354,
     "LastUpdate": "1650236892",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api6",
@@ -1799,7 +1922,7 @@
     "Author": "MgAl2O4",
     "Name": "Pat Me",
     "InternalName": "PatMe",
-    "AssemblyVersion": "1.2.0.3",
+    "AssemblyVersion": "1.3.0.0",
     "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MgAl2O4/PatMeDalamud",
@@ -1816,8 +1939,8 @@
     "Punchline": "Pat counter",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14696,
-    "LastUpdate": "1649968121",
+    "DownloadCount": 30720,
+    "LastUpdate": "1653954723",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PatMe/latest.zip"
@@ -1835,7 +1958,7 @@
     "Punchline": "Shows who is currently or was previously targeting you.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 141414,
+    "DownloadCount": 161439,
     "CategoryTags": [
       "UI",
       "social"
@@ -1849,7 +1972,7 @@
     "Author": "tesu",
     "Name": "Penny Pincher",
     "InternalName": "PennyPincher",
-    "AssemblyVersion": "1.4.0.3",
+    "AssemblyVersion": "1.5.0.0",
     "Description": "Plugin for simplifying \"pennying\" (undercutting current lowest offer by 1).\n\nThe usual workflow for this is the following:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Take a mental note of what the current lowest offer is\n4. Subtract one from it\n5. Close the current listings window\n6. Update your item's price with the number you noted\n7. Confirm your new price\n\nThis plugin eliminates the mental notekeeping steps in the middle by automatically copying the number you want onto your clipboard when you open the current listings window.  \n\nTherefore, your new workflow becomes this:\n1. Open up the adjust price menu for the item you're undercutting\n2. Click on the compare prices menu to view the current listings\n3. Close the current listings window\n4. Paste the undercut value in\n5. Confirm your new price\n\nThis both speeds up the process and reduces room for error from typos.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/tesu/PennyPincher",
@@ -1864,15 +1987,15 @@
     "ImageUrls": [],
     "IconUrl": "https://github.com/tesu/PennyPincher/raw/master/images/icon.png",
     "Punchline": "Copies 1 below the cheapest offer to your clipboard when you check marketboard prices",
-    "Changelog": "Updated for API 6",
+    "Changelog": "Added new option to undercut by multiples. Config menu has been cleaned up.",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 89653,
+    "DownloadCount": 196552,
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1650041597",
+    "LastUpdate": "1655000686",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PennyPincher/latest.zip"
@@ -1881,7 +2004,7 @@
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",
-    "AssemblyVersion": "2.2.4.0",
+    "AssemblyVersion": "2.4.1.0",
     "Description": "A ping display plugin for Dalamud.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/PingPlugin",
@@ -1898,13 +2021,13 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.10.0.0",
+    "TestingAssemblyVersion": "2.4.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 325045,
+    "DownloadCount": 442014,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650589118",
+    "LastUpdate": "1653261156",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PingPlugin/latest.zip"
@@ -1921,23 +2044,24 @@
       "Indicator"
     ],
     "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
-    "AssemblyVersion": "1.4.0.3",
+    "AssemblyVersion": "2.0.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image1.png",
-      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png"
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image3.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
-    "Changelog": "Updated for 6.1",
+    "Changelog": "Many new features!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 101183,
+    "DownloadCount": 135069,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650628411",
+    "LastUpdate": "1651731293",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip"
@@ -1968,7 +2092,7 @@
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21723,
+    "DownloadCount": 21726,
     "LastUpdate": "1640629879",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=True&branch=api6",
@@ -1978,7 +2102,7 @@
     "Author": "kalilistic",
     "Name": "PlayerTrack",
     "InternalName": "PlayerTrack",
-    "AssemblyVersion": "2.5.0.0",
+    "AssemblyVersion": "2.5.1.0",
     "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
@@ -1998,12 +2122,12 @@
     "Punchline": "Keep track of players you meet.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 51471,
+    "DownloadCount": 60636,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1650059851",
+    "LastUpdate": "1654043486",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTrack/latest.zip"
@@ -2021,7 +2145,7 @@
     "Punchline": "Changes in-game dialogue to reference your desired gender and name.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 15367,
+    "DownloadCount": 16625,
     "CategoryTags": [
       "UI"
     ],
@@ -2034,7 +2158,7 @@
     "Author": "kalilistic",
     "Name": "PriceCheck",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "2.2.2.0",
+    "AssemblyVersion": "2.2.3.0",
     "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
@@ -2053,11 +2177,11 @@
     "Punchline": "Quickly price check your items.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 107004,
+    "DownloadCount": 136612,
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1650042499",
+    "LastUpdate": "1654043492",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PriceCheck/latest.zip"
@@ -2077,15 +2201,15 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.3.0.2",
+    "AssemblyVersion": "2.3.0.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57484,
-    "LastUpdate": "1651005162",
+    "DownloadCount": 76900,
+    "LastUpdate": "1656033693",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QoLBar/latest.zip"
@@ -2103,7 +2227,7 @@
     "Punchline": "Explore quests and their rewards.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5912,
+    "DownloadCount": 9860,
     "CategoryTags": [
       "UI"
     ],
@@ -2113,10 +2237,10 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Quest Map/latest.zip"
   },
   {
-    "Author": "Eternita",
+    "Author": "Eternita, Chalkos",
     "Name": "QuestAWAY",
     "InternalName": "QuestAWAY",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "2.0.0.0",
     "Description": "Removes unwanted icons from your map. Not only quests, any icons.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/QuestAWAY",
@@ -2124,13 +2248,12 @@
     "LoadPriority": 0,
     "Punchline": "Removes unwanted icons from your map.",
     "IsHide": "False",
-    "TestingAssemblyVersion": "2.0.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18089,
+    "DownloadCount": 25779,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649974404",
+    "LastUpdate": "1652946451",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip"
@@ -2153,7 +2276,7 @@
     "Punchline": "Simmer does the light before every login.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1384,
+    "DownloadCount": 2086,
     "LastUpdate": "1650135154",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=True&branch=api6",
@@ -2165,12 +2288,12 @@
     "Punchline": "Extends the game's built-in ready check.",
     "Description": "Displays the names of the players that were not ready in chat following the completion of a ready check, and optionally adds ready check status icons over the party and alliance lists.",
     "InternalName": "ReadyCheckHelper",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.3.0",
     "RepoUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper",
-    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/icon.png",
+    "IconUrl": "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/main/docs/Images/icon.png",
     "ImageUrls": [
-      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image1.png",
-      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/master/docs/Images/image2.png"
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/ReadyCheckHelper/raw/main/docs/Images/image2.png"
     ],
     "ApplicableVersion": "any",
     "Tags": [
@@ -2182,8 +2305,8 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.9.5.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 14819,
-    "LastUpdate": "1649912786",
+    "DownloadCount": 26496,
+    "LastUpdate": "1654494610",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip"
@@ -2192,7 +2315,7 @@
     "Author": "Cair",
     "Name": "Redirect",
     "InternalName": "Redirect",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.0.1",
     "Description": "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cairthenn/Redirect",
@@ -2206,8 +2329,8 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2472,
-    "LastUpdate": "1651231447",
+    "DownloadCount": 6650,
+    "LastUpdate": "1651404128",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Redirect/latest.zip"
@@ -2238,17 +2361,17 @@
     "Author": "ascclemens",
     "Name": "Remote Party Finder Uploader",
     "InternalName": "RemotePartyFinder",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.5.0",
     "Description": "Uploads the PF listings you retrieve to the crowdsourced Remote\nParty Finder website (https://xivpf.com/).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/remote-party-finder",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Crowdsourced PF website (upload PF listings to xivpf.com)",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 504,
-    "LastUpdate": "1638862474",
+    "DownloadCount": 1119,
+    "LastUpdate": "1651610783",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RemotePartyFinder/latest.zip"
@@ -2257,7 +2380,7 @@
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
-    "AssemblyVersion": "1.0.1.7",
+    "AssemblyVersion": "1.0.1.10",
     "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -2277,15 +2400,15 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
     "Punchline": "Never forget to repair & extract materia again!",
-    "Changelog": "* v1.0.1.7\n  * fix \"clicking condition/spiritbond alerts\" for non-english clients\n* v1.0.1.6\n  * new option: bar border (size and color)\n  * fix \"display spiritbond of all items\" for right-to-left and bottom-to-top orientations  \n  * new debug window\n* v1.0.1.5\n  * new option: clicking condition/spiritbond alerts opens repair/extract materia UI\n  * new option: plugin UI is now hidden when player is occupied\n* v1.0.1.4\n  * bugfix: checkboxes to hide decimal and percentage are working correctly now\n* v1.0.1.3\n  * new option: display spiritbond of all items in the bar (color can be changed)\n  * new option: hide % sign in percentage labels\n  * new option: hide decimal digits in percentage labels\n  * new option: show both least and most spiritbonded items in the percentage label\n  * new option: adjust bar corner roundness\n* v1.0.1.2\n  * If coming from v1.0.0.5 or below, your position settings will not be reset (apologies and thanks to the beta testers)\n  * Drag&drop is now supported again\n  * The condition alerts (low/critical) can again be positioned separately\n  * Attempt to force alerts/bars/percentages to display inside the game window\n  * Improved readability of config window\n* v1.0.1.1\n  * attempt to make it clear how to move things around\n* v1.0.1.0\n  * WARNING: all bar/alert/percentages positions will be reset\n  * replaced drag&drop positioning with X/Y precise sliders\n  * widget position is now bound to resolution\n    * the plugin will remember where you positioned the widgets across different resolutions \n    * if you change the window size/resolution you'll need to re-position everything\n      * there's also an option (bottom of config window) to copy position settings from another resolution\n* v1.0.0.5\n  * set api6 (no code changes)",
+    "Changelog": "* v1.0.1.10\n  * fix startup problem",
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.0.1.6",
+    "TestingAssemblyVersion": "1.0.1.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32765,
+    "DownloadCount": 65977,
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1651171147",
+    "LastUpdate": "1655782903",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
@@ -2345,7 +2468,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/RezPls/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68530,
+    "DownloadCount": 74551,
     "CategoryTags": [
       "UI"
     ],
@@ -2376,7 +2499,7 @@
     "Punchline": "Make chat more fun with translations like pirate and urianger.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2223,
+    "DownloadCount": 2801,
     "CategoryTags": [
       "other",
       "social"
@@ -2390,7 +2513,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.6.8.5",
+    "AssemblyVersion": "1.7.2.1",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2400,14 +2523,14 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 769693,
+    "DownloadCount": 1095885,
     "CategoryTags": [
       "UI",
       "other",
       "utility",
       "social"
     ],
-    "LastUpdate": "1650452066",
+    "LastUpdate": "1655119558",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
@@ -2428,7 +2551,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1902,
+    "DownloadCount": 3192,
     "CategoryTags": [
       "utility"
     ],
@@ -2456,7 +2579,7 @@
     "DalamudApiLevel": 3,
     "IsHide": "True",
     "IsTestingExclusive": "False",
-    "DownloadCount": 46932,
+    "DownloadCount": 46934,
     "CategoryTags": [
       "jobs"
     ],
@@ -2469,8 +2592,8 @@
     "Author": "Vielle Janlenoux",
     "Name": "Snooper",
     "InternalName": "Snooper",
-    "AssemblyVersion": "0.1.0.3",
-    "Description": "Adds a /snooper command that shows a separate window that shows only say/emote/party messages from the player you're currently targeting. Useful for keeping track of different conversations during crowded RP events.",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Adds a /snooper command that shows a separate window that shows only messages from the player you're currently targeting. Useful for keeping track of different conversations during crowded RP events.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Maia-Everett/dalamud-snooper",
     "Tags": [
@@ -2482,11 +2605,12 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Punchline": "See chat messages said, shouted, yelled and emoted by your current target.",
+    "Punchline": "See chat messages from your current target in a separate window.",
     "IsHide": "False",
+    "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2,
-    "LastUpdate": "1650037731",
+    "DownloadCount": 2709,
+    "LastUpdate": "1652513829",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Snooper/latest.zip"
@@ -2494,12 +2618,11 @@
   {
     "Author": "Sonar Team",
     "Name": "Sonar",
-    "Punchline": "Automatically send and receive hunt and fate relays.",
-    "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
-    "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.6.5",
-    "DalamudApiLevel": 6,
+    "AssemblyVersion": "0.4.7.1",
+    "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://discord.gg/K7y24Rr",
     "Tags": [
       "Sonar",
       "Hunt",
@@ -2514,8 +2637,8 @@
     "CategoryTags": [
       "utility"
     ],
-    "RepoUrl": "https://discord.gg/K7y24Rr",
-    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
     "ImageUrls": [
       "https://assets.ffxivsonar.com/dalamud/image1.png",
       "https://assets.ffxivsonar.com/dalamud/image2.png",
@@ -2523,13 +2646,14 @@
       "https://assets.ffxivsonar.com/dalamud/image4.png",
       "https://assets.ffxivsonar.com/dalamud/image5.png"
     ],
-    "AcceptsFeedback": false,
-    "FeedbackWebhook": "(not used)",
+    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+    "Punchline": "Automatically send and receive hunt and fate relays.",
+    "Changelog": "See the Sonar Support discord #announcements channel for more information",
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
-    "DownloadCount": 83806,
-    "LastUpdate": "1651183300",
+    "DownloadCount": 146208,
+    "LastUpdate": "1656385599",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
@@ -2547,7 +2671,7 @@
     "Punchline": "Filter any game sound.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10793,
+    "DownloadCount": 12427,
     "CategoryTags": [
       "sound"
     ],
@@ -2560,7 +2684,7 @@
     "Author": "karashiiro",
     "Name": "SoundSetter",
     "InternalName": "SoundSetter",
-    "AssemblyVersion": "1.5.7.0",
+    "AssemblyVersion": "1.5.8.0",
     "Description": "A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/SoundSetter",
@@ -2575,20 +2699,40 @@
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/SoundSetter/master/Assets/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 21802,
+    "DownloadCount": 28222,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1650148367",
+    "LastUpdate": "1652393447",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SoundSetter/latest.zip"
   },
   {
+    "Author": "VariableVixen",
+    "Name": "StackSellPrice",
+    "InternalName": "StackSellPrice",
+    "AssemblyVersion": "1.0.8202.32795",
+    "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/StackSellPrice/images/icon.png",
+    "Punchline": "Because multiplication is hard.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1278,
+    "LastUpdate": "1655508212",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/StackSellPrice/latest.zip"
+  },
+  {
     "Author": "Pohky",
     "Name": "Teleporter",
     "InternalName": "TeleporterPlugin",
-    "AssemblyVersion": "2.0.1.6",
+    "AssemblyVersion": "2.0.1.7",
     "Description": "Adds Chat Commands to Teleport to Aetherytes or Areas by Name.\ne.g. /tp Quarrymill or /tpm South Shroud\nSupports setting up an Alias for Aetherytes to be used with Teleporter Commands\ne.g. /tp home instead of /tp Estate Hall (Free Company)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/pohky/TeleporterPlugin",
@@ -2597,12 +2741,12 @@
     "Punchline": "Chat Commands for Teleporting",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 70658,
+    "DownloadCount": 92113,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1650981461",
+    "LastUpdate": "1652728705",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip"
@@ -2620,7 +2764,7 @@
     "Punchline": "Allows replacing every text box with the background of your choice.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 10678,
+    "DownloadCount": 11541,
     "CategoryTags": [
       "UI"
     ],
@@ -2633,7 +2777,7 @@
     "Author": "karashiiro",
     "Name": "TextToTalk",
     "InternalName": "TextToTalk",
-    "AssemblyVersion": "1.15.0.0",
+    "AssemblyVersion": "1.16.0.0",
     "Description": "Chat TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/karashiiro/TextToTalk",
@@ -2651,11 +2795,11 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.13.0.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19212,
+    "DownloadCount": 22712,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1651255626",
+    "LastUpdate": "1656041930",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TextToTalk/latest.zip"
@@ -2673,7 +2817,7 @@
     "Punchline": "Add separators to various numbers.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 31870,
+    "DownloadCount": 34244,
     "CategoryTags": [
       "UI"
     ],
@@ -2695,37 +2839,36 @@
     "Punchline": "Set your character's title - now with Searchalin!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 2,
+    "DownloadCount": 1193,
     "LastUpdate": "1650234200",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheHeartOfTheParty/latest.zip"
   },
   {
-    "Author": "Nana",
+    "Author": "Nadya",
     "Name": "Tidy Chat",
     "InternalName": "TidyChat",
-    "AssemblyVersion": "0.1.1.16",
-    "Description": "In-depth filters for a less cluttered chat.",
+    "AssemblyVersion": "0.1.1.23",
+    "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - And more!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
     "Tags": [
-      "Chat",
-      "Filter",
       "Emote",
+      "Filter",
       "Spam"
     ],
     "CategoryTags": [
       "Social"
     ],
     "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/NadyaNayme/TidyChat/master/images/icon.png",
-    "Punchline": "Keeps your chat tidy.",
+    "LoadPriority": 1,
+    "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
+    "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17564,
-    "LastUpdate": "1651208449",
+    "DownloadCount": 35070,
+    "LastUpdate": "1655262170",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TidyChat/latest.zip"
@@ -2734,7 +2877,7 @@
     "Author": "kalilistic",
     "Name": "Tippy",
     "InternalName": "Tippy",
-    "AssemblyVersion": "1.2.4.0",
+    "AssemblyVersion": "1.2.5.0",
     "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kalilistic/tippy",
@@ -2743,8 +2886,8 @@
     "Punchline": "Tippy, your new FFXIV virtual assistant.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1,
-    "LastUpdate": "1650506046",
+    "DownloadCount": 3699,
+    "LastUpdate": "1654046726",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
@@ -2753,7 +2896,7 @@
     "Author": "attick & perchbird",
     "Name": "Title Edit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "2.2.6.3",
+    "AssemblyVersion": "2.2.6.4",
     "Description": "Create your own custom title screen of your favorite location in-game, and open the game right up to that spot every time.\nIncludes a number of preinstalled title screens for you to use or get inspiration from, and an easy to use importer to\nuse title screens that others have shared!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lmcintyre/TitleEditPlugin",
@@ -2763,12 +2906,12 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "2.2.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36062,
+    "DownloadCount": 43009,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1651006434",
+    "LastUpdate": "1655851045",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TitleEdit/latest.zip"
@@ -2786,7 +2929,7 @@
     "Punchline": "Finish your sightseeing log.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45186,
+    "DownloadCount": 51529,
     "CategoryTags": [
       "UI",
       "utility"
@@ -2813,7 +2956,7 @@
     "Changelog": "1.3.1.0\n- Added buttons to sort rings in the list.\n- Fixed quick action setting being transferred to another item when deleting or moving items.\n- Fixed quick actions showing a selection background when the setting is disabled.\n- Fixed crash when attempting to move an item without having a selected item.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 36479,
+    "DownloadCount": 39282,
     "LastUpdate": "1650142399",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=True&branch=api6",
@@ -2843,7 +2986,7 @@
     "Punchline": "Triple triad solver",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 17270,
+    "DownloadCount": 31634,
     "CategoryTags": [
       "minigames"
     ],
@@ -2869,7 +3012,7 @@
     "LoadPriority": 69421,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 26162,
+    "DownloadCount": 28452,
     "CategoryTags": [
       "UI"
     ],
@@ -2901,7 +3044,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.1.1.4",
     "IsTestingExclusive": "False",
-    "DownloadCount": 61570,
+    "DownloadCount": 66903,
     "CategoryTags": [
       "UI"
     ],
@@ -2953,7 +3096,7 @@
     "Punchline": "Crowdsourced FFXIV login queue times, now with Discord queue notification features.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4097,
+    "DownloadCount": 5182,
     "LastUpdate": "1649924890",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=True&branch=api6",
@@ -2965,7 +3108,7 @@
     "Punchline": "Improved Waymark Management",
     "Description": "Allows you to save, edit, place, import, export, and preview an unlimited number of waymark presets.",
     "InternalName": "WaymarkPresetPlugin",
-    "AssemblyVersion": "1.3.3.0",
+    "AssemblyVersion": "1.4.2.0",
     "RepoUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin",
     "IconUrl": "https://github.com/PunishedPineapple/WaymarkPresetPlugin/raw/master/docs/Images/icon.png",
     "ImageUrls": [
@@ -2982,16 +3125,63 @@
     ],
     "DalamudApiLevel": 6,
     "IsHide": "False",
-    "TestingAssemblyVersion": "1.3.2.0",
+    "TestingAssemblyVersion": "1.4.1.0",
     "IsTestingExclusive": "False",
-    "DownloadCount": 52734,
+    "DownloadCount": 87319,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650937777",
+    "LastUpdate": "1655762893",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "Weatherman",
+    "InternalName": "Weatherman",
+    "AssemblyVersion": "2.4.0.3",
+    "Description": "Features:\n- Change in-game time and weather as you desire;\n- Perform changes globally or individually per zone;\n- Stop undesired weathers from appearing completely.\n\nThis plugin only changes visuals: time/weather-related features such as zone background music, vista availability, states of certain objects will remain unaffected. \nOnly zones with open sky are subject to the changes (not every one of them yet but work in progress).",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/Weatherman",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Allows precise control over time and weather per zone or globally.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 3954,
+    "LastUpdate": "1651533245",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Say What?",
+    "Punchline": "Persistent NPC Flavor Text",
+    "Description": "Prints NPC speech bubbles to the chat log.  Please check the plugin settings and your chat log filters to make sure that they are compatible with each other.",
+    "InternalName": "WhatDidYouSay",
+    "AssemblyVersion": "1.0.0.1",
+    "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
+    "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Chat",
+      "NPC"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.9.3.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 2913,
+    "LastUpdate": "1654069197",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
   },
   {
     "Author": "Haplo064, maintained by Franz",
@@ -3014,7 +3204,7 @@
     "Punchline": "Making it easier to know where you are.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 8964,
+    "DownloadCount": 11398,
     "LastUpdate": "1649905267",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api6",
@@ -3031,7 +3221,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 642,
+    "DownloadCount": 976,
     "CategoryTags": [
       "UI"
     ],
@@ -3057,7 +3247,7 @@
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 182059,
+    "DownloadCount": 196987,
     "CategoryTags": [
       "minigames"
     ],
@@ -3085,7 +3275,7 @@
     "IsHide": "False",
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3316,
+    "DownloadCount": 5413,
     "LastUpdate": "1650412614",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api6",
@@ -3103,7 +3293,7 @@
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5596,
+    "DownloadCount": 6075,
     "CategoryTags": [
       "social"
     ],
@@ -3128,7 +3318,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 176340,
+    "DownloadCount": 188807,
     "CategoryTags": [
       "jobs"
     ],
@@ -3136,6 +3326,35 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVCombo/latest.zip"
+  },
+  {
+    "Author": "Kaz Wolfe",
+    "Name": "XIVDeck Game Plugin",
+    "InternalName": "XIVDeck.FFXIVPlugin",
+    "AssemblyVersion": "0.2.5",
+    "Description": "This plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
+    "Tags": [
+      "stream deck",
+      "ui",
+      "integrations",
+      "api"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.2.6",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 4828,
+    "LastUpdate": "1655762882",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVDeck.FFXIVPlugin/latest.zip"
   },
   {
     "Author": "Cadaeix",
@@ -3157,7 +3376,7 @@
     "Punchline": "Save chat logs to your computer as text files or copy them!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3105,
+    "DownloadCount": 4982,
     "CategoryTags": [
       "UI"
     ],
@@ -3170,7 +3389,7 @@
     "Author": "daemitus",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "0.0.2.0",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -3178,11 +3397,11 @@
     "LoadPriority": 0,
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
-    "Punchline": "Complete your Zodiac relic with style.",
+    "Changelog": "2022-06-22\nAdded a Novus light tracker (by Hiroa)\n",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 25945,
-    "LastUpdate": "1649903967",
+    "DownloadCount": 45109,
+    "LastUpdate": "1655746057",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ZodiacBuddy/latest.zip"
@@ -3211,36 +3430,11 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ACTEndcounter/latest.zip"
   },
   {
-    "Author": "Helios",
-    "Name": "Adaptive Hud",
-    "InternalName": "AdaptiveHud",
-    "AssemblyVersion": "1.0.0.1",
-    "Description": "Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
-    "Tags": [
-      "hudlayout",
-      "hud",
-      "settings"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.0.0.1",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1651188902",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
-  },
-  {
     "Author": "yomishino",
     "Name": "Aether Compass",
     "InternalName": "AetherCompass",
-    "AssemblyVersion": "1.4.1.0",
-    "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.",
+    "AssemblyVersion": "1.4.1.1",
+    "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
     "Tags": [
@@ -3252,51 +3446,73 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
-    "Changelog": "Patch 6.1 update",
+    "Changelog": "New plugin icon by Lumas Arkfrost \n(Due to caching, icon will probably not be updated until the game client is restarted.)",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.4.1.0",
+    "TestingAssemblyVersion": "1.4.1.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650480446",
+    "LastUpdate": "1653411856",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AetherCompass/latest.zip"
   },
   {
-    "Author": "zhudotexe",
-    "Name": "PaissaHouse",
-    "InternalName": "autoSweep",
-    "AssemblyVersion": "1.3.1.0",
-    "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
-    "Tags": [
-      "housing"
+    "Author": "UnknownX",
+    "Name": "A Realm Recorded",
+    "Punchline": "Allows you to use the duty recorder",
+    "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
     ],
+    "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
+    "CategoryTags": [
+      "utility"
+    ],
+    "InternalName": "ARealmRecorded",
+    "AssemblyVersion": "0.4.1.0",
+    "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
-    "Punchline": "Chat alerts for player housing.",
+    "Changelog": "",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.3.1.0",
+    "TestingAssemblyVersion": "0.4.1.0",
     "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "other"
-    ],
-    "LastUpdate": "1650418305",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
+    "LastUpdate": "1653255346",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ARealmRecorded/latest.zip"
+  },
+  {
+    "Author": "Icehunter",
+    "Name": "AutoTranslateXIV",
+    "InternalName": "AutoTranslateXIV",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Translates Stuff",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Icehunter/AutoTranslateXIV",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Icehunter/AutoTranslateXIV/main/images/icon.png",
+    "Punchline": "Translates From A to B where A/B are set in config.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1649918622",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AutoTranslateXIV/latest.zip"
   },
   {
     "Author": "Kaz Wolfe",
     "Name": "BatteryGauge",
     "InternalName": "BatteryGauge",
     "AssemblyVersion": "0.0.2.0",
-    "Description": "Hey, you! Yes, you! Do you play FFXIV on your laptop or Steam Deck? Or are you so addicted to FFXIV that you have a UPS on your desktop just so you can keep playing through power outages? Then this is the plugin for you!\n\nBatteryGauge adds a battery indicator to your server info bar showing your current battery percentage and expected remaining lifespan (as reported by Windows).",
+    "Description": "Hey, you! Yes, you! Do you play FFXIV on your laptop? Or are you so addicted to FFXIV that you have a UPS on your desktop just so you can keep playing through power outages? Then this is the plugin for you!\n\nBatteryGauge adds a battery indicator to your server info bar showing your current battery percentage and expected remaining lifespan (as reported by Windows).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/KazWolfe/XIVBatteryGauge/",
     "Tags": [
@@ -3351,7 +3567,7 @@
     "Author": "Kouzukii",
     "Name": "Character Panel Refined",
     "InternalName": "CharacterPanelRefined",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "Refine the character panel to display useful information like crit and direct hit chance",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
@@ -3364,9 +3580,9 @@
     "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650030175",
+    "LastUpdate": "1652131874",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CharacterPanelRefined?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CharacterPanelRefined?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CharacterPanelRefined/latest.zip"
@@ -3458,6 +3674,26 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTranslator/latest.zip"
   },
   {
+    "Author": "ItsBexy",
+    "Name": "CrossUp",
+    "InternalName": "CrossUp",
+    "AssemblyVersion": "0.3.2.0",
+    "Description": "This plugin provides various customizations for the look and feel of the Cross Hotbar.\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions\n-Greater control over which sets your extra bars are mapped to",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ItsBexy/CrossUp",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Customize the Cross Hotbar!",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.3.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1654978399",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CrossUp/latest.zip"
+  },
+  {
     "Author": "goat",
     "Name": "Character Data Sync",
     "InternalName": "Dalamud.CharacterSync",
@@ -3483,15 +3719,74 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.CharacterSync/latest.zip"
   },
   {
+    "Author": "Infi",
+    "Name": "Death Roll Helper",
+    "InternalName": "DeathRoll",
+    "AssemblyVersion": "0.0.2.0",
+    "Description": "Plugin to help with any of your /random and /dice games \n\n    + Support for multiple sorting types (min, max, nearest to) \n    + Highlight numbers based on regex matching \n    + Block players from partaking in any of your games \n    + Accept only /random or /dice \n    + Easily remove players from the result table \n\n And alot of more planned feature in future updates",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Infiziert90/DeathRoll",
+    "Tags": [
+      "Deathrolling",
+      "plugin",
+      "random",
+      "dice",
+      "highlight",
+      "blocklist"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Easy to use deathroll/roll game helper with functions to hightlight or block players",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.2.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1653542554",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRoll/latest.zip"
+  },
+  {
+    "Author": "PunishedPineapple",
+    "Name": "Distance",
+    "Punchline": "Target distance widgets.",
+    "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
+    "InternalName": "Distance",
+    "AssemblyVersion": "0.9.8.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/Distance",
+    "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Distance",
+      "Range",
+      "Aggro",
+      "Enmity",
+      "Hate",
+      "Pull",
+      "Hitbox",
+      "Ring",
+      "Target"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.9.8.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1656382992",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
+  },
+  {
     "Author": "Roselyn",
     "Name": "Elden Ring April Fools",
-    "Punchline": "Recreation of the Elden Ring April Fools joke.",
-    "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
     "InternalName": "EldenRing",
+    "AssemblyVersion": "0.0.0.4",
+    "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.0.0.3",
-    "DalamudApiLevel": 5,
-    "LoadPriority": 0,
     "RepoUrl": "https://github.com/Roselyyn/EldenRingDalamud",
     "Tags": [
       "Elden Ring",
@@ -3499,11 +3794,14 @@
       "Death",
       "Craft"
     ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Recreation of the Elden Ring April Fools joke.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.3",
+    "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649028646",
+    "LastUpdate": "1653252844",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
@@ -3531,6 +3829,58 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FantasyPlayer.Dalamud/latest.zip"
   },
   {
+    "Author": "X'pahtalo",
+    "Name": "FFXIV2MQTT",
+    "InternalName": "Ffxiv2Mqtt",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "Send data to an MQTT broker to do all sorts of things. Change your lights with a macro, turn on the heater when you use Overheat, or start playing Rules of Nature when you switch to Gunbreaker.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Xpahtalo/Ffxiv2Mqtt",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Send game info over MQTT",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1656373860",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Ffxiv2Mqtt/latest.zip"
+  },
+  {
+    "Author": "Khloe Leclair",
+    "Name": "Gearset Helper Plugin",
+    "InternalName": "GearsetHelperPlugin",
+    "AssemblyVersion": "1.5.0.0",
+    "Description": "Displays extra information about a character's gearsets when Examine is open, and makes it easy to export gearsets to Etro or Ariyala.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KhloeLeclair/GearsetHelperPlugin",
+    "Tags": [
+      "UI",
+      "gearset",
+      "examine",
+      "etro",
+      "ariyala"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image1.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image2.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image3.png"
+    ],
+    "Punchline": "Display estimated stats with Examine, and export gear to Etro/Ariyala.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.5.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1651788536",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GearsetHelperPlugin/latest.zip"
+  },
+  {
     "Author": "Fr4nsson",
     "Name": "Hide Padlock",
     "InternalName": "HidePadlock",
@@ -3552,20 +3902,45 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HidePadlock/latest.zip"
   },
   {
+    "Author": "Kirrana",
+    "Name": "High FPS Physics Fix",
+    "InternalName": "HighFpsPhysicsPlugin",
+    "AssemblyVersion": "0.6.1.0",
+    "Description": "Causes the game's physics to work at higher FPS by making it update every second frame. \nToggle with /physics. \nMay cause excessive jiggling at lower FPS values. \nDisabling the entire plugin after turning on/off with /physics requires reboot to reenable.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "jank",
+      "graphics"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Cuts the refresh rate of physics in half, \"fixing\" it at high fps.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.6.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1655000734",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HighFpsPhysicsPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HighFpsPhysicsPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HighFpsPhysicsPlugin/latest.zip"
+  },
+  {
     "Author": "Necoji (prev. ascclemens)",
     "Name": "HUD Manager",
     "InternalName": "HUDManager",
-    "AssemblyVersion": "2.5.5.1",
-    "Description": "Take total control over your HUD.\n\n- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Make child layouts that only affect desired HUD elements\n- Change visibility of job gauges\n- Export and import layouts from text",
+    "AssemblyVersion": "2.5.6.4",
+    "Description": "- Save infinite HUD layouts\n- Swap between HUD layouts based on conditions\n- Make child layouts that only affect desired HUD elements\n- Change visibility of job gauges\n- Export and import layouts from text",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
+    "Punchline": "Take total control over your HUD.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.5.5.1",
+    "TestingAssemblyVersion": "2.5.6.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651106760",
+    "LastUpdate": "1655935471",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HUDManager/latest.zip"
@@ -3619,6 +3994,58 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemVendorLocation/latest.zip"
+  },
+  {
+    "Author": "Infi",
+    "Name": "Easy MBHistory",
+    "InternalName": "MBHistory",
+    "AssemblyVersion": "0.0.3.0",
+    "Description": "Copies the marketboard transaction history into your clipboard with configurable options.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Infiziert90/MBHistory",
+    "Tags": [
+      "MarketBoard",
+      "plugin",
+      "clipboard",
+      "History"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/Infiziert90/MBHistory/raw/master/MBHistory/images/icon.png",
+    "Punchline": "Useful for when you want to quickly export marketboard transaction history.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.3.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1655762918",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MBHistory/latest.zip"
+  },
+  {
+    "Author": "RedMage1993",
+    "Name": "Mimicry Helper",
+    "InternalName": "MimicryHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Use /mimic to open up the menu and click on the appropriate button to automatically mimic the role you're looking for.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/RedMage1993/MimicryHelper",
+    "Tags": [
+      "blue mage",
+      "blu",
+      "mimicry"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Automatically mimic the role you're looking for.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1655648793",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MimicryHelper/latest.zip"
   },
   {
     "Author": "Samuelka",
@@ -3723,7 +4150,7 @@
     "InternalName": "NoKillPlugin",
     "AssemblyVersion": "1.0.4.3",
     "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "ApplicableVersion": "any",
     "IsHide": "False",
     "DownloadCount": 0,
@@ -3732,7 +4159,7 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1644504653",
+    "LastUpdate": "1652153257",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoKillPlugin/latest.zip"
@@ -3797,21 +4224,21 @@
     "Author": "Caraxi",
     "Name": "Party List Layout",
     "InternalName": "PartyListLayout",
-    "AssemblyVersion": "0.3.3.0",
+    "AssemblyVersion": "0.3.4.0",
     "Description": "Customize the layout of the party list.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Customize the layout of the party list.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.3.3.0",
+    "TestingAssemblyVersion": "0.3.4.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649553373",
+    "LastUpdate": "1653716400",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PartyListLayout/latest.zip"
@@ -3954,6 +4381,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SizeMattersFishing/latest.zip"
   },
   {
+    "Author": "wozaiha",
+    "Name": "SkillDisplay",
+    "Punchline": "Show the skills you used in the past few seconds.",
+    "Description": "Show the skills you used in the past few seconds.",
+    "InternalName": "SkillDisplay",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "SkillDisplay",
+      "skill",
+      "Imgui",
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "RepoUrl": "https://github.com/wozaiha/SkillDisplay",
+    "AssemblyVersion": "0.0.0.5",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.5",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1653050971",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SkillDisplay/latest.zip"
+  },
+  {
     "Author": "SupineSnail (Tinuviel)",
     "Name": "Job Gauge Adjustments",
     "InternalName": "SupineSnail.JobGaugeAdjustments",
@@ -3998,30 +4450,42 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TabTab/latest.zip"
   },
   {
-    "Author": "Eternita",
-    "Name": "Weatherman",
-    "InternalName": "Weatherman",
-    "AssemblyVersion": "2.4.0.3",
-    "Description": "Features:\n- Change in-game time and weather as you desire;\n- Perform changes globally or individually per zone;\n- Stop undesired weathers from appearing completely.\n\nThis plugin only changes visuals: time/weather-related features such as zone background music, vista availability, states of certain objects will remain unaffected. \nOnly zones with open sky are subject to the changes (not every one of them yet but work in progress).",
+    "Author": "Det",
+    "Name": "Target Furniture",
+    "InternalName": "TargetFurniture",
+    "AssemblyVersion": "1.0.1.3",
+    "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/Weatherman",
+    "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
+    "Tags": [
+      "Casual",
+      "Housing"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Punchline": "Allows precise control over time and weather per zone or globally.",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
+    "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
+    "Changelog": "Added new icon (Ty Vec7rex)",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.4.0.3",
+    "TestingAssemblyVersion": "1.0.1.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649942180",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
+    "LastUpdate": "1655258476",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TargetFurniture?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TargetFurniture?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TargetFurniture/latest.zip"
   },
   {
     "Author": "cassandra308",
     "Name": "Where am I again?",
     "InternalName": "WhereAmIAgain",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.10",
     "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
@@ -4036,45 +4500,16 @@
     "CategoryTags": [
       "UI"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Shows what zone/region/territory you are in next to the server info.",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.8",
+    "TestingAssemblyVersion": "0.0.0.10",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1644207778",
+    "LastUpdate": "1655762872",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhereAmIAgain/latest.zip"
-  },
-  {
-    "Author": "Kaz Wolfe",
-    "Name": "XIVDeck Game Plugin",
-    "InternalName": "XIVDeck.FFXIVPlugin",
-    "AssemblyVersion": "0.1.8.0",
-    "Description": "This plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.\n\nNote that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the \"Releases\" section.\n\nPlease report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/KazWolfe/XIVDeck/",
-    "Tags": [
-      "stream deck",
-      "ui",
-      "integrations",
-      "api"
-    ],
-    "CategoryTags": [
-      "UI"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Integrate your Stream Deck with Final Fantasy XIV!",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.8.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1650779164",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVDeck.FFXIVPlugin/latest.zip"
   }
 ]

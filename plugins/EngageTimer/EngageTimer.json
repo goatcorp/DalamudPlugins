@@ -2,14 +2,16 @@
   "Author": "Xorus",
   "Name": "EngageTimer",
   "InternalName": "EngageTimer",
-  "AssemblyVersion": "2.2.0.4",
-  "Description": "Finally, display all the numbers when starting a countdown!\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Floating window with combat timer and countdown\n- OBS browser-source compatible page\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
+  "AssemblyVersion": "2.2.2.1",
+  "Description": "Finally, display all the numbers when starting a countdown!\nComes with an accurate pull timer that starts when you or any of your party members enter combat.\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Display combat time in the Server Info Bar, and/or a floating window\n- OBS browser-source compatible page with countdown and current combat duration\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xorus/EngageTimer",
   "Tags": [
     "countdown",
+    "pull timer",
     "stopwatch",
     "OBS",
+    "overlay",
     "streaming",
     "combat"
   ],
@@ -24,5 +26,5 @@
     "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
-  "Punchline": "Combat countdown with all numbers, stopwatch and OBS support"
+  "Punchline": "Complete combat countdown, pull timer and OBS overlay"
 }

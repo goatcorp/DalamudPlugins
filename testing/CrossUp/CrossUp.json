@@ -1,0 +1,12 @@
+{
+  "Author": "ItsBexy",
+  "Name": "CrossUp",
+  "InternalName": "CrossUp",
+  "AssemblyVersion": "0.3.2.0",
+  "Description": "This plugin provides various customizations for the look and feel of the Cross Hotbar.\n\n-Split up the left/right hotbars\n-Display Expanded Hold Controls Separately\n-Customize colors and element positions\n-Greater control over which sets your extra bars are mapped to",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ItsBexy/CrossUp",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Customize the Cross Hotbar!"
+}

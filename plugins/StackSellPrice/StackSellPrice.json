@@ -1,0 +1,13 @@
+{
+  "Author": "VariableVixen",
+  "Name": "StackSellPrice",
+  "InternalName": "StackSellPrice",
+  "AssemblyVersion": "1.0.8202.32795",
+  "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/StackSellPrice/images/icon.png",
+  "Punchline": "Because multiplication is hard."
+}

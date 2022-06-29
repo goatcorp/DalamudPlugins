@@ -2,12 +2,12 @@
   "Author": "Gotest",
   "Name": "Kingdom Hearts UI Bars",
   "InternalName": "KingdomHeartsPlugin",
-  "AssemblyVersion": "1.0.4.0",
+  "AssemblyVersion": "1.0.6.0",
   "Description": "A plugin that makes Kingdom Hearts UI stuff, such as a health bar for the player.\nIf you have any questions, issues or suggestions, please post an issue in the github or ping me in the Discord!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Arrenton/KingdomHeartsPlugin",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "HP bar, MP bar, EXP bar, oh my!",
-  "Changelog": "API 6 Compatibility\n-Fixed the lines in the ring bars when scaled up.\n-Fixed the positioning of the class icon and level text when scaling."
+  "Changelog": "Added a file picker for setting portrait pictures."
 }

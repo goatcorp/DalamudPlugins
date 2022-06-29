@@ -1,0 +1,17 @@
+{
+    "Author": "wozaiha",
+    "Name": "SkillDisplay",
+    "Punchline": "Show the skills you used in the past few seconds.",
+    "Description": "Show the skills you used in the past few seconds.",
+    "InternalName": "SkillDisplay",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "SkillDisplay",
+        "skill",
+        "Imgui",
+        "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "RepoUrl": "https://github.com/wozaiha/SkillDisplay",
+    "AssemblyVersion": "0.0.0.5"
+}
