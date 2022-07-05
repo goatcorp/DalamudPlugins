@@ -235,7 +235,7 @@
     "Author": "Styr1x",
     "Name": "Browsingway",
     "InternalName": "Browsingway",
-    "AssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.0.0.5",
     "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Styr1x/Browsingway",
@@ -250,12 +250,12 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Browser overlays rendered in-game.",
-    "Changelog": "- Updated Chromium to 100.0.4896.75\n- Patch 6.1 compatibility (API 6)",
+    "Changelog": "- Updated Chromium to 103.0.5060.66",
     "IsHide": "False",
     "TestingAssemblyVersion": "1.0.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 11438,
-    "LastUpdate": "1649931635",
+    "LastUpdate": "1657056932",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Browsingway/latest.zip"
@@ -2355,7 +2355,7 @@
     "Author": "ascclemens",
     "Name": "Remote Party Finder Uploader",
     "InternalName": "RemotePartyFinder",
-    "AssemblyVersion": "1.0.5.0",
+    "AssemblyVersion": "1.0.6.0",
     "Description": "Uploads the PF listings you retrieve to the crowdsourced Remote\nParty Finder website (https://xivpf.com/).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/remote-party-finder",
@@ -2365,7 +2365,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1153,
-    "LastUpdate": "1651610783",
+    "LastUpdate": "1657056911",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RemotePartyFinder/latest.zip"
@@ -2613,7 +2613,7 @@
     "Author": "Sonar Team",
     "Name": "Sonar",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.7.1",
+    "AssemblyVersion": "0.4.8.0",
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://discord.gg/K7y24Rr",
@@ -2647,7 +2647,7 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 152641,
-    "LastUpdate": "1656385599",
+    "LastUpdate": "1657056896",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
@@ -2995,7 +2995,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.2.1",
+    "AssemblyVersion": "1.6.3.0",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3010,7 +3010,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650659637",
+    "LastUpdate": "1657056836",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
