@@ -1,11 +1,11 @@
 {
-  "Author": "Strati",
+  "Author": "WildWolf",
   "Name": "DeepDungeonDex",
   "InternalName": "DeepDungeonDex",
-  "AssemblyVersion": "1.2.0.0",
-  "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data.",
+  "AssemblyVersion": "1.3.1.0",
+  "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data. Original by Strati",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
+  "RepoUrl": "https://github.com/wolfcomp/DeepDungeonDex",
   "Tags": [
     "deep dungeon",
     "achievements",
@@ -13,5 +13,6 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Punchline": "Live monster data for Deep Dungeons."
+  "Punchline": "Live monster data for Deep Dungeons.",
+  "Changelog": "### [1.3.1](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.3.0...v1.3.1) (2022-07-07)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* cleanup ui and add some texts descriptors ([bc3eb31](https://github.com/wolfcomp/DeepDungeonDex/commit/bc3eb312c6db7ecd6b5db19328b7a18b2cfe4dcd))\r\n* reduce cpu instruction times for byte shifting ([cf423e7](https://github.com/wolfcomp/DeepDungeonDex/commit/cf423e7ac7a7bdbe76acf6c128a3d8704b64d60f))\r\n\r\n"
 }
