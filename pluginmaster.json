@@ -968,7 +968,7 @@
     "Name": "Fader Plugin",
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
-    "InternalName": "FaderPlugin",
+    "InternalName": "faderPlugin",
     "AssemblyVersion": "1.0.3",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
@@ -980,10 +980,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 25,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FaderPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FaderPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FaderPlugin/latest.zip"
+    "LastUpdate": "1657384840",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/faderPlugin/latest.zip"
   },
   {
     "Author": "daemitus",
