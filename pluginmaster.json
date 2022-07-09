@@ -968,22 +968,22 @@
     "Name": "Fader Plugin",
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
-    "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.0.3.1",
+    "InternalName": "FaderPlugin",
+    "AssemblyVersion": "1.0.3",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
     "Tags": [
       "UI"
     ],
-    "DalamudApiLevel": 5,
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api5/plugins/faderPlugin/images/icon.png",
+    "DalamudApiLevel": 6,
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/faderPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 24316,
-    "LastUpdate": "1646057767",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/faderPlugin/latest.zip"
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FaderPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FaderPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FaderPlugin/latest.zip"
   },
   {
     "Author": "daemitus",
