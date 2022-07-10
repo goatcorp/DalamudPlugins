@@ -127,5 +127,5 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | attick | [XIV Combo](https://github.com/attickdoor/XivComboPlugin) | This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu |
 | Kaz Wolfe | [XIVDeck Game Plugin](https://github.com/KazWolfe/XIVDeck/) | This plugin allows players to place virtually any hotbar-able action onto a Stream Deck, including hotbar slots themselves. Actions are called directly, meaning no keybinds or awkward settings are necessary.<br><br>Note that the XIVDeck Stream Deck plugin must also be installed for this plugin to be useful. You can download the Stream Deck plugin from the linked GitHub repository, under the "Releases" section.<br><br>Please report all problems to KazWolfe#2896 in the Dalamud Support server or by opening an Issue on GitHub. |
 | Cadaeix | [XIVLogger](https://github.com/cadaeix/XIVLogger) | Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs. |
-| daemitus | [ZodiacBuddy](https://github.com/daemitus/ZodiacBuddy) | This plugin attempts to help you complete your Zodiac weapon in various ways. |
+| daemitus, hiroa | [ZodiacBuddy](https://github.com/daemitus/ZodiacBuddy) | This plugin attempts to help you complete your Zodiac weapon in various ways. |
 
