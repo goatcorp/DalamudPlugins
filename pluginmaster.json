@@ -393,7 +393,7 @@
     "Author": "ascclemens",
     "Name": "Chat 2",
     "InternalName": "ChatTwo",
-    "AssemblyVersion": "1.17.1.0",
+    "AssemblyVersion": "1.17.2.0",
     "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
@@ -403,7 +403,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 14019,
-    "LastUpdate": "1657734553",
+    "LastUpdate": "1657813198",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTwo/latest.zip"
@@ -490,6 +490,7 @@
     "Punchline": "Monodimensional compass for your adventures.",
     "Changelog": "- Update to APi 6, patch 6.1\n- One more visibility option: 'Only in Combat'\n- New Filter: 'Boss Enemy'\n- New Filter: 'Poetics Vendor'\n- fix: Waymark icons (thanks Maxunit)\n- \"fix\": Dirty hack to prevent (?) Aesthetician crashes",
     "IsHide": "True",
+    "TestingAssemblyVersion": "1.25.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 22585,
     "CategoryTags": [
