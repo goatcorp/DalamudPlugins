@@ -2217,7 +2217,7 @@
       "utility"
     ],
     "InternalName": "QoLBar",
-    "AssemblyVersion": "2.3.0.5",
+    "AssemblyVersion": "2.3.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -2225,7 +2225,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 79646,
-    "LastUpdate": "1656033693",
+    "LastUpdate": "1657907770",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QoLBar/latest.zip"
