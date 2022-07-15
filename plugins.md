@@ -42,6 +42,7 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | shdwp | [Fader Plugin](https://github.com/shdwp/xivFaderPlugin) | Lets you automatically hide certain game UI elements based on number of conditions. |
 | daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | This plugin highlights tiles in Faux Hollows that represent the best potential action you can take. |
 | CFG | [FC Name Color](https://github.com/WesselKuipers/FCNameColor) | Color your FC’s tag or the entire nameplate if they are in your FC or other specified FCs.<br>Works using Lodestone data, so it can continue working inside duties as well as on different servers! |
+| X'pahtalo | [FFXIV2MQTT](https://github.com/Xpahtalo/Ffxiv2Mqtt) | Send data to an MQTT broker to do all sorts of things. Change your lights with a macro, turn on the heater when you use Overheat, or start playing Rules of Nature when you switch to Gunbreaker. Requires an MQTTv5 compatible broker. |
 | Franz | FlashOnTell | Flash FFXIV's program on the taskbar when you receive a /tell. This plugin has no configurable settings at this time. |
 | Aireil | [FlyTextFilter](https://github.com/Aireil/FlyTextFilter) | Filter fly texts and pop-ups texts based on multiple criteria and allow the adjustment of their positions. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
