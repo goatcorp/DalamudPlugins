@@ -2,7 +2,7 @@
   "Author": "WildWolf",
   "Name": "DeepDungeonDex",
   "InternalName": "DeepDungeonDex",
-  "AssemblyVersion": "1.4.0.0",
+  "AssemblyVersion": "1.5.0.0",
   "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data. Original by Strati",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/wolfcomp/DeepDungeonDex",
@@ -14,5 +14,5 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Live monster data for Deep Dungeons.",
-  "Changelog": "## [1.4.0](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.3.2...v1.4.0) (2022-07-14)\r\n\r\n\r\n### Features\r\n\r\n* add translation to text output ([3a4e856](https://github.com/wolfcomp/DeepDungeonDex/commit/3a4e856c1459aa1625c4e510dbe2ddf3099bb8da))\r\n\r\n\r\n### Bug Fixes\r\n\r\n* corect language file names ([75ed3f7](https://github.com/wolfcomp/DeepDungeonDex/commit/75ed3f752e9f425544733d460525580c4d02d2c3))\r\n\r\n"
+  "Changelog": "## [1.5.0](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.4.0...v1.5.0) (2022-07-16)\r\n\r\n\r\n### Features\r\n\r\n* font loading to allow specific characters in certain languages ([a83e0a6](https://github.com/wolfcomp/DeepDungeonDex/commit/a83e0a66662d34d605a256f558522c0ec279757e))\r\n\r\n"
 }
