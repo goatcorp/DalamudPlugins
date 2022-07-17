@@ -968,8 +968,8 @@
     "Name": "Fader Plugin",
     "Punchline": "Automatically hides UI elements.",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
-    "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.0.3",
+    "InternalName": "FaderPlugin",
+    "AssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -980,10 +980,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 25380,
-    "LastUpdate": "1657384840",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/faderPlugin/latest.zip"
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FaderPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FaderPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FaderPlugin/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -1909,10 +1909,10 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/owofy/latest.zip"
   },
   {
-    "Author": "shdwp, maintained by Avaflow",
+    "Author": "shdwp, Avaflow",
     "Name": "PartyIcons",
     "InternalName": "PartyIcons",
-    "AssemblyVersion": "1.0.6",
+    "AssemblyVersion": "1.0.7",
     "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/shdwp/xivPartyIcons",
@@ -1932,7 +1932,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 55404,
-    "LastUpdate": "1650236892",
+    "LastUpdate": "1658087250",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PartyIcons/latest.zip"
