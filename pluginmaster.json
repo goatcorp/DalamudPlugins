@@ -3357,7 +3357,7 @@
     "Author": "daemitus, hiroa",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.3.3",
+    "AssemblyVersion": "0.0.3.4",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -3368,7 +3368,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 66529,
-    "LastUpdate": "1658212000",
+    "LastUpdate": "1658271764",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ZodiacBuddy/latest.zip"
