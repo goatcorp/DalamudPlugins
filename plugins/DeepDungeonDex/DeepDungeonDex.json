@@ -2,7 +2,7 @@
   "Author": "WildWolf",
   "Name": "DeepDungeonDex",
   "InternalName": "DeepDungeonDex",
-  "AssemblyVersion": "1.6.1.0",
+  "AssemblyVersion": "1.6.2.0",
   "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data. Original by Strati",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/wolfcomp/DeepDungeonDex",
@@ -14,5 +14,5 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Live monster data for Deep Dungeons.",
-  "Changelog": "### [1.6.1](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.0...v1.6.1) (2022-07-17)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* add in YamlDotNet to be zipped ([16939ae](https://github.com/wolfcomp/DeepDungeonDex/commit/16939aefd9071c917c07497e846d0ea4fc1768b1))\r\n\r\n"
+  "Changelog": "### [1.6.2](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.1...v1.6.2) (2022-07-19)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* check if return is same from translation disable notes ([26c93fe](https://github.com/wolfcomp/DeepDungeonDex/commit/26c93fe5006264b9cc1ab895d48eceba6ab4e0e1))\r\n\r\n"
 }
