@@ -727,7 +727,7 @@
     "Author": "WildWolf",
     "Name": "DeepDungeonDex",
     "InternalName": "DeepDungeonDex",
-    "AssemblyVersion": "1.6.2.0",
+    "AssemblyVersion": "1.6.3.0",
     "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data. Original by Strati",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/wolfcomp/DeepDungeonDex",
@@ -739,14 +739,14 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Live monster data for Deep Dungeons.",
-    "Changelog": "### [1.6.2](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.1...v1.6.2) (2022-07-19)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* check if return is same from translation disable notes ([26c93fe](https://github.com/wolfcomp/DeepDungeonDex/commit/26c93fe5006264b9cc1ab895d48eceba6ab4e0e1))\r\n\r\n",
+    "Changelog": "### [1.6.3](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.2...v1.6.3) (2022-07-20)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* missing dispose on command ([ac23f4f](https://github.com/wolfcomp/DeepDungeonDex/commit/ac23f4f6e4ee72df817b1bb872fec811031ed322))\r\n\r\n",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 107224,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658212030",
+    "LastUpdate": "1658309534",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeepDungeonDex/latest.zip"
@@ -2481,7 +2481,7 @@
     "Author": "Caraxi",
     "Name": "Simple Tweaks Plugin",
     "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "1.7.3.2",
+    "AssemblyVersion": "1.7.3.3",
     "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
@@ -2498,7 +2498,7 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1657734568",
+    "LastUpdate": "1658309496",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
@@ -3743,7 +3743,7 @@
     "Punchline": "Target distance widgets.",
     "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
     "InternalName": "Distance",
-    "AssemblyVersion": "0.9.8.2",
+    "AssemblyVersion": "0.9.8.3",
     "RepoUrl": "https://github.com/PunishedPineapple/Distance",
     "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
     "ImageUrls": [
@@ -3765,9 +3765,9 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.8.2",
+    "TestingAssemblyVersion": "0.9.8.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1657058534",
+    "LastUpdate": "1658309528",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
