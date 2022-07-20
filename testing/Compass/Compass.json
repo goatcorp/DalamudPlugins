@@ -2,12 +2,12 @@
   "Author": "Chivalrik",
   "Name": "Compass",
   "InternalName": "Compass",
-  "AssemblyVersion": "1.20.1",
+  "AssemblyVersion": "1.25.0",
   "Description": "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/fitzchivalrik/compass",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Monodimensional compass for your adventures.",
-  "Changelog": "- Update to APi 6, patch 6.1\n- One more visibility option: 'Only in Combat'\n- New Filter: 'Boss Enemy'\n- New Filter: 'Poetics Vendor'\n- fix: Waymark icons (thanks Maxunit)\n- \"fix\": Dirty hack to prevent (?) Aesthetician crashes"
+  "Changelog": "- feat: Ability to disable Cardinals\n- feat: Add intercardinals\n- feat: Add own FC filter\n- feat: Enable negative X position values\n- feat: ALL circles filter (FATEs & Quests)\n- fix: Update to new Clientstructs\n- chore: Behind-the-scenes refactoring"
 }
