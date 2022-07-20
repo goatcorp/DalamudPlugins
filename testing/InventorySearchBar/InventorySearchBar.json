@@ -1,0 +1,16 @@
+{
+  "Author": "Tischel",
+  "Name": "Inventory Search Bar",
+  "InternalName": "InventorySearchBar",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Adds a search bar directly in the inventory window allowing to quickly find items.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Tischel/InventorySearchBar",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": ":)",
+  "Changelog": "0.1.0.0\n- First release."
+}
