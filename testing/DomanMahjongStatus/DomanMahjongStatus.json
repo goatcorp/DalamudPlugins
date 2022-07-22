@@ -1,0 +1,12 @@
+{
+  "Author": "iamevn",
+  "Name": "Doman Mahjong Status",
+  "InternalName": "DomanMahjongStatus",
+  "AssemblyVersion": "0.1.1.0",
+  "Description": "Use /mjstat command to log current stats.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/iamevn/DomanMahjongStatus",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "log mahjong play stats"
+}
