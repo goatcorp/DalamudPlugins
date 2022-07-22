@@ -1,0 +1,12 @@
+{
+  "Author": "Eternita",
+  "Name": "Weatherman",
+  "InternalName": "Weatherman",
+  "AssemblyVersion": "2.4.0.3",
+  "Description": "Features:\n- Change in-game time and weather as you desire;\n- Perform changes globally or individually per zone;\n- Stop undesired weathers from appearing completely.\n\nThis plugin only changes visuals: time/weather-related features such as zone background music, vista availability, states of certain objects will remain unaffected. \nOnly zones with open sky are subject to the changes (not every one of them yet but work in progress).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eternita-S/Weatherman",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Allows precise control over time and weather per zone or globally."
+}

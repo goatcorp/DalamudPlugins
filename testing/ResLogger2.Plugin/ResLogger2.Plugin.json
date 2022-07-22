@@ -1,0 +1,11 @@
+{
+  "Author": "perchbird",
+  "Name": "ResLogger2.Plugin",
+  "InternalName": "ResLogger2.Plugin",
+  "AssemblyVersion": "0.0.1.4",
+  "Description": "A path logger with optional crowdsourcing functionality.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lmcintyre/reslogger2",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 1
+}

@@ -1,0 +1,12 @@
+{
+  "Author": "Eternita",
+  "Name": "JustBackup",
+  "InternalName": "JustBackup",
+  "AssemblyVersion": "1.0.2.0",
+  "Description": "This plugin automatically backups your game and plugin configurations upon game/plugin starting.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eternita-S/JustBackup",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Automatically backup your game and plugin configuration."
+}

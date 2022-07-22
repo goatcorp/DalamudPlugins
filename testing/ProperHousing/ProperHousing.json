@@ -1,0 +1,19 @@
+{
+  "Author": "Sevii",
+  "Name": "Better Housing",
+  "InternalName": "ProperHousing",
+  "AssemblyVersion": "1.0.3.0",
+  "Description": "Select furniture based on what you see instead of a massive box. Always active indoors, doens't work outdoors, there's no config menu.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Sevii77/properhousing",
+  "Tags": [
+    "House",
+    "Housing",
+    "Furniture",
+    "Select",
+    "Utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Furniture selection that actually works properly"
+}

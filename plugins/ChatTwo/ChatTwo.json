@@ -1,0 +1,12 @@
+{
+  "Author": "ascclemens",
+  "Name": "Chat 2",
+  "InternalName": "ChatTwo",
+  "AssemblyVersion": "1.17.2.0",
+  "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪"
+}

@@ -1,0 +1,18 @@
+{
+  "Author": "Roselyn",
+  "Name": "Elden Ring April Fools",
+  "InternalName": "EldenRing",
+  "AssemblyVersion": "0.0.0.4",
+  "Description": "Currently under development with extra features, should currently function as the April Fools joke did.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Roselyyn/EldenRingDalamud",
+  "Tags": [
+    "Elden Ring",
+    "plugin",
+    "Death",
+    "Craft"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Recreation of the Elden Ring April Fools joke."
+}

@@ -1,0 +1,13 @@
+{
+  "Author": "joshua.software.dev",
+  "Name": "Size Matters when Fishing",
+  "InternalName": "SizeMattersFishing",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Provides labels to tell exactly how large fish are and how quickly they are moving while spearfishing.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/joshua-software-dev/SizeMattersFishing",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/joshua-software-dev/SizeMattersFishing/master/image/icon.png",
+  "Punchline": "For the size evaluation challenged."
+}

@@ -1,0 +1,16 @@
+{
+  "Author": "Kirrana",
+  "Name": "High FPS Physics Fix",
+  "InternalName": "HighFpsPhysicsPlugin",
+  "AssemblyVersion": "0.6.1.0",
+  "Description": "Causes the game's physics to work at higher FPS by making it update every second frame. \nToggle with /physics. \nMay cause excessive jiggling at lower FPS values. \nDisabling the entire plugin after turning on/off with /physics requires reboot to reenable.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "jank",
+    "graphics"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Cuts the refresh rate of physics in half, \"fixing\" it at high fps."
+}

@@ -1,0 +1,16 @@
+{
+  "Author": "Avaflow",
+  "Name": "Waitingway",
+  "InternalName": "Waitingway.Dalamud",
+  "AssemblyVersion": "1.2.3",
+  "Description": "Contributes and utilizes crowdsourced login queue information for the benefit of everyone.\n\nCurrent features include queue notifications via Discord, so you can know when you make it into the game, as\nwell as anonymously collecting and reporting statistics about your login queue times to crowdsource information\nabout FFXIV server load. This information will be publicly available in the future; check the Discord for updates!\n\nFuture planned features include login wait time estimates, as well as duty queue time statistics, and a website\nshowing all of this information.\n\nDiscord URL: https://discord.waitingway.com",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://waitingway.com",
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Waitingway.Dalamud/images/icon.png",
+  "Punchline": "Crowdsourced FFXIV login queue times, now with Discord queue notification features."
+}

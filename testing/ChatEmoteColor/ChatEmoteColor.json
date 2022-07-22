@@ -1,0 +1,11 @@
+{
+  "Author": "Arrest Everybody",
+  "Name": "ChatEmoteColor",
+  "InternalName": "ChatEmoteColor",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "A simple plugin that recolors emote chat lines depending on who is executing the emote and their target.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/chrisk699/ffxiv-chatemotecolor-plugin",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0
+}

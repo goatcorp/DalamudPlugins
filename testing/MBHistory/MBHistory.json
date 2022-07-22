@@ -1,0 +1,19 @@
+{
+  "Author": "Infi",
+  "Name": "Easy MBHistory",
+  "InternalName": "MBHistory",
+  "AssemblyVersion": "0.0.3.1",
+  "Description": "Copies the marketboard transaction history into your clipboard with configurable options.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Infiziert90/MBHistory",
+  "Tags": [
+    "MarketBoard",
+    "plugin",
+    "clipboard",
+    "History"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/Infiziert90/MBHistory/raw/master/MBHistory/images/icon.png",
+  "Punchline": "Useful for when you want to quickly export marketboard transaction history."
+}

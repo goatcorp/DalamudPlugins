@@ -1,0 +1,21 @@
+{
+  "Author": "Nadya",
+  "Name": "Tidy Chat",
+  "InternalName": "TidyChat",
+  "AssemblyVersion": "1.2.1.0",
+  "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - Write custom filters to Allow/Block messages!\n  - And more!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NadyaNayme/TidyChat",
+  "Tags": [
+    "Emote",
+    "Filter",
+    "Spam"
+  ],
+  "CategoryTags": [
+    "Social"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 1,
+  "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
+  "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat."
+}

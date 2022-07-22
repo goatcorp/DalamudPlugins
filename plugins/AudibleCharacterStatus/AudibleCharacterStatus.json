@@ -1,0 +1,18 @@
+{
+  "Author": "Gotest",
+  "Name": "Audible Character Status",
+  "InternalName": "AudibleCharacterStatus",
+  "AssemblyVersion": "1.0.1.1",
+  "Description": "Plays a sound for certain statuses of the player. Such as low HP or MP.\nYou will need to provide your own sound files.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Arrenton/AudibleCharacterStatus",
+  "Tags": [
+    "audio",
+    "player",
+    "status"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "You like annoying low HP sounds? This is great for you!",
+  "Changelog": "Removed OGG from the list of pickable file types."
+}

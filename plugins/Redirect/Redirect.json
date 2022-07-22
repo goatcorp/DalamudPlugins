@@ -1,0 +1,16 @@
+{
+  "Author": "Cair",
+  "Name": "Redirect",
+  "InternalName": "Redirect",
+  "AssemblyVersion": "1.2.0.1",
+  "Description": "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/cairthenn/Redirect",
+  "CategoryTags": [
+    "jobs",
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!"
+}

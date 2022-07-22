@@ -1,0 +1,18 @@
+{
+  "Author": "NotNite",
+  "Name": "cl_showpos",
+  "InternalName": "cl_showpos",
+  "AssemblyVersion": "1.0.5.1",
+  "Description": "Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://gitlab.com/jules/cl_showpos",
+  "Tags": [
+    "ui"
+  ],
+  "CategoryTags": [
+    "ui"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Customizable, Source Engine-styled position info"
+}

@@ -1,0 +1,20 @@
+{
+  "Author": "Infi",
+  "Name": "Death Roll Helper",
+  "InternalName": "DeathRoll",
+  "AssemblyVersion": "0.0.3.1",
+  "Description": "Plugin to help with a number of /random and /dice related games.\n\nVenue Mode:\n    + Concise display of all concurrent players in a list-based format\n    + Includes functionality for Truth or Dare and Giveaway modes \n    + Support for multiple sorting types (min, max, nearest to) \n    + Highlight numbers based on regex matching \nDeath Roll Mode:\n    + Support for multiple players\n    + Automatically checks for correct number ranges from each player\nTournament Mode:\n    + 1 vs 1 Death Roll Tournament\n    + Automatic bracket generation\n    + Uneven number of players get filled with byes\n    + Randomization via shuffling is enforced\n    + Forfeit functionality if a player needs to leave\n\nFeatures:\n    + Can block or prevent players from partaking in any of your games \n    + Accepts only /random or /dice commands\n    + Ease of removing players from partaking in the concurrent game/tournament\n\nIncludes language support for English, German and French FFXIV clients. (Japanese support is planned)\nMore features are planned for future updates in accordance with feedback.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Infiziert90/DeathRoll",
+  "Tags": [
+    "Deathrolling",
+    "plugin",
+    "random",
+    "dice",
+    "highlight",
+    "blocklist"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Plugin to help with a number of /random and /dice related games."
+}

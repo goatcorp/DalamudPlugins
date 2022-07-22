@@ -1,0 +1,17 @@
+{
+  "Author": "Lady Defile",
+  "Name": "Wordsmith",
+  "InternalName": "Wordsmith",
+  "AssemblyVersion": "1.4.1",
+  "Description": "Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "roleplay",
+    "thesaurus",
+    "notepad",
+    "notes"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "A roleplay thesaurus and scratch pad."
+}

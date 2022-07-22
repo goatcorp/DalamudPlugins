@@ -1,0 +1,17 @@
+{
+  "Author": "PunishedPineapple",
+  "Name": "Say What?",
+  "Punchline": "Persistent NPC Flavor Text",
+  "Description": "Prints NPC chat bubbles to the chat log.",
+  "InternalName": "WhatDidYouSay",
+  "AssemblyVersion": "0.9.3.0",
+  "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
+  "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
+  "ImageUrls": [
+    "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
+    "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
+  ],
+  "ApplicableVersion": "any",
+  "Tags": [ "Chat", "NPC" ],
+  "DalamudApiLevel": 6
+}

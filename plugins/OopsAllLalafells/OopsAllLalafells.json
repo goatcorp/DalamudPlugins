@@ -2,12 +2,12 @@
   "Author": "Avaflow",
   "Name": "Oops, All Lalafells!",
   "InternalName": "OopsAllLalafells",
-  "AssemblyVersion": "1.2.0",
+  "AssemblyVersion": "1.3.0",
   "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://ava.dev/oops-all-lalafells/",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/OopsAllLalafells/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
   "Punchline": "That one funny plugin your friend told you about."
 }

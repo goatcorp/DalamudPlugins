@@ -1,0 +1,16 @@
+{
+  "Author": "srkizer",
+  "Name": "ResetAudio",
+  "InternalName": "ResetAudio",
+  "AssemblyVersion": "1.0.0.4",
+  "Description": "Resets game audio device on demand.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Soreepeong/FFXIV-ResetAudio",
+  "Tags": [
+    "audio",
+    "reset"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Do not let the game shut up."
+}

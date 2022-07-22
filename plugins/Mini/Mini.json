@@ -1,0 +1,12 @@
+{
+  "Author": "Eternita",
+  "Name": "Mini",
+  "InternalName": "Mini",
+  "AssemblyVersion": "2.0.0.6",
+  "Description": "Additionally can minimize game to tray or create game's tray icon",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eternita-S/Mini",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Adds a button and a command to minimize your game into taskbar"
+}

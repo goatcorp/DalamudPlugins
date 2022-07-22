@@ -1,0 +1,13 @@
+{
+  "Author": "Icehunter",
+  "Name": "AutoTranslateXIV",
+  "InternalName": "AutoTranslateXIV",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Translates Stuff",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Icehunter/AutoTranslateXIV",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Icehunter/AutoTranslateXIV/main/images/icon.png",
+  "Punchline": "Translates From A to B where A/B are set in config."
+}

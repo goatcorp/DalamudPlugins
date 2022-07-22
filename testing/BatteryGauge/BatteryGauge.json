@@ -1,0 +1,19 @@
+{
+  "Author": "Kaz Wolfe",
+  "Name": "BatteryGauge",
+  "InternalName": "BatteryGauge",
+  "AssemblyVersion": "0.0.2.0",
+  "Description": "Hey, you! Yes, you! Do you play FFXIV on your laptop? Or are you so addicted to FFXIV that you have a UPS on your desktop just so you can keep playing through power outages? Then this is the plugin for you!\n\nBatteryGauge adds a battery indicator to your server info bar showing your current battery percentage and expected remaining lifespan (as reported by Windows).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/KazWolfe/XIVBatteryGauge/",
+  "Tags": [
+    "battery",
+    "server info bar"
+  ],
+  "CategoryTags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Keep track of your FFXIV device's battery."
+}
