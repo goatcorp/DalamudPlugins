@@ -982,6 +982,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ExtraChat/latest.zip"
   },
   {
+    "Author": "shdwp",
+    "Name": "Fader Plugin",
+    "InternalName": "faderPlugin",
+    "AssemblyVersion": "1.1.0",
+    "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/faderPlugin/images/icon.png",
+    "Punchline": "Automatically hides UI elements.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1658604819",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/faderPlugin/latest.zip"
+  },
+  {
     "Author": "daemitus",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
@@ -4233,7 +4256,7 @@
     "Author": "darkarchon",
     "Name": "Oh gee, CD",
     "InternalName": "OhGeeCD",
-    "AssemblyVersion": "0.0.20.0",
+    "AssemblyVersion": "0.0.21.0",
     "Description": "OGCD assistant providing Text To Speech, (Custom) Sound Effects and unlimited extra bars to visualize and alert you for your OGCDs.\n\nThis is an early version and things might still break. For any issues please contact darkarchon#4313 on Discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rootdarkarchon/OhGeeCD",
@@ -4247,9 +4270,9 @@
     "Punchline": "oGCD helper",
     "IsHide": "False",
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.20.0",
+    "TestingAssemblyVersion": "0.0.21.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1657406827",
+    "LastUpdate": "1658604828",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OhGeeCD?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OhGeeCD?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/OhGeeCD/latest.zip"
