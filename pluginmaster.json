@@ -478,6 +478,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
   },
   {
+    "Author": "Chivalrik",
+    "Name": "Compass",
+    "InternalName": "Compass",
+    "AssemblyVersion": "1.25.0",
+    "Description": "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/fitzchivalrik/compass",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Monodimensional compass for your adventures.",
+    "Changelog": "- feat: Ability to disable Cardinals\n- feat: Add intercardinals\n- feat: Add own FC filter\n- feat: Enable negative X position values\n- feat: ALL circles filter (FATEs & Quests)\n- fix: Update to new Clientstructs\n- chore: Behind-the-scenes refactoring",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 23523,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1658536031",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Compass/latest.zip"
+  },
+  {
     "Author": "Lharz",
     "Name": "Currency Alert",
     "InternalName": "CurrencyAlert",
@@ -1018,7 +1041,7 @@
     "Author": "X'pahtalo",
     "Name": "FFXIV2MQTT",
     "InternalName": "Ffxiv2Mqtt",
-    "AssemblyVersion": "1.0.1.5",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "Send data to an MQTT broker to do all sorts of things. Change your lights with a macro, turn on the heater when you use Overheat, or start playing Rules of Nature when you switch to Gunbreaker. Requires an MQTTv5 compatible broker.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Xpahtalo/Ffxiv2Mqtt",
@@ -1028,7 +1051,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 155,
-    "LastUpdate": "1657906747",
+    "LastUpdate": "1658536039",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Ffxiv2Mqtt/latest.zip"
@@ -3682,30 +3705,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTranslator/latest.zip"
-  },
-  {
-    "Author": "Chivalrik",
-    "Name": "Compass",
-    "InternalName": "Compass",
-    "AssemblyVersion": "1.25.0",
-    "Description": "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/fitzchivalrik/compass",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Monodimensional compass for your adventures.",
-    "Changelog": "- feat: Ability to disable Cardinals\n- feat: Add intercardinals\n- feat: Add own FC filter\n- feat: Enable negative X position values\n- feat: ALL circles filter (FATEs & Quests)\n- fix: Update to new Clientstructs\n- chore: Behind-the-scenes refactoring",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "1.25.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI"
-    ],
-    "LastUpdate": "1657813185",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Compass/latest.zip"
   },
   {
     "Author": "ItsBexy",
