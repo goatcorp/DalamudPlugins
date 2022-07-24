@@ -3317,7 +3317,7 @@
     "Author": "Lady Defile",
     "Name": "Wordsmith",
     "InternalName": "Wordsmith",
-    "AssemblyVersion": "1.4.1",
+    "AssemblyVersion": "1.4.2",
     "Description": "Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3333,7 +3333,7 @@
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": "False",
     "DownloadCount": 6318,
-    "LastUpdate": "1650412614",
+    "LastUpdate": "1658684862",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Wordsmith/latest.zip"
