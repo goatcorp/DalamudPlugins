@@ -3059,7 +3059,7 @@
     "Punchline": "VFX editor and viewer",
     "Description": "View and modify vfxs, as well as create mods for them. Icon by PAPACHIN",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.6.4.0",
+    "AssemblyVersion": "1.6.4.1",
     "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3074,7 +3074,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1657836660",
+    "LastUpdate": "1658770680",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
