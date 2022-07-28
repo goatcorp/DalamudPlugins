@@ -764,6 +764,7 @@
     "Punchline": "Live monster data for Deep Dungeons.",
     "Changelog": "### [1.6.3](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.2...v1.6.3) (2022-07-20)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* missing dispose on command ([ac23f4f](https://github.com/wolfcomp/DeepDungeonDex/commit/ac23f4f6e4ee72df817b1bb872fec811031ed322))\r\n\r\n",
     "IsHide": "False",
+    "TestingAssemblyVersion": "1.7.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 120722,
     "CategoryTags": [
