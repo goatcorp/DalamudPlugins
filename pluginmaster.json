@@ -3886,6 +3886,26 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
   },
   {
+    "Author": "Eternita",
+    "Name": "EnemyListHP",
+    "InternalName": "EnmityHp",
+    "AssemblyVersion": "2.0.0.8",
+    "Description": "Displays enemies hp in enemy list. Just does that, nothing else. ",
+    "Punchline": "Displays enemies hp in enemy list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/EnmityHp",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.8",
+    "IsTestingExclusive": "True",
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EnmityHp/latest.zip"
+  },
+  {
     "Author": "BiscuitUmU, Kazumi",
     "Name": "Fantasy Player",
     "InternalName": "FantasyPlayer.Dalamud",
@@ -4030,6 +4050,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HuntBuddy/latest.zip"
   },
   {
+    "Author": "Tischel",
+    "Name": "Inventory Search Bar",
+    "InternalName": "InventorySearchBar",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Supports different types of filters to be able to find items by name, type, supported job or level requirements.\n\nSupported Inventories:\n\t- Character Inventory\n\t- Chocobo Saddle\n\t- Retainer Inventory\n\t- Armoury\n\n\nKnown Issues:\n\t- Premium Cocobo Saddle not yet supported",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Tischel/InventorySearchBar",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Adds a search bar directly in the inventory window to filter items.",
+    "Changelog": "0.1.0.0\n- First release.",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1659099173",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventorySearchBar?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventorySearchBar?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/InventorySearchBar/latest.zip"
+  },
+  {
     "Author": "electr0sheep",
     "Name": "Item Vendor Location",
     "InternalName": "ItemVendorLocation",
@@ -4053,6 +4097,31 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemVendorLocation/latest.zip"
+  },
+  {
+    "Author": "BitsOfAByte",
+    "Name": "Kiko Guide",
+    "InternalName": "KikoGuide",
+    "AssemblyVersion": "1.0.4.0",
+    "Description": "Roulettes keep placing you in duties with bosses you've forgotten how to fight? KikoGuide has you covered! Provides comprehensive guides for duty content such as Dungeons, Trials and Alliance Raids. Only shows duties that you've unlocked to prevent spoilers :)\n\nKey features:\n- Automatically open a guide when entering a duty\n- Neat boss mechanic tables\n- A strategy \"TLDR\" mode\n- & more to come!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/BitsOfAByte/KikoGuide",
+    "Tags": [
+      "Duty Finder",
+      "Duties",
+      "Guide"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "The ultimate guidebook for in-game duties, great for daily roulettes!",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.4.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1659099122",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/KikoGuide?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/KikoGuide?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/KikoGuide/latest.zip"
   },
   {
     "Author": "Infi",
