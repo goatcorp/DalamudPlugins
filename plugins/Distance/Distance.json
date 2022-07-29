@@ -1,0 +1,17 @@
+{
+  "Author": "PunishedPineapple",
+  "Name": "Distance",
+  "Punchline": "Target distance widgets.",
+  "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
+  "InternalName": "Distance",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/PunishedPineapple/Distance",
+  "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
+  "ImageUrls": [
+    "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png",
+    "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image2.png"
+  ],
+  "ApplicableVersion": "any",
+  "Tags": [ "Distance", "Range", "Aggro", "Enmity", "Hate", "Pull", "Hitbox", "Ring", "Target" ],
+  "DalamudApiLevel": 6
+}
