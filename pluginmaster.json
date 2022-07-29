@@ -824,6 +824,41 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeviceChangeFix/latest.zip"
   },
   {
+    "Author": "PunishedPineapple",
+    "Name": "Distance",
+    "Punchline": "Target distance widgets.",
+    "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
+    "InternalName": "Distance",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/PunishedPineapple/Distance",
+    "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image2.png"
+    ],
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Distance",
+      "Range",
+      "Aggro",
+      "Enmity",
+      "Hate",
+      "Pull",
+      "Hitbox",
+      "Ring",
+      "Target"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.9.8.3",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 8260,
+    "LastUpdate": "1659136542",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
+  },
+  {
     "Author": "ocealot",
     "Name": "EasyEyes",
     "Punchline": "Hide annoying or distracting VFXs",
@@ -3832,41 +3867,6 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRoll/latest.zip"
-  },
-  {
-    "Author": "PunishedPineapple",
-    "Name": "Distance",
-    "Punchline": "Target distance widgets.",
-    "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
-    "InternalName": "Distance",
-    "AssemblyVersion": "0.9.8.3",
-    "RepoUrl": "https://github.com/PunishedPineapple/Distance",
-    "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
-    "ImageUrls": [
-      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png",
-      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image2.png"
-    ],
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Distance",
-      "Range",
-      "Aggro",
-      "Enmity",
-      "Hate",
-      "Pull",
-      "Hitbox",
-      "Ring",
-      "Target"
-    ],
-    "DalamudApiLevel": 6,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.8.3",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1658309528",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
   },
   {
     "Author": "iamevn",
