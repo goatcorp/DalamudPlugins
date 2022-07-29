@@ -983,10 +983,10 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ExtraChat/latest.zip"
   },
   {
-    "Author": "shdwp",
+    "Author": "shdwp, maintained by Aelexe",
     "Name": "Fader Plugin",
     "InternalName": "faderPlugin",
-    "AssemblyVersion": "1.1.0",
+    "AssemblyVersion": "2.0.0.0",
     "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
@@ -997,10 +997,11 @@
     "LoadPriority": 0,
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/faderPlugin/images/icon.png",
     "Punchline": "Automatically hides UI elements.",
+    "Changelog": "Release v2.0.0.0\n- New config interface\n- More flexible fading rules\n- Various bug fixes",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 26672,
-    "LastUpdate": "1658604819",
+    "LastUpdate": "1659129886",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/faderPlugin/latest.zip"
@@ -1183,7 +1184,7 @@
       "Timer"
     ],
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.1.4.0",
+    "AssemblyVersion": "3.1.4.1",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -1196,7 +1197,7 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1655508270",
+    "LastUpdate": "1659129635",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
@@ -3912,6 +3913,26 @@
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
+  },
+  {
+    "Author": "Eternita",
+    "Name": "EnemyListHP",
+    "InternalName": "EnmityHp",
+    "AssemblyVersion": "2.0.0.8",
+    "Description": "Displays enemies hp in enemy list. Just does that, nothing else. ",
+    "Punchline": "Displays enemies hp in enemy list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Eternita-S/EnmityHp",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "2.0.0.8",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1659129925",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EnmityHp/latest.zip"
   },
   {
     "Author": "BiscuitUmU, Kazumi",
