@@ -3914,26 +3914,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
   },
   {
-    "Author": "Eternita",
-    "Name": "EnemyListHP",
-    "InternalName": "EnmityHp",
-    "AssemblyVersion": "2.0.0.8",
-    "Description": "Displays enemies hp in enemy list. Just does that, nothing else. ",
-    "Punchline": "Displays enemies hp in enemy list.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/EnmityHp",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "2.0.0.8",
-    "IsTestingExclusive": "True",
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EnmityHp/latest.zip"
-  },
-  {
     "Author": "BiscuitUmU, Kazumi",
     "Name": "Fantasy Player",
     "InternalName": "FantasyPlayer.Dalamud",
