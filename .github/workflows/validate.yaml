@@ -2,7 +2,7 @@ name: Validate PluginMaster
 on:
   push:
     branches-ignore:
-      - master
+      - 'api*'
 
 jobs:
   generate:
