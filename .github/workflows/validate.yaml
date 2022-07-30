@@ -9,6 +9,6 @@ jobs:
     name: Validate PluginMaster
     runs-on: windows-2019
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
       - name: Run generator
         run: .\Make-PluginMaster.ps1
