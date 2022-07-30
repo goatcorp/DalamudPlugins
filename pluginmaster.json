@@ -4252,6 +4252,36 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MPTimer/latest.zip"
   },
   {
+    "Author": "Meisterlala",
+    "Name": "Neko Fans",
+    "Punchline": "Frustrated in a dungeon? Look at a cute cat girl.",
+    "Description": "Shows you an image of a random neko character. Click on the image to view the next one. \nWarning: You might see naughty images",
+    "InternalName": "Neko",
+    "AssemblyVersion": "1.0.5",
+    "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "anime",
+      "neko",
+      "waifu",
+      "miqote",
+      "image"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.5",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1659194246",
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Neko?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Neko?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Neko/latest.zip"
+  },
+  {
     "Author": "Kaminaris",
     "Name": "NextUIPlugin",
     "InternalName": "NextUIPlugin",
