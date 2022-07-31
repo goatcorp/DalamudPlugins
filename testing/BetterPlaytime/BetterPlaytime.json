@@ -1,0 +1,16 @@
+{
+  "Author": "Infi",
+  "Name": "Better Playtime",
+  "InternalName": "BetterPlaytime",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "Provides expanded functionality to seamlessly track total playtime,\n- Requires only using /playtime on each character once for unhinded tracking,\n- Supports multiple characters,\n- Customisable output formats such as hours or minutes",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Infiziert90/BetterPlaytime",
+  "Tags": [
+    "Playtime",
+    "plugin"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Ever wanted detailed information on your playtime all the way down to the second?"
+}
