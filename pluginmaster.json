@@ -779,7 +779,7 @@
     "Author": "jdsmith2816",
     "Name": "DelvUI",
     "InternalName": "DelvUI",
-    "AssemblyVersion": "1.2.0.1",
+    "AssemblyVersion": "1.2.1.0",
     "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/delvui/delvui",
@@ -795,7 +795,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1659072289",
+    "LastUpdate": "1659330133",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
@@ -1142,7 +1142,7 @@
     "Author": "Aireil",
     "Name": "FlyTextFilter",
     "InternalName": "FlyTextFilter",
-    "AssemblyVersion": "4.0.1.2",
+    "AssemblyVersion": "4.0.1.3",
     "Description": "Filter fly texts and pop-ups texts based on multiple criteria and allow the adjustment of their positions.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Aireil/FlyTextFilter",
@@ -1155,7 +1155,7 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1656522639",
+    "LastUpdate": "1659330116",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FlyTextFilter/latest.zip"
@@ -3235,7 +3235,7 @@
     "Author": "Eternita",
     "Name": "Weatherman",
     "InternalName": "Weatherman",
-    "AssemblyVersion": "2.4.0.3",
+    "AssemblyVersion": "2.4.0.4",
     "Description": "Features:\n- Change in-game time and weather as you desire;\n- Perform changes globally or individually per zone;\n- Stop undesired weathers from appearing completely.\n\nThis plugin only changes visuals: time/weather-related features such as zone background music, vista availability, states of certain objects will remain unaffected. \nOnly zones with open sky are subject to the changes (not every one of them yet but work in progress).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Eternita-S/Weatherman",
@@ -3245,7 +3245,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 5569,
-    "LastUpdate": "1651533245",
+    "LastUpdate": "1659330161",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
@@ -3484,7 +3484,7 @@
     "Author": "daemitus, hiroa",
     "Name": "ZodiacBuddy",
     "InternalName": "ZodiacBuddy",
-    "AssemblyVersion": "0.0.3.5",
+    "AssemblyVersion": "0.0.3.6",
     "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
@@ -3495,7 +3495,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 79794,
-    "LastUpdate": "1659210405",
+    "LastUpdate": "1659330146",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ZodiacBuddy/latest.zip"
