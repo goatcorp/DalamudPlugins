@@ -1,0 +1,14 @@
+name: Validate PluginMaster
+on:
+  push:
+    branches-ignore:
+      - 'api*'
+
+jobs:
+  generate:
+    name: Validate PluginMaster
+    runs-on: windows-2019
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run generator
+        run: .\Make-PluginMaster.ps1
