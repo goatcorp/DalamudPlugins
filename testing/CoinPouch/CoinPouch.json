@@ -1,0 +1,20 @@
+{
+  "Author": "Aelexe",
+  "Name": "Coin Pouch",
+  "InternalName": "CoinPouch",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "Currency alerts and convenient teleports.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Aelexe/coin-pouch",
+  "Tags": [
+    "plugin",
+    "currency",
+    "tomestones",
+    "utility",
+    "other"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Aelexe/coin-pouch/master/icon.png",
+  "Punchline": "Currency alerts and convenient teleports."
+}

@@ -1,8 +1,8 @@
 {
-  "Author": "shdwp",
+  "Author": "shdwp, maintained by Aelexe",
   "Name": "Fader Plugin",
   "InternalName": "faderPlugin",
-  "AssemblyVersion": "1.1.0",
+  "AssemblyVersion": "2.1.0.0",
   "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
@@ -12,5 +12,6 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/faderPlugin/images/icon.png",
-  "Punchline": "Automatically hides UI elements."
+  "Punchline": "Automatically hides UI elements.",
+  "Changelog": "Release v2.1.0.0\n-- Features\n- Chat activity state\n\n-- Bug Fixes\n- Fix window size getting stuck when minimised\n-Fix Dancer and Summoner job gauges not being hidden."
 }

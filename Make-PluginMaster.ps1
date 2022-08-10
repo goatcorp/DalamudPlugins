@@ -41,16 +41,16 @@ Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
     $isBanned = Is-Banned -PluginName $content.InternalName -AssemblyVersion $content.AssemblyVersion
-    if ($notInclude.Contains($content.InternalName) -or $isBanned) { 
+    if ($notInclude.Contains($content.InternalName) -or $isBanned) {
     	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
     else
     {
     	$content | add-member -Force -Name "IsHide" -value "False" -MemberType NoteProperty
-        
+
         $newDesc = $content.Description -replace "\n", "<br>"
         $newDesc = $newDesc -replace "\|", "I"
-        
+
         if ($content.DalamudApiLevel -eq $apiLevel) {
             if ($content.RepoUrl) {
                 $table = $table + "| " + $content.Author + " | [" + $content.Name + "](" + $content.RepoUrl + ") | " + $newDesc + " |`n"
@@ -76,8 +76,6 @@ Foreach-Object {
     $content | add-member -Force -Name "DownloadCount" $dlCount -MemberType NoteProperty
 
     if ($content.CategoryTags -eq $null) {
-    	$content | Select-Object -Property * -ExcludeProperty CategoryTags
-    
         $fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
         if ($fallbackCategoryTags -ne $null) {
 			$content | add-member -Force -Name "CategoryTags" -value @() -MemberType NoteProperty
@@ -86,8 +84,12 @@ Foreach-Object {
     }
 
     $internalName = $content.InternalName
-    
-    $updateDate = git log -1 --pretty="format:%ct" plugins/$internalName/latest.zip
+
+    $path = "plugins/$internalName/latest.zip"
+    if (!($path | Test-Path)) {
+        exit 1;
+    }
+    $updateDate = git log -1 --pretty="format:%ct" $path
     if ($updateDate -eq $null){
         $updateDate = 0;
     }
@@ -95,10 +97,10 @@ Foreach-Object {
 
     $installLink = $dlTemplateInstall -f $internalName, "False"
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
-    
+
     $installLink = $dlTemplateInstall -f $internalName, "True"
     $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
-    
+
     $updateLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
@@ -110,7 +112,7 @@ Foreach-Object {
     $content = Get-Content $_.FullName | ConvertFrom-Json
 
     $isBanned = Is-Banned -PluginName $content.InternalName -AssemblyVersion $content.AssemblyVersion
-    if ($notInclude.Contains($content.InternalName) -or $isBanned) { 
+    if ($notInclude.Contains($content.InternalName) -or $isBanned) {
     	$content | add-member -Force -Name "IsHide" -value "True" -MemberType NoteProperty
     }
     else
@@ -128,8 +130,6 @@ Foreach-Object {
         $content | add-member -Force -Name "IsTestingExclusive" -value "True" -MemberType NoteProperty
 
 		if ($content.CategoryTags -eq $null) {
-			$content | Select-Object -Property * -ExcludeProperty CategoryTags
-		
 			$fallbackCategoryTags = $categoryFallbacksMap | Select-Object -ExpandProperty $content.InternalName
 			if ($fallbackCategoryTags -ne $null) {
 				$content | add-member -Force -Name "CategoryTags" -value @() -MemberType NoteProperty
@@ -138,8 +138,12 @@ Foreach-Object {
 		}
 
         $internalName = $content.InternalName
-        
-        $updateDate = git log -1 --pretty="format:%ct" testing/$internalName/latest.zip
+
+        $path = "testing/$internalName/latest.zip"
+        if (!($path | Test-Path)) {
+            exit 1;
+        }
+        $updateDate = git log -1 --pretty="format:%ct" $path
         if ($updateDate -eq $null){
             $updateDate = 0;
         }
@@ -147,13 +151,13 @@ Foreach-Object {
 
         $installLink = $dlTemplateInstall -f $internalName, "True"
         $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
-        
+
         $installLink = $dlTemplateInstall -f $internalName, "True"
         $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
-    
+
         $updateLink = $dlTemplateUpdate -f "plugins", $internalName
         $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
-    
+
         $output.Add($content)
     }
 }
