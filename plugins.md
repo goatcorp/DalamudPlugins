@@ -65,7 +65,6 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.<br>Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02<br>Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11<br>Also allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
-| Eternita | [Mini](https://github.com/Eternita-S/Mini) | Additionally can minimize game to tray or create game's tray icon |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | attick | [Mouseover Action](https://github.com/attickdoor/MOActionPlugin) | This plugin lets you target friends or enemies like a macro, without the clunkiness of a macro. /pmoaction opens the configuration. |
 | Marconsou | [MP Tick Bar](https://github.com/marconsou/mp-tick-bar) | -Fast Fire III marker on the bar.<br>-Autostarts the bar before combat starts.<br>-Countdown with time offset.<br>-Compatible with FFXIV Material UI. |
