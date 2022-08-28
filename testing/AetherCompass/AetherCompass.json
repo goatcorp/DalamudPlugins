@@ -2,7 +2,7 @@
   "Author": "yomishino",
   "Name": "Aether Compass",
   "InternalName": "AetherCompass",
-  "AssemblyVersion": "1.4.3.0",
+  "AssemblyVersion": "1.4.3.2",
   "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Quest-related NPCs/Objects \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
@@ -13,9 +13,9 @@
     "aether-currents",
     "mob-hunt"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
   "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
-  "Changelog": "Fix a bug with unrecognised unicode in quest names in French and German"
+  "Changelog": "Patch 6.2 update"
 }
