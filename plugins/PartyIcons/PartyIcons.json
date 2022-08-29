@@ -1,8 +1,8 @@
 {
-  "Author": "shdwp, maintained by Avaflow",
+  "Author": "shdwp, Avaflow",
   "Name": "PartyIcons",
   "InternalName": "PartyIcons",
-  "AssemblyVersion": "1.0.6",
+  "AssemblyVersion": "1.0.7",
   "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/shdwp/xivPartyIcons",

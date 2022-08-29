@@ -1,0 +1,13 @@
+{
+  "Author": "Eternita",
+  "Name": "XIV Instant Messenger",
+  "InternalName": "Messenger",
+  "AssemblyVersion": "1.2.0.1",
+  "Description": "Features:\n- Opes a direct message window when you message someone or they message you\n- Each window contains your DM chat with certain person\n- Open and cycle through recent chats with a hotkey\n- Execute emote commands on a player from their DM window without needing to manually target them\n- Automatically record your chat log in an easy to read text file\n- Fully customizable styles",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "A direct message manager made in fashion of WoW Instant Messenger.",
+  "RepoUrl": "https://github.com/Eternita-S/XIVInstantMessenger"
+}

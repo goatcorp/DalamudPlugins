@@ -1,11 +1,11 @@
 {
-  "Author": "Strati",
+  "Author": "WildWolf",
   "Name": "DeepDungeonDex",
   "InternalName": "DeepDungeonDex",
-  "AssemblyVersion": "1.2.0.0",
-  "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data.",
+  "AssemblyVersion": "1.6.3.0",
+  "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data. Original by Strati",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
+  "RepoUrl": "https://github.com/wolfcomp/DeepDungeonDex",
   "Tags": [
     "deep dungeon",
     "achievements",
@@ -13,5 +13,6 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Punchline": "Live monster data for Deep Dungeons."
+  "Punchline": "Live monster data for Deep Dungeons.",
+  "Changelog": "### [1.6.3](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.2...v1.6.3) (2022-07-20)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* missing dispose on command ([ac23f4f](https://github.com/wolfcomp/DeepDungeonDex/commit/ac23f4f6e4ee72df817b1bb872fec811031ed322))\r\n\r\n"
 }

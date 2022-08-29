@@ -2,7 +2,7 @@
   "Author": "Chalkos",
   "Name": "RepairMe",
   "InternalName": "RepairMe",
-  "AssemblyVersion": "1.0.1.8",
+  "AssemblyVersion": "1.0.1.10",
   "Description": "Helps you notice when your gear needs to be repaired or has materia to be extracted. /repairme to config",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/chalkos/RepairMe",
@@ -22,5 +22,5 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/chalkos/RepairMe/api4/images/icon.png",
   "Punchline": "Never forget to repair & extract materia again!",
-  "Changelog": "* v1.0.1.8\n  * fix a wrong spiritbond marker at 0% that was showing for equipment slots that have no item \n"
+  "Changelog": "* v1.0.1.10\n  * fix startup problem"
 }

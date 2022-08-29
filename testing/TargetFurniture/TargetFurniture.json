@@ -1,0 +1,24 @@
+{
+  "Author": "Det",
+  "Name": "Target Furniture",
+  "InternalName": "TargetFurniture",
+  "AssemblyVersion": "1.0.1.3",
+  "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
+  "Tags": [
+    "Casual",
+    "Housing"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
+  "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
+  "Changelog": "Added new icon (Ty Vec7rex)"
+}

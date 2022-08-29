@@ -1,0 +1,16 @@
+{
+  "Author": "Tischel",
+  "Name": "Inventory Search Bar",
+  "InternalName": "InventorySearchBar",
+  "AssemblyVersion": "0.2.0.0",
+  "Description": "Supports different types of filters to be able to find items by name, type, supported job or level requirements.\n\nSupported Inventories:\n\t- Character Inventory\n\t- Chocobo Saddle\n\t- Retainer Inventory\n\t- Armoury\n\n\nKnown Issues:\n\t- Premium Cocobo Saddle not yet supported",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Tischel/InventorySearchBar",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Adds a search bar directly in the inventory window to filter items.",
+  "Changelog": "0.2.0.0\n- Fixed the search bar being visible on windows that aren't focused which could lead to bad visual overlaps with other windows.\n- Fixed not being able to close the inventory windows with the Escape key after focusing on the search bar."
+}

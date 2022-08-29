@@ -1,14 +1,13 @@
 {
-  "Author": "daemitus",
+  "Author": "daemitus, hiroa",
   "Name": "ZodiacBuddy",
   "InternalName": "ZodiacBuddy",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.3.6",
   "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
-  "Punchline": "Complete your Zodiac relic with style."
+  "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png"
 }

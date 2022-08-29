@@ -6,9 +6,9 @@
     "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
     "Tags": [ "UI", "Roleplay", "RP", "Bubbles", "Chat"],
 	"RepoUrl": "https://github.com/Haplo064/ChatBubbles",
-    "AssemblyVersion": "2.1.0.0",
+    "AssemblyVersion": "2.1.1.1",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 6,
 	"LoadPriority": 0,
-	"Changelog": "Further stability Improvements. Added Yalm distance cap. Added an easter egg for a friend."
+	"Changelog": "Really fixed it this time."
 }

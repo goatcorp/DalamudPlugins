@@ -1,0 +1,17 @@
+{
+  "Author": "BitsOfAByte",
+  "Name": "Kiko Guide",
+  "InternalName": "KikoGuide",
+  "AssemblyVersion": "1.1.3.0",
+  "Description": "Roulettes keep placing you in duties with bosses you've forgotten how to fight? KikoGuide has you covered! Provides comprehensive guides for duty content such as Dungeons, Trials and Alliance Raids. Only shows duties that you've unlocked to prevent spoilers :)\n\nKey features:\n- Automatically open a guide when entering a duty\n- Neat boss mechanic tables\n- A strategy \"TLDR\" mode\n- & more to come!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/BitsOfAByte/KikoGuide",
+  "Tags": [
+    "Duty Finder",
+    "Duties",
+    "Guide"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "The ultimate guidebook for in-game duties, great for daily roulettes!"
+}

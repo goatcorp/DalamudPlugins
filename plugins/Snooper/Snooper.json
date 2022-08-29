@@ -2,8 +2,8 @@
   "Author": "Vielle Janlenoux",
   "Name": "Snooper",
   "InternalName": "Snooper",
-  "AssemblyVersion": "0.1.0.3",
-  "Description": "Adds a /snooper command that shows a separate window that shows only say/emote/party messages from the player you're currently targeting. Useful for keeping track of different conversations during crowded RP events.",
+  "AssemblyVersion": "0.2.0.0",
+  "Description": "Adds a /snooper command that shows a separate window that shows only messages from the player you're currently targeting. Useful for keeping track of different conversations during crowded RP events.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Maia-Everett/dalamud-snooper",
   "Tags": [
@@ -15,5 +15,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Punchline": "See chat messages said, shouted, yelled and emoted by your current target."
+  "Punchline": "See chat messages from your current target in a separate window."
 }
