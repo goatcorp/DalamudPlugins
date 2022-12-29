@@ -1037,30 +1037,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ExtraChat/latest.zip"
   },
   {
-    "Author": "shdwp, maintained by Aelexe",
-    "Name": "Fader Plugin",
-    "InternalName": "faderPlugin",
-    "AssemblyVersion": "2.2.0.0",
-    "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
-    "Tags": [
-      "UI"
-    ],
-    "DalamudApiLevel": 7,
-    "LoadPriority": 0,
-    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/faderPlugin/images/icon.png",
-    "Punchline": "Automatically hides UI elements.",
-    "Changelog": "Release v2.2.0.0\n-- Features\n- Updated for Dalamud API 7\n- Added ability to edit multiple elements at once\n\n-- Bug Fixes\n- Fixed settings category button size",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1661560825",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/faderPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/faderPlugin/latest.zip"
-  },
-  {
     "Author": "daemitus",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
