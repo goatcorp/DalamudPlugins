@@ -2712,7 +2712,7 @@
     "Author": "Sonar Team",
     "Name": "Sonar",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.4.8.4",
+    "AssemblyVersion": "0.5.0.0",
     "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://discord.gg/K7y24Rr",
@@ -2730,7 +2730,9 @@
     "CategoryTags": [
       "utility"
     ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://assets.ffxivsonar.com/dalamud/image1.png",
@@ -2742,11 +2744,12 @@
     "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
     "Punchline": "Automatically send and receive hunt and fate relays.",
     "Changelog": "See the Sonar Support discord #announcements channel for more information",
+    "AcceptsFeedback": false,
     "IsHide": "False",
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 252220,
-    "LastUpdate": "1667394984",
+    "LastUpdate": "1673480026",
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
