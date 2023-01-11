@@ -2,7 +2,7 @@
   "Author": "Sonar Team",
   "Name": "Sonar",
   "InternalName": "SonarPlugin",
-  "AssemblyVersion": "0.4.9.3",
+  "AssemblyVersion": "0.5.0.0",
   "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://discord.gg/K7y24Rr",
@@ -20,7 +20,9 @@
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://assets.ffxivsonar.com/dalamud/image1.png",
@@ -31,5 +33,6 @@
   ],
   "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
   "Punchline": "Automatically send and receive hunt and fate relays.",
-  "Changelog": "See the Sonar Support discord #announcements channel for more information"
+  "Changelog": "See the Sonar Support discord #announcements channel for more information",
+  "AcceptsFeedback": false
 }
